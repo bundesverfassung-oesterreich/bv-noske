@@ -1,0 +1,34 @@
+name: create noske container
+
+on: 
+  # push:
+  workflow_dispatch:
+  # repository_dispatch:
+
+jobs:
+  create_noske:
+    name: create and deploy verticals via noske container
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+    steps:
+    - name: Perform Checkout
+      uses: actions/checkout@v4
+    - name: fetch data
+      run: | 
+        ./shellscripts/fetch_editions.sh
+    - name: Install Saxon, Ant and Python
+      run: |
+        apt-get update && apt-get install openjdk-11-jre-headless ant -y --no-install-recommend
+        ./shellscripts/script.sh
+        pip install -r ./pyscripts/requirements.txt
+    - name: tokenize xml
+      run: |
+        ./shellscripts/tokenize.sh
+    - name: mk verticals
+      run: |
+        python pyscripts/mk_verticals.py
