@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project basedir="." name="tokenize_xmls">
+    <property name="target_dir" value="./data/tokenized_xml"/>
+    <mkdir dir="${target_dir}" />
+    <delete>
+        <fileset dir="${target_dir}" includes="*.xml"/>
+    </delete>
+    <xslt style="./xslt/tokenize.xslt" basedir="./data/editions" destdir="${target_dir}" includes="*.xml" extension=".xml">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+</project>

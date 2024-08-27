@@ -23,12 +23,12 @@ jobs:
         ./shellscripts/fetch_editions.sh
     - name: Install Saxon, Ant and Python
       run: |
-        apt-get update && apt-get install openjdk-11-jre-headless ant -y --no-install-recommend
-        ./shellscripts/script.sh
+        apt-get update && apt-get install openjdk-11-jre-headless -y --no-install-recommend
+        ./shellscripts/dl_saxon.sh 
         pip install -r ./pyscripts/requirements.txt
     - name: tokenize xml
       run: |
-        ./shellscripts/tokenize.sh
+        ant
     - name: mk verticals
       run: |
         python pyscripts/mk_verticals.py
