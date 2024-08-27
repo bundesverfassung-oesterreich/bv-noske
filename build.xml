@@ -5,8 +5,15 @@
     <delete>
         <fileset dir="${target_dir}" includes="*.xml"/>
     </delete>
-    <xslt style="./xslt/tokenize.xslt" basedir="./data/editions" destdir="${target_dir}" includes="*.xml" extension=".xml">
+    <xslt style="./xslt/tokenize.xslt" basedir="./data/editions" destdir="${target_dir}" includes="*.xml" extension=".xml.tmp">
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
         <classpath location="${basedir}/saxon/saxon9he.jar"/>
     </xslt>
+    <xslt style="./xslt/add_ids.xslt" basedir="${target_dir}" destdir="${target_dir}" includes="*.xml.tmp" extension="">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+    <delete>
+        <fileset dir="${target_dir}" includes="*.xml.tmp"/>
+    </delete>
 </project>
