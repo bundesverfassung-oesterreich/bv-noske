@@ -11,7 +11,7 @@ from typing import Generator, Any
 from collections import deque
 
 
-INPUT_PATH = "./data/editions"
+INPUT_PATH = "./data/tokenized_xml"
 OUTPUT_PATH = "./data"
 
 NS = {
@@ -23,7 +23,10 @@ STRUCTURES = [
     "tei:head",
     "tei:p",
     "tei:lg",
-    "tei:titlePage"
+    "tei:titlePage",
+    "tei:item",
+    "tei:label",
+    "tei:div"
 ]
 
 # STRUCUTRE_ATTRIBUTES = [
@@ -172,7 +175,6 @@ def write_to_tsv(output_file: str, data_text: list, data_attributes: list) -> No
 
 def create_verticals(doc: TeiReader, output_filename) -> None:
     doc_structures = extract_structure(doc, STRUCTURES)
-    print(doc_tags)
     doc_tags = exhaust(extract_tags_from_structures(doc_structures, TAGS))
     doc_tag_attributes = exhaust(extract_tag_attributes(doc_tags, TAG_ATTRIBUTES))
     doc_text = exhaust(extract_text_from_tags(doc_tags, BLACKLIST))
@@ -183,8 +185,7 @@ def create_verticals(doc: TeiReader, output_filename) -> None:
 def process_xml_files(input_dir: str, output_dir: str) -> None:
     create_dirs(output_dir)
     xml_files = load_xml_files(input_dir)
-    # for xml_file in tqdm(xml_files, total=len(xml_files)):
-    for xml_file in xml_files:
+    for xml_file in tqdm(xml_files, total=len(xml_files)):
         doc = TeiReader(xml_file)
         filename = os.path.splitext(os.path.basename(xml_file))[0].replace(".xml", "")
         create_verticals(doc, filename)
