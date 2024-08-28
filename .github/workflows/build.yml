@@ -32,3 +32,6 @@ jobs:
     - name: mk verticals
       run: |
         python pyscripts/mk_verticals.py
+    - uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: created new verticals
