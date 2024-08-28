@@ -1,0 +1,80 @@
+## Settings for TYPES ( MD_MD, MD_MI, map32 ) are suited for a SMALL (less than 200Mio token) corpus !
+################################################
+########## CORPUS: Diarium ############
+################################################
+NAME "Bundes-Verfassungsgesetzes 1920"
+
+## Path where to store the index files
+PATH "/var/lib/manatee/data/b-vg"
+## Path where to find vertical files
+VERTICAL "| ls /var/lib/manatee/data/verticals/b-vg/*.tsv | xargs cat"
+
+ENCODING "utf-8"
+MAINTAINER "carlfriedrich.haak@oeaw.ac.at"
+LANGUAGE "18th Century German"
+TAGSETDOC ""
+
+
+########## STATIC TOKEN ATTRIBUTES ############
+# word lemma ana pos id join part
+## column #1
+ATTRIBUTE "word" {
+	TYPE "MD_MD"
+}
+
+## column #2
+ATTRIBUTE "id" {
+	TYPE "MD_MI"
+}
+
+
+########## STRUCTURES ############
+
+### EDIT ATTRIBUTES - PROPERTIES MANUALLY! (e.g. MULTIVALUE, MAXLISTSIZE, ...
+
+### cf. https://www.sketchengine.eu/documentation/corpus-configuration-file-all-features/
+
+STRUCTURE "doc" {
+	TYPE "map32"
+
+	ATTRIBUTE "id" {
+		TYPE "MD_MI"
+	}
+
+	# ATTRIBUTE "date" {
+	# 	TYPE "MD_MI"
+	# }
+
+	# ATTRIBUTE "title" {
+	# 	TYPE "MD_MI"
+	# }
+
+}
+
+# STRUCTURE "p" {
+# 	TYPE "map32"
+# 	ATTRIBUTE "id" {
+# 		TYPE "MD_MI"
+# 	}
+# }
+
+
+STRUCTURE "g" {
+    DISPLAYTAG 0
+    DISPLAYBEGIN "_EMPTY_"
+}
+
+################ PARAMETERS for CONTROLLING DISPLAY 
+## In the Detail view at the bottom: linebreak at every <p>
+WRAPDETAIL p
+
+## In the Detail view at the bottom: creates new link "show whole document" 
+STRUCTCTX doc
+MAXCONTENT 80
+MAXDETAIL 0
+
+# SHORTREF
+# the attribute of a structure to display as a default reference in the left-hand column of a concordance. Defaults to the first attribute of the first #structure or “#” (token number) if no attribute of a structure exists. The syntax is SHORTREF “=structure.attribute”, e.g. “=doc.id” for displaying #only the value of “doc.id” or SHORTREF “structure.attribute” (without equal sign) for displaying the pair “structure.attribute=value”. There can be #multiple links in SHORTREF, e.g. SHORTREF “=bncdoc.id,#,bncdoc.year” has a reference “J0P,#507890,bncdoc.year=1977”.
+
+#SHORTREF "=doc.id,=head.id,=p.id,=list.id,=id"
+SHORTREF "=doc.id"
