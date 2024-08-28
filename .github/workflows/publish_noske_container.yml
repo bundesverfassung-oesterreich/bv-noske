@@ -81,14 +81,14 @@ jobs:
           labels: ${{ steps.meta.outputs.labels }}
           push: true
   
-  # _3:
-  #   needs: [noske_index]
-  #   uses: flugblatter/gl-autodevops-minimal-port/.github/workflows/deploy.yml@main
-  #   secrets: inherit
-  #   with:
-  #     DOCKER_TAG: "ghcr.io/flugblatter/flugblaetter_nosketch/flugblaetter:latest"
-  #     APP_NAME: "flugblaetter"
-  #     APP_ROOT: "/"
-  #     POSTGRES_ENABLED: false
-  #     environment: "${{ github.ref_name }}"
-  #     default_port: "8080"
+  _3:
+    needs: [noske_index]
+    uses: bundesverfassung-oesterreich/gl-autodevops-minimal-port/.github/workflows/deploy.yml@main
+    secrets: inherit
+    with:
+      DOCKER_TAG: "ghcr.io/bundesverfassung-oesterreich/bv-noske/b-vg:latest"
+      APP_NAME: "b-vg-noske"
+      APP_ROOT: "/"
+      POSTGRES_ENABLED: false
+      environment: "${{ github.ref_name }}"
+      default_port: "8080"
