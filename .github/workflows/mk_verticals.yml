@@ -1,4 +1,4 @@
-name: create noske container
+name: create verticals for noske
 
 on: 
   # push:
@@ -7,7 +7,7 @@ on:
 
 jobs:
   create_noske:
-    name: create and deploy verticals via noske container
+    name: create verticals
     runs-on: ubuntu-latest
     permissions:
       contents: read
