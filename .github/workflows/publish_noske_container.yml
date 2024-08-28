@@ -3,59 +3,59 @@ on:
   workflow_dispatch: {}
 
 jobs:
-  fetch_data:
-    name: Fetch Data from wr-data
-    runs-on: ubuntu-latest
-    env:
-      GITHUB_ACCESS_TOKEN: ${{ secrets.GITHB_ACCESS_TOKEN }}
-      GITHUB_ACCESS_TOKEN_NAME: ${{ secrets.GITHB_ACCESS_TOKEN_NAME }}
-      GH_USERNAME: ${{ secrets.GH_USERNAME }}
-      GH_USERMAIL: ${{ secrets.GH_USERMAIL }}
-    steps:
-      - uses: actions/checkout@v4
-      - name: Cache the site
-        uses: actions/cache@v4
-        env:
-          cache-name: cache-site-build
-        with:
-          path: ./data/verticals
-          key:
-            build-${{ env.cache-name }}-${{ hashFiles('shellscripts/build_container.sh') }}
-          restore-keys: |
-            build-${{ env.cache-name }}-
-            build-
-      - name: Fetch data
-        run: |
-          if [[ ! -d data ]]; then mkdir data; fi
-          # git config --global user.email "${GH_USERMAIL}"
-          # git config --global user.name "${GH_USERNAME}"
-          # git config --global credential.helper cache
-          # git clone https://${GITHUB_ACCESS_TOKEN_NAME}:${GITHUB_ACCESS_TOKEN}@github.com/Flugblatter/flugblaetter_data_ouput.git data
-          cp -r dummydata/* data/
+  # fetch_data:
+  #   name: Fetch Data from wr-data
+  #   runs-on: ubuntu-latest
+  #   env:
+  #     GITHUB_ACCESS_TOKEN: ${{ secrets.GITHB_ACCESS_TOKEN }}
+  #     GITHUB_ACCESS_TOKEN_NAME: ${{ secrets.GITHB_ACCESS_TOKEN_NAME }}
+  #     GH_USERNAME: ${{ secrets.GH_USERNAME }}
+  #     GH_USERMAIL: ${{ secrets.GH_USERMAIL }}
+  #   steps:
+  #     - uses: actions/checkout@v4
+  #     - name: Cache the site
+  #       uses: actions/cache@v4
+  #       env:
+  #         cache-name: cache-site-build
+  #       with:
+  #         path: ./data/verticals
+  #         key:
+  #           build-${{ env.cache-name }}-${{ hashFiles('shellscripts/build_container.sh') }}
+  #         restore-keys: |
+  #           build-${{ env.cache-name }}-
+  #           build-
+  #     - name: Fetch data
+  #       run: |
+  #         if [[ ! -d data ]]; then mkdir data; fi
+  #         # git config --global user.email "${GH_USERMAIL}"
+  #         # git config --global user.name "${GH_USERNAME}"
+  #         # git config --global credential.helper cache
+  #         # git clone https://${GITHUB_ACCESS_TOKEN_NAME}:${GITHUB_ACCESS_TOKEN}@github.com/Flugblatter/flugblaetter_data_ouput.git data
+  #         cp -r dummydata/* data/
   noske_index:
-    needs: [fetch_data]
+    # needs: [fetch_data]
     name: Build Noske Index
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Use Cache editions
-        uses: actions/cache@v4
-        env:
-          cache-name: cache-site-build
-        with:
-          path: |
-            ./data/verticals
-          key:
-            build-${{ env.cache-name }}-${{ hashFiles('shellscripts/build_container.sh') }}
-          restore-keys: |
-            build-${{ env.cache-name }}-
-            build-
+      # - name: Use Cache editions
+      #   uses: actions/cache@v4
+      #   env:
+      #     cache-name: cache-site-build
+      #   with:
+      #     path: |
+      #       ./data/verticals
+      #     key:
+      #       build-${{ env.cache-name }}-${{ hashFiles('shellscripts/build_container.sh') }}
+      #     restore-keys: |
+      #       build-${{ env.cache-name }}-
+      #       build-
       - name: Create tags based on git data
         id: meta
         uses: docker/metadata-action@v5
         with:
           images: |
-            ghcr.io/flugblatter/flugblaetter_nosketch/flugblaetter
+            ghcr.io/bundesverfassung-oesterreich/bv-noske/b-vg
           tags: |
             type=ref,event=branch
             type=ref,event=pr
@@ -81,14 +81,14 @@ jobs:
           labels: ${{ steps.meta.outputs.labels }}
           push: true
   
-  _3:
-    needs: [noske_index]
-    uses: flugblatter/gl-autodevops-minimal-port/.github/workflows/deploy.yml@main
-    secrets: inherit
-    with:
-      DOCKER_TAG: "ghcr.io/flugblatter/flugblaetter_nosketch/flugblaetter:latest"
-      APP_NAME: "flugblaetter"
-      APP_ROOT: "/"
-      POSTGRES_ENABLED: false
-      environment: "${{ github.ref_name }}"
-      default_port: "8080"
+  # _3:
+  #   needs: [noske_index]
+  #   uses: flugblatter/gl-autodevops-minimal-port/.github/workflows/deploy.yml@main
+  #   secrets: inherit
+  #   with:
+  #     DOCKER_TAG: "ghcr.io/flugblatter/flugblaetter_nosketch/flugblaetter:latest"
+  #     APP_NAME: "flugblaetter"
+  #     APP_ROOT: "/"
+  #     POSTGRES_ENABLED: false
+  #     environment: "${{ github.ref_name }}"
+  #     default_port: "8080"
