@@ -29,9 +29,9 @@ STRUCTURES = [
     "tei:div"
 ]
 
-# STRUCUTRE_ATTRIBUTES = [
-#     "@xml:id"
-# ]
+STRUCUTRE_ATTRIBUTES = [
+    "@xml:id"
+]
 
 TAGS = [
     "tei:w",
@@ -40,8 +40,7 @@ TAGS = [
 
 TAG_ATTRIBUTES = [
     "@lemma",
-    "@type",
-    "@xml:id"
+    "@pos"
 ]
 
 BLACKLIST = [

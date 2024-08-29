@@ -23,19 +23,19 @@ ATTRIBUTE "word" {
 }
 
 ## column #2
-ATTRIBUTE "lemma" {
-	TYPE "MD_MD"
-}
-
-## column #3
 ATTRIBUTE "pos" {
 	TYPE "MD_MD"
 }
 
 ## column #3
-ATTRIBUTE "id" {
-	TYPE "MD_MI"
+ATTRIBUTE "lemma" {
+	TYPE "MD_MD"
 }
+
+# ## column #3
+# ATTRIBUTE "id" {
+# 	TYPE "MD_MI"
+# }
 
 ########## STRUCTURES ############
 

@@ -29,7 +29,7 @@ for docpath in glob.glob(f"{editions_dir}/*.xml"):
             tokens = nl_processor(source_element.text)
             source_element.text = "\n"
             for token in tokens:
-                subel_name = "word" if token.pos_ != "PUNCT" else "pc"
+                subel_name = "w" if token.pos_ != "PUNCT" else "pc"
                 subel = teiMaker(
                     subel_name,
                     token.text,
