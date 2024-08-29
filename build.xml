@@ -5,11 +5,16 @@
     <delete>
         <fileset dir="${target_dir}" includes="*.xml"/>
     </delete>
-    <xslt style="./xslt/tokenize.xslt" basedir="./data/editions" destdir="${target_dir}" includes="*.xml" extension=".xml.tmp">
+    <exec dir="./xslt/" executable="/bin/curl">
+        <arg value="https://raw.githubusercontent.com/bundesverfassung-oesterreich/bv-static/main/xslt/mk_docinternal_nav_ids.xsl" />
+        <arg value="-O" />
+    </exec>
+    <!-- yea this is beyond bad, I now that, will improve later, maybe-->
+    <xslt style="./xslt/mk_docinternal_nav_ids.xsl" basedir="./data/editions" destdir="./data/editions" includes="*.xml" extension=".xml_with_id">
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
         <classpath location="${basedir}/saxon/saxon9he.jar"/>
     </xslt>
-    <xslt style="./xslt/add_ids.xslt" basedir="${target_dir}" destdir="${target_dir}" includes="*.xml.tmp" extension="">
+    <xslt style="./xslt/simplify.xslt" basedir="./data/editions" destdir="${target_dir}" includes="*.xml_with_id" extension=".xml">
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
         <classpath location="${basedir}/saxon/saxon9he.jar"/>
     </xslt>
