@@ -15,7 +15,10 @@
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
         <classpath location="${basedir}/saxon/saxon9he.jar"/>
     </xslt>
-    <xslt style="./xslt/simplify.xslt" basedir="${source_dir}" destdir="${target_dir}" includes="*.xml_with_id" extension=".xml">
+    <delete>
+        <fileset dir="${source_dir}" includes="*.xml"/>
+    </delete>
+    <xslt style="./xslt/simplify.xslt" basedir="${source_dir}" destdir="${source_dir}" includes="*.xml_with_id" extension=".xml">
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
         <classpath location="${basedir}/saxon/saxon9he.jar"/>
     </xslt>

@@ -15,7 +15,11 @@ teiMaker = builder.ElementMaker(
 nl_processor = de_dep_news_trf.load()
 
 # iterate over docs
-for docpath in glob.glob("./data/tokenized_xml/*.xml"):
+data_dir = "./data"
+editions_dir = f"{data_dir}/editions"
+output_dir = f"{data_dir}/tokenized_xml"
+
+for docpath in glob.glob(f"{editions_dir}/*.xml"):
     # load doc
     print(f"processing {docpath}")
     xml_doc = TeiReader(docpath)
@@ -33,7 +37,9 @@ for docpath in glob.glob("./data/tokenized_xml/*.xml"):
                     lemma=token.lemma_
                 )
                 source_element.append(subel)
-    print(f"writing {docpath}")
+    docname = docpath.split("/")[-1].removesuffix(".xml") + "_pos.xml"
+    new_docpath = f"{output_dir}/{docname}"
+    print(f"writing {new_docpath}")
     xml_doc.tree_to_file(
-        docpath.removesuffix(".xml") + "_pos.xml"
+        new_docpath
     )
