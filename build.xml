@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project basedir="." name="tokenize_xmls">
     <property name="target_dir" value="./data/tokenized_xml"/>
+    <property name="source_dir" value="./data/editions"/>
     <mkdir dir="${target_dir}" />
     <delete>
         <fileset dir="${target_dir}" includes="*.xml"/>
@@ -10,15 +11,15 @@
         <arg value="-O" />
     </exec>
     <!-- yea this is beyond bad, I now that, will improve later, maybe-->
-    <xslt style="./xslt/mk_docinternal_nav_ids.xsl" basedir="./data/editions" destdir="./data/editions" includes="*.xml" extension=".xml_with_id">
+    <xslt style="./xslt/mk_docinternal_nav_ids.xsl" basedir="${source_dir}" destdir="${source_dir}" includes="*.xml" extension=".xml_with_id">
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
         <classpath location="${basedir}/saxon/saxon9he.jar"/>
     </xslt>
-    <xslt style="./xslt/simplify.xslt" basedir="./data/editions" destdir="${target_dir}" includes="*.xml_with_id" extension=".xml">
+    <xslt style="./xslt/simplify.xslt" basedir="${source_dir}" destdir="${target_dir}" includes="*.xml_with_id" extension=".xml">
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
         <classpath location="${basedir}/saxon/saxon9he.jar"/>
     </xslt>
     <delete>
-        <fileset dir="${target_dir}" includes="*.xml.tmp"/>
+        <fileset dir="${source_dir}" includes="*.xml_with_id"/>
     </delete>
 </project>

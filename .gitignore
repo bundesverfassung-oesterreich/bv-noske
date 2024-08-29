@@ -2,3 +2,4 @@ data/editions
 data/tokenized_xml
 xslt/mk_docinternal_nav_ids.xsl
 saxon
+.venv
