@@ -45,7 +45,7 @@ jobs:
     secrets: inherit
     with:
       DOCKER_TAG: "ghcr.io/bundesverfassung-oesterreich/bv-noske/b-vg:latest"
-      APP_NAME: "b-vg"
+      APP_NAME: "bvg"
       APP_ROOT: "/"
       POSTGRES_ENABLED: false
       environment: "${{ github.ref_name }}"
