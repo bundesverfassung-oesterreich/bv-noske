@@ -50,6 +50,9 @@ def tag_doc(docpath: str, source_elements_xpath: str):
                         token.text,
                         pos=token.pos_,
                         lemma=token.lemma_,
+                        # keys are so far (from testing) 
+                        # ['Case', 'Definite', 'Degree', 'Foreign', 'Gender', 'Mood', 'Number', 'Person', 'Poss', 'PronType', 'Reflex', 'Tense', 'VerbForm']
+                        # could I extract the attrib in mk_verticals 
                         ana=token.morph.__str__()
                     )
                 source_element.append(subel)

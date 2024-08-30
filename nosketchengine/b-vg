@@ -32,6 +32,46 @@ ATTRIBUTE "lemma" {
 	TYPE "MD_MD"
 }
 
+ATTRIBUTE "Case" {
+	TYPE "MD_MD"
+}
+ATTRIBUTE "Definite" {
+	TYPE "MD_MD"
+}
+ATTRIBUTE "Degree" {
+	TYPE "MD_MD"
+}
+ATTRIBUTE "Foreign" {
+	TYPE "MD_MD"
+}
+ATTRIBUTE "Gender" {
+	TYPE "MD_MD"
+}
+ATTRIBUTE "Mood" {
+	TYPE "MD_MD"
+}
+ATTRIBUTE "Number" {
+	TYPE "MD_MD"
+}
+ATTRIBUTE "Person" {
+	TYPE "MD_MD"
+}
+ATTRIBUTE "Poss" {
+	TYPE "MD_MD"
+}
+ATTRIBUTE "PronType" {
+	TYPE "MD_MD"
+}
+ATTRIBUTE "Reflex" {
+	TYPE "MD_MD"
+}
+ATTRIBUTE "Tense" {
+	TYPE "MD_MD"
+}
+ATTRIBUTE "VerbForm" {
+	TYPE "MD_MD"
+}
+
 # ## column #3
 # ATTRIBUTE "id" {
 # 	TYPE "MD_MI"

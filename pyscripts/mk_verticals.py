@@ -10,6 +10,21 @@ from acdh_tei_pyutils.utils import extract_fulltext
 from typing import Generator, Any
 from collections import deque
 
+morph_keys = [
+    'Case', 
+    'Definite', 
+    'Degree', 
+    'Foreign', 
+    'Gender', 
+    'Mood', 
+    'Number', 
+    'Person', 
+    'Poss', 
+    'PronType', 
+    'Reflex', 
+    'Tense', 
+    'VerbForm'
+]
 
 INPUT_PATH = "./data/tokenized_xml"
 OUTPUT_PATH = "./data"
@@ -120,6 +135,25 @@ def extract_tags_from_structures(doc_structures: list, tags: list) -> Generator[
         tag_nodes = structure.xpath(list_to_xpaths(tags), namespaces=NS)
         yield tag_nodes
 
+def rehandle_ana_attributes(element):
+    returned_values = []
+    ana = element.xpath("@ana[normalize-space()!='']")
+    existing_values = {}
+    if ana:
+        ana = ana[0]
+        print(ana)
+        for key_val in ana.split("|"):
+            print(f"\t{key_val}")
+            key, val = key_val.split("=")
+            existing_values[key] = val
+    for morph_key in morph_keys:
+        returnvalue = existing_values.get(morph_key)
+        if returnvalue is None:
+            returned_values.append("")
+        else:
+            returned_values.append(returnvalue)
+    return returned_values
+
 
 def extract_tag_attributes(doc_tags: list, tag_attributes: list) -> Generator[Any, Any, Any]:
     for tag in doc_tags:
@@ -130,6 +164,7 @@ def extract_tag_attributes(doc_tags: list, tag_attributes: list) -> Generator[An
                         yield [""]
                     case _:
                         tag_attributes_text = subtag.xpath(list_to_xpaths(tag_attributes), namespaces=NS)
+                        tag_attributes_text += rehandle_ana_attributes(subtag)
                         yield tag_attributes_text
         else:
             match tag.tag:
@@ -137,6 +172,7 @@ def extract_tag_attributes(doc_tags: list, tag_attributes: list) -> Generator[An
                     yield [""]
                 case _:
                     tag_attributes_text = tag.xpath(list_to_xpaths(tag_attributes), namespaces=NS)
+                    tag_attributes_text += rehandle_ana_attributes(subtag)
                     yield tag_attributes_text
 
 
