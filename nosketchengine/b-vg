@@ -88,9 +88,6 @@ STRUCTURE "doc" {
 	ATTRIBUTE "id" {
 		TYPE "MD_MI"
 	}
-	ATTRIBUTE "test" {
-		TYPE "MD_MI"
-	}
 	ATTRIBUTE "document_title" {
 			TYPE "MD_MI"
 	}
