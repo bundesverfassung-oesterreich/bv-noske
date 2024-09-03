@@ -1,4 +1,3 @@
-# needs: python -m spacy download de_dep_news_trf
 import de_dep_news_trf
 import glob
 import lxml.builder as builder
@@ -49,7 +48,7 @@ def tag_doc(docpath: str, source_elements_xpath: str):
                     subel = teiMaker.w(
                         token.text,
                         pos=token.pos_,
-                        lemma=token.lemma_,
+                        lemma=token.lemma_.strip(),
                         # keys are so far (from testing) 
                         # ['Case', 'Definite', 'Degree', 'Foreign', 'Gender', 'Mood', 'Number', 'Person', 'Poss', 'PronType', 'Reflex', 'Tense', 'VerbForm']
                         # could I extract the attrib in mk_verticals 

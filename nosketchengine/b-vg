@@ -85,19 +85,36 @@ ATTRIBUTE "VerbForm" {
 
 STRUCTURE "doc" {
 	TYPE "map32"
-
 	ATTRIBUTE "id" {
 		TYPE "MD_MI"
 	}
-
-	# ATTRIBUTE "date" {
-	# 	TYPE "MD_MI"
-	# }
-
-	# ATTRIBUTE "title" {
-	# 	TYPE "MD_MI"
-	# }
-
+	ATTRIBUTE "test" {
+		TYPE "MD_MI"
+	}
+	ATTRIBUTE "document_title" {
+			TYPE "MD_MI"
+	}
+	ATTRIBUTE "created_not_before" {
+			TYPE "MD_MI"
+	}
+	ATTRIBUTE "created_not_after" {
+			TYPE "MD_MI"
+	}
+	ATTRIBUTE "creation_year" {
+			TYPE "MD_MI"
+	}
+	ATTRIBUTE "state_of_correction" {
+			TYPE "MD_MI"
+	}
+	ATTRIBUTE "document_type" {
+			TYPE "MD_MI"
+	}
+	ATTRIBUTE "text_type" {
+			TYPE "MD_MI"
+	}
+	ATTRIBUTE "dataset" {
+			TYPE "MD_MI"
+	}
 }
 
 # STRUCTURE "p" {

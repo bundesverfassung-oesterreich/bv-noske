@@ -141,11 +141,9 @@ def rehandle_ana_attributes(element):
     existing_values = {}
     if ana:
         ana = ana[0]
-        print(ana)
         for key_val in ana.split("|"):
-            print(f"\t{key_val}")
             key, val = key_val.split("=")
-            existing_values[key] = val
+            existing_values[key.strip()] = val.strip()
     for morph_key in morph_keys:
         returnvalue = existing_values.get(morph_key)
         if returnvalue is None:
@@ -199,22 +197,52 @@ def exhaust(generator) -> list:
     return deque(generator)
 
 
-def write_to_tsv(output_file: str, data_text: list, data_attributes: list) -> None:
+def write_to_tsv(output_file: str, data_text: list, data_attributes: list, doc_structure_open: str) -> None:
     with open(output_file, "a", encoding="utf-8") as f:
-        doc_id = os.path.basename(output_file).replace(".tsv", "")
-        f.write(f'<doc id="{doc_id}" attrs="word lemma type">\n')
+        f.write(doc_structure_open)
         for idx, text in enumerate(data_text) if data_text else []:
             f.write(text + "\t" + "\t".join(data_attributes[idx]) + "\n")
         f.write("</doc>\n")
 
 
+def mk_docstructure_open(doc: TeiReader) -> str:
+    not_before = doc.any_xpath("//tei:msDesc/tei:history/tei:origin/@notBefore-iso")[0].strip()
+    not_after = doc.any_xpath("//tei:msDesc/tei:history/tei:origin/@notAfter-iso")[0].strip()
+    doc_year = not_before.split("-")[0].strip()
+    doc_title = doc.any_xpath("//tei:titleStmt/tei:title/text()")[0].strip()
+    doc_id = doc.any_xpath("//tei:TEI/@xml:id")[0].strip()
+    xml_status = doc.any_xpath("//tei:revisionDesc/@status")[0].strip()
+    doc_type = doc.any_xpath("//tei:physDesc/tei:objectDesc/@form")[0].strip()
+    doc_text_type = doc.any_xpath("//tei:text/@type")[0].strip()
+    dataset = doc.any_xpath("//tei:idno[@type='bv_data_set']/text()")[0].strip()
+    if dataset == "Datenset A":
+        dataset = "Gesetzestexte & Entwürfe"
+    elif dataset == "Datenset B":
+        dataset = "Sitzungsprotokolle"
+    else:
+        dataset = "sonstige"
+    return " ".join([
+        f'<doc id="{doc_id}"',
+        f'document_title="{doc_title}"',
+        f'created_not_before="{not_before}"',
+        f'created_not_after="{not_after}"',
+        f'creation_year="{doc_year}"', 
+        f'state_of_correction="{xml_status}"',
+        f'document_type="{doc_type}"',
+        f'text_type="{doc_text_type}"',
+        f'dataset="{dataset}"',
+        f'attrs="word lemma type">\n'
+    ])
+
+
 def create_verticals(doc: TeiReader, output_filename) -> None:
     doc_structures = extract_structure(doc, STRUCTURES)
+    docstructure_open = mk_docstructure_open(doc)
     doc_tags = exhaust(extract_tags_from_structures(doc_structures, TAGS))
     doc_tag_attributes = exhaust(extract_tag_attributes(doc_tags, TAG_ATTRIBUTES))
     doc_text = exhaust(extract_text_from_tags(doc_tags, BLACKLIST))
     output_file = os.path.join(output_filepath, "verticals", f"{output_filename}.tsv")
-    write_to_tsv(output_file, doc_text, doc_tag_attributes)
+    write_to_tsv(output_file, doc_text, doc_tag_attributes, docstructure_open)
 
 
 def process_xml_files(input_dir: str, output_dir: str) -> None:

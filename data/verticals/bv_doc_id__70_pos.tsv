@@ -1,2318 +1,2318 @@
-<doc id="bv_doc_id__70_pos" attrs="word lemma type">
-Vertraulich	ADV	vertraulich
+<doc id="bv_doc_id__70" document_title="Bericht 5. Länderkonferenz 20. Mai 1919" created_not_before="1919-05-20" created_not_after="1919-05-20" creation_year="1919" state_of_correction="created" document_type="Lithographie" text_type="Sitzungsprotokoll" dataset="Sitzungsprotokolle" attrs="word lemma type">
+Vertraulich	ADV	vertraulich			Pos										
 <g/>
 !	
-Kabinettsprotokoll	NOUN	Kabinettsprotokoll
-Nr.	NOUN	Nr.
-12	NUM	12
-vom	ADP	von
-20.	ADJ	20.
-Mai	NOUN	Mai
-1919.	NUM	1919.
-Anwesend	ADV	Anwesend
+Kabinettsprotokoll	NOUN	Kabinettsprotokoll	Nom				Masc		Sing						
+Nr.	NOUN	Nr.	Nom				Fem		Sing						
+12	NUM	12													
+vom	ADP	von	Dat				Masc		Sing						
+20.	ADJ	20.	Dat		Pos		Masc		Sing						
+Mai	NOUN	Mai	Dat				Masc		Sing						
+1919.	NUM	1919.													
+Anwesend	ADV	Anwesend			Pos										
 <g/>
 :	
-Präsldent	NOUN	Präsldent
-Seitz	PROPN	Seitz
-und	CCONJ	und
-säntliche	ADJ	säntlich
-Kabinsttanltglieder	NOUN	Kabinsttanltglied
+Präsldent	NOUN	Präsldent	Nom				Masc		Sing						
+Seitz	PROPN	Seitz	Nom				Masc		Sing						
+und	CCONJ	und													
+säntliche	ADJ	säntlich	Nom		Pos		Neut		Plur						
+Kabinsttanltglieder	NOUN	Kabinsttanltglied	Nom				Neut		Plur						
 <g/>
 ,	
-ausgenommen	VERB	ausnehmen
-Staatskanzler	NOUN	Staatskanzler
-Dr.	NOUN	Dr.
-Re	PROPN	Re
-n	X	n
-n	X	n
-e	X	e
-r	X	r
+ausgenommen	VERB	ausnehmen													Part
+Staatskanzler	NOUN	Staatskanzler	Nom				Masc		Sing						
+Dr.	NOUN	Dr.	Nom				Masc		Sing						
+Re	PROPN	Re	Nom				Masc		Sing						
+n	X	n													
+n	X	n													
+e	X	e													
+r	X	r													
 <g/>
 ,	
-Staatssekratär	NOUN	Staatssekratär
-Ing.	PROPN	Ing.
-Zerd	PROPN	Zerd
-i	PROPN	i
-k	X	k
-und	CCONJ	und
-Unterstaatssekretär	NOUN	Unterstaatssekretär
-Pflügl	PROPN	Pflügl
+Staatssekratär	NOUN	Staatssekratär	Nom				Masc		Sing						
+Ing.	PROPN	Ing.	Nom				Masc		Sing						
+Zerd	PROPN	Zerd	Nom				Masc		Sing						
+i	PROPN	i													
+k	X	k													
+und	CCONJ	und													
+Unterstaatssekretär	NOUN	Unterstaatssekretär	Nom				Masc		Sing						
+Pflügl	PROPN	Pflügl	Nom				Masc		Sing						
 <g/>
 .	
-Zugezogen	VERB	Zugezogen
+Zugezogen	VERB	Zugezogen													Part
 <g/>
 :	
-Sektionschef	NOUN	Sektionschef
-im	ADP	in
-Staatsamt	NOUN	Staatsamt
-für	ADP	für
-Finanzen	NOUN	Finanz
-Dr.	NOUN	Dr.
-Gri	PROPN	Gri
-m	PROPN	m
-m	PROPN	m
+Sektionschef	NOUN	Sektionschef	Nom				Masc		Sing						
+im	ADP	in	Dat				Neut		Sing						
+Staatsamt	NOUN	Staatsamt	Dat				Neut		Sing						
+für	ADP	für													
+Finanzen	NOUN	Finanz	Acc				Fem		Plur						
+Dr.	NOUN	Dr.	Nom				Masc		Sing						
+Gri	PROPN	Gri	Nom				Masc		Sing						
+m	PROPN	m	Nom				Masc		Sing						
+m	PROPN	m	Nom				Masc		Sing						
 <g/>
 ,	
-ferner	ADV	ferner
-zu	ADP	zu
-Punkt	NOUN	Punkt
-8	NUM	8
+ferner	ADV	ferner													
+zu	ADP	zu													
+Punkt	NOUN	Punkt	Dat				Masc		Sing						
+8	NUM	8													
 <g/>
 :	
-Ministerialsskretär	NOUN	Ministerialsskretär
-in	ADP	in
-der	DET	der
-Staatskanzlei	NOUN	Staatskanzlei
-Dr.	NOUN	Dr.
-Mannlicher	PROPN	Mannlicher
+Ministerialsskretär	NOUN	Ministerialsskretär	Nom				Masc		Sing						
+in	ADP	in													
+der	DET	der	Dat	Def			Fem		Sing			Art			
+Staatskanzlei	NOUN	Staatskanzlei	Dat				Fem		Sing						
+Dr.	NOUN	Dr.	Nom				Masc		Sing						
+Mannlicher	PROPN	Mannlicher	Nom				Masc		Sing						
 <g/>
 .	
-Vorsitz	NOUN	Vorsitz
+Vorsitz	NOUN	Vorsitz	Nom				Masc		Sing						
 <g/>
 :	
-Vizekanzler	NOUN	Vizekanzler
-Fink	PROPN	Fink
+Vizekanzler	NOUN	Vizekanzler	Nom				Masc		Sing						
+Fink	PROPN	Fink	Nom				Masc		Sing						
 <g/>
 .	
-Beginn	NOUN	Beginn
+Beginn	NOUN	Beginn	Nom				Masc		Sing						
 <g/>
 ,	
-9	NUM	9
-Uhr	NOUN	Uhr
-abends	ADV	abends
+9	NUM	9													
+Uhr	NOUN	Uhr					Fem								
+abends	ADV	abends													
 <g/>
 .	
-Inhalt	NOUN	Inhalt
+Inhalt	NOUN	Inhalt	Nom				Masc		Sing						
 <g/>
 :	
-1.	ADV	1.
-Ergebnis	NOUN	Ergebnis
-der	DET	der
-Länderkonferenz	NOUN	Länderkonferenz
-über	ADP	über
-den	DET	der
-Reise-	X	Reise
-und	CCONJ	und
-Semmerverketr	NOUN	Semmerverketr
+1.	ADV	1.													
+Ergebnis	NOUN	Ergebnis	Nom				Neut		Sing						
+der	DET	der	Gen	Def			Fem		Sing			Art			
+Länderkonferenz	NOUN	Länderkonferenz	Gen				Fem		Sing						
+über	ADP	über													
+den	DET	der	Acc	Def			Masc		Sing			Art			
+Reise-	X	Reise													
+und	CCONJ	und													
+Semmerverketr	NOUN	Semmerverketr	Acc				Masc		Sing						
 <g/>
 .	
-2.	ADV	2.
-Vertnatung	NOUN	Vertnatung
-Deutsch-Südmährens	PROPN	Deutsch-Südmähren
-bei	ADP	bei
-der	DET	der
-Friedenskonferenz	NOUN	Friedenskonferenz
+2.	ADV	2.													
+Vertnatung	NOUN	Vertnatung	Nom				Fem		Sing						
+Deutsch-Südmährens	PROPN	Deutsch-Südmähren	Gen				Neut		Sing						
+bei	ADP	bei													
+der	DET	der	Dat	Def			Fem		Sing			Art			
+Friedenskonferenz	NOUN	Friedenskonferenz	Dat				Fem		Sing						
 <g/>
 .	
-Folio	NOUN	Folio
-1	NUM	1
--	NUM	-
-98	NUM	98
-12	NUM	12
-3.	ADV	3.
-Gesetzentwurf	NOUN	Gesetzentwurf
-über	ADP	über
-die	DET	der
-Aufnahme	NOUN	Aufnahme
-weiterer	ADJ	weit
-Anlehen	NOUN	Anlehen
-in	ADP	in
-ausländischer	ADJ	ausländisch
-Währung	NOUN	Währung
-und	CCONJ	und
-über	ADP	über
-die	DET	der
-Heranziehung	NOUN	Heranziehung
-des	DET	der
-Forstbesitzes	NOUN	Forstbesitz
-zur	ADP	zu
-Sicherstellung	NOUN	Sicherstellung
-solcher	DET	solcher
-Anlehen	NOUN	Anlehen
+Folio	NOUN	Folio	Nom						Sing						
+1	NUM	1													
+-	NUM	-													
+98	NUM	98													
+12	NUM	12													
+3.	ADV	3.													
+Gesetzentwurf	NOUN	Gesetzentwurf	Nom				Masc		Sing						
+über	ADP	über													
+die	DET	der	Acc	Def			Fem		Sing			Art			
+Aufnahme	NOUN	Aufnahme	Acc				Fem		Sing						
+weiterer	ADJ	weit	Gen		Cmp		Neut		Plur						
+Anlehen	NOUN	Anlehen	Gen				Neut		Plur						
+in	ADP	in													
+ausländischer	ADJ	ausländisch	Dat		Pos		Fem		Sing						
+Währung	NOUN	Währung	Dat				Fem		Sing						
+und	CCONJ	und													
+über	ADP	über													
+die	DET	der	Acc	Def			Fem		Sing			Art			
+Heranziehung	NOUN	Heranziehung	Acc				Fem		Sing						
+des	DET	der	Gen	Def			Masc		Sing			Art			
+Forstbesitzes	NOUN	Forstbesitz	Gen				Masc		Sing						
+zur	ADP	zu	Dat				Fem		Sing						
+Sicherstellung	NOUN	Sicherstellung	Dat				Fem		Sing						
+solcher	DET	solcher	Gen				Neut		Plur			Ind			
+Anlehen	NOUN	Anlehen	Gen				Neut		Plur						
 <g/>
 .	
-4.	ADV	4.
-Beitritt	NOUN	Beitritt
-der	DET	der
-Staatsregterung	NOUN	Staatsregterung
-zu	ADP	zu
-mehreren	DET	mehrere
-von	ADP	von
-der	DET	der
-Nationalversammlung	NOUN	Nationalversammlung
-beschlossenen	ADJ	beschlossen
-Gesetzen	NOUN	Gesetz
+4.	ADV	4.													
+Beitritt	NOUN	Beitritt	Nom				Masc		Sing						
+der	DET	der	Gen	Def			Fem		Sing			Art			
+Staatsregterung	NOUN	Staatsregterung	Gen				Fem		Sing						
+zu	ADP	zu													
+mehreren	DET	mehrere	Dat				Neut		Plur			Ind			
+von	ADP	von													
+der	DET	der	Dat	Def			Fem		Sing			Art			
+Nationalversammlung	NOUN	Nationalversammlung	Dat				Fem		Sing						
+beschlossenen	ADJ	beschlossen	Dat		Pos		Neut		Plur						
+Gesetzen	NOUN	Gesetz	Dat				Neut		Plur						
 <g/>
 .	
-5.	ADV	5.
-Flüssigmachung	NOUN	Flüssigmachung
-der	DET	der
-den	DET	der
-vormaligen	ADJ	vormalig
-Erzherzogen	NOUN	Erzherzog
-Peter	PROPN	Peter
-Ferdinand	PROPN	Ferdinand
-und	CCONJ	und
-Heinrich	PROPN	Heinrich
-Ferdinand	PROPN	Ferdinand
-vom	ADP	von
-ehemaligen	ADJ	ehemalig
-Kaiser	NOUN	Kaiser
-bewilligten	ADJ	bewilligt
-Unterstützungen	NOUN	Unterstützung
+5.	ADV	5.													
+Flüssigmachung	NOUN	Flüssigmachung	Nom				Fem		Sing						
+der	DET	der	Gen	Def			Fem		Plur			Art			
+den	DET	der	Dat	Def			Masc		Plur			Art			
+vormaligen	ADJ	vormalig	Dat		Pos		Masc		Plur						
+Erzherzogen	NOUN	Erzherzog	Dat				Masc		Plur						
+Peter	PROPN	Peter	Nom				Masc		Sing						
+Ferdinand	PROPN	Ferdinand	Nom				Masc		Sing						
+und	CCONJ	und													
+Heinrich	PROPN	Heinrich	Nom				Masc		Sing						
+Ferdinand	PROPN	Ferdinand	Nom				Masc		Sing						
+vom	ADP	von	Dat				Masc		Sing						
+ehemaligen	ADJ	ehemalig	Dat		Pos		Masc		Sing						
+Kaiser	NOUN	Kaiser	Dat				Masc		Sing						
+bewilligten	ADJ	bewilligt	Gen		Pos		Fem		Plur						
+Unterstützungen	NOUN	Unterstützung	Gen				Fem		Plur						
 <g/>
 .	
-6.	ADV	6.
-Vollzugsanweisung	NOUN	Vollzugsanweisung
-über	ADP	über
-die	DET	der
-Aenderung	NOUN	Aenderung
-der	DET	der
-Bezeichnung	NOUN	Bezeichnung
-des	DET	der
-Kreisgerichtss	NOUN	Kreisgerichts
-Feldkirch	PROPN	Feldkirch
-in	ADP	in
+6.	ADV	6.													
+Vollzugsanweisung	NOUN	Vollzugsanweisung	Nom				Fem		Sing						
+über	ADP	über													
+die	DET	der	Acc	Def			Fem		Sing			Art			
+Aenderung	NOUN	Aenderung	Acc				Fem		Sing						
+der	DET	der	Gen	Def			Fem		Sing			Art			
+Bezeichnung	NOUN	Bezeichnung	Gen				Fem		Sing						
+des	DET	der	Gen	Def			Neut		Sing			Art			
+Kreisgerichtss	NOUN	Kreisgerichts	Gen				Neut		Sing						
+Feldkirch	PROPN	Feldkirch	Nom				Neut		Sing						
+in	ADP	in													
 <g/>
 „	
-landesgericht	NOUN	landesgericht
-Feldkirch	PROPN	Feldkirch
+landesgericht	NOUN	landesgericht	Dat				Neut		Sing						
+Feldkirch	PROPN	Feldkirch	Nom				Neut		Sing						
 <g/>
 “	
 <g/>
 .	
-7.	ADV	7.
-Regelung	NOUN	Regelung
-der	DET	der
-Erholungsurlaube	NOUN	Erholungsurlaub
-der	DET	der
-Staatsbediensteten	NOUN	Staatsbediensteter
-für	ADP	für
-das	DET	der
-Jahr	NOUN	Jahr
-1919.	NUM	1919.
-8.	ADV	8.
-Stellung	NOUN	Stellung
-und	CCONJ	und
-Bezüge	NOUN	Bezug
-der	DET	der
-in	ADP	in
-den	DET	der
-deutschösterreichischen	ADJ	deutschösterreichisch
-Staatsdienst	NOUN	Staatsdienst
-übernommenen	ADJ	übernommen
-Bedienststen	NOUN	Bedienststen
-des	DET	der
-liquidierenden	ADJ	liquidierend
-Ministeriums	NOUN	Ministerium
-für	ADP	für
-Landesverteidigung	NOUN	Landesverteidigung
+7.	ADV	7.													
+Regelung	NOUN	Regelung	Nom				Fem		Sing						
+der	DET	der	Gen	Def			Masc		Plur			Art			
+Erholungsurlaube	NOUN	Erholungsurlaub	Gen				Masc		Plur						
+der	DET	der	Gen	Def					Plur			Art			
+Staatsbediensteten	NOUN	Staatsbediensteter	Gen						Plur						
+für	ADP	für													
+das	DET	der	Acc	Def			Neut		Sing			Art			
+Jahr	NOUN	Jahr	Acc				Neut		Sing						
+1919.	NUM	1919.													
+8.	ADV	8.													
+Stellung	NOUN	Stellung	Nom				Fem		Sing						
+und	CCONJ	und													
+Bezüge	NOUN	Bezug	Nom				Masc		Plur						
+der	DET	der	Gen	Def			Masc		Plur			Art			
+in	ADP	in													
+den	DET	der	Acc	Def			Masc		Sing			Art			
+deutschösterreichischen	ADJ	deutschösterreichisch	Acc		Pos		Masc		Sing						
+Staatsdienst	NOUN	Staatsdienst	Acc				Masc		Sing						
+übernommenen	ADJ	übernommen	Gen		Pos		Masc		Plur						
+Bedienststen	NOUN	Bedienststen	Gen				Masc		Plur						
+des	DET	der	Gen	Def			Neut		Sing			Art			
+liquidierenden	ADJ	liquidierend	Gen		Pos		Neut		Sing						
+Ministeriums	NOUN	Ministerium	Gen				Neut		Sing						
+für	ADP	für													
+Landesverteidigung	NOUN	Landesverteidigung	Acc				Fem		Sing						
 <g/>
 .	
-9.	ADV	9.
-Uabernahme	NOUN	Uabernahme
-der	DET	der
-im	ADP	in
-Verwaltungsdienst	NOUN	Verwaltungsdienst
-Bosniens	PROPN	Bosnien
-und	CCONJ	und
-der	DET	der
-Herzegowina	PROPN	Herzegowina
-stehenden	ADJ	stehend
-Beamten	NOUN	Beamter
-deutscher	ADJ	deutsch
-Nationalität	NOUN	Nationalität
-in	ADP	in
-den	DET	der
-deutschösterreichtschen	ADJ	deutschösterreichtsch
-Staatsdienst	NOUN	Staatsdienst
+9.	ADV	9.													
+Uabernahme	NOUN	Uabernahme	Nom				Fem		Sing						
+der	DET	der	Gen	Def			Masc		Plur			Art			
+im	ADP	in	Dat				Masc		Sing						
+Verwaltungsdienst	NOUN	Verwaltungsdienst	Dat				Masc		Sing						
+Bosniens	PROPN	Bosnien	Gen				Neut		Sing						
+und	CCONJ	und													
+der	DET	der	Gen	Def			Fem		Sing			Art			
+Herzegowina	PROPN	Herzegowina	Gen				Fem		Sing						
+stehenden	ADJ	stehend	Gen		Pos		Masc		Plur						
+Beamten	NOUN	Beamter	Gen				Masc		Plur						
+deutscher	ADJ	deutsch	Gen		Pos		Fem		Sing						
+Nationalität	NOUN	Nationalität	Gen				Fem		Sing						
+in	ADP	in													
+den	DET	der	Acc	Def			Masc		Sing			Art			
+deutschösterreichtschen	ADJ	deutschösterreichtsch	Acc		Pos		Masc		Sing						
+Staatsdienst	NOUN	Staatsdienst	Acc				Masc		Sing						
 <g/>
 .	
-10.	ADV	10.
-Memoranden	NOUN	Memorandum
-der	DET	der
-Paritätischen	ADJ	Paritätischen
-Industrieförderungskommission	NOUN	Industrieförderungskommission
+10.	ADV	10.													
+Memoranden	NOUN	Memorandum	Nom				Neut		Plur						
+der	DET	der	Gen	Def			Fem		Sing			Art			
+Paritätischen	ADJ	Paritätischen	Gen		Pos		Fem		Sing						
+Industrieförderungskommission	NOUN	Industrieförderungskommission	Gen				Fem		Sing						
 <g/>
 .	
-11.	ADJ	11.
-Gesetzesbeschluß	NOUN	Gesetzesbeschluß
-der	DET	der
-provisorischen	ADJ	provisorisch
-Landesversammlung	NOUN	Landesversammlung
-in	ADP	in
-Steiermark	PROPN	Steiermark
-über	ADP	über
-die	DET	der
-Einführung	NOUN	Einführung
-einer	DET	ein
-Wertzuwachsabgabe	NOUN	Wertzuwachsabgabe
+11.	ADJ	11.	Nom		Pos		Masc		Sing						
+Gesetzesbeschluß	NOUN	Gesetzesbeschluß	Nom				Masc		Sing						
+der	DET	der	Gen	Def			Fem		Sing			Art			
+provisorischen	ADJ	provisorisch	Gen		Pos		Fem		Sing						
+Landesversammlung	NOUN	Landesversammlung	Gen				Fem		Sing						
+in	ADP	in													
+Steiermark	PROPN	Steiermark	Dat				Neut		Sing						
+über	ADP	über													
+die	DET	der	Acc	Def			Fem		Sing			Art			
+Einführung	NOUN	Einführung	Acc				Fem		Sing						
+einer	DET	ein	Gen	Ind			Fem		Sing			Art			
+Wertzuwachsabgabe	NOUN	Wertzuwachsabgabe	Gen				Fem		Sing						
 <g/>
 .	
-12.	ADV	12.
-Erklärung	NOUN	Erklärung
-über	ADP	über
-den	DET	der
-Umfang	NOUN	Umfang
-des	DET	der
-in	ADP	in
-Aussicht	NOUN	Aussicht
-genommenen	ADJ	genommen
-Sozialisisrungsaktion	NOUN	Sozialisisrungsaktion
+12.	ADV	12.													
+Erklärung	NOUN	Erklärung	Nom				Fem		Sing						
+über	ADP	über													
+den	DET	der	Acc	Def			Masc		Sing			Art			
+Umfang	NOUN	Umfang	Acc				Masc		Sing						
+des	DET	der	Gen	Def			Neut		Sing			Art			
+in	ADP	in													
+Aussicht	NOUN	Aussicht	Acc				Fem		Sing						
+genommenen	ADJ	genommen	Gen		Pos		Fem		Sing						
+Sozialisisrungsaktion	NOUN	Sozialisisrungsaktion	Gen				Masc		Sing						
 <g/>
 .	
-13.	ADV	13.
-Zusammensetzung	NOUN	Zusammensetzung
-des	DET	der
-Bureaus	NOUN	Bureau
-der	DET	der
-Sozialisierungskommission	NOUN	Sozialisierungskommission
-und	CCONJ	und
-Bezüge	NOUN	Bezug
-ihrer	DET	ihr
-Beamten	NOUN	Beamter
+13.	ADV	13.													
+Zusammensetzung	NOUN	Zusammensetzung	Nom				Fem		Sing						
+des	DET	der	Gen	Def			Neut		Sing			Art			
+Bureaus	NOUN	Bureau	Gen				Neut		Sing						
+der	DET	der	Gen	Def			Fem		Sing			Art			
+Sozialisierungskommission	NOUN	Sozialisierungskommission	Gen				Fem		Sing						
+und	CCONJ	und													
+Bezüge	NOUN	Bezug	Nom				Masc		Plur						
+ihrer	DET	ihr	Gen				Masc		Plur		Yes	Prs			
+Beamten	NOUN	Beamter	Gen				Masc		Plur						
 <g/>
 .	
-14.	ADV	14.
-Beendigung	NOUN	Beendigung
-der	DET	der
-Wirksamkeit	NOUN	Wirksamkeit
-des	DET	der
-Obersten	ADJ	oberer
-Sanitätsrates	NOUN	Sanitätsrat
-und	CCONJ	und
-des	DET	der
-Obersten	ADJ	oberer
-Lebensmittelbeirates.3	NOUN	Lebensmittelbeirates.3
-15.	ADV	15.
-Gesetzentwurf	NOUN	Gesetzentwurf
-über	ADP	über
-die	DET	der
-Regelung	NOUN	Regelung
-des	DET	der
-Verkehrs	NOUN	Verkehr
-mit	ADP	mit
-Getreide	NOUN	Getreide
-und	CCONJ	und
-Mahlprodukten	NOUN	Mahlprodukt
+14.	ADV	14.													
+Beendigung	NOUN	Beendigung	Nom				Fem		Sing						
+der	DET	der	Gen	Def			Fem		Sing			Art			
+Wirksamkeit	NOUN	Wirksamkeit	Gen				Fem		Sing						
+des	DET	der	Gen	Def			Masc		Sing			Art			
+Obersten	ADJ	oberer	Gen		Sup		Masc		Sing						
+Sanitätsrates	NOUN	Sanitätsrat	Gen				Masc		Sing						
+und	CCONJ	und													
+des	DET	der	Gen	Def			Masc		Sing			Art			
+Obersten	ADJ	oberer	Gen		Sup		Masc		Sing						
+Lebensmittelbeirates.3	NOUN	Lebensmittelbeirates.3	Gen				Masc		Sing						
+15.	ADV	15.													
+Gesetzentwurf	NOUN	Gesetzentwurf	Nom				Masc		Sing						
+über	ADP	über													
+die	DET	der	Acc	Def			Fem		Sing			Art			
+Regelung	NOUN	Regelung	Acc				Fem		Sing						
+des	DET	der	Gen	Def			Masc		Sing			Art			
+Verkehrs	NOUN	Verkehr	Gen				Masc		Sing						
+mit	ADP	mit													
+Getreide	NOUN	Getreide	Dat				Neut		Sing						
+und	CCONJ	und													
+Mahlprodukten	NOUN	Mahlprodukt	Dat				Neut		Plur						
 <g/>
 .	
-1.	ADV	1.
-Ergebnis	NOUN	Ergebnis
-der	DET	der
-Länderkonferenz	NOUN	Länderkonferenz
-über	ADP	über
-den	DET	der
-Reise-	X	Reise
-und	CCONJ	und
-Sommerverkehr	NOUN	Sommerverkehr
+1.	ADV	1.													
+Ergebnis	NOUN	Ergebnis	Nom				Neut		Sing						
+der	DET	der	Gen	Def			Fem		Sing			Art			
+Länderkonferenz	NOUN	Länderkonferenz	Gen				Fem		Sing						
+über	ADP	über													
+den	DET	der	Acc	Def			Masc		Sing			Art			
+Reise-	X	Reise													
+und	CCONJ	und													
+Sommerverkehr	NOUN	Sommerverkehr	Acc				Masc		Sing						
 <g/>
 .	
-Staatssekretär	NOUN	Staatssekretär
-Dr.	NOUN	Dr.
-Loenenf	PROPN	Loenenf
-e	PROPN	e
-l	PROPN	l
-d-R	PROPN	d-R
-u	PROPN	u
-ß	PROPN	ß
-berichtet	VERB	berichten
-über	ADP	über
-das	DET	der
-Ergebnis	NOUN	Ergebnis
-der	DET	der
-heuts	ADV	heuts
-in	ADP	in
-Angelegenheit	NOUN	Angelegenheit
-des	DET	der
-Reiss-	X	Reis
-und	CCONJ	und
-Sommerverkehrs	NOUN	Sommerverkehr
-abgehaltenen	ADJ	abgehalten
-Länderkonferenz	NOUN	Länderkonferenz
+Staatssekretär	NOUN	Staatssekretär	Nom				Masc		Sing						
+Dr.	NOUN	Dr.	Nom				Masc		Sing						
+Loenenf	PROPN	Loenenf	Nom				Masc		Sing						
+e	PROPN	e													
+l	PROPN	l													
+d-R	PROPN	d-R	Nom						Sing						
+u	PROPN	u													
+ß	PROPN	ß	Nom				Masc		Sing						
+berichtet	VERB	berichten						Ind	Sing	3				Pres	Fin
+über	ADP	über													
+das	DET	der	Acc	Def			Neut		Sing			Art			
+Ergebnis	NOUN	Ergebnis	Acc				Neut		Sing						
+der	DET	der	Gen	Def			Fem		Sing			Art			
+heuts	ADV	heuts													
+in	ADP	in													
+Angelegenheit	NOUN	Angelegenheit	Dat				Fem		Sing						
+des	DET	der	Gen	Def			Masc		Sing			Art			
+Reiss-	X	Reis													
+und	CCONJ	und													
+Sommerverkehrs	NOUN	Sommerverkehr	Gen				Masc		Sing						
+abgehaltenen	ADJ	abgehalten	Gen		Pos		Fem		Sing						
+Länderkonferenz	NOUN	Länderkonferenz	Gen				Fem		Sing						
 <g/>
 .	
-Es	PRON	es
-sei	AUX	sein
-gelungen	VERB	gelingen
+Es	PRON	es	Nom				Neut		Sing	3		Prs			
+sei	AUX	sein						Sub	Sing	3				Pres	Fin
+gelungen	VERB	gelingen													Part
 <g/>
 ,	
-eine	DET	ein
-Vereinbarung	NOUN	Vereinbarung
-mit	ADP	mit
-den	DET	der
-Landesregierungen	NOUN	Landesregierung
-dahingehend	ADV	dahingehend
-zu	PART	zu
-traffen	VERB	traffen
+eine	DET	ein	Acc	Ind			Fem		Sing			Art			
+Vereinbarung	NOUN	Vereinbarung	Acc				Fem		Sing						
+mit	ADP	mit													
+den	DET	der	Dat	Def			Fem		Plur			Art			
+Landesregierungen	NOUN	Landesregierung	Dat				Fem		Plur						
+dahingehend	ADV	dahingehend			Pos										
+zu	PART	zu													
+traffen	VERB	traffen													Inf
 <g/>
 ,	
-daß	SCONJ	daß
-diese	PRON	dieser
-sich	PRON	sich
-bereit	ADV	bereit
-erklärten	VERB	erklären
+daß	SCONJ	daß													
+diese	PRON	dieser	Nom				Fem		Plur			Dem			
+sich	PRON	sich	Acc						Plur	3		Prs	Yes		
+bereit	ADV	bereit			Pos										
+erklärten	VERB	erklären						Ind	Plur	3				Past	Fin
 <g/>
 ,	
-das	DET	der
-generelle	ADJ	generell
-Einreiseverbot	NOUN	Einreiseverbot
-fallen	VERB	fallen
-zu	PART	zu
-lassen	VERB	lassen
+das	DET	der	Acc	Def			Neut		Sing			Art			
+generelle	ADJ	generell	Acc		Pos		Neut		Sing						
+Einreiseverbot	NOUN	Einreiseverbot	Acc				Neut		Sing						
+fallen	VERB	fallen													Inf
+zu	PART	zu													
+lassen	VERB	lassen													Inf
 <g/>
 ,	
-wogegen	ADV	wogegen
-die	DET	der
-Staatsregierung	NOUN	Staatsregierung
-mittelst	VERB	mittelsen
-einer	DET	ein
-Vollzugsanweisung	NOUN	Vollzugsanweisung
-die	DET	der
-Landssregie	NOUN	Landssregie
+wogegen	ADV	wogegen										Int			
+die	DET	der	Nom	Def			Fem		Sing			Art			
+Staatsregierung	NOUN	Staatsregierung	Nom				Fem		Sing						
+mittelst	VERB	mittelsen						Ind	Sing	3				Pres	Fin
+einer	DET	ein	Dat	Ind			Fem		Sing			Art			
+Vollzugsanweisung	NOUN	Vollzugsanweisung	Dat				Fem		Sing						
+die	DET	der	Acc	Def			Fem		Sing			Art			
+Landssregie	NOUN	Landssregie	Acc				Fem		Sing						
 <g/>
 .	
-rungen	PROPN	Rungen
-ermächtigt	VERB	ermächtigen
+rungen	PROPN	Rungen	Nom						Sing						
+ermächtigt	VERB	ermächtigen						Ind	Sing	3				Pres	Fin
 <g/>
 ,	
-jeden	DET	jeder
-über	ADV	über
-drei	NUM	drei
-Tage	NOUN	Tag
-dauernden	ADJ	dauernd
-Sommeraufenthalt	NOUN	Sommeraufenthalt
-von	ADP	von
-Personen	NOUN	Person
+jeden	DET	jeder	Acc				Masc		Sing			Ind			
+über	ADV	über													
+drei	NUM	drei													
+Tage	NOUN	Tag	Acc				Masc		Plur						
+dauernden	ADJ	dauernd	Acc		Pos		Masc		Sing						
+Sommeraufenthalt	NOUN	Sommeraufenthalt	Acc				Masc		Sing						
+von	ADP	von													
+Personen	NOUN	Person	Dat				Fem		Plur						
 <g/>
 ,	
-soferne	SCONJ	soferne
-sie	PRON	sie
-nicht	PART	nicht
-in	ADP	in
-der	DET	der
-betreffenden	ADJ	betreffend
-Gemeinde	NOUN	Gemeinde
-heimatberechtigt	ADV	heimatberechtigt
-sind	AUX	sein
-oder	CCONJ	oder
-dortselbst	ADV	dortselbst
-ihren	DET	ihr
-ständigen	ADJ	ständig
-Aufenthalt	NOUN	Aufenthalt
-haben	VERB	haben
+soferne	SCONJ	soferne													
+sie	PRON	sie	Nom				Fem		Plur	3		Prs			
+nicht	PART	nicht													
+in	ADP	in													
+der	DET	der	Dat	Def			Fem		Sing			Art			
+betreffenden	ADJ	betreffend	Dat		Pos		Fem		Sing						
+Gemeinde	NOUN	Gemeinde	Dat				Fem		Sing						
+heimatberechtigt	ADV	heimatberechtigt			Pos										
+sind	AUX	sein						Ind	Plur	3				Pres	Fin
+oder	CCONJ	oder													
+dortselbst	ADV	dortselbst													
+ihren	DET	ihr	Acc				Masc		Sing		Yes	Prs			
+ständigen	ADJ	ständig	Acc		Pos		Masc		Sing						
+Aufenthalt	NOUN	Aufenthalt	Acc				Masc		Sing						
+haben	VERB	haben						Ind	Plur	3				Pres	Fin
 <g/>
 ,	
-an	ADP	an
-eine	DET	ein
-besondere	ADJ	besonderer
-Bewilligung	NOUN	Bewilligung
-zu	PART	zu
-knüpfen	VERB	knüpfen
+an	ADP	an													
+eine	DET	ein	Acc	Ind			Fem		Sing			Art			
+besondere	ADJ	besonderer	Acc		Pos		Fem		Sing						
+Bewilligung	NOUN	Bewilligung	Acc				Fem		Sing						
+zu	PART	zu													
+knüpfen	VERB	knüpfen													Inf
 <g/>
 .	
-Gleichzeitig	ADV	gleichzeitig
-wird	AUX	werden
-der	DET	der
-Wirksamkeitsbeginn	NOUN	Wirksamkeitsbeginn
-der	DET	der
-Vollzugsanweisung	NOUN	Vollzugsanweisung
-vom	ADP	von
-29.	ADJ	29.
-April	NOUN	April
-1919	NUM	1919
+Gleichzeitig	ADV	gleichzeitig			Pos										
+wird	AUX	werden						Ind	Sing	3				Pres	Fin
+der	DET	der	Nom	Def			Masc		Sing			Art			
+Wirksamkeitsbeginn	NOUN	Wirksamkeitsbeginn	Nom				Masc		Sing						
+der	DET	der	Gen	Def			Fem		Sing			Art			
+Vollzugsanweisung	NOUN	Vollzugsanweisung	Gen				Fem		Sing						
+vom	ADP	von	Dat				Masc		Sing						
+29.	ADJ	29.	Dat		Pos		Masc		Sing						
+April	NOUN	April	Dat				Masc		Sing						
+1919	NUM	1919													
 <g/>
 ,	
-St.	PROPN	St.
-G.Bl	NOUN	G.Bl
-.	NOUN	.
-Nr.	NOUN	Nr.
-252	NUM	252
-bis	CCONJ	bis
-10.	ADJ	10.
-Juni	NOUN	Juni
-d.	DET	d.
-J.	PROPN	J.
-hinausgeschoben	VERB	hinausschieben
+St.	PROPN	St.													
+G.Bl	NOUN	G.Bl	Nom						Sing						
+.	NOUN	.	Nom				Fem		Sing						
+Nr.	NOUN	Nr.	Nom				Fem		Sing						
+252	NUM	252													
+bis	CCONJ	bis													
+10.	ADJ	10.	Dat		Pos		Masc		Sing						
+Juni	NOUN	Juni	Nom				Masc		Sing						
+d.	DET	d.	Gen	Def					Sing			Art			
+J.	PROPN	J.													
+hinausgeschoben	VERB	hinausschieben													Part
 <g/>
 .	
-Das	DET	der
-Staatsamt	NOUN	Staatsamt
-für	ADP	für
-Volksernährung	NOUN	Volksernährung
-habe	AUX	haben
+Das	DET	der	Nom	Def			Neut		Sing			Art			
+Staatsamt	NOUN	Staatsamt	Nom				Neut		Sing						
+für	ADP	für													
+Volksernährung	NOUN	Volksernährung	Acc				Fem		Sing						
+habe	AUX	haben						Sub	Sing	3				Pres	Fin
 <g/>
 .	
-weiterhin	ADV	weiterhin
-in	ADP	in
-Aussicht	NOUN	Aussicht
-gestellt	VERB	stellen
+weiterhin	ADV	weiterhin													
+in	ADP	in													
+Aussicht	NOUN	Aussicht	Acc				Fem		Sing						
+gestellt	VERB	stellen													Part
 <g/>
 ,	
-den	DET	der
-ländern	NOUN	Land
-zum	ADP	zu
-Zwecke	NOUN	Zweck
-der	DET	der
-besseren	ADJ	gut
-Versorgung	NOUN	Versorgung
-während	ADP	während
-der	DET	der
-Zeit	NOUN	Zeit
+den	DET	der	Dat	Def			Neut		Plur			Art			
+ländern	NOUN	Land	Dat				Neut		Plur						
+zum	ADP	zu	Dat				Masc		Sing						
+Zwecke	NOUN	Zweck	Dat				Masc		Sing						
+der	DET	der	Gen	Def			Fem		Sing			Art			
+besseren	ADJ	gut	Gen		Cmp		Fem		Sing						
+Versorgung	NOUN	Versorgung	Gen				Fem		Sing						
+während	ADP	während													
+der	DET	der	Gen	Def			Fem		Sing			Art			
+Zeit	NOUN	Zeit	Dat				Fem		Sing						
 <g/>
 ,	
-welche	PRON	welcher
-Für	ADP	für
-den	DET	der
-Sommerverkehr	NOUN	Sommerverkehr
-in	ADP	in
-Betracht	NOUN	Betracht
-kommt	VERB	kommen
+welche	PRON	welcher	Nom				Fem		Sing			Rel			
+Für	ADP	für													
+den	DET	der	Acc	Def			Masc		Sing			Art			
+Sommerverkehr	NOUN	Sommerverkehr	Acc				Masc		Sing						
+in	ADP	in													
+Betracht	NOUN	Betracht	Acc				Masc		Sing						
+kommt	VERB	kommen						Ind	Sing	3				Pres	Fin
 <g/>
 ,	
-beson-4	NOUN	beson-4
-dere	ADJ	derer
-Lebensmittelzuschübe	NOUN	Lebensmittelzuschub
-zur	ADP	zu
-Verfügung	NOUN	Verfügung
-zu	PART	zu
-stellen	VERB	stellen
+beson-4	NOUN	beson-4	Nom						Sing						
+dere	ADJ	derer	Acc		Pos		Masc		Plur						
+Lebensmittelzuschübe	NOUN	Lebensmittelzuschub	Acc				Masc		Plur						
+zur	ADP	zu	Dat				Fem		Sing						
+Verfügung	NOUN	Verfügung	Dat				Fem		Sing						
+zu	PART	zu													
+stellen	VERB	stellen													Inf
 <g/>
 .	
-Der	DET	der
-Kabinettsrat	NOUN	Kabinettsrat
-nimmt	VERB	nehmen
-diesen	DET	dieser
-Benicht	NOUN	Benicht
-zustimmend	ADV	zustimmend
-zur	ADP	zu
-Kenntnis	NOUN	Kenntnis
-und	CCONJ	und
-beschließt	VERB	beschließen
-die	DET	der
-Erlassung	NOUN	Erlassung
-der	DET	der
-oberwähnten	ADJ	oberwähnt
-Vollzugsanwelsung	NOUN	Vollzugsanwelsung
+Der	DET	der	Nom	Def			Masc		Sing			Art			
+Kabinettsrat	NOUN	Kabinettsrat	Nom				Masc		Sing						
+nimmt	VERB	nehmen						Ind	Sing	3				Pres	Fin
+diesen	DET	dieser	Acc				Masc		Sing			Dem			
+Benicht	NOUN	Benicht	Acc				Masc		Sing						
+zustimmend	ADV	zustimmend			Pos										
+zur	ADP	zu	Dat				Fem		Sing						
+Kenntnis	NOUN	Kenntnis	Dat				Fem		Sing						
+und	CCONJ	und													
+beschließt	VERB	beschließen						Ind	Sing	3				Pres	Fin
+die	DET	der	Acc	Def			Fem		Sing			Art			
+Erlassung	NOUN	Erlassung	Acc				Fem		Sing						
+der	DET	der	Gen	Def			Fem		Sing			Art			
+oberwähnten	ADJ	oberwähnt	Gen		Pos		Fem		Sing						
+Vollzugsanwelsung	NOUN	Vollzugsanwelsung	Gen				Fem		Sing						
 <g/>
 .	
-2.	ADV	2.
-Der	DET	der
-Vorsitzends	NOUN	Vorsitzends
-teilt	VERB	teilen
-mit	ADP	mit
+2.	ADV	2.													
+Der	DET	der	Nom	Def			Masc		Sing			Art			
+Vorsitzends	NOUN	Vorsitzends	Nom				Masc		Sing						
+teilt	VERB	teilen						Ind	Sing	3				Pres	Fin
+mit	ADP	mit													
 <g/>
 ,	
-daß	SCONJ	daß
-ihm	PRON	ihm
-Vertrstung	NOUN	Vertrstung
-Deutsch-Südmährens	PROPN	Deutsch-Südmähren
-bei	ADP	bei
-der	DET	der
-Friedenskonferenz	NOUN	Friedenskonferenz
+daß	SCONJ	daß													
+ihm	PRON	ihm	Dat				Masc		Sing	3		Prs			
+Vertrstung	NOUN	Vertrstung	Nom				Fem		Sing						
+Deutsch-Südmährens	PROPN	Deutsch-Südmähren	Gen				Neut		Sing						
+bei	ADP	bei													
+der	DET	der	Dat	Def			Fem		Sing			Art			
+Friedenskonferenz	NOUN	Friedenskonferenz	Dat				Fem		Sing						
 <g/>
 .	
-seitens	ADP	seitens
-des	DET	der
-Hauptvolksrates	NOUN	Hauptvolksrat
-Südmährens	PROPN	Südmähren
-ein	DET	ein
-Telegramm	NOUN	Telegramm
-zugskommen	VERB	zugskommen
-sei	AUX	sein
+seitens	ADP	seitens													
+des	DET	der	Gen	Def			Masc		Sing			Art			
+Hauptvolksrates	NOUN	Hauptvolksrat	Gen				Masc		Sing						
+Südmährens	PROPN	Südmähren	Gen				Neut		Sing						
+ein	DET	ein	Nom	Ind			Neut		Sing			Art			
+Telegramm	NOUN	Telegramm	Nom				Neut		Sing						
+zugskommen	VERB	zugskommen													Inf
+sei	AUX	sein						Sub	Sing	3				Pres	Fin
 <g/>
 ,	
-worin	SCONJ	worin
-er	PRON	er
-gebeten	VERB	bitten
-werde	AUX	werden
+worin	SCONJ	worin										Int			
+er	PRON	er	Nom				Masc		Sing	3		Prs			
+gebeten	VERB	bitten													Part
+werde	AUX	werden						Sub	Sing	3				Pres	Fin
 <g/>
 ,	
-die	DET	der
-Forderung	NOUN	Forderung
-dieses	DET	dieser
-Hauptvolksrates	NOUN	Hauptvolksrat
-nach	ADP	nach
-Entsendung	NOUN	Entsendung
-des	DET	der
-Kreishauptmannes	NOUN	Kreishauptmann
-T	PROPN	T
-e	PROPN	e
-u	PROPN	u
-f	PROPN	f
-e	PROPN	e
-1	NUM	1
-als	ADP	als
-Vertrster	NOUN	Vertrster
-der	DET	der
-Interessen	NOUN	Interesse
-Deutsch-Gudmährens	PROPN	Deutsch-Gudmähren
-zur	ADP	zu
-Friedenskonferenz	NOUN	Friedenskonferenz
-sowohl	CCONJ	sowohl
-im	ADP	in
-Hauptausschuss	NOUN	Hauptausschuss
-der	DET	der
-Nationalversammlung	NOUN	Nationalversammlung
-wie	CCONJ	wie
-auch	ADV	auch
-im	ADP	in
-Kabinettsrat	NOUN	Kabinettsrat
-mit	ADP	mit
-allem	DET	aller
-Nachdrucke	NOUN	Nachdruck
-zu	PART	zu
-vertreten	VERB	vertreten
+die	DET	der	Acc	Def			Fem		Sing			Art			
+Forderung	NOUN	Forderung	Acc				Fem		Sing						
+dieses	DET	dieser	Gen				Masc		Sing			Dem			
+Hauptvolksrates	NOUN	Hauptvolksrat	Gen				Masc		Sing						
+nach	ADP	nach													
+Entsendung	NOUN	Entsendung	Dat				Fem		Sing						
+des	DET	der	Gen	Def			Masc		Sing			Art			
+Kreishauptmannes	NOUN	Kreishauptmann	Gen				Masc		Sing						
+T	PROPN	T													
+e	PROPN	e													
+u	PROPN	u													
+f	PROPN	f													
+e	PROPN	e													
+1	NUM	1													
+als	ADP	als													
+Vertrster	NOUN	Vertrster	Nom				Masc		Sing						
+der	DET	der	Gen	Def			Neut		Plur			Art			
+Interessen	NOUN	Interesse	Gen				Neut		Plur						
+Deutsch-Gudmährens	PROPN	Deutsch-Gudmähren	Gen				Neut		Sing						
+zur	ADP	zu	Dat				Fem		Sing						
+Friedenskonferenz	NOUN	Friedenskonferenz	Dat				Fem		Sing						
+sowohl	CCONJ	sowohl													
+im	ADP	in	Dat				Masc		Sing						
+Hauptausschuss	NOUN	Hauptausschuss	Dat				Masc		Sing						
+der	DET	der	Gen	Def			Fem		Sing			Art			
+Nationalversammlung	NOUN	Nationalversammlung	Gen				Fem		Sing						
+wie	CCONJ	wie													
+auch	ADV	auch													
+im	ADP	in	Dat				Masc		Sing						
+Kabinettsrat	NOUN	Kabinettsrat	Dat				Masc		Sing						
+mit	ADP	mit													
+allem	DET	aller	Dat				Masc		Sing			Ind			
+Nachdrucke	NOUN	Nachdruck	Dat				Masc		Sing						
+zu	PART	zu													
+vertreten	VERB	vertreten													Inf
 <g/>
 .	
-Der	DET	der
-Kabinettsrat	NOUN	Kabinettsrat
-stellt	VERB	stellen
-fest	ADV	fest
+Der	DET	der	Nom	Def			Masc		Sing			Art			
+Kabinettsrat	NOUN	Kabinettsrat	Nom				Masc		Sing						
+stellt	VERB	stellen						Ind	Sing	3				Pres	Fin
+fest	ADV	fest													
 <g/>
 ,	
-daß	SCONJ	daß
-ein	DET	ein
-Vertreter	NOUN	Vertreter
-Deutsch-Güdmährens	PROPN	Deutsch-Güdmähren
-in	ADP	in
-der	DET	der
-Person	NOUN	Person
-des	DET	der
-Sektionsrates	NOUN	Sektionsrat
-ol	PROPN	Ol
-dofredi	PROPN	Dofredi
-bereits	ADV	bereits
-der	DET	der
-Friedenedslegetion	NOUN	Friedenedslegetion
-beigsgeben	VERB	beigsgeben
-sei	AUX	sein
+daß	SCONJ	daß													
+ein	DET	ein	Nom	Ind			Masc		Sing			Art			
+Vertreter	NOUN	Vertreter	Nom				Masc		Sing						
+Deutsch-Güdmährens	PROPN	Deutsch-Güdmähren	Gen				Neut		Sing						
+in	ADP	in													
+der	DET	der	Dat	Def			Fem		Sing			Art			
+Person	NOUN	Person	Dat				Fem		Sing						
+des	DET	der	Gen	Def			Masc		Sing			Art			
+Sektionsrates	NOUN	Sektionsrat	Gen				Masc		Sing						
+ol	PROPN	Ol	Nom				Masc		Sing						
+dofredi	PROPN	Dofredi	Nom						Sing						
+bereits	ADV	bereits													
+der	DET	der	Dat	Def			Fem		Sing			Art			
+Friedenedslegetion	NOUN	Friedenedslegetion	Dat				Fem		Sing						
+beigsgeben	VERB	beigsgeben													Part
+sei	AUX	sein						Sub	Sing	3				Pres	Fin
 <g/>
 .	
-3.	ADV	3.
-Gesetzentwurf	NOUN	Gesetzentwurf
-über	ADP	über
-die	DET	der
-Aufnahme	NOUN	Aufnahme
-weiterer	ADJ	weit
-Anlehen	NOUN	Anlehen
-in	ADP	in
-ausländischer	ADJ	ausländisch
-Währung	NOUN	Währung
-und	CCONJ	und
-über	ADP	über
-die	DET	der
-Heranzlehung	NOUN	Heranzlehung
-des	DET	der
-Forstbesitzes	NOUN	Forstbesitz
-zur	ADP	zu
-Sicherstellung	NOUN	Sicherstellung
-solcher	DET	solcher
-Anlehen	NOUN	Anlehen
+3.	ADV	3.													
+Gesetzentwurf	NOUN	Gesetzentwurf	Nom				Masc		Sing						
+über	ADP	über													
+die	DET	der	Acc	Def			Fem		Sing			Art			
+Aufnahme	NOUN	Aufnahme	Acc				Fem		Sing						
+weiterer	ADJ	weit	Gen		Cmp		Neut		Plur						
+Anlehen	NOUN	Anlehen	Gen				Neut		Plur						
+in	ADP	in													
+ausländischer	ADJ	ausländisch	Dat		Pos		Fem		Sing						
+Währung	NOUN	Währung	Dat				Fem		Sing						
+und	CCONJ	und													
+über	ADP	über													
+die	DET	der	Acc	Def			Fem		Sing			Art			
+Heranzlehung	NOUN	Heranzlehung	Acc				Fem		Sing						
+des	DET	der	Gen	Def			Masc		Sing			Art			
+Forstbesitzes	NOUN	Forstbesitz	Gen				Masc		Sing						
+zur	ADP	zu	Dat				Fem		Sing						
+Sicherstellung	NOUN	Sicherstellung	Dat				Fem		Sing						
+solcher	DET	solcher	Gen				Neut		Plur			Ind			
+Anlehen	NOUN	Anlehen	Gen				Neut		Plur						
 <g/>
 .	
-Präsident	NOUN	Präsident
-Seitz	PROPN	Seitz
-verweist	VERB	verweisen
+Präsident	NOUN	Präsident	Nom				Masc		Sing						
+Seitz	PROPN	Seitz	Nom				Masc		Sing						
+verweist	VERB	verweisen						Ind	Sing	3				Pres	Fin
 <g/>
 .	
-derauf	ADV	derauf
+derauf	ADV	derauf													
 <g/>
 ,	
-dass	SCONJ	dass
-der	DET	der
-Kabinettsrat	NOUN	Kabinettsrat
-in	ADP	in
-seiner	DET	sein
-Sitzung	NOUN	Sitzung
-am	ADP	an
-2.	ADJ	2.
-Mai	NOUN	Mai
-d.	X	d.
-J.	PROPN	J.
-den	DET	der
-BeschlußDie	NOUN	BeschlußDie
-fünfte	ADJ	fünfter
-Länderkonferenz	NOUN	Länderkonferenz
-A.	NOUN	A.
-1	NUM	1
-wirde	AUX	werdeen
-verlautbart	VERB	verlautbaren
-Communicque	X	Communicque
+dass	SCONJ	dass													
+der	DET	der	Nom	Def			Masc		Sing			Art			
+Kabinettsrat	NOUN	Kabinettsrat	Nom				Masc		Sing						
+in	ADP	in													
+seiner	DET	sein	Dat				Fem		Sing		Yes	Prs			
+Sitzung	NOUN	Sitzung	Dat				Fem		Sing						
+am	ADP	an	Dat				Masc		Sing						
+2.	ADJ	2.	Dat		Pos		Masc		Sing						
+Mai	NOUN	Mai	Dat				Masc		Sing						
+d.	X	d.													
+J.	PROPN	J.	Dat						Sing						
+den	DET	der	Acc	Def			Masc		Sing			Art			
+BeschlußDie	NOUN	BeschlußDie	Acc				Masc		Sing						
+fünfte	ADJ	fünfter	Nom		Pos		Fem		Sing						
+Länderkonferenz	NOUN	Länderkonferenz	Nom				Fem		Sing						
+A.	NOUN	A.	Nom						Sing						
+1	NUM	1													
+wirde	AUX	werdeen						Ind	Sing	3				Pres	Fin
+verlautbart	VERB	verlautbaren													Part
+Communicque	X	Communicque				Yes									
 <g/>
 .	
--Die	DET	-Die
-Staateregierung	NOUN	Staateregierung
-hat	AUX	haben
-mit	ADP	mit
-einer	DET	ein
-am	ADP	an
-20.	ADJ	20.
-Mai	NOUN	Mai
-im	ADP	in
-Staatsgesetzblatte	NOUN	Staatsgesetzblatt
-verlautbarten	ADJ	verlautbart
-Vollzugsanweisung	NOUN	Vollzugsanweisung
-angeordnet	VERB	anordnen
+-Die	DET	-Die	Nom	Def			Fem		Sing			Art			
+Staateregierung	NOUN	Staateregierung	Nom				Fem		Sing						
+hat	AUX	haben						Ind	Sing	3				Pres	Fin
+mit	ADP	mit													
+einer	DET	ein	Dat	Ind			Fem		Sing			Art			
+am	ADP	an	Dat				Masc		Sing						
+20.	ADJ	20.	Dat		Pos		Masc		Sing						
+Mai	NOUN	Mai	Dat				Masc		Sing						
+im	ADP	in	Dat				Neut		Sing						
+Staatsgesetzblatte	NOUN	Staatsgesetzblatt	Dat				Neut		Sing						
+verlautbarten	ADJ	verlautbart	Dat		Pos		Fem		Sing						
+Vollzugsanweisung	NOUN	Vollzugsanweisung	Dat				Fem		Sing						
+angeordnet	VERB	anordnen													Part
 <g/>
 ,	
-daß	SCONJ	daß
-in	ADP	in
-Ergänzung	NOUN	Ergänzung
-der	DET	der
-bekannten	ADJ	bekannt
-Vollzugsanweisung	NOUN	Vollzugsanweisung
-über	ADP	über
-den	DET	der
-Reise-	X	Reise
-und	CCONJ	und
-Sommerverkehr	NOUN	Sommerverkehr
-die	DET	der
-Landesregierungen	NOUN	Landesregierung
-ermächtigt	VERB	ermächtigen
-werden	AUX	werden
+daß	SCONJ	daß													
+in	ADP	in													
+Ergänzung	NOUN	Ergänzung	Dat				Fem		Sing						
+der	DET	der	Gen	Def			Fem		Sing			Art			
+bekannten	ADJ	bekannt	Gen		Pos		Fem		Sing						
+Vollzugsanweisung	NOUN	Vollzugsanweisung	Gen				Fem		Sing						
+über	ADP	über													
+den	DET	der	Acc	Def			Masc		Sing			Art			
+Reise-	X	Reise													
+und	CCONJ	und													
+Sommerverkehr	NOUN	Sommerverkehr	Acc				Masc		Sing						
+die	DET	der	Nom	Def			Fem		Plur			Art			
+Landesregierungen	NOUN	Landesregierung	Nom				Fem		Plur						
+ermächtigt	VERB	ermächtigen													Part
+werden	AUX	werden						Ind	Plur	3				Pres	Fin
 <g/>
 ,	
-jeden	DET	jeder
-über	ADP	über
-drei	NUM	drei
-Tage	NOUN	Tag
-dauernden	ADJ	dauernd
-Sommeraufenthalt	NOUN	Sommeraufenthalt
-von	ADP	von
-Perscnen	PROPN	Perscnen
+jeden	DET	jeder	Acc				Masc		Sing			Ind			
+über	ADP	über													
+drei	NUM	drei													
+Tage	NOUN	Tag	Acc				Masc		Plur						
+dauernden	ADJ	dauernd	Acc		Pos		Masc		Sing						
+Sommeraufenthalt	NOUN	Sommeraufenthalt	Acc				Masc		Sing						
+von	ADP	von													
+Perscnen	PROPN	Perscnen	Dat						Plur						
 <g/>
 ,	
-welche	PRON	welcher
-nicht	PART	nicht
-in	ADP	in
-der	DET	der
-betreffenden	ADJ	betreffend
-Gemeinde	NOUN	Gemeinde
-heimatberechtigt	ADV	heimatberechtigt
-sind	AUX	sein
-oder	CCONJ	oder
-dort	ADV	dort
-ihren	DET	ihr
-ständigen	ADJ	ständig
-Aufenthalt	NOUN	Aufenthalt
-haben	VERB	haben
+welche	PRON	welcher	Nom						Plur			Rel			
+nicht	PART	nicht													
+in	ADP	in													
+der	DET	der	Dat	Def			Fem		Sing			Art			
+betreffenden	ADJ	betreffend	Dat		Pos		Fem		Sing						
+Gemeinde	NOUN	Gemeinde	Dat				Fem		Sing						
+heimatberechtigt	ADV	heimatberechtigt			Pos										
+sind	AUX	sein						Ind	Plur	3				Pres	Fin
+oder	CCONJ	oder													
+dort	ADV	dort													
+ihren	DET	ihr	Acc				Masc		Sing		Yes	Prs			
+ständigen	ADJ	ständig	Acc		Pos		Masc		Sing						
+Aufenthalt	NOUN	Aufenthalt	Acc				Masc		Sing						
+haben	VERB	haben						Ind	Plur	3				Pres	Fin
 <g/>
 ,	
-an	ADP	an
-eine	DET	ein
-besondere	ADJ	besonderer
-Bewilligung	NOUN	Bewilligung
-zu	PART	zu
-knüpfen	VERB	knüpfen
+an	ADP	an													
+eine	DET	ein	Acc	Ind			Fem		Sing			Art			
+besondere	ADJ	besonderer	Acc		Pos		Fem		Sing						
+Bewilligung	NOUN	Bewilligung	Acc				Fem		Sing						
+zu	PART	zu													
+knüpfen	VERB	knüpfen													Inf
 <g/>
 .	
-ferner	ADV	ferner
-daß	SCONJ	daß
-die	DET	der
-erwähnte	ADJ	erwähnt
-Vollzugsanweisung	NOUN	Vollzugsanweisung
-vom	ADP	von
-29.	ADJ	29.
-April	NOUN	April
-1919	NUM	1919
-statt	ADP	statt
-am	ADP	an
-20.	ADJ	20.
-Mai	NOUN	Mai
-1919	NUM	1919
-erst	ADV	erst
-am	ADP	an
-10.	ADJ	10.
-Juni	NOUN	Juni
-1919	NUM	1919
-in	ADP	in
-Kraft	NOUN	Kraft
-zu	PART	zu
-treten	VERB	treten
-habe	AUX	haben
+ferner	ADV	ferner													
+daß	SCONJ	daß													
+die	DET	der	Nom	Def			Fem		Sing			Art			
+erwähnte	ADJ	erwähnt	Nom		Pos		Fem		Sing						
+Vollzugsanweisung	NOUN	Vollzugsanweisung	Nom				Fem		Sing						
+vom	ADP	von	Dat				Masc		Sing						
+29.	ADJ	29.	Dat		Pos		Masc		Sing						
+April	NOUN	April	Dat				Masc		Sing						
+1919	NUM	1919													
+statt	ADP	statt													
+am	ADP	an	Dat				Masc		Sing						
+20.	ADJ	20.	Dat		Pos		Masc		Sing						
+Mai	NOUN	Mai	Dat				Masc		Sing						
+1919	NUM	1919													
+erst	ADV	erst													
+am	ADP	an	Dat				Masc		Sing						
+10.	ADJ	10.	Dat		Pos		Masc		Sing						
+Juni	NOUN	Juni	Dat				Masc		Sing						
+1919	NUM	1919													
+in	ADP	in													
+Kraft	NOUN	Kraft	Acc				Fem		Sing						
+zu	PART	zu													
+treten	VERB	treten													Inf
+habe	AUX	haben						Sub	Sing	3				Pres	Fin
 <g/>
 .	
-Diese	DET	dieser
-Bestimmungen	NOUN	Bestimmung
-beziehen	VERB	beziehen
-sich	PRON	sich
-nicht	PART	nicht
-auf	ADP	auf
-die	DET	der
-Anordnungen	NOUN	Anordnung
+Diese	DET	dieser	Nom				Fem		Plur			Dem			
+Bestimmungen	NOUN	Bestimmung	Nom				Fem		Plur						
+beziehen	VERB	beziehen						Ind	Plur	3				Pres	Fin
+sich	PRON	sich	Acc						Plur	3		Prs	Yes		
+nicht	PART	nicht													
+auf	ADP	auf													
+die	DET	der	Acc	Def			Fem		Plur			Art			
+Anordnungen	NOUN	Anordnung	Acc				Fem		Plur						
 <g/>
 ,	
-welche	PRON	welcher
-in	ADP	in
-der	DET	der
-letzterwähnten	ADJ	letzterwähnt
-Vollzugeanweisung	NOUN	Vollzugeanweisung
-über	ADP	über
-den	DET	der
-Besuch	NOUN	Besuch
-der	DET	der
-Heilbäder	NOUN	Heilbad
-getroffen	VERB	treffen
-wurden	AUX	werden
+welche	PRON	welcher	Nom				Fem		Plur			Rel			
+in	ADP	in													
+der	DET	der	Dat	Def			Fem		Sing			Art			
+letzterwähnten	ADJ	letzterwähnt	Dat		Pos		Fem		Sing						
+Vollzugeanweisung	NOUN	Vollzugeanweisung	Dat				Fem		Sing						
+über	ADP	über													
+den	DET	der	Acc	Def			Masc		Sing			Art			
+Besuch	NOUN	Besuch	Acc				Masc		Sing						
+der	DET	der	Gen	Def			Neut		Plur			Art			
+Heilbäder	NOUN	Heilbad	Gen				Neut		Plur						
+getroffen	VERB	treffen													Part
+wurden	AUX	werden						Ind	Plur	3				Past	Fin
 <g/>
 .	
-heute	ADV	heute
-Bei	ADP	bei
-der	DET	der
-gestern	ADV	gestern
-stattgefundenen	ADJ	stattgefunden
-Länderkonferenz	NOUN	Länderkonferenz
-hatte	AUX	haben
-sich	PRON	sich
-gezeigt	VERB	zeigen
+heute	ADV	heute													
+Bei	ADP	bei													
+der	DET	der	Dat	Def			Fem		Sing			Art			
+gestern	ADV	gestern													
+stattgefundenen	ADJ	stattgefunden	Dat		Pos		Fem		Sing						
+Länderkonferenz	NOUN	Länderkonferenz	Dat				Fem		Sing						
+hatte	AUX	haben						Ind	Sing	3				Past	Fin
+sich	PRON	sich	Acc						Sing	3		Prs	Yes		
+gezeigt	VERB	zeigen													Part
 <g/>
 ,	
-daß	SCONJ	daß
-die	DET	der
-Länder	NOUN	Land
-tatsächlich	ADV	tatsächlich
-bisher	ADV	bisher
-nicht	PART	nicht
-imstande	ADV	imstande
-waren	AUX	sein
+daß	SCONJ	daß													
+die	DET	der	Nom	Def			Neut		Plur			Art			
+Länder	NOUN	Land	Nom				Neut		Plur						
+tatsächlich	ADV	tatsächlich			Pos										
+bisher	ADV	bisher													
+nicht	PART	nicht													
+imstande	ADV	imstande													
+waren	AUX	sein						Ind	Plur	3				Past	Fin
 <g/>
 ,	
-die	DET	der
-näheren	ADJ	nah
-Bestimmungen	NOUN	Bestimmung
-zur	ADP	zu
-Durchführung	NOUN	Durchführung
-der	DET	der
-Vollzugsanweisung	NOUN	Vollzugsanweisung
-über	ADP	über
-den	DET	der
-Reise-	X	Reise
-und	CCONJ	und
-Sommerverkehr	NOUN	Sommerverkehr
-zu	PART	zu
-traffen	VERB	traffen
+die	DET	der	Acc	Def			Fem		Plur			Art			
+näheren	ADJ	nah	Acc		Cmp		Fem		Plur						
+Bestimmungen	NOUN	Bestimmung	Acc				Fem		Plur						
+zur	ADP	zu	Dat				Fem		Sing						
+Durchführung	NOUN	Durchführung	Dat				Fem		Sing						
+der	DET	der	Gen	Def			Fem		Sing			Art			
+Vollzugsanweisung	NOUN	Vollzugsanweisung	Gen				Fem		Sing						
+über	ADP	über													
+den	DET	der	Acc	Def			Masc		Sing			Art			
+Reise-	X	Reise													
+und	CCONJ	und													
+Sommerverkehr	NOUN	Sommerverkehr	Acc				Masc		Sing						
+zu	PART	zu													
+traffen	VERB	traffen													Inf
 <g/>
 ,	
-daß	SCONJ	daß
-dies	PRON	dieser
-jedoch	ADV	jedoch
-bis	ADP	bis
-zum	ADP	zu
-10.	ADJ	10.
-Juni	NOUN	Juni
+daß	SCONJ	daß													
+dies	PRON	dieser	Nom				Neut		Sing			Dem			
+jedoch	ADV	jedoch													
+bis	ADP	bis													
+zum	ADP	zu	Dat				Masc		Sing						
+10.	ADJ	10.	Dat		Pos		Masc		Sing						
+Juni	NOUN	Juni	Dat				Masc		Sing						
 <g/>
 ,	
-möglich	ADV	möglich
-sein	AUX	sein
-wird	AUX	werden
+möglich	ADV	möglich			Pos										
+sein	AUX	sein													Inf
+wird	AUX	werden						Ind	Sing	3				Pres	Fin
 <g/>
 .	
-Was	PRON	was
-speziell	ADV	speziell
-die	DET	der
-so	ADV	so
-vielfach	ADV	vielfach
-in	ADP	in
-der	DET	der
-Oeffentlichkeit	NOUN	Oeffentlichkeit
-erörterten	ADJ	erörtert
-Einreisebewilligungen	NOUN	Einreisebewilligung
-betrifft	VERB	betreffen
+Was	PRON	was	Nom				Neut		Sing			Int			
+speziell	ADV	speziell			Pos										
+die	DET	der	Acc	Def			Fem		Plur			Art			
+so	ADV	so													
+vielfach	ADV	vielfach													
+in	ADP	in													
+der	DET	der	Dat	Def			Fem		Sing			Art			
+Oeffentlichkeit	NOUN	Oeffentlichkeit	Dat				Fem		Sing						
+erörterten	ADJ	erörtert	Acc		Pos		Fem		Plur						
+Einreisebewilligungen	NOUN	Einreisebewilligung	Acc				Fem		Plur						
+betrifft	VERB	betreffen						Ind	Sing	3				Pres	Fin
 <g/>
 .	
-so	ADV	so
-werden	AUX	werden
-die	DET	der
-Landesregierungen	NOUN	Landesregierung
-Verfügungen	NOUN	Verfügung
-treffen	VERB	treffen
+so	ADV	so													
+werden	AUX	werden						Ind	Plur	3				Pres	Fin
+die	DET	der	Nom	Def			Fem		Plur			Art			
+Landesregierungen	NOUN	Landesregierung	Nom				Fem		Plur						
+Verfügungen	NOUN	Verfügung	Acc				Fem		Plur						
+treffen	VERB	treffen													Inf
 <g/>
 ,	
-damit	SCONJ	damit
-diese	PRON	dieser
-bereits	ADV	bereits
-in	ADP	in
-den	DET	der
-nächsten	ADJ	nächster
-Tagen	NOUN	Tag
-nicht	PART	nicht
-mehr	ADV	mehr
-gehandhabt	VERB	handhaben
-werden	AUX	werden
+damit	SCONJ	damit													
+diese	PRON	dieser	Nom				Fem		Plur			Dem			
+bereits	ADV	bereits													
+in	ADP	in													
+den	DET	der	Dat	Def			Masc		Plur			Art			
+nächsten	ADJ	nächster	Dat		Pos		Masc		Plur						
+Tagen	NOUN	Tag	Dat				Masc		Plur						
+nicht	PART	nicht													
+mehr	ADV	mehr													
+gehandhabt	VERB	handhaben													Part
+werden	AUX	werden						Ind	Plur	3				Pres	Fin
 <g/>
 .	
-Das	DET	der
-Staatsamt	NOUN	Staatsamt
-für	ADP	für
-Volksernährung	NOUN	Volksernährung
-hat	AUX	haben
-bei	ADP	bei
-der	DET	der
-Länderkonferenz	NOUN	Länderkonferenz
-in	ADP	in
-Aussicht	NOUN	Aussicht
-gestellt	VERB	stellen
+Das	DET	der	Nom	Def			Neut		Sing			Art			
+Staatsamt	NOUN	Staatsamt	Nom				Neut		Sing						
+für	ADP	für													
+Volksernährung	NOUN	Volksernährung	Acc				Fem		Sing						
+hat	AUX	haben						Ind	Sing	3				Pres	Fin
+bei	ADP	bei													
+der	DET	der	Dat	Def			Fem		Sing			Art			
+Länderkonferenz	NOUN	Länderkonferenz	Dat				Fem		Sing						
+in	ADP	in													
+Aussicht	NOUN	Aussicht	Acc				Fem		Sing						
+gestellt	VERB	stellen													Part
 <g/>
 ,	
-den	DET	der
-Ländern	NOUN	Land
-zum	ADP	zu
-Zwecke	NOUN	Zweck
-der	DET	der
-besseren	ADJ	gut
-Versorgung	NOUN	Versorgung
-während	ADP	während
-der	DET	der
-Zeit	NOUN	Zeit
+den	DET	der	Dat	Def			Neut		Plur			Art			
+Ländern	NOUN	Land	Dat				Neut		Plur						
+zum	ADP	zu	Dat				Masc		Sing						
+Zwecke	NOUN	Zweck	Dat				Masc		Sing						
+der	DET	der	Gen	Def			Fem		Sing			Art			
+besseren	ADJ	gut	Gen		Cmp		Fem		Sing						
+Versorgung	NOUN	Versorgung	Gen				Fem		Sing						
+während	ADP	während													
+der	DET	der		Def			Fem		Sing			Art			
+Zeit	NOUN	Zeit					Fem		Sing						
 <g/>
 ,	
-welche	PRON	welcher
-für	ADP	für
-den	DET	der
-Sommerverkehr	NOUN	Sommerverkehr
-in	ADP	in
-Betracht	NOUN	Betracht
-kommt	VERB	kommen
+welche	PRON	welcher	Nom				Fem		Sing			Rel			
+für	ADP	für													
+den	DET	der	Acc	Def			Masc		Sing			Art			
+Sommerverkehr	NOUN	Sommerverkehr	Acc				Masc		Sing						
+in	ADP	in													
+Betracht	NOUN	Betracht	Acc				Masc		Sing						
+kommt	VERB	kommen						Ind	Sing	3				Pres	Fin
 <g/>
 ,	
-besondere	ADJ	besonderer
-Zuschübe	NOUN	Zuschub
-zur	ADP	zu
-Verfügung	NOUN	Verfügung
-zu	PART	zu
-stellen	VERB	stellen
+besondere	ADJ	besonderer	Acc		Pos		Masc		Plur						
+Zuschübe	NOUN	Zuschub	Acc				Masc		Plur						
+zur	ADP	zu	Dat				Fem		Sing						
+Verfügung	NOUN	Verfügung	Dat				Fem		Sing						
+zu	PART	zu													
+stellen	VERB	stellen													Inf
 <g/>
 .	
-In	ADP	in
-den	DET	der
-Ländern	NOUN	Land
+In	ADP	in													
+den	DET	der	Dat	Def			Neut		Plur			Art			
+Ländern	NOUN	Land	Dat				Neut		Plur						
 <g/>
 ,	
-welche	PRON	welcher
-von	ADP	von
-Sommerfrischlern	NOUN	Sommerfrischler
-besucht	VERB	besuchen
-werden	AUX	werden
+welche	PRON	welcher	Nom				Neut		Plur			Rel			
+von	ADP	von													
+Sommerfrischlern	NOUN	Sommerfrischler	Dat				Masc		Plur						
+besucht	VERB	besuchen													Part
+werden	AUX	werden						Ind	Plur	3				Pres	Fin
 <g/>
 ,	
-dürfte	AUX	dürfen
-dadurch	ADV	dadurch
-die	DET	der
-Möglichkeit	NOUN	Möglichkeit
-geboten	VERB	bieten
-sein	AUX	sein
+dürfte	AUX	dürfen						Sub	Sing	3				Past	Fin
+dadurch	ADV	dadurch													
+die	DET	der	Nom	Def			Fem		Sing			Art			
+Möglichkeit	NOUN	Möglichkeit	Nom				Fem		Sing						
+geboten	VERB	bieten													Part
+sein	AUX	sein													Inf
 <g/>
 ,	
-auch	ADV	auch
-der	DET	der
-ortsansäßigen	ADJ	ortsansäßig
-Bevölkerung	NOUN	Bevölkerung
-eine	DET	ein
-Erleichterung	NOUN	Erleichterung
-ihrer	DET	ihr
-Versorgung	NOUN	Versorgung
-zu	PART	zu
-bieten	VERB	bieten
+auch	ADV	auch													
+der	DET	der	Dat	Def			Fem		Sing			Art			
+ortsansäßigen	ADJ	ortsansäßig	Dat		Pos		Fem		Sing						
+Bevölkerung	NOUN	Bevölkerung	Dat				Fem		Sing						
+eine	DET	ein	Acc	Ind			Fem		Sing			Art			
+Erleichterung	NOUN	Erleichterung	Acc				Fem		Sing						
+ihrer	DET	ihr	Gen				Fem		Sing		Yes	Prs			
+Versorgung	NOUN	Versorgung	Gen				Fem		Sing						
+zu	PART	zu													
+bieten	VERB	bieten													Inf
 <g/>
 .	
-000001	NUM	000001
-Vollzugsanweisung	NOUN	Vollzugsanweisung
+000001	NUM	000001													
+Vollzugsanweisung	NOUN	Vollzugsanweisung	Nom				Fem		Sing						
 <g/>
 .	
-der	DET	der
-Staatsregierung	NOUN	Staatsregierung
-vom	ADP	von
-19.	ADJ	19.
-Mai	NOUN	Mai
-1919	NUM	1919
+der	DET	der	Dat	Def			Fem		Sing			Art			
+Staatsregierung	NOUN	Staatsregierung	Dat				Fem		Sing						
+vom	ADP	von	Dat				Masc		Sing						
+19.	ADJ	19.	Dat		Pos		Masc		Sing						
+Mai	NOUN	Mai	Dat				Masc		Sing						
+1919	NUM	1919													
 <g/>
 ,	
-mit	ADP	mit
-welcher	PRON	welcher
-die	DET	der
-Vollzugsanweisung	NOUN	Vollzugsanweisung
+mit	ADP	mit													
+welcher	PRON	welcher	Dat				Fem		Sing			Rel			
+die	DET	der	Nom	Def			Fem		Sing			Art			
+Vollzugsanweisung	NOUN	Vollzugsanweisung	Nom				Fem		Sing						
 <g/>
 .	
-vom	ADP	von
-29.	ADJ	29.
-April	NOUN	April
-1919	NUM	1919
+vom	ADP	von	Dat				Masc		Sing						
+29.	ADJ	29.	Dat		Pos		Masc		Sing						
+April	NOUN	April	Dat				Masc		Sing						
+1919	NUM	1919													
 <g/>
 ,	
-St.	PROPN	St.
-G.Bl	PROPN	G.Bl
-.	NOUN	.
-Nr.	NOUN	Nr.
-252	NUM	252
+St.	PROPN	St.													
+G.Bl	PROPN	G.Bl	Nom				Neut		Sing						
+.	NOUN	.	Nom				Fem		Sing						
+Nr.	NOUN	Nr.	Nom				Fem		Sing						
+252	NUM	252													
 <g/>
 ,	
-ergänzt	VERB	ergänzen
-wird	AUX	werden
+ergänzt	VERB	ergänzen													Part
+wird	AUX	werden						Ind	Sing	3				Pres	Fin
 <g/>
 .	
-Auf	ADP	auf
-Grund	NOUN	Grund
-des	DET	der
-Gesetzes	NOUN	Gesetz
-vom	ADP	von
-24.	ADJ	24.
-Juli	NOUN	Juli
-1917,R.	PROPN	1917,R.
-G.	PROPN	G.
-Bl	NOUN	Bl
-.	NOUN	.
-Nr.	NOUN	Nr.
-307	NUM	307
+Auf	ADP	auf													
+Grund	NOUN	Grund	Dat				Masc		Sing						
+des	DET	der	Gen	Def			Neut		Sing			Art			
+Gesetzes	NOUN	Gesetz	Gen				Neut		Sing						
+vom	ADP	von	Dat				Masc		Sing						
+24.	ADJ	24.	Dat		Pos		Masc		Sing						
+Juli	NOUN	Juli	Dat				Masc		Sing						
+1917,R.	PROPN	1917,R.	Nom						Sing						
+G.	PROPN	G.	Nom						Sing						
+Bl	NOUN	Bl	Nom				Fem		Sing						
+.	NOUN	.	Nom				Fem		Sing						
+Nr.	NOUN	Nr.	Nom				Fem		Sing						
+307	NUM	307													
 <g/>
 ,	
-wird	AUX	werden
-in	ADP	in
-Ergänzung	NOUN	Ergänzung
-der	DET	der
-Vollzugsanweisung	NOUN	Vollzugsanweisung
-vom	ADP	von
-29.	ADJ	29.
-April	NOUN	April
-1919	NUM	1919
+wird	AUX	werden						Ind	Sing	3				Pres	Fin
+in	ADP	in													
+Ergänzung	NOUN	Ergänzung	Dat				Fem		Sing						
+der	DET	der	Gen	Def			Fem		Sing			Art			
+Vollzugsanweisung	NOUN	Vollzugsanweisung	Gen				Fem		Sing						
+vom	ADP	von	Dat				Masc		Sing						
+29.	ADJ	29.	Dat		Pos		Masc		Sing						
+April	NOUN	April	Dat				Masc		Sing						
+1919	NUM	1919													
 <g/>
 ,	
-St.	PROPN	St.
-G.Bl	PROPN	G.Bl
-.	NOUN	.
-Nr.	NOUN	Nr.
-252	NUM	252
+St.	PROPN	St.													
+G.Bl	PROPN	G.Bl	Nom				Neut		Sing						
+.	NOUN	.	Nom				Fem		Sing						
+Nr.	NOUN	Nr.	Nom				Fem		Sing						
+252	NUM	252													
 <g/>
 ,	
-verordnet	VERB	verordnen
-wie	SCONJ	wie
-folgt	VERB	folgen
+verordnet	VERB	verordnen													Part
+wie	SCONJ	wie										Int			
+folgt	VERB	folgen						Ind	Sing	3				Pres	Fin
 <g/>
 :	
-Artikel	NOUN	Artikel
-1.	NUM	1.
+Artikel	NOUN	Artikel	Nom				Masc		Sing						
+1.	NUM	1.													
 <g/>
 )	
-Die	DET	der
-Landesregierungen	NOUN	Landesregierung
-sind	AUX	sein
+Die	DET	der	Nom	Def			Fem		Plur			Art			
+Landesregierungen	NOUN	Landesregierung	Nom				Fem		Plur						
+sind	AUX	sein						Ind	Plur	3				Pres	Fin
 <g/>
 (	
-ermächtigt	VERB	ermächtigen
+ermächtigt	VERB	ermächtigen													Part
 <g/>
 ,	
-jeden	DET	jeder
-über	ADV	über
-drei	NUM	drei
-Tage	NOUN	Tag
-dauernden	ADJ	dauernd
-Sommeraufenthalt	NOUN	Sommeraufenthalt
-von	ADP	von
-Personen	NOUN	Person
+jeden	DET	jeder	Acc				Masc		Sing			Ind			
+über	ADV	über													
+drei	NUM	drei													
+Tage	NOUN	Tag	Acc				Masc		Plur						
+dauernden	ADJ	dauernd	Acc		Pos		Masc		Sing						
+Sommeraufenthalt	NOUN	Sommeraufenthalt	Acc				Masc		Sing						
+von	ADP	von													
+Personen	NOUN	Person	Dat				Fem		Plur						
 <g/>
 ,	
-sofern	SCONJ	sofern
-sie	PRON	sie
-nicht	PART	nicht
-in	ADP	in
-der	DET	der
-betreffenden	ADJ	betreffend
-Gemeinde	NOUN	Gemeinde
-heimatberechtigt	ADV	heimatberechtigt
-sind	AUX	sein
-oder	CCONJ	oder
-dortselbst	ADV	dortselbst
-ihren	DET	ihr
-ständigen	ADJ	ständig
-Aufenthalt	NOUN	Aufenthalt
-haben	VERB	haben
+sofern	SCONJ	sofern													
+sie	PRON	sie	Nom				Fem		Plur	3		Prs			
+nicht	PART	nicht													
+in	ADP	in													
+der	DET	der	Dat	Def			Fem		Sing			Art			
+betreffenden	ADJ	betreffend	Dat		Pos		Fem		Sing						
+Gemeinde	NOUN	Gemeinde	Dat				Fem		Sing						
+heimatberechtigt	ADV	heimatberechtigt			Pos										
+sind	AUX	sein						Ind	Plur	3				Pres	Fin
+oder	CCONJ	oder													
+dortselbst	ADV	dortselbst													
+ihren	DET	ihr	Acc				Masc		Sing		Yes	Prs			
+ständigen	ADJ	ständig	Acc		Pos		Masc		Sing						
+Aufenthalt	NOUN	Aufenthalt	Acc				Masc		Sing						
+haben	VERB	haben						Ind	Plur	3				Pres	Fin
 <g/>
 ,	
-an	ADP	an
-eine	DET	ein
-besondere	ADJ	besonderer
-Bewilligung	NOUN	Bewilligung
-zu	PART	zu
-knüpfen	VERB	knüpfen
+an	ADP	an													
+eine	DET	ein	Acc	Ind			Fem		Sing			Art			
+besondere	ADJ	besonderer	Acc		Pos		Fem		Sing						
+Bewilligung	NOUN	Bewilligung	Acc				Fem		Sing						
+zu	PART	zu													
+knüpfen	VERB	knüpfen													Inf
 <g/>
 .	
 <g/>
 )	
-Durch	ADP	durch
-diese	DET	dieser
-Bestimmung	NOUN	Bestimmung
-werden	AUX	werden
-die	DET	der
-hinsichtlich	ADP	hinsichtlich
-des	DET	der
-Aufenthaltes	NOUN	Aufenthalt
-in	ADP	in
-Heilbädern	NOUN	Heilbad
-erlassenen	ADJ	erlassen
-Vorschriften	NOUN	Vorschrift
+Durch	ADP	durch													
+diese	DET	dieser	Acc				Fem		Sing			Dem			
+Bestimmung	NOUN	Bestimmung	Acc				Fem		Sing						
+werden	AUX	werden						Ind	Plur	3				Pres	Fin
+die	DET	der	Nom	Def			Fem		Plur			Art			
+hinsichtlich	ADP	hinsichtlich													
+des	DET	der	Gen	Def			Masc		Sing			Art			
+Aufenthaltes	NOUN	Aufenthalt	Gen				Masc		Sing						
+in	ADP	in													
+Heilbädern	NOUN	Heilbad	Dat				Neut		Plur						
+erlassenen	ADJ	erlassen	Nom		Pos		Fem		Plur						
+Vorschriften	NOUN	Vorschrift	Nom				Fem		Plur						
 <g/>
 (	
-§	NOUN	§
-5	NUM	5
-der	DET	der
-Vollzugsanweisung	NOUN	Vollzugsanweisung
-vom	ADP	von
-29.	ADJ	29.
-April	NOUN	April
-1919	NUM	1919
+§	NOUN	§	Nom				Masc		Sing						
+5	NUM	5													
+der	DET	der	Gen	Def			Fem		Sing			Art			
+Vollzugsanweisung	NOUN	Vollzugsanweisung	Gen				Fem		Sing						
+vom	ADP	von	Dat				Masc		Sing						
+29.	ADJ	29.	Dat		Pos		Masc		Sing						
+April	NOUN	April	Dat				Masc		Sing						
+1919	NUM	1919													
 <g/>
 ,	
-st	NOUN	st
-.	NOUN	.
-G.Bl	NOUN	G.Bl
-.	NOUN	.
-Nr.	NOUN	Nr.
-252	NUM	252
+st	NOUN	st	Nom				Fem		Sing						
+.	NOUN	.	Nom				Fem		Sing						
+G.Bl	NOUN	G.Bl	Nom				Fem		Sing						
+.	NOUN	.	Nom				Fem		Sing						
+Nr.	NOUN	Nr.	Nom				Fem		Sing						
+252	NUM	252													
 <g/>
 )	
-nicht	PART	nicht
-berührt	VERB	berühren
+nicht	PART	nicht													
+berührt	VERB	berühren													Part
 <g/>
 .	
-Artikel	NOUN	Artikel
-2.	NUM	2.
+Artikel	NOUN	Artikel	Nom				Masc		Sing						
+2.	NUM	2.													
 <g/>
 )	
-In	ADP	in
-Abänderung	NOUN	Abänderung
-des	DET	der
-§	NOUN	§
-10	NUM	10
-der	DET	der
-Vollzugsanweisung	NOUN	Vollzugsanweisung
-vom	ADP	von
-29.	ADJ	29.
-April	NOUN	April
-1919	NUM	1919
+In	ADP	in													
+Abänderung	NOUN	Abänderung	Dat				Fem		Sing						
+des	DET	der	Gen	Def			Masc		Sing			Art			
+§	NOUN	§	Gen				Masc		Sing						
+10	NUM	10													
+der	DET	der	Gen	Def			Fem		Sing			Art			
+Vollzugsanweisung	NOUN	Vollzugsanweisung	Gen				Fem		Sing						
+vom	ADP	von	Dat				Masc		Sing						
+29.	ADJ	29.	Dat		Pos		Masc		Sing						
+April	NOUN	April	Dat				Masc		Sing						
+1919	NUM	1919													
 <g/>
 ,	
-St.	PROPN	St.
-G.Bl	PROPN	G.Bl
-.	NOUN	.
-Nr.	NOUN	Nr.
-252	NUM	252
+St.	PROPN	St.													
+G.Bl	PROPN	G.Bl	Nom												
+.	NOUN	.	Nom				Fem		Sing						
+Nr.	NOUN	Nr.	Nom				Fem		Sing						
+252	NUM	252													
 <g/>
 ,	
-wird	AUX	werden
-der	DET	der
-Wirksamkeitsbeginn	NOUN	Wirksamkeitsbeginn
-der	DET	der
-letzterwähnten	ADJ	letzterwähnt
-Vollzugsanweisung	NOUN	Vollzugsanweisung
-erst	ADV	erst
-mit	ADP	mit
-10.	ADJ	10.
-Juni	NOUN	Juni
-1919	NUM	1919
-festgesetzt	VERB	festsetzen
+wird	AUX	werden						Ind	Sing	3				Pres	Fin
+der	DET	der	Nom	Def			Masc		Sing			Art			
+Wirksamkeitsbeginn	NOUN	Wirksamkeitsbeginn	Nom				Masc		Sing						
+der	DET	der	Gen	Def			Fem		Sing			Art			
+letzterwähnten	ADJ	letzterwähnt	Gen		Pos		Fem		Sing						
+Vollzugsanweisung	NOUN	Vollzugsanweisung	Gen				Fem		Sing						
+erst	ADV	erst													
+mit	ADP	mit													
+10.	ADJ	10.	Dat		Pos		Masc		Sing						
+Juni	NOUN	Juni	Dat				Masc		Sing						
+1919	NUM	1919													
+festgesetzt	VERB	festsetzen													Part
 <g/>
 ,	
-soweit	SCONJ	soweit
-ex	NOUN	ex
-sich	PRON	sich
-nicht	PART	nicht
-um	ADP	um
-den	DET	der
-Besuch	NOUN	Besuch
-von	ADP	von
-Heilbädern	NOUN	Heilbad
+soweit	SCONJ	soweit													
+ex	NOUN	ex	Nom						Sing						
+sich	PRON	sich	Acc						Sing	3		Prs	Yes		
+nicht	PART	nicht													
+um	ADP	um													
+den	DET	der	Acc	Def			Masc		Sing			Art			
+Besuch	NOUN	Besuch	Acc				Masc		Sing						
+von	ADP	von													
+Heilbädern	NOUN	Heilbad	Dat				Neut		Plur						
 <g/>
 (	
-§	NOUN	§
-5	NUM	5
+§	NOUN	§	Nom				Masc		Sing						
+5	NUM	5													
 <g/>
 )	
-handelt	VERB	handeln
+handelt	VERB	handeln						Ind	Sing	3				Pres	Fin
 <g/>
 .	
-Artikel	NOUN	Artikel
-3.	ADJ	3.
+Artikel	NOUN	Artikel	Nom				Masc		Sing						
+3.	ADJ	3.	Dat		Pos		Masc		Sing						
 <g/>
 )	
-Artikel	NOUN	Artikel
-2	NUM	2
+Artikel	NOUN	Artikel	Nom				Masc		Sing						
+2	NUM	2													
 <g/>
 )	
-dieser	DET	dieser
-Vollzugsanweisung	NOUN	Vollzugsanweisung
-tritt	VERB	treten
-sofort	ADV	sofort
+dieser	DET	dieser	Gen				Fem		Sing			Dem			
+Vollzugsanweisung	NOUN	Vollzugsanweisung	Gen				Fem		Sing						
+tritt	VERB	treten						Ind	Sing	3				Pres	Fin
+sofort	ADV	sofort													
 <g/>
 ,	
-Artikel	NOUN	Artikel
-1	NUM	1
+Artikel	NOUN	Artikel	Nom				Masc		Sing						
+1	NUM	1													
 <g/>
 )	
-am	ADP	an
-10.	ADJ	10.
-Juni	NOUN	Juni
-1919	NUM	1919
-in	ADP	in
-Kraft	NOUN	Kraft
+am	ADP	an	Dat				Masc		Sing						
+10.	ADJ	10.	Dat		Pos		Masc		Sing						
+Juni	NOUN	Juni	Dat				Masc		Sing						
+1919	NUM	1919													
+in	ADP	in													
+Kraft	NOUN	Kraft	Acc				Fem		Sing						
 <g/>
 .	
-22	NUM	22
-Vertraulich	ADV	vertraulich
+22	NUM	22													
+Vertraulich	ADV	vertraulich			Pos										
 <g/>
 !	
-Kabinettsprotokoll	NOUN	Kabinettsprotokoll
-Nr.	NOUN	Nr.
-12	NUM	12
-vom	ADP	von
-20.	ADJ	20.
-Mai	NOUN	Mai
-1919.	NUM	1919.
-Anwesend	ADV	Anwesend
+Kabinettsprotokoll	NOUN	Kabinettsprotokoll	Nom				Masc		Sing						
+Nr.	NOUN	Nr.	Nom				Fem		Sing						
+12	NUM	12													
+vom	ADP	von	Dat				Masc		Sing						
+20.	ADJ	20.	Dat		Pos		Masc		Sing						
+Mai	NOUN	Mai	Dat				Masc		Sing						
+1919.	NUM	1919.													
+Anwesend	ADV	Anwesend			Pos										
 <g/>
 :	
-Präsldent	NOUN	Präsldent
-Seitz	PROPN	Seitz
-und	CCONJ	und
-säntliche	ADJ	säntlich
-Kabinsttanltglieder	NOUN	Kabinsttanltglied
+Präsldent	NOUN	Präsldent	Nom				Masc		Sing						
+Seitz	PROPN	Seitz	Nom				Masc		Sing						
+und	CCONJ	und													
+säntliche	ADJ	säntlich	Nom		Pos		Neut		Plur						
+Kabinsttanltglieder	NOUN	Kabinsttanltglied	Nom				Neut		Plur						
 <g/>
 ,	
-ausgenommen	VERB	ausnehmen
-Staatskanzler	NOUN	Staatskanzler
-Dr.	NOUN	Dr.
-Re	PROPN	Re
-n	X	n
-n	X	n
-e	X	e
-r	X	r
+ausgenommen	VERB	ausnehmen													Part
+Staatskanzler	NOUN	Staatskanzler	Nom				Masc		Sing						
+Dr.	NOUN	Dr.	Nom				Masc		Sing						
+Re	PROPN	Re	Nom				Masc		Sing						
+n	X	n													
+n	X	n													
+e	X	e													
+r	X	r													
 <g/>
 ,	
-Staatssekratär	NOUN	Staatssekratär
-Ing.	PROPN	Ing.
-Zerd	PROPN	Zerd
-i	PROPN	i
-k	X	k
-und	CCONJ	und
-Unterstaatssekretär	NOUN	Unterstaatssekretär
-Pflügl	PROPN	Pflügl
+Staatssekratär	NOUN	Staatssekratär	Nom				Masc		Sing						
+Ing.	PROPN	Ing.	Nom				Masc		Sing						
+Zerd	PROPN	Zerd	Nom				Masc		Sing						
+i	PROPN	i													
+k	X	k													
+und	CCONJ	und													
+Unterstaatssekretär	NOUN	Unterstaatssekretär	Nom				Masc		Sing						
+Pflügl	PROPN	Pflügl	Nom				Masc		Sing						
 <g/>
 .	
-Zugezogen	VERB	Zugezogen
+Zugezogen	VERB	Zugezogen													Part
 <g/>
 :	
-Sektionschef	NOUN	Sektionschef
-im	ADP	in
-Staatsamt	NOUN	Staatsamt
-für	ADP	für
-Finanzen	NOUN	Finanz
-Dr.	NOUN	Dr.
-Gri	PROPN	Gri
-m	PROPN	m
-m	PROPN	m
+Sektionschef	NOUN	Sektionschef	Nom				Masc		Sing						
+im	ADP	in	Dat				Neut		Sing						
+Staatsamt	NOUN	Staatsamt	Dat				Neut		Sing						
+für	ADP	für													
+Finanzen	NOUN	Finanz	Acc				Fem		Plur						
+Dr.	NOUN	Dr.	Nom				Masc		Sing						
+Gri	PROPN	Gri	Nom				Masc		Sing						
+m	PROPN	m	Nom				Masc		Sing						
+m	PROPN	m	Nom				Masc		Sing						
 <g/>
 ,	
-ferner	ADV	ferner
-zu	ADP	zu
-Punkt	NOUN	Punkt
-8	NUM	8
+ferner	ADV	ferner													
+zu	ADP	zu													
+Punkt	NOUN	Punkt	Dat				Masc		Sing						
+8	NUM	8													
 <g/>
 :	
-Ministerialsskretär	NOUN	Ministerialsskretär
-in	ADP	in
-der	DET	der
-Staatskanzlei	NOUN	Staatskanzlei
-Dr.	NOUN	Dr.
-Mannlicher	PROPN	Mannlicher
+Ministerialsskretär	NOUN	Ministerialsskretär	Nom				Masc		Sing						
+in	ADP	in													
+der	DET	der	Dat	Def			Fem		Sing			Art			
+Staatskanzlei	NOUN	Staatskanzlei	Dat				Fem		Sing						
+Dr.	NOUN	Dr.	Nom				Masc		Sing						
+Mannlicher	PROPN	Mannlicher	Nom				Masc		Sing						
 <g/>
 .	
-Vorsitz	NOUN	Vorsitz
+Vorsitz	NOUN	Vorsitz	Nom				Masc		Sing						
 <g/>
 :	
-Vizekanzler	NOUN	Vizekanzler
-Fink	PROPN	Fink
+Vizekanzler	NOUN	Vizekanzler	Nom				Masc		Sing						
+Fink	PROPN	Fink	Nom				Masc		Sing						
 <g/>
 .	
-Beginn	NOUN	Beginn
+Beginn	NOUN	Beginn	Nom				Masc		Sing						
 <g/>
 ,	
-9	NUM	9
-Uhr	NOUN	Uhr
-abends	ADV	abends
+9	NUM	9													
+Uhr	NOUN	Uhr					Fem								
+abends	ADV	abends													
 <g/>
 .	
-Inhalt	NOUN	Inhalt
+Inhalt	NOUN	Inhalt	Nom				Masc		Sing						
 <g/>
 :	
-1.	ADV	1.
-Ergebnis	NOUN	Ergebnis
-der	DET	der
-Länderkonferenz	NOUN	Länderkonferenz
-über	ADP	über
-den	DET	der
-Reise-	X	Reise
-und	CCONJ	und
-Semmerverketr	NOUN	Semmerverketr
+1.	ADV	1.													
+Ergebnis	NOUN	Ergebnis	Nom				Neut		Sing						
+der	DET	der	Gen	Def			Fem		Sing			Art			
+Länderkonferenz	NOUN	Länderkonferenz	Gen				Fem		Sing						
+über	ADP	über													
+den	DET	der	Acc	Def			Masc		Sing			Art			
+Reise-	X	Reise													
+und	CCONJ	und													
+Semmerverketr	NOUN	Semmerverketr	Acc				Masc		Sing						
 <g/>
 .	
-2.	ADV	2.
-Vertnatung	NOUN	Vertnatung
-Deutsch-Südmährens	PROPN	Deutsch-Südmähren
-bei	ADP	bei
-der	DET	der
-Friedenskonferenz	NOUN	Friedenskonferenz
+2.	ADV	2.													
+Vertnatung	NOUN	Vertnatung	Nom				Fem		Sing						
+Deutsch-Südmährens	PROPN	Deutsch-Südmähren	Gen				Neut		Sing						
+bei	ADP	bei													
+der	DET	der	Dat	Def			Fem		Sing			Art			
+Friedenskonferenz	NOUN	Friedenskonferenz	Dat				Fem		Sing						
 <g/>
 .	
-Folio	NOUN	Folio
-1	NUM	1
--	NUM	-
-98	NUM	98
-12	NUM	12
-3.	ADV	3.
-Gesetzentwurf	NOUN	Gesetzentwurf
-über	ADP	über
-die	DET	der
-Aufnahme	NOUN	Aufnahme
-weiterer	ADJ	weit
-Anlehen	NOUN	Anlehen
-in	ADP	in
-ausländischer	ADJ	ausländisch
-Währung	NOUN	Währung
-und	CCONJ	und
-über	ADP	über
-die	DET	der
-Heranziehung	NOUN	Heranziehung
-des	DET	der
-Forstbesitzes	NOUN	Forstbesitz
-zur	ADP	zu
-Sicherstellung	NOUN	Sicherstellung
-solcher	DET	solcher
-Anlehen	NOUN	Anlehen
+Folio	NOUN	Folio	Nom						Sing						
+1	NUM	1													
+-	NUM	-													
+98	NUM	98													
+12	NUM	12													
+3.	ADV	3.													
+Gesetzentwurf	NOUN	Gesetzentwurf	Nom				Masc		Sing						
+über	ADP	über													
+die	DET	der	Acc	Def			Fem		Sing			Art			
+Aufnahme	NOUN	Aufnahme	Acc				Fem		Sing						
+weiterer	ADJ	weit	Gen		Cmp		Neut		Plur						
+Anlehen	NOUN	Anlehen	Gen				Neut		Plur						
+in	ADP	in													
+ausländischer	ADJ	ausländisch	Dat		Pos		Fem		Sing						
+Währung	NOUN	Währung	Dat				Fem		Sing						
+und	CCONJ	und													
+über	ADP	über													
+die	DET	der	Acc	Def			Fem		Sing			Art			
+Heranziehung	NOUN	Heranziehung	Acc				Fem		Sing						
+des	DET	der	Gen	Def			Masc		Sing			Art			
+Forstbesitzes	NOUN	Forstbesitz	Gen				Masc		Sing						
+zur	ADP	zu	Dat				Fem		Sing						
+Sicherstellung	NOUN	Sicherstellung	Dat				Fem		Sing						
+solcher	DET	solcher	Gen				Neut		Plur			Ind			
+Anlehen	NOUN	Anlehen	Gen				Neut		Plur						
 <g/>
 .	
-4.	ADV	4.
-Beitritt	NOUN	Beitritt
-der	DET	der
-Staatsregterung	NOUN	Staatsregterung
-zu	ADP	zu
-mehreren	DET	mehrere
-von	ADP	von
-der	DET	der
-Nationalversammlung	NOUN	Nationalversammlung
-beschlossenen	ADJ	beschlossen
-Gesetzen	NOUN	Gesetz
+4.	ADV	4.													
+Beitritt	NOUN	Beitritt	Nom				Masc		Sing						
+der	DET	der	Gen	Def			Fem		Sing			Art			
+Staatsregterung	NOUN	Staatsregterung	Gen				Fem		Sing						
+zu	ADP	zu													
+mehreren	DET	mehrere	Dat				Neut		Plur			Ind			
+von	ADP	von													
+der	DET	der	Dat	Def			Fem		Sing			Art			
+Nationalversammlung	NOUN	Nationalversammlung	Dat				Fem		Sing						
+beschlossenen	ADJ	beschlossen	Dat		Pos		Neut		Plur						
+Gesetzen	NOUN	Gesetz	Dat				Neut		Plur						
 <g/>
 .	
-5.	ADV	5.
-Flüssigmachung	NOUN	Flüssigmachung
-der	DET	der
-den	DET	der
-vormaligen	ADJ	vormalig
-Erzherzogen	NOUN	Erzherzog
-Peter	PROPN	Peter
-Ferdinand	PROPN	Ferdinand
-und	CCONJ	und
-Heinrich	PROPN	Heinrich
-Ferdinand	PROPN	Ferdinand
-vom	ADP	von
-ehemaligen	ADJ	ehemalig
-Kaiser	NOUN	Kaiser
-bewilligten	ADJ	bewilligt
-Unterstützungen	NOUN	Unterstützung
+5.	ADV	5.													
+Flüssigmachung	NOUN	Flüssigmachung	Nom				Fem		Sing						
+der	DET	der	Gen	Def			Fem		Plur			Art			
+den	DET	der	Dat	Def			Masc		Plur			Art			
+vormaligen	ADJ	vormalig	Dat		Pos		Masc		Plur						
+Erzherzogen	NOUN	Erzherzog	Dat				Masc		Plur						
+Peter	PROPN	Peter	Nom				Masc		Sing						
+Ferdinand	PROPN	Ferdinand	Nom				Masc		Sing						
+und	CCONJ	und													
+Heinrich	PROPN	Heinrich	Nom				Masc		Sing						
+Ferdinand	PROPN	Ferdinand	Nom				Masc		Sing						
+vom	ADP	von	Dat				Masc		Sing						
+ehemaligen	ADJ	ehemalig	Dat		Pos		Masc		Sing						
+Kaiser	NOUN	Kaiser	Dat				Masc		Sing						
+bewilligten	ADJ	bewilligt	Gen		Pos		Fem		Plur						
+Unterstützungen	NOUN	Unterstützung	Gen				Fem		Plur						
 <g/>
 .	
-6.	ADV	6.
-Vollzugsanweisung	NOUN	Vollzugsanweisung
-über	ADP	über
-die	DET	der
-Aenderung	NOUN	Aenderung
-der	DET	der
-Bezeichnung	NOUN	Bezeichnung
-des	DET	der
-Kreisgerichtss	NOUN	Kreisgerichts
-Feldkirch	PROPN	Feldkirch
-in	ADP	in
+6.	ADV	6.													
+Vollzugsanweisung	NOUN	Vollzugsanweisung	Nom				Fem		Sing						
+über	ADP	über													
+die	DET	der	Acc	Def			Fem		Sing			Art			
+Aenderung	NOUN	Aenderung	Acc				Fem		Sing						
+der	DET	der	Gen	Def			Fem		Sing			Art			
+Bezeichnung	NOUN	Bezeichnung	Gen				Fem		Sing						
+des	DET	der	Gen	Def			Neut		Sing			Art			
+Kreisgerichtss	NOUN	Kreisgerichts	Gen				Neut		Sing						
+Feldkirch	PROPN	Feldkirch	Nom				Neut		Sing						
+in	ADP	in													
 <g/>
 „	
-landesgericht	NOUN	landesgericht
-Feldkirch	PROPN	Feldkirch
+landesgericht	NOUN	landesgericht	Dat				Neut		Sing						
+Feldkirch	PROPN	Feldkirch	Nom				Neut		Sing						
 <g/>
 “	
 <g/>
 .	
-7.	ADV	7.
-Regelung	NOUN	Regelung
-der	DET	der
-Erholungsurlaube	NOUN	Erholungsurlaub
-der	DET	der
-Staatsbediensteten	NOUN	Staatsbediensteter
-für	ADP	für
-das	DET	der
-Jahr	NOUN	Jahr
-1919.	NUM	1919.
-8.	ADV	8.
-Stellung	NOUN	Stellung
-und	CCONJ	und
-Bezüge	NOUN	Bezug
-der	DET	der
-in	ADP	in
-den	DET	der
-deutschösterreichischen	ADJ	deutschösterreichisch
-Staatsdienst	NOUN	Staatsdienst
-übernommenen	ADJ	übernommen
-Bedienststen	NOUN	Bedienststen
-des	DET	der
-liquidierenden	ADJ	liquidierend
-Ministeriums	NOUN	Ministerium
-für	ADP	für
-Landesverteidigung	NOUN	Landesverteidigung
+7.	ADV	7.													
+Regelung	NOUN	Regelung	Nom				Fem		Sing						
+der	DET	der	Gen	Def			Masc		Plur			Art			
+Erholungsurlaube	NOUN	Erholungsurlaub	Gen				Masc		Plur						
+der	DET	der	Gen	Def					Plur			Art			
+Staatsbediensteten	NOUN	Staatsbediensteter	Gen						Plur						
+für	ADP	für													
+das	DET	der	Acc	Def			Neut		Sing			Art			
+Jahr	NOUN	Jahr	Acc				Neut		Sing						
+1919.	NUM	1919.													
+8.	ADV	8.													
+Stellung	NOUN	Stellung	Nom				Fem		Sing						
+und	CCONJ	und													
+Bezüge	NOUN	Bezug	Nom				Masc		Plur						
+der	DET	der	Gen	Def			Masc		Plur			Art			
+in	ADP	in													
+den	DET	der	Acc	Def			Masc		Sing			Art			
+deutschösterreichischen	ADJ	deutschösterreichisch	Acc		Pos		Masc		Sing						
+Staatsdienst	NOUN	Staatsdienst	Acc				Masc		Sing						
+übernommenen	ADJ	übernommen	Gen		Pos		Masc		Plur						
+Bedienststen	NOUN	Bedienststen	Gen				Masc		Plur						
+des	DET	der	Gen	Def			Neut		Sing			Art			
+liquidierenden	ADJ	liquidierend	Gen		Pos		Neut		Sing						
+Ministeriums	NOUN	Ministerium	Gen				Neut		Sing						
+für	ADP	für													
+Landesverteidigung	NOUN	Landesverteidigung	Acc				Fem		Sing						
 <g/>
 .	
-9.	ADV	9.
-Uabernahme	NOUN	Uabernahme
-der	DET	der
-im	ADP	in
-Verwaltungsdienst	NOUN	Verwaltungsdienst
-Bosniens	PROPN	Bosnien
-und	CCONJ	und
-der	DET	der
-Herzegowina	PROPN	Herzegowina
-stehenden	ADJ	stehend
-Beamten	NOUN	Beamter
-deutscher	ADJ	deutsch
-Nationalität	NOUN	Nationalität
-in	ADP	in
-den	DET	der
-deutschösterreichtschen	ADJ	deutschösterreichtsch
-Staatsdienst	NOUN	Staatsdienst
+9.	ADV	9.													
+Uabernahme	NOUN	Uabernahme	Nom				Fem		Sing						
+der	DET	der	Gen	Def			Masc		Plur			Art			
+im	ADP	in	Dat				Masc		Sing						
+Verwaltungsdienst	NOUN	Verwaltungsdienst	Dat				Masc		Sing						
+Bosniens	PROPN	Bosnien	Gen				Neut		Sing						
+und	CCONJ	und													
+der	DET	der	Gen	Def			Fem		Sing			Art			
+Herzegowina	PROPN	Herzegowina	Gen				Fem		Sing						
+stehenden	ADJ	stehend	Gen		Pos		Masc		Plur						
+Beamten	NOUN	Beamter	Gen				Masc		Plur						
+deutscher	ADJ	deutsch	Gen		Pos		Fem		Sing						
+Nationalität	NOUN	Nationalität	Gen				Fem		Sing						
+in	ADP	in													
+den	DET	der	Acc	Def			Masc		Sing			Art			
+deutschösterreichtschen	ADJ	deutschösterreichtsch	Acc		Pos		Masc		Sing						
+Staatsdienst	NOUN	Staatsdienst	Acc				Masc		Sing						
 <g/>
 .	
-10.	ADV	10.
-Memoranden	NOUN	Memorandum
-der	DET	der
-Paritätischen	ADJ	Paritätischen
-Industrieförderungskommission	NOUN	Industrieförderungskommission
+10.	ADV	10.													
+Memoranden	NOUN	Memorandum	Nom				Neut		Plur						
+der	DET	der	Gen	Def			Fem		Sing			Art			
+Paritätischen	ADJ	Paritätischen	Gen		Pos		Fem		Sing						
+Industrieförderungskommission	NOUN	Industrieförderungskommission	Gen				Fem		Sing						
 <g/>
 .	
-11.	ADJ	11.
-Gesetzesbeschluß	NOUN	Gesetzesbeschluß
-der	DET	der
-provisorischen	ADJ	provisorisch
-Landesversammlung	NOUN	Landesversammlung
-in	ADP	in
-Steiermark	PROPN	Steiermark
-über	ADP	über
-die	DET	der
-Einführung	NOUN	Einführung
-einer	DET	ein
-Wertzuwachsabgabe	NOUN	Wertzuwachsabgabe
+11.	ADJ	11.	Nom		Pos		Masc		Sing						
+Gesetzesbeschluß	NOUN	Gesetzesbeschluß	Nom				Masc		Sing						
+der	DET	der	Gen	Def			Fem		Sing			Art			
+provisorischen	ADJ	provisorisch	Gen		Pos		Fem		Sing						
+Landesversammlung	NOUN	Landesversammlung	Gen				Fem		Sing						
+in	ADP	in													
+Steiermark	PROPN	Steiermark	Dat				Neut		Sing						
+über	ADP	über													
+die	DET	der	Acc	Def			Fem		Sing			Art			
+Einführung	NOUN	Einführung	Acc				Fem		Sing						
+einer	DET	ein	Gen	Ind			Fem		Sing			Art			
+Wertzuwachsabgabe	NOUN	Wertzuwachsabgabe	Gen				Fem		Sing						
 <g/>
 .	
-12.	ADV	12.
-Erklärung	NOUN	Erklärung
-über	ADP	über
-den	DET	der
-Umfang	NOUN	Umfang
-des	DET	der
-in	ADP	in
-Aussicht	NOUN	Aussicht
-genommenen	ADJ	genommen
-Sozialisisrungsaktion	NOUN	Sozialisisrungsaktion
+12.	ADV	12.													
+Erklärung	NOUN	Erklärung	Nom				Fem		Sing						
+über	ADP	über													
+den	DET	der	Acc	Def			Masc		Sing			Art			
+Umfang	NOUN	Umfang	Acc				Masc		Sing						
+des	DET	der	Gen	Def			Neut		Sing			Art			
+in	ADP	in													
+Aussicht	NOUN	Aussicht	Acc				Fem		Sing						
+genommenen	ADJ	genommen	Gen		Pos		Fem		Sing						
+Sozialisisrungsaktion	NOUN	Sozialisisrungsaktion	Gen				Masc		Sing						
 <g/>
 .	
-13.	ADV	13.
-Zusammensetzung	NOUN	Zusammensetzung
-des	DET	der
-Bureaus	NOUN	Bureau
-der	DET	der
-Sozialisierungskommission	NOUN	Sozialisierungskommission
-und	CCONJ	und
-Bezüge	NOUN	Bezug
-ihrer	DET	ihr
-Beamten	NOUN	Beamter
+13.	ADV	13.													
+Zusammensetzung	NOUN	Zusammensetzung	Nom				Fem		Sing						
+des	DET	der	Gen	Def			Neut		Sing			Art			
+Bureaus	NOUN	Bureau	Gen				Neut		Sing						
+der	DET	der	Gen	Def			Fem		Sing			Art			
+Sozialisierungskommission	NOUN	Sozialisierungskommission	Gen				Fem		Sing						
+und	CCONJ	und													
+Bezüge	NOUN	Bezug	Nom				Masc		Plur						
+ihrer	DET	ihr	Gen				Masc		Plur		Yes	Prs			
+Beamten	NOUN	Beamter	Gen				Masc		Plur						
 <g/>
 .	
-14.	ADV	14.
-Beendigung	NOUN	Beendigung
-der	DET	der
-Wirksamkeit	NOUN	Wirksamkeit
-des	DET	der
-Obersten	ADJ	oberer
-Sanitätsrates	NOUN	Sanitätsrat
-und	CCONJ	und
-des	DET	der
-Obersten	ADJ	oberer
-Lebensmittelbeirates.3	NOUN	Lebensmittelbeirates.3
-15.	ADV	15.
-Gesetzentwurf	NOUN	Gesetzentwurf
-über	ADP	über
-die	DET	der
-Regelung	NOUN	Regelung
-des	DET	der
-Verkehrs	NOUN	Verkehr
-mit	ADP	mit
-Getreide	NOUN	Getreide
-und	CCONJ	und
-Mahlprodukten	NOUN	Mahlprodukt
+14.	ADV	14.													
+Beendigung	NOUN	Beendigung	Nom				Fem		Sing						
+der	DET	der	Gen	Def			Fem		Sing			Art			
+Wirksamkeit	NOUN	Wirksamkeit	Gen				Fem		Sing						
+des	DET	der	Gen	Def			Masc		Sing			Art			
+Obersten	ADJ	oberer	Gen		Sup		Masc		Sing						
+Sanitätsrates	NOUN	Sanitätsrat	Gen				Masc		Sing						
+und	CCONJ	und													
+des	DET	der	Gen	Def			Masc		Sing			Art			
+Obersten	ADJ	oberer	Gen		Sup		Masc		Sing						
+Lebensmittelbeirates.3	NOUN	Lebensmittelbeirates.3	Gen				Masc		Sing						
+15.	ADV	15.													
+Gesetzentwurf	NOUN	Gesetzentwurf	Nom				Masc		Sing						
+über	ADP	über													
+die	DET	der	Acc	Def			Fem		Sing			Art			
+Regelung	NOUN	Regelung	Acc				Fem		Sing						
+des	DET	der	Gen	Def			Masc		Sing			Art			
+Verkehrs	NOUN	Verkehr	Gen				Masc		Sing						
+mit	ADP	mit													
+Getreide	NOUN	Getreide	Dat				Neut		Sing						
+und	CCONJ	und													
+Mahlprodukten	NOUN	Mahlprodukt	Dat				Neut		Plur						
 <g/>
 .	
-1.	ADV	1.
-Ergebnis	NOUN	Ergebnis
-der	DET	der
-Länderkonferenz	NOUN	Länderkonferenz
-über	ADP	über
-den	DET	der
-Reise-	X	Reise
-und	CCONJ	und
-Sommerverkehr	NOUN	Sommerverkehr
+1.	ADV	1.													
+Ergebnis	NOUN	Ergebnis	Nom				Neut		Sing						
+der	DET	der	Gen	Def			Fem		Sing			Art			
+Länderkonferenz	NOUN	Länderkonferenz	Gen				Fem		Sing						
+über	ADP	über													
+den	DET	der	Acc	Def			Masc		Sing			Art			
+Reise-	X	Reise													
+und	CCONJ	und													
+Sommerverkehr	NOUN	Sommerverkehr	Acc				Masc		Sing						
 <g/>
 .	
-Staatssekretär	NOUN	Staatssekretär
-Dr.	NOUN	Dr.
-Loenenf	PROPN	Loenenf
-e	PROPN	e
-l	PROPN	l
-d-R	PROPN	d-R
-u	PROPN	u
-ß	PROPN	ß
-berichtet	VERB	berichten
-über	ADP	über
-das	DET	der
-Ergebnis	NOUN	Ergebnis
-der	DET	der
-heuts	ADV	heuts
-in	ADP	in
-Angelegenheit	NOUN	Angelegenheit
-des	DET	der
-Reiss-	X	Reis
-und	CCONJ	und
-Sommerverkehrs	NOUN	Sommerverkehr
-abgehaltenen	ADJ	abgehalten
-Länderkonferenz	NOUN	Länderkonferenz
+Staatssekretär	NOUN	Staatssekretär	Nom				Masc		Sing						
+Dr.	NOUN	Dr.	Nom				Masc		Sing						
+Loenenf	PROPN	Loenenf	Nom				Masc		Sing						
+e	PROPN	e													
+l	PROPN	l													
+d-R	PROPN	d-R	Nom						Sing						
+u	PROPN	u													
+ß	PROPN	ß	Nom				Masc		Sing						
+berichtet	VERB	berichten						Ind	Sing	3				Pres	Fin
+über	ADP	über													
+das	DET	der	Acc	Def			Neut		Sing			Art			
+Ergebnis	NOUN	Ergebnis	Acc				Neut		Sing						
+der	DET	der	Gen	Def			Fem		Sing			Art			
+heuts	ADV	heuts													
+in	ADP	in													
+Angelegenheit	NOUN	Angelegenheit	Dat				Fem		Sing						
+des	DET	der	Gen	Def			Masc		Sing			Art			
+Reiss-	X	Reis													
+und	CCONJ	und													
+Sommerverkehrs	NOUN	Sommerverkehr	Gen				Masc		Sing						
+abgehaltenen	ADJ	abgehalten	Gen		Pos		Fem		Sing						
+Länderkonferenz	NOUN	Länderkonferenz	Gen				Fem		Sing						
 <g/>
 .	
-Es	PRON	es
-sei	AUX	sein
-gelungen	VERB	gelingen
+Es	PRON	es	Nom				Neut		Sing	3		Prs			
+sei	AUX	sein						Sub	Sing	3				Pres	Fin
+gelungen	VERB	gelingen													Part
 <g/>
 ,	
-eine	DET	ein
-Vereinbarung	NOUN	Vereinbarung
-mit	ADP	mit
-den	DET	der
-Landesregierungen	NOUN	Landesregierung
-dahingehend	ADV	dahingehend
-zu	PART	zu
-traffen	VERB	traffen
+eine	DET	ein	Acc	Ind			Fem		Sing			Art			
+Vereinbarung	NOUN	Vereinbarung	Acc				Fem		Sing						
+mit	ADP	mit													
+den	DET	der	Dat	Def			Fem		Plur			Art			
+Landesregierungen	NOUN	Landesregierung	Dat				Fem		Plur						
+dahingehend	ADV	dahingehend			Pos										
+zu	PART	zu													
+traffen	VERB	traffen													Inf
 <g/>
 ,	
-daß	SCONJ	daß
-diese	PRON	dieser
-sich	PRON	sich
-bereit	ADV	bereit
-erklärten	VERB	erklären
+daß	SCONJ	daß													
+diese	PRON	dieser	Nom				Fem		Plur			Dem			
+sich	PRON	sich	Acc						Plur	3		Prs	Yes		
+bereit	ADV	bereit			Pos										
+erklärten	VERB	erklären						Ind	Plur	3				Past	Fin
 <g/>
 ,	
-das	DET	der
-generelle	ADJ	generell
-Einreiseverbot	NOUN	Einreiseverbot
-fallen	VERB	fallen
-zu	PART	zu
-lassen	VERB	lassen
+das	DET	der	Acc	Def			Neut		Sing			Art			
+generelle	ADJ	generell	Acc		Pos		Neut		Sing						
+Einreiseverbot	NOUN	Einreiseverbot	Acc				Neut		Sing						
+fallen	VERB	fallen													Inf
+zu	PART	zu													
+lassen	VERB	lassen													Inf
 <g/>
 ,	
-wogegen	ADV	wogegen
-die	DET	der
-Staatsregierung	NOUN	Staatsregierung
-mittelst	VERB	mittelsen
-einer	DET	ein
-Vollzugsanweisung	NOUN	Vollzugsanweisung
-die	DET	der
-Landssregie	NOUN	Landssregie
+wogegen	ADV	wogegen										Int			
+die	DET	der	Nom	Def			Fem		Sing			Art			
+Staatsregierung	NOUN	Staatsregierung	Nom				Fem		Sing						
+mittelst	VERB	mittelsen						Ind	Sing	3				Pres	Fin
+einer	DET	ein	Dat	Ind			Fem		Sing			Art			
+Vollzugsanweisung	NOUN	Vollzugsanweisung	Dat				Fem		Sing						
+die	DET	der	Acc	Def			Fem		Sing			Art			
+Landssregie	NOUN	Landssregie	Acc				Fem		Sing						
 <g/>
 .	
-rungen	PROPN	Rungen
-ermächtigt	VERB	ermächtigen
+rungen	PROPN	Rungen	Nom						Sing						
+ermächtigt	VERB	ermächtigen						Ind	Sing	3				Pres	Fin
 <g/>
 ,	
-jeden	DET	jeder
-über	ADV	über
-drei	NUM	drei
-Tage	NOUN	Tag
-dauernden	ADJ	dauernd
-Sommeraufenthalt	NOUN	Sommeraufenthalt
-von	ADP	von
-Personen	NOUN	Person
+jeden	DET	jeder	Acc				Masc		Sing			Ind			
+über	ADV	über													
+drei	NUM	drei													
+Tage	NOUN	Tag	Acc				Masc		Plur						
+dauernden	ADJ	dauernd	Acc		Pos		Masc		Sing						
+Sommeraufenthalt	NOUN	Sommeraufenthalt	Acc				Masc		Sing						
+von	ADP	von													
+Personen	NOUN	Person	Dat				Fem		Plur						
 <g/>
 ,	
-soferne	SCONJ	soferne
-sie	PRON	sie
-nicht	PART	nicht
-in	ADP	in
-der	DET	der
-betreffenden	ADJ	betreffend
-Gemeinde	NOUN	Gemeinde
-heimatberechtigt	ADV	heimatberechtigt
-sind	AUX	sein
-oder	CCONJ	oder
-dortselbst	ADV	dortselbst
-ihren	DET	ihr
-ständigen	ADJ	ständig
-Aufenthalt	NOUN	Aufenthalt
-haben	VERB	haben
+soferne	SCONJ	soferne													
+sie	PRON	sie	Nom				Fem		Plur	3		Prs			
+nicht	PART	nicht													
+in	ADP	in													
+der	DET	der	Dat	Def			Fem		Sing			Art			
+betreffenden	ADJ	betreffend	Dat		Pos		Fem		Sing						
+Gemeinde	NOUN	Gemeinde	Dat				Fem		Sing						
+heimatberechtigt	ADV	heimatberechtigt			Pos										
+sind	AUX	sein						Ind	Plur	3				Pres	Fin
+oder	CCONJ	oder													
+dortselbst	ADV	dortselbst													
+ihren	DET	ihr	Acc				Masc		Sing		Yes	Prs			
+ständigen	ADJ	ständig	Acc		Pos		Masc		Sing						
+Aufenthalt	NOUN	Aufenthalt	Acc				Masc		Sing						
+haben	VERB	haben						Ind	Plur	3				Pres	Fin
 <g/>
 ,	
-an	ADP	an
-eine	DET	ein
-besondere	ADJ	besonderer
-Bewilligung	NOUN	Bewilligung
-zu	PART	zu
-knüpfen	VERB	knüpfen
+an	ADP	an													
+eine	DET	ein	Acc	Ind			Fem		Sing			Art			
+besondere	ADJ	besonderer	Acc		Pos		Fem		Sing						
+Bewilligung	NOUN	Bewilligung	Acc				Fem		Sing						
+zu	PART	zu													
+knüpfen	VERB	knüpfen													Inf
 <g/>
 .	
-Gleichzeitig	ADV	gleichzeitig
-wird	AUX	werden
-der	DET	der
-Wirksamkeitsbeginn	NOUN	Wirksamkeitsbeginn
-der	DET	der
-Vollzugsanweisung	NOUN	Vollzugsanweisung
-vom	ADP	von
-29.	ADJ	29.
-April	NOUN	April
-1919	NUM	1919
+Gleichzeitig	ADV	gleichzeitig			Pos										
+wird	AUX	werden						Ind	Sing	3				Pres	Fin
+der	DET	der	Nom	Def			Masc		Sing			Art			
+Wirksamkeitsbeginn	NOUN	Wirksamkeitsbeginn	Nom				Masc		Sing						
+der	DET	der	Gen	Def			Fem		Sing			Art			
+Vollzugsanweisung	NOUN	Vollzugsanweisung	Gen				Fem		Sing						
+vom	ADP	von	Dat				Masc		Sing						
+29.	ADJ	29.	Dat		Pos		Masc		Sing						
+April	NOUN	April	Dat				Masc		Sing						
+1919	NUM	1919													
 <g/>
 ,	
-St.	PROPN	St.
-G.Bl	NOUN	G.Bl
-.	NOUN	.
-Nr.	NOUN	Nr.
-252	NUM	252
-bis	CCONJ	bis
-10.	ADJ	10.
-Juni	NOUN	Juni
-d.	DET	d.
-J.	PROPN	J.
-hinausgeschoben	VERB	hinausschieben
+St.	PROPN	St.													
+G.Bl	NOUN	G.Bl	Nom						Sing						
+.	NOUN	.	Nom				Fem		Sing						
+Nr.	NOUN	Nr.	Nom				Fem		Sing						
+252	NUM	252													
+bis	CCONJ	bis													
+10.	ADJ	10.	Dat		Pos		Masc		Sing						
+Juni	NOUN	Juni	Nom				Masc		Sing						
+d.	DET	d.	Gen	Def					Sing			Art			
+J.	PROPN	J.													
+hinausgeschoben	VERB	hinausschieben													Part
 <g/>
 .	
-Das	DET	der
-Staatsamt	NOUN	Staatsamt
-für	ADP	für
-Volksernährung	NOUN	Volksernährung
-habe	AUX	haben
+Das	DET	der	Nom	Def			Neut		Sing			Art			
+Staatsamt	NOUN	Staatsamt	Nom				Neut		Sing						
+für	ADP	für													
+Volksernährung	NOUN	Volksernährung	Acc				Fem		Sing						
+habe	AUX	haben						Sub	Sing	3				Pres	Fin
 <g/>
 .	
-weiterhin	ADV	weiterhin
-in	ADP	in
-Aussicht	NOUN	Aussicht
-gestellt	VERB	stellen
+weiterhin	ADV	weiterhin													
+in	ADP	in													
+Aussicht	NOUN	Aussicht	Acc				Fem		Sing						
+gestellt	VERB	stellen													Part
 <g/>
 ,	
-den	DET	der
-ländern	NOUN	Land
-zum	ADP	zu
-Zwecke	NOUN	Zweck
-der	DET	der
-besseren	ADJ	gut
-Versorgung	NOUN	Versorgung
-während	ADP	während
-der	DET	der
-Zeit	NOUN	Zeit
+den	DET	der	Dat	Def			Neut		Plur			Art			
+ländern	NOUN	Land	Dat				Neut		Plur						
+zum	ADP	zu	Dat				Masc		Sing						
+Zwecke	NOUN	Zweck	Dat				Masc		Sing						
+der	DET	der	Gen	Def			Fem		Sing			Art			
+besseren	ADJ	gut	Gen		Cmp		Fem		Sing						
+Versorgung	NOUN	Versorgung	Gen				Fem		Sing						
+während	ADP	während													
+der	DET	der	Gen	Def			Fem		Sing			Art			
+Zeit	NOUN	Zeit	Dat				Fem		Sing						
 <g/>
 ,	
-welche	PRON	welcher
-Für	ADP	für
-den	DET	der
-Sommerverkehr	NOUN	Sommerverkehr
-in	ADP	in
-Betracht	NOUN	Betracht
-kommt	VERB	kommen
+welche	PRON	welcher	Nom				Fem		Sing			Rel			
+Für	ADP	für													
+den	DET	der	Acc	Def			Masc		Sing			Art			
+Sommerverkehr	NOUN	Sommerverkehr	Acc				Masc		Sing						
+in	ADP	in													
+Betracht	NOUN	Betracht	Acc				Masc		Sing						
+kommt	VERB	kommen						Ind	Sing	3				Pres	Fin
 <g/>
 ,	
-beson-4	NOUN	beson-4
-dere	ADJ	derer
-Lebensmittelzuschübe	NOUN	Lebensmittelzuschub
-zur	ADP	zu
-Verfügung	NOUN	Verfügung
-zu	PART	zu
-stellen	VERB	stellen
+beson-4	NOUN	beson-4	Nom						Sing						
+dere	ADJ	derer	Acc		Pos		Masc		Plur						
+Lebensmittelzuschübe	NOUN	Lebensmittelzuschub	Acc				Masc		Plur						
+zur	ADP	zu	Dat				Fem		Sing						
+Verfügung	NOUN	Verfügung	Dat				Fem		Sing						
+zu	PART	zu													
+stellen	VERB	stellen													Inf
 <g/>
 .	
-Der	DET	der
-Kabinettsrat	NOUN	Kabinettsrat
-nimmt	VERB	nehmen
-diesen	DET	dieser
-Benicht	NOUN	Benicht
-zustimmend	ADV	zustimmend
-zur	ADP	zu
-Kenntnis	NOUN	Kenntnis
-und	CCONJ	und
-beschließt	VERB	beschließen
-die	DET	der
-Erlassung	NOUN	Erlassung
-der	DET	der
-oberwähnten	ADJ	oberwähnt
-Vollzugsanwelsung	NOUN	Vollzugsanwelsung
+Der	DET	der	Nom	Def			Masc		Sing			Art			
+Kabinettsrat	NOUN	Kabinettsrat	Nom				Masc		Sing						
+nimmt	VERB	nehmen						Ind	Sing	3				Pres	Fin
+diesen	DET	dieser	Acc				Masc		Sing			Dem			
+Benicht	NOUN	Benicht	Acc				Masc		Sing						
+zustimmend	ADV	zustimmend			Pos										
+zur	ADP	zu	Dat				Fem		Sing						
+Kenntnis	NOUN	Kenntnis	Dat				Fem		Sing						
+und	CCONJ	und													
+beschließt	VERB	beschließen						Ind	Sing	3				Pres	Fin
+die	DET	der	Acc	Def			Fem		Sing			Art			
+Erlassung	NOUN	Erlassung	Acc				Fem		Sing						
+der	DET	der	Gen	Def			Fem		Sing			Art			
+oberwähnten	ADJ	oberwähnt	Gen		Pos		Fem		Sing						
+Vollzugsanwelsung	NOUN	Vollzugsanwelsung	Gen				Fem		Sing						
 <g/>
 .	
-2.	ADV	2.
-Der	DET	der
-Vorsitzends	NOUN	Vorsitzends
-teilt	VERB	teilen
-mit	ADP	mit
+2.	ADV	2.													
+Der	DET	der	Nom	Def			Masc		Sing			Art			
+Vorsitzends	NOUN	Vorsitzends	Nom				Masc		Sing						
+teilt	VERB	teilen						Ind	Sing	3				Pres	Fin
+mit	ADP	mit													
 <g/>
 ,	
-daß	SCONJ	daß
-ihm	PRON	ihm
-Vertrstung	NOUN	Vertrstung
-Deutsch-Südmährens	PROPN	Deutsch-Südmähren
-bei	ADP	bei
-der	DET	der
-Friedenskonferenz	NOUN	Friedenskonferenz
+daß	SCONJ	daß													
+ihm	PRON	ihm	Dat				Masc		Sing	3		Prs			
+Vertrstung	NOUN	Vertrstung	Nom				Fem		Sing						
+Deutsch-Südmährens	PROPN	Deutsch-Südmähren	Gen				Neut		Sing						
+bei	ADP	bei													
+der	DET	der	Dat	Def			Fem		Sing			Art			
+Friedenskonferenz	NOUN	Friedenskonferenz	Dat				Fem		Sing						
 <g/>
 .	
-seitens	ADP	seitens
-des	DET	der
-Hauptvolksrates	NOUN	Hauptvolksrat
-Südmährens	PROPN	Südmähren
-ein	DET	ein
-Telegramm	NOUN	Telegramm
-zugskommen	VERB	zugskommen
-sei	AUX	sein
+seitens	ADP	seitens													
+des	DET	der	Gen	Def			Masc		Sing			Art			
+Hauptvolksrates	NOUN	Hauptvolksrat	Gen				Masc		Sing						
+Südmährens	PROPN	Südmähren	Gen				Neut		Sing						
+ein	DET	ein	Nom	Ind			Neut		Sing			Art			
+Telegramm	NOUN	Telegramm	Nom				Neut		Sing						
+zugskommen	VERB	zugskommen													Inf
+sei	AUX	sein						Sub	Sing	3				Pres	Fin
 <g/>
 ,	
-worin	SCONJ	worin
-er	PRON	er
-gebeten	VERB	bitten
-werde	AUX	werden
+worin	SCONJ	worin										Int			
+er	PRON	er	Nom				Masc		Sing	3		Prs			
+gebeten	VERB	bitten													Part
+werde	AUX	werden						Sub	Sing	3				Pres	Fin
 <g/>
 ,	
-die	DET	der
-Forderung	NOUN	Forderung
-dieses	DET	dieser
-Hauptvolksrates	NOUN	Hauptvolksrat
-nach	ADP	nach
-Entsendung	NOUN	Entsendung
-des	DET	der
-Kreishauptmannes	NOUN	Kreishauptmann
-T	PROPN	T
-e	PROPN	e
-u	PROPN	u
-f	PROPN	f
-e	PROPN	e
-1	NUM	1
-als	ADP	als
-Vertrster	NOUN	Vertrster
-der	DET	der
-Interessen	NOUN	Interesse
-Deutsch-Gudmährens	PROPN	Deutsch-Gudmähren
-zur	ADP	zu
-Friedenskonferenz	NOUN	Friedenskonferenz
-sowohl	CCONJ	sowohl
-im	ADP	in
-Hauptausschuss	NOUN	Hauptausschuss
-der	DET	der
-Nationalversammlung	NOUN	Nationalversammlung
-wie	CCONJ	wie
-auch	ADV	auch
-im	ADP	in
-Kabinettsrat	NOUN	Kabinettsrat
-mit	ADP	mit
-allem	DET	aller
-Nachdrucke	NOUN	Nachdruck
-zu	PART	zu
-vertreten	VERB	vertreten
+die	DET	der	Acc	Def			Fem		Sing			Art			
+Forderung	NOUN	Forderung	Acc				Fem		Sing						
+dieses	DET	dieser	Gen				Masc		Sing			Dem			
+Hauptvolksrates	NOUN	Hauptvolksrat	Gen				Masc		Sing						
+nach	ADP	nach													
+Entsendung	NOUN	Entsendung	Dat				Fem		Sing						
+des	DET	der	Gen	Def			Masc		Sing			Art			
+Kreishauptmannes	NOUN	Kreishauptmann	Gen				Masc		Sing						
+T	PROPN	T													
+e	PROPN	e													
+u	PROPN	u													
+f	PROPN	f													
+e	PROPN	e													
+1	NUM	1													
+als	ADP	als													
+Vertrster	NOUN	Vertrster	Nom				Masc		Sing						
+der	DET	der	Gen	Def			Neut		Plur			Art			
+Interessen	NOUN	Interesse	Gen				Neut		Plur						
+Deutsch-Gudmährens	PROPN	Deutsch-Gudmähren	Gen				Neut		Sing						
+zur	ADP	zu	Dat				Fem		Sing						
+Friedenskonferenz	NOUN	Friedenskonferenz	Dat				Fem		Sing						
+sowohl	CCONJ	sowohl													
+im	ADP	in	Dat				Masc		Sing						
+Hauptausschuss	NOUN	Hauptausschuss	Dat				Masc		Sing						
+der	DET	der	Gen	Def			Fem		Sing			Art			
+Nationalversammlung	NOUN	Nationalversammlung	Gen				Fem		Sing						
+wie	CCONJ	wie													
+auch	ADV	auch													
+im	ADP	in	Dat				Masc		Sing						
+Kabinettsrat	NOUN	Kabinettsrat	Dat				Masc		Sing						
+mit	ADP	mit													
+allem	DET	aller	Dat				Masc		Sing			Ind			
+Nachdrucke	NOUN	Nachdruck	Dat				Masc		Sing						
+zu	PART	zu													
+vertreten	VERB	vertreten													Inf
 <g/>
 .	
-Der	DET	der
-Kabinettsrat	NOUN	Kabinettsrat
-stellt	VERB	stellen
-fest	ADV	fest
+Der	DET	der	Nom	Def			Masc		Sing			Art			
+Kabinettsrat	NOUN	Kabinettsrat	Nom				Masc		Sing						
+stellt	VERB	stellen						Ind	Sing	3				Pres	Fin
+fest	ADV	fest													
 <g/>
 ,	
-daß	SCONJ	daß
-ein	DET	ein
-Vertreter	NOUN	Vertreter
-Deutsch-Güdmährens	PROPN	Deutsch-Güdmähren
-in	ADP	in
-der	DET	der
-Person	NOUN	Person
-des	DET	der
-Sektionsrates	NOUN	Sektionsrat
-ol	PROPN	Ol
-dofredi	PROPN	Dofredi
-bereits	ADV	bereits
-der	DET	der
-Friedenedslegetion	NOUN	Friedenedslegetion
-beigsgeben	VERB	beigsgeben
-sei	AUX	sein
+daß	SCONJ	daß													
+ein	DET	ein	Nom	Ind			Masc		Sing			Art			
+Vertreter	NOUN	Vertreter	Nom				Masc		Sing						
+Deutsch-Güdmährens	PROPN	Deutsch-Güdmähren	Gen				Neut		Sing						
+in	ADP	in													
+der	DET	der	Dat	Def			Fem		Sing			Art			
+Person	NOUN	Person	Dat				Fem		Sing						
+des	DET	der	Gen	Def			Masc		Sing			Art			
+Sektionsrates	NOUN	Sektionsrat	Gen				Masc		Sing						
+ol	PROPN	Ol	Nom				Masc		Sing						
+dofredi	PROPN	Dofredi	Nom						Sing						
+bereits	ADV	bereits													
+der	DET	der	Dat	Def			Fem		Sing			Art			
+Friedenedslegetion	NOUN	Friedenedslegetion	Dat				Fem		Sing						
+beigsgeben	VERB	beigsgeben													Part
+sei	AUX	sein						Sub	Sing	3				Pres	Fin
 <g/>
 .	
-3.	ADV	3.
-Gesetzentwurf	NOUN	Gesetzentwurf
-über	ADP	über
-die	DET	der
-Aufnahme	NOUN	Aufnahme
-weiterer	ADJ	weit
-Anlehen	NOUN	Anlehen
-in	ADP	in
-ausländischer	ADJ	ausländisch
-Währung	NOUN	Währung
-und	CCONJ	und
-über	ADP	über
-die	DET	der
-Heranzlehung	NOUN	Heranzlehung
-des	DET	der
-Forstbesitzes	NOUN	Forstbesitz
-zur	ADP	zu
-Sicherstellung	NOUN	Sicherstellung
-solcher	DET	solcher
-Anlehen	NOUN	Anlehen
+3.	ADV	3.													
+Gesetzentwurf	NOUN	Gesetzentwurf	Nom				Masc		Sing						
+über	ADP	über													
+die	DET	der	Acc	Def			Fem		Sing			Art			
+Aufnahme	NOUN	Aufnahme	Acc				Fem		Sing						
+weiterer	ADJ	weit	Gen		Cmp		Neut		Plur						
+Anlehen	NOUN	Anlehen	Gen				Neut		Plur						
+in	ADP	in													
+ausländischer	ADJ	ausländisch	Dat		Pos		Fem		Sing						
+Währung	NOUN	Währung	Dat				Fem		Sing						
+und	CCONJ	und													
+über	ADP	über													
+die	DET	der	Acc	Def			Fem		Sing			Art			
+Heranzlehung	NOUN	Heranzlehung	Acc				Fem		Sing						
+des	DET	der	Gen	Def			Masc		Sing			Art			
+Forstbesitzes	NOUN	Forstbesitz	Gen				Masc		Sing						
+zur	ADP	zu	Dat				Fem		Sing						
+Sicherstellung	NOUN	Sicherstellung	Dat				Fem		Sing						
+solcher	DET	solcher	Gen				Neut		Plur			Ind			
+Anlehen	NOUN	Anlehen	Gen				Neut		Plur						
 <g/>
 .	
-Präsident	NOUN	Präsident
-Seitz	PROPN	Seitz
-verweist	VERB	verweisen
+Präsident	NOUN	Präsident	Nom				Masc		Sing						
+Seitz	PROPN	Seitz	Nom				Masc		Sing						
+verweist	VERB	verweisen						Ind	Sing	3				Pres	Fin
 <g/>
 .	
-derauf	ADV	derauf
+derauf	ADV	derauf													
 <g/>
 ,	
-dass	SCONJ	dass
-der	DET	der
-Kabinettsrat	NOUN	Kabinettsrat
-in	ADP	in
-seiner	DET	sein
-Sitzung	NOUN	Sitzung
-am	ADP	an
-2.	ADJ	2.
-Mai	NOUN	Mai
-d.	X	d.
-J.	PROPN	J.
-den	DET	der
-BeschlußDie	NOUN	BeschlußDie
-fünfte	ADJ	fünfter
-Länderkonferenz	NOUN	Länderkonferenz
-A.	NOUN	A.
-1	NUM	1
-wirde	AUX	werdeen
-verlautbart	VERB	verlautbaren
-Communicque	X	Communicque
+dass	SCONJ	dass													
+der	DET	der	Nom	Def			Masc		Sing			Art			
+Kabinettsrat	NOUN	Kabinettsrat	Nom				Masc		Sing						
+in	ADP	in													
+seiner	DET	sein	Dat				Fem		Sing		Yes	Prs			
+Sitzung	NOUN	Sitzung	Dat				Fem		Sing						
+am	ADP	an	Dat				Masc		Sing						
+2.	ADJ	2.	Dat		Pos		Masc		Sing						
+Mai	NOUN	Mai	Dat				Masc		Sing						
+d.	X	d.													
+J.	PROPN	J.	Dat						Sing						
+den	DET	der	Acc	Def			Masc		Sing			Art			
+BeschlußDie	NOUN	BeschlußDie	Acc				Masc		Sing						
+fünfte	ADJ	fünfter	Nom		Pos		Fem		Sing						
+Länderkonferenz	NOUN	Länderkonferenz	Nom				Fem		Sing						
+A.	NOUN	A.	Nom						Sing						
+1	NUM	1													
+wirde	AUX	werdeen						Ind	Sing	3				Pres	Fin
+verlautbart	VERB	verlautbaren													Part
+Communicque	X	Communicque				Yes									
 <g/>
 .	
--Die	DET	-Die
-Staateregierung	NOUN	Staateregierung
-hat	AUX	haben
-mit	ADP	mit
-einer	DET	ein
-am	ADP	an
-20.	ADJ	20.
-Mai	NOUN	Mai
-im	ADP	in
-Staatsgesetzblatte	NOUN	Staatsgesetzblatt
-verlautbarten	ADJ	verlautbart
-Vollzugsanweisung	NOUN	Vollzugsanweisung
-angeordnet	VERB	anordnen
+-Die	DET	-Die	Nom	Def			Fem		Sing			Art			
+Staateregierung	NOUN	Staateregierung	Nom				Fem		Sing						
+hat	AUX	haben						Ind	Sing	3				Pres	Fin
+mit	ADP	mit													
+einer	DET	ein	Dat	Ind			Fem		Sing			Art			
+am	ADP	an	Dat				Masc		Sing						
+20.	ADJ	20.	Dat		Pos		Masc		Sing						
+Mai	NOUN	Mai	Dat				Masc		Sing						
+im	ADP	in	Dat				Neut		Sing						
+Staatsgesetzblatte	NOUN	Staatsgesetzblatt	Dat				Neut		Sing						
+verlautbarten	ADJ	verlautbart	Dat		Pos		Fem		Sing						
+Vollzugsanweisung	NOUN	Vollzugsanweisung	Dat				Fem		Sing						
+angeordnet	VERB	anordnen													Part
 <g/>
 ,	
-daß	SCONJ	daß
-in	ADP	in
-Ergänzung	NOUN	Ergänzung
-der	DET	der
-bekannten	ADJ	bekannt
-Vollzugsanweisung	NOUN	Vollzugsanweisung
-über	ADP	über
-den	DET	der
-Reise-	X	Reise
-und	CCONJ	und
-Sommerverkehr	NOUN	Sommerverkehr
-die	DET	der
-Landesregierungen	NOUN	Landesregierung
-ermächtigt	VERB	ermächtigen
-werden	AUX	werden
+daß	SCONJ	daß													
+in	ADP	in													
+Ergänzung	NOUN	Ergänzung	Dat				Fem		Sing						
+der	DET	der	Gen	Def			Fem		Sing			Art			
+bekannten	ADJ	bekannt	Gen		Pos		Fem		Sing						
+Vollzugsanweisung	NOUN	Vollzugsanweisung	Gen				Fem		Sing						
+über	ADP	über													
+den	DET	der	Acc	Def			Masc		Sing			Art			
+Reise-	X	Reise													
+und	CCONJ	und													
+Sommerverkehr	NOUN	Sommerverkehr	Acc				Masc		Sing						
+die	DET	der	Nom	Def			Fem		Plur			Art			
+Landesregierungen	NOUN	Landesregierung	Nom				Fem		Plur						
+ermächtigt	VERB	ermächtigen													Part
+werden	AUX	werden						Ind	Plur	3				Pres	Fin
 <g/>
 ,	
-jeden	DET	jeder
-über	ADP	über
-drei	NUM	drei
-Tage	NOUN	Tag
-dauernden	ADJ	dauernd
-Sommeraufenthalt	NOUN	Sommeraufenthalt
-von	ADP	von
-Perscnen	PROPN	Perscnen
+jeden	DET	jeder	Acc				Masc		Sing			Ind			
+über	ADP	über													
+drei	NUM	drei													
+Tage	NOUN	Tag	Acc				Masc		Plur						
+dauernden	ADJ	dauernd	Acc		Pos		Masc		Sing						
+Sommeraufenthalt	NOUN	Sommeraufenthalt	Acc				Masc		Sing						
+von	ADP	von													
+Perscnen	PROPN	Perscnen	Dat						Plur						
 <g/>
 ,	
-welche	PRON	welcher
-nicht	PART	nicht
-in	ADP	in
-der	DET	der
-betreffenden	ADJ	betreffend
-Gemeinde	NOUN	Gemeinde
-heimatberechtigt	ADV	heimatberechtigt
-sind	AUX	sein
-oder	CCONJ	oder
-dort	ADV	dort
-ihren	DET	ihr
-ständigen	ADJ	ständig
-Aufenthalt	NOUN	Aufenthalt
-haben	VERB	haben
+welche	PRON	welcher	Nom						Plur			Rel			
+nicht	PART	nicht													
+in	ADP	in													
+der	DET	der	Dat	Def			Fem		Sing			Art			
+betreffenden	ADJ	betreffend	Dat		Pos		Fem		Sing						
+Gemeinde	NOUN	Gemeinde	Dat				Fem		Sing						
+heimatberechtigt	ADV	heimatberechtigt			Pos										
+sind	AUX	sein						Ind	Plur	3				Pres	Fin
+oder	CCONJ	oder													
+dort	ADV	dort													
+ihren	DET	ihr	Acc				Masc		Sing		Yes	Prs			
+ständigen	ADJ	ständig	Acc		Pos		Masc		Sing						
+Aufenthalt	NOUN	Aufenthalt	Acc				Masc		Sing						
+haben	VERB	haben						Ind	Plur	3				Pres	Fin
 <g/>
 ,	
-an	ADP	an
-eine	DET	ein
-besondere	ADJ	besonderer
-Bewilligung	NOUN	Bewilligung
-zu	PART	zu
-knüpfen	VERB	knüpfen
+an	ADP	an													
+eine	DET	ein	Acc	Ind			Fem		Sing			Art			
+besondere	ADJ	besonderer	Acc		Pos		Fem		Sing						
+Bewilligung	NOUN	Bewilligung	Acc				Fem		Sing						
+zu	PART	zu													
+knüpfen	VERB	knüpfen													Inf
 <g/>
 .	
-ferner	ADV	ferner
-daß	SCONJ	daß
-die	DET	der
-erwähnte	ADJ	erwähnt
-Vollzugsanweisung	NOUN	Vollzugsanweisung
-vom	ADP	von
-29.	ADJ	29.
-April	NOUN	April
-1919	NUM	1919
-statt	ADP	statt
-am	ADP	an
-20.	ADJ	20.
-Mai	NOUN	Mai
-1919	NUM	1919
-erst	ADV	erst
-am	ADP	an
-10.	ADJ	10.
-Juni	NOUN	Juni
-1919	NUM	1919
-in	ADP	in
-Kraft	NOUN	Kraft
-zu	PART	zu
-treten	VERB	treten
-habe	AUX	haben
+ferner	ADV	ferner													
+daß	SCONJ	daß													
+die	DET	der	Nom	Def			Fem		Sing			Art			
+erwähnte	ADJ	erwähnt	Nom		Pos		Fem		Sing						
+Vollzugsanweisung	NOUN	Vollzugsanweisung	Nom				Fem		Sing						
+vom	ADP	von	Dat				Masc		Sing						
+29.	ADJ	29.	Dat		Pos		Masc		Sing						
+April	NOUN	April	Dat				Masc		Sing						
+1919	NUM	1919													
+statt	ADP	statt													
+am	ADP	an	Dat				Masc		Sing						
+20.	ADJ	20.	Dat		Pos		Masc		Sing						
+Mai	NOUN	Mai	Dat				Masc		Sing						
+1919	NUM	1919													
+erst	ADV	erst													
+am	ADP	an	Dat				Masc		Sing						
+10.	ADJ	10.	Dat		Pos		Masc		Sing						
+Juni	NOUN	Juni	Dat				Masc		Sing						
+1919	NUM	1919													
+in	ADP	in													
+Kraft	NOUN	Kraft	Acc				Fem		Sing						
+zu	PART	zu													
+treten	VERB	treten													Inf
+habe	AUX	haben						Sub	Sing	3				Pres	Fin
 <g/>
 .	
-Diese	DET	dieser
-Bestimmungen	NOUN	Bestimmung
-beziehen	VERB	beziehen
-sich	PRON	sich
-nicht	PART	nicht
-auf	ADP	auf
-die	DET	der
-Anordnungen	NOUN	Anordnung
+Diese	DET	dieser	Nom				Fem		Plur			Dem			
+Bestimmungen	NOUN	Bestimmung	Nom				Fem		Plur						
+beziehen	VERB	beziehen						Ind	Plur	3				Pres	Fin
+sich	PRON	sich	Acc						Plur	3		Prs	Yes		
+nicht	PART	nicht													
+auf	ADP	auf													
+die	DET	der	Acc	Def			Fem		Plur			Art			
+Anordnungen	NOUN	Anordnung	Acc				Fem		Plur						
 <g/>
 ,	
-welche	PRON	welcher
-in	ADP	in
-der	DET	der
-letzterwähnten	ADJ	letzterwähnt
-Vollzugeanweisung	NOUN	Vollzugeanweisung
-über	ADP	über
-den	DET	der
-Besuch	NOUN	Besuch
-der	DET	der
-Heilbäder	NOUN	Heilbad
-getroffen	VERB	treffen
-wurden	AUX	werden
+welche	PRON	welcher	Nom				Fem		Plur			Rel			
+in	ADP	in													
+der	DET	der	Dat	Def			Fem		Sing			Art			
+letzterwähnten	ADJ	letzterwähnt	Dat		Pos		Fem		Sing						
+Vollzugeanweisung	NOUN	Vollzugeanweisung	Dat				Fem		Sing						
+über	ADP	über													
+den	DET	der	Acc	Def			Masc		Sing			Art			
+Besuch	NOUN	Besuch	Acc				Masc		Sing						
+der	DET	der	Gen	Def			Neut		Plur			Art			
+Heilbäder	NOUN	Heilbad	Gen				Neut		Plur						
+getroffen	VERB	treffen													Part
+wurden	AUX	werden						Ind	Plur	3				Past	Fin
 <g/>
 .	
-heute	ADV	heute
-Bei	ADP	bei
-der	DET	der
-gestern	ADV	gestern
-stattgefundenen	ADJ	stattgefunden
-Länderkonferenz	NOUN	Länderkonferenz
-hatte	AUX	haben
-sich	PRON	sich
-gezeigt	VERB	zeigen
+heute	ADV	heute													
+Bei	ADP	bei													
+der	DET	der	Dat	Def			Fem		Sing			Art			
+gestern	ADV	gestern													
+stattgefundenen	ADJ	stattgefunden	Dat		Pos		Fem		Sing						
+Länderkonferenz	NOUN	Länderkonferenz	Dat				Fem		Sing						
+hatte	AUX	haben						Ind	Sing	3				Past	Fin
+sich	PRON	sich	Acc						Sing	3		Prs	Yes		
+gezeigt	VERB	zeigen													Part
 <g/>
 ,	
-daß	SCONJ	daß
-die	DET	der
-Länder	NOUN	Land
-tatsächlich	ADV	tatsächlich
-bisher	ADV	bisher
-nicht	PART	nicht
-imstande	ADV	imstande
-waren	AUX	sein
+daß	SCONJ	daß													
+die	DET	der	Nom	Def			Neut		Plur			Art			
+Länder	NOUN	Land	Nom				Neut		Plur						
+tatsächlich	ADV	tatsächlich			Pos										
+bisher	ADV	bisher													
+nicht	PART	nicht													
+imstande	ADV	imstande													
+waren	AUX	sein						Ind	Plur	3				Past	Fin
 <g/>
 ,	
-die	DET	der
-näheren	ADJ	nah
-Bestimmungen	NOUN	Bestimmung
-zur	ADP	zu
-Durchführung	NOUN	Durchführung
-der	DET	der
-Vollzugsanweisung	NOUN	Vollzugsanweisung
-über	ADP	über
-den	DET	der
-Reise-	X	Reise
-und	CCONJ	und
-Sommerverkehr	NOUN	Sommerverkehr
-zu	PART	zu
-traffen	VERB	traffen
+die	DET	der	Acc	Def			Fem		Plur			Art			
+näheren	ADJ	nah	Acc		Cmp		Fem		Plur						
+Bestimmungen	NOUN	Bestimmung	Acc				Fem		Plur						
+zur	ADP	zu	Dat				Fem		Sing						
+Durchführung	NOUN	Durchführung	Dat				Fem		Sing						
+der	DET	der	Gen	Def			Fem		Sing			Art			
+Vollzugsanweisung	NOUN	Vollzugsanweisung	Gen				Fem		Sing						
+über	ADP	über													
+den	DET	der	Acc	Def			Masc		Sing			Art			
+Reise-	X	Reise													
+und	CCONJ	und													
+Sommerverkehr	NOUN	Sommerverkehr	Acc				Masc		Sing						
+zu	PART	zu													
+traffen	VERB	traffen													Inf
 <g/>
 ,	
-daß	SCONJ	daß
-dies	PRON	dieser
-jedoch	ADV	jedoch
-bis	ADP	bis
-zum	ADP	zu
-10.	ADJ	10.
-Juni	NOUN	Juni
+daß	SCONJ	daß													
+dies	PRON	dieser	Nom				Neut		Sing			Dem			
+jedoch	ADV	jedoch													
+bis	ADP	bis													
+zum	ADP	zu	Dat				Masc		Sing						
+10.	ADJ	10.	Dat		Pos		Masc		Sing						
+Juni	NOUN	Juni	Dat				Masc		Sing						
 <g/>
 ,	
-möglich	ADV	möglich
-sein	AUX	sein
-wird	AUX	werden
+möglich	ADV	möglich			Pos										
+sein	AUX	sein													Inf
+wird	AUX	werden						Ind	Sing	3				Pres	Fin
 <g/>
 .	
-Was	PRON	was
-speziell	ADV	speziell
-die	DET	der
-so	ADV	so
-vielfach	ADV	vielfach
-in	ADP	in
-der	DET	der
-Oeffentlichkeit	NOUN	Oeffentlichkeit
-erörterten	ADJ	erörtert
-Einreisebewilligungen	NOUN	Einreisebewilligung
-betrifft	VERB	betreffen
+Was	PRON	was	Nom				Neut		Sing			Int			
+speziell	ADV	speziell			Pos										
+die	DET	der	Acc	Def			Fem		Plur			Art			
+so	ADV	so													
+vielfach	ADV	vielfach													
+in	ADP	in													
+der	DET	der	Dat	Def			Fem		Sing			Art			
+Oeffentlichkeit	NOUN	Oeffentlichkeit	Dat				Fem		Sing						
+erörterten	ADJ	erörtert	Acc		Pos		Fem		Plur						
+Einreisebewilligungen	NOUN	Einreisebewilligung	Acc				Fem		Plur						
+betrifft	VERB	betreffen						Ind	Sing	3				Pres	Fin
 <g/>
 .	
-so	ADV	so
-werden	AUX	werden
-die	DET	der
-Landesregierungen	NOUN	Landesregierung
-Verfügungen	NOUN	Verfügung
-treffen	VERB	treffen
+so	ADV	so													
+werden	AUX	werden						Ind	Plur	3				Pres	Fin
+die	DET	der	Nom	Def			Fem		Plur			Art			
+Landesregierungen	NOUN	Landesregierung	Nom				Fem		Plur						
+Verfügungen	NOUN	Verfügung	Acc				Fem		Plur						
+treffen	VERB	treffen													Inf
 <g/>
 ,	
-damit	SCONJ	damit
-diese	PRON	dieser
-bereits	ADV	bereits
-in	ADP	in
-den	DET	der
-nächsten	ADJ	nächster
-Tagen	NOUN	Tag
-nicht	PART	nicht
-mehr	ADV	mehr
-gehandhabt	VERB	handhaben
-werden	AUX	werden
+damit	SCONJ	damit													
+diese	PRON	dieser	Nom				Fem		Plur			Dem			
+bereits	ADV	bereits													
+in	ADP	in													
+den	DET	der	Dat	Def			Masc		Plur			Art			
+nächsten	ADJ	nächster	Dat		Pos		Masc		Plur						
+Tagen	NOUN	Tag	Dat				Masc		Plur						
+nicht	PART	nicht													
+mehr	ADV	mehr													
+gehandhabt	VERB	handhaben													Part
+werden	AUX	werden						Ind	Plur	3				Pres	Fin
 <g/>
 .	
-Das	DET	der
-Staatsamt	NOUN	Staatsamt
-für	ADP	für
-Volksernährung	NOUN	Volksernährung
-hat	AUX	haben
-bei	ADP	bei
-der	DET	der
-Länderkonferenz	NOUN	Länderkonferenz
-in	ADP	in
-Aussicht	NOUN	Aussicht
-gestellt	VERB	stellen
+Das	DET	der	Nom	Def			Neut		Sing			Art			
+Staatsamt	NOUN	Staatsamt	Nom				Neut		Sing						
+für	ADP	für													
+Volksernährung	NOUN	Volksernährung	Acc				Fem		Sing						
+hat	AUX	haben						Ind	Sing	3				Pres	Fin
+bei	ADP	bei													
+der	DET	der	Dat	Def			Fem		Sing			Art			
+Länderkonferenz	NOUN	Länderkonferenz	Dat				Fem		Sing						
+in	ADP	in													
+Aussicht	NOUN	Aussicht	Acc				Fem		Sing						
+gestellt	VERB	stellen													Part
 <g/>
 ,	
-den	DET	der
-Ländern	NOUN	Land
-zum	ADP	zu
-Zwecke	NOUN	Zweck
-der	DET	der
-besseren	ADJ	gut
-Versorgung	NOUN	Versorgung
-während	ADP	während
-der	DET	der
-Zeit	NOUN	Zeit
+den	DET	der	Dat	Def			Neut		Plur			Art			
+Ländern	NOUN	Land	Dat				Neut		Plur						
+zum	ADP	zu	Dat				Masc		Sing						
+Zwecke	NOUN	Zweck	Dat				Masc		Sing						
+der	DET	der	Gen	Def			Fem		Sing			Art			
+besseren	ADJ	gut	Gen		Cmp		Fem		Sing						
+Versorgung	NOUN	Versorgung	Gen				Fem		Sing						
+während	ADP	während													
+der	DET	der		Def			Fem		Sing			Art			
+Zeit	NOUN	Zeit					Fem		Sing						
 <g/>
 ,	
-welche	PRON	welcher
-für	ADP	für
-den	DET	der
-Sommerverkehr	NOUN	Sommerverkehr
-in	ADP	in
-Betracht	NOUN	Betracht
-kommt	VERB	kommen
+welche	PRON	welcher	Nom				Fem		Sing			Rel			
+für	ADP	für													
+den	DET	der	Acc	Def			Masc		Sing			Art			
+Sommerverkehr	NOUN	Sommerverkehr	Acc				Masc		Sing						
+in	ADP	in													
+Betracht	NOUN	Betracht	Acc				Masc		Sing						
+kommt	VERB	kommen						Ind	Sing	3				Pres	Fin
 <g/>
 ,	
-besondere	ADJ	besonderer
-Zuschübe	NOUN	Zuschub
-zur	ADP	zu
-Verfügung	NOUN	Verfügung
-zu	PART	zu
-stellen	VERB	stellen
+besondere	ADJ	besonderer	Acc		Pos		Masc		Plur						
+Zuschübe	NOUN	Zuschub	Acc				Masc		Plur						
+zur	ADP	zu	Dat				Fem		Sing						
+Verfügung	NOUN	Verfügung	Dat				Fem		Sing						
+zu	PART	zu													
+stellen	VERB	stellen													Inf
 <g/>
 .	
-In	ADP	in
-den	DET	der
-Ländern	NOUN	Land
+In	ADP	in													
+den	DET	der	Dat	Def			Neut		Plur			Art			
+Ländern	NOUN	Land	Dat				Neut		Plur						
 <g/>
 ,	
-welche	PRON	welcher
-von	ADP	von
-Sommerfrischlern	NOUN	Sommerfrischler
-besucht	VERB	besuchen
-werden	AUX	werden
+welche	PRON	welcher	Nom				Neut		Plur			Rel			
+von	ADP	von													
+Sommerfrischlern	NOUN	Sommerfrischler	Dat				Masc		Plur						
+besucht	VERB	besuchen													Part
+werden	AUX	werden						Ind	Plur	3				Pres	Fin
 <g/>
 ,	
-dürfte	AUX	dürfen
-dadurch	ADV	dadurch
-die	DET	der
-Möglichkeit	NOUN	Möglichkeit
-geboten	VERB	bieten
-sein	AUX	sein
+dürfte	AUX	dürfen						Sub	Sing	3				Past	Fin
+dadurch	ADV	dadurch													
+die	DET	der	Nom	Def			Fem		Sing			Art			
+Möglichkeit	NOUN	Möglichkeit	Nom				Fem		Sing						
+geboten	VERB	bieten													Part
+sein	AUX	sein													Inf
 <g/>
 ,	
-auch	ADV	auch
-der	DET	der
-ortsansäßigen	ADJ	ortsansäßig
-Bevölkerung	NOUN	Bevölkerung
-eine	DET	ein
-Erleichterung	NOUN	Erleichterung
-ihrer	DET	ihr
-Versorgung	NOUN	Versorgung
-zu	PART	zu
-bieten	VERB	bieten
+auch	ADV	auch													
+der	DET	der	Dat	Def			Fem		Sing			Art			
+ortsansäßigen	ADJ	ortsansäßig	Dat		Pos		Fem		Sing						
+Bevölkerung	NOUN	Bevölkerung	Dat				Fem		Sing						
+eine	DET	ein	Acc	Ind			Fem		Sing			Art			
+Erleichterung	NOUN	Erleichterung	Acc				Fem		Sing						
+ihrer	DET	ihr	Gen				Fem		Sing		Yes	Prs			
+Versorgung	NOUN	Versorgung	Gen				Fem		Sing						
+zu	PART	zu													
+bieten	VERB	bieten													Inf
 <g/>
 .	
-000001	NUM	000001
-Vollzugsanweisung	NOUN	Vollzugsanweisung
+000001	NUM	000001													
+Vollzugsanweisung	NOUN	Vollzugsanweisung	Nom				Fem		Sing						
 <g/>
 .	
-der	DET	der
-Staatsregierung	NOUN	Staatsregierung
-vom	ADP	von
-19.	ADJ	19.
-Mai	NOUN	Mai
-1919	NUM	1919
+der	DET	der	Dat	Def			Fem		Sing			Art			
+Staatsregierung	NOUN	Staatsregierung	Dat				Fem		Sing						
+vom	ADP	von	Dat				Masc		Sing						
+19.	ADJ	19.	Dat		Pos		Masc		Sing						
+Mai	NOUN	Mai	Dat				Masc		Sing						
+1919	NUM	1919													
 <g/>
 ,	
-mit	ADP	mit
-welcher	PRON	welcher
-die	DET	der
-Vollzugsanweisung	NOUN	Vollzugsanweisung
+mit	ADP	mit													
+welcher	PRON	welcher	Dat				Fem		Sing			Rel			
+die	DET	der	Nom	Def			Fem		Sing			Art			
+Vollzugsanweisung	NOUN	Vollzugsanweisung	Nom				Fem		Sing						
 <g/>
 .	
-vom	ADP	von
-29.	ADJ	29.
-April	NOUN	April
-1919	NUM	1919
+vom	ADP	von	Dat				Masc		Sing						
+29.	ADJ	29.	Dat		Pos		Masc		Sing						
+April	NOUN	April	Dat				Masc		Sing						
+1919	NUM	1919													
 <g/>
 ,	
-St.	PROPN	St.
-G.Bl	PROPN	G.Bl
-.	NOUN	.
-Nr.	NOUN	Nr.
-252	NUM	252
+St.	PROPN	St.													
+G.Bl	PROPN	G.Bl	Nom				Neut		Sing						
+.	NOUN	.	Nom				Fem		Sing						
+Nr.	NOUN	Nr.	Nom				Fem		Sing						
+252	NUM	252													
 <g/>
 ,	
-ergänzt	VERB	ergänzen
-wird	AUX	werden
+ergänzt	VERB	ergänzen													Part
+wird	AUX	werden						Ind	Sing	3				Pres	Fin
 <g/>
 .	
-Auf	ADP	auf
-Grund	NOUN	Grund
-des	DET	der
-Gesetzes	NOUN	Gesetz
-vom	ADP	von
-24.	ADJ	24.
-Juli	NOUN	Juli
-1917,R.	PROPN	1917,R.
-G.	PROPN	G.
-Bl	NOUN	Bl
-.	NOUN	.
-Nr.	NOUN	Nr.
-307	NUM	307
+Auf	ADP	auf													
+Grund	NOUN	Grund	Dat				Masc		Sing						
+des	DET	der	Gen	Def			Neut		Sing			Art			
+Gesetzes	NOUN	Gesetz	Gen				Neut		Sing						
+vom	ADP	von	Dat				Masc		Sing						
+24.	ADJ	24.	Dat		Pos		Masc		Sing						
+Juli	NOUN	Juli	Dat				Masc		Sing						
+1917,R.	PROPN	1917,R.	Nom						Sing						
+G.	PROPN	G.	Nom						Sing						
+Bl	NOUN	Bl	Nom				Fem		Sing						
+.	NOUN	.	Nom				Fem		Sing						
+Nr.	NOUN	Nr.	Nom				Fem		Sing						
+307	NUM	307													
 <g/>
 ,	
-wird	AUX	werden
-in	ADP	in
-Ergänzung	NOUN	Ergänzung
-der	DET	der
-Vollzugsanweisung	NOUN	Vollzugsanweisung
-vom	ADP	von
-29.	ADJ	29.
-April	NOUN	April
-1919	NUM	1919
+wird	AUX	werden						Ind	Sing	3				Pres	Fin
+in	ADP	in													
+Ergänzung	NOUN	Ergänzung	Dat				Fem		Sing						
+der	DET	der	Gen	Def			Fem		Sing			Art			
+Vollzugsanweisung	NOUN	Vollzugsanweisung	Gen				Fem		Sing						
+vom	ADP	von	Dat				Masc		Sing						
+29.	ADJ	29.	Dat		Pos		Masc		Sing						
+April	NOUN	April	Dat				Masc		Sing						
+1919	NUM	1919													
 <g/>
 ,	
-St.	PROPN	St.
-G.Bl	PROPN	G.Bl
-.	NOUN	.
-Nr.	NOUN	Nr.
-252	NUM	252
+St.	PROPN	St.													
+G.Bl	PROPN	G.Bl	Nom				Neut		Sing						
+.	NOUN	.	Nom				Fem		Sing						
+Nr.	NOUN	Nr.	Nom				Fem		Sing						
+252	NUM	252													
 <g/>
 ,	
-verordnet	VERB	verordnen
-wie	SCONJ	wie
-folgt	VERB	folgen
+verordnet	VERB	verordnen													Part
+wie	SCONJ	wie										Int			
+folgt	VERB	folgen						Ind	Sing	3				Pres	Fin
 <g/>
 :	
-Artikel	NOUN	Artikel
-1.	NUM	1.
+Artikel	NOUN	Artikel	Nom				Masc		Sing						
+1.	NUM	1.													
 <g/>
 )	
-Die	DET	der
-Landesregierungen	NOUN	Landesregierung
-sind	AUX	sein
+Die	DET	der	Nom	Def			Fem		Plur			Art			
+Landesregierungen	NOUN	Landesregierung	Nom				Fem		Plur						
+sind	AUX	sein						Ind	Plur	3				Pres	Fin
 <g/>
 (	
-ermächtigt	VERB	ermächtigen
+ermächtigt	VERB	ermächtigen													Part
 <g/>
 ,	
-jeden	DET	jeder
-über	ADV	über
-drei	NUM	drei
-Tage	NOUN	Tag
-dauernden	ADJ	dauernd
-Sommeraufenthalt	NOUN	Sommeraufenthalt
-von	ADP	von
-Personen	NOUN	Person
+jeden	DET	jeder	Acc				Masc		Sing			Ind			
+über	ADV	über													
+drei	NUM	drei													
+Tage	NOUN	Tag	Acc				Masc		Plur						
+dauernden	ADJ	dauernd	Acc		Pos		Masc		Sing						
+Sommeraufenthalt	NOUN	Sommeraufenthalt	Acc				Masc		Sing						
+von	ADP	von													
+Personen	NOUN	Person	Dat				Fem		Plur						
 <g/>
 ,	
-sofern	SCONJ	sofern
-sie	PRON	sie
-nicht	PART	nicht
-in	ADP	in
-der	DET	der
-betreffenden	ADJ	betreffend
-Gemeinde	NOUN	Gemeinde
-heimatberechtigt	ADV	heimatberechtigt
-sind	AUX	sein
-oder	CCONJ	oder
-dortselbst	ADV	dortselbst
-ihren	DET	ihr
-ständigen	ADJ	ständig
-Aufenthalt	NOUN	Aufenthalt
-haben	VERB	haben
+sofern	SCONJ	sofern													
+sie	PRON	sie	Nom				Fem		Plur	3		Prs			
+nicht	PART	nicht													
+in	ADP	in													
+der	DET	der	Dat	Def			Fem		Sing			Art			
+betreffenden	ADJ	betreffend	Dat		Pos		Fem		Sing						
+Gemeinde	NOUN	Gemeinde	Dat				Fem		Sing						
+heimatberechtigt	ADV	heimatberechtigt			Pos										
+sind	AUX	sein						Ind	Plur	3				Pres	Fin
+oder	CCONJ	oder													
+dortselbst	ADV	dortselbst													
+ihren	DET	ihr	Acc				Masc		Sing		Yes	Prs			
+ständigen	ADJ	ständig	Acc		Pos		Masc		Sing						
+Aufenthalt	NOUN	Aufenthalt	Acc				Masc		Sing						
+haben	VERB	haben						Ind	Plur	3				Pres	Fin
 <g/>
 ,	
-an	ADP	an
-eine	DET	ein
-besondere	ADJ	besonderer
-Bewilligung	NOUN	Bewilligung
-zu	PART	zu
-knüpfen	VERB	knüpfen
+an	ADP	an													
+eine	DET	ein	Acc	Ind			Fem		Sing			Art			
+besondere	ADJ	besonderer	Acc		Pos		Fem		Sing						
+Bewilligung	NOUN	Bewilligung	Acc				Fem		Sing						
+zu	PART	zu													
+knüpfen	VERB	knüpfen													Inf
 <g/>
 .	
 <g/>
 )	
-Durch	ADP	durch
-diese	DET	dieser
-Bestimmung	NOUN	Bestimmung
-werden	AUX	werden
-die	DET	der
-hinsichtlich	ADP	hinsichtlich
-des	DET	der
-Aufenthaltes	NOUN	Aufenthalt
-in	ADP	in
-Heilbädern	NOUN	Heilbad
-erlassenen	ADJ	erlassen
-Vorschriften	NOUN	Vorschrift
+Durch	ADP	durch													
+diese	DET	dieser	Acc				Fem		Sing			Dem			
+Bestimmung	NOUN	Bestimmung	Acc				Fem		Sing						
+werden	AUX	werden						Ind	Plur	3				Pres	Fin
+die	DET	der	Nom	Def			Fem		Plur			Art			
+hinsichtlich	ADP	hinsichtlich													
+des	DET	der	Gen	Def			Masc		Sing			Art			
+Aufenthaltes	NOUN	Aufenthalt	Gen				Masc		Sing						
+in	ADP	in													
+Heilbädern	NOUN	Heilbad	Dat				Neut		Plur						
+erlassenen	ADJ	erlassen	Nom		Pos		Fem		Plur						
+Vorschriften	NOUN	Vorschrift	Nom				Fem		Plur						
 <g/>
 (	
-§	NOUN	§
-5	NUM	5
-der	DET	der
-Vollzugsanweisung	NOUN	Vollzugsanweisung
-vom	ADP	von
-29.	ADJ	29.
-April	NOUN	April
-1919	NUM	1919
+§	NOUN	§	Nom				Masc		Sing						
+5	NUM	5													
+der	DET	der	Gen	Def			Fem		Sing			Art			
+Vollzugsanweisung	NOUN	Vollzugsanweisung	Gen				Fem		Sing						
+vom	ADP	von	Dat				Masc		Sing						
+29.	ADJ	29.	Dat		Pos		Masc		Sing						
+April	NOUN	April	Dat				Masc		Sing						
+1919	NUM	1919													
 <g/>
 ,	
-st	NOUN	st
-.	NOUN	.
-G.Bl	NOUN	G.Bl
-.	NOUN	.
-Nr.	NOUN	Nr.
-252	NUM	252
+st	NOUN	st	Nom				Fem		Sing						
+.	NOUN	.	Nom				Fem		Sing						
+G.Bl	NOUN	G.Bl	Nom				Fem		Sing						
+.	NOUN	.	Nom				Fem		Sing						
+Nr.	NOUN	Nr.	Nom				Fem		Sing						
+252	NUM	252													
 <g/>
 )	
-nicht	PART	nicht
-berührt	VERB	berühren
+nicht	PART	nicht													
+berührt	VERB	berühren													Part
 <g/>
 .	
-Artikel	NOUN	Artikel
-2.	NUM	2.
+Artikel	NOUN	Artikel	Nom				Masc		Sing						
+2.	NUM	2.													
 <g/>
 )	
-In	ADP	in
-Abänderung	NOUN	Abänderung
-des	DET	der
-§	NOUN	§
-10	NUM	10
-der	DET	der
-Vollzugsanweisung	NOUN	Vollzugsanweisung
-vom	ADP	von
-29.	ADJ	29.
-April	NOUN	April
-1919	NUM	1919
+In	ADP	in													
+Abänderung	NOUN	Abänderung	Dat				Fem		Sing						
+des	DET	der	Gen	Def			Masc		Sing			Art			
+§	NOUN	§	Gen				Masc		Sing						
+10	NUM	10													
+der	DET	der	Gen	Def			Fem		Sing			Art			
+Vollzugsanweisung	NOUN	Vollzugsanweisung	Gen				Fem		Sing						
+vom	ADP	von	Dat				Masc		Sing						
+29.	ADJ	29.	Dat		Pos		Masc		Sing						
+April	NOUN	April	Dat				Masc		Sing						
+1919	NUM	1919													
 <g/>
 ,	
-St.	PROPN	St.
-G.Bl	PROPN	G.Bl
-.	NOUN	.
-Nr.	NOUN	Nr.
-252	NUM	252
+St.	PROPN	St.													
+G.Bl	PROPN	G.Bl	Nom												
+.	NOUN	.	Nom				Fem		Sing						
+Nr.	NOUN	Nr.	Nom				Fem		Sing						
+252	NUM	252													
 <g/>
 ,	
-wird	AUX	werden
-der	DET	der
-Wirksamkeitsbeginn	NOUN	Wirksamkeitsbeginn
-der	DET	der
-letzterwähnten	ADJ	letzterwähnt
-Vollzugsanweisung	NOUN	Vollzugsanweisung
-erst	ADV	erst
-mit	ADP	mit
-10.	ADJ	10.
-Juni	NOUN	Juni
-1919	NUM	1919
-festgesetzt	VERB	festsetzen
+wird	AUX	werden						Ind	Sing	3				Pres	Fin
+der	DET	der	Nom	Def			Masc		Sing			Art			
+Wirksamkeitsbeginn	NOUN	Wirksamkeitsbeginn	Nom				Masc		Sing						
+der	DET	der	Gen	Def			Fem		Sing			Art			
+letzterwähnten	ADJ	letzterwähnt	Gen		Pos		Fem		Sing						
+Vollzugsanweisung	NOUN	Vollzugsanweisung	Gen				Fem		Sing						
+erst	ADV	erst													
+mit	ADP	mit													
+10.	ADJ	10.	Dat		Pos		Masc		Sing						
+Juni	NOUN	Juni	Dat				Masc		Sing						
+1919	NUM	1919													
+festgesetzt	VERB	festsetzen													Part
 <g/>
 ,	
-soweit	SCONJ	soweit
-ex	NOUN	ex
-sich	PRON	sich
-nicht	PART	nicht
-um	ADP	um
-den	DET	der
-Besuch	NOUN	Besuch
-von	ADP	von
-Heilbädern	NOUN	Heilbad
+soweit	SCONJ	soweit													
+ex	NOUN	ex	Nom						Sing						
+sich	PRON	sich	Acc						Sing	3		Prs	Yes		
+nicht	PART	nicht													
+um	ADP	um													
+den	DET	der	Acc	Def			Masc		Sing			Art			
+Besuch	NOUN	Besuch	Acc				Masc		Sing						
+von	ADP	von													
+Heilbädern	NOUN	Heilbad	Dat				Neut		Plur						
 <g/>
 (	
-§	NOUN	§
-5	NUM	5
+§	NOUN	§	Nom				Masc		Sing						
+5	NUM	5													
 <g/>
 )	
-handelt	VERB	handeln
+handelt	VERB	handeln						Ind	Sing	3				Pres	Fin
 <g/>
 .	
-Artikel	NOUN	Artikel
-3.	ADJ	3.
+Artikel	NOUN	Artikel	Nom				Masc		Sing						
+3.	ADJ	3.	Dat		Pos		Masc		Sing						
 <g/>
 )	
-Artikel	NOUN	Artikel
-2	NUM	2
+Artikel	NOUN	Artikel	Nom				Masc		Sing						
+2	NUM	2													
 <g/>
 )	
-dieser	DET	dieser
-Vollzugsanweisung	NOUN	Vollzugsanweisung
-tritt	VERB	treten
-sofort	ADV	sofort
+dieser	DET	dieser	Gen				Fem		Sing			Dem			
+Vollzugsanweisung	NOUN	Vollzugsanweisung	Gen				Fem		Sing						
+tritt	VERB	treten						Ind	Sing	3				Pres	Fin
+sofort	ADV	sofort													
 <g/>
 ,	
-Artikel	NOUN	Artikel
-1	NUM	1
+Artikel	NOUN	Artikel	Nom				Masc		Sing						
+1	NUM	1													
 <g/>
 )	
-am	ADP	an
-10.	ADJ	10.
-Juni	NOUN	Juni
-1919	NUM	1919
-in	ADP	in
-Kraft	NOUN	Kraft
+am	ADP	an	Dat				Masc		Sing						
+10.	ADJ	10.	Dat		Pos		Masc		Sing						
+Juni	NOUN	Juni	Dat				Masc		Sing						
+1919	NUM	1919													
+in	ADP	in													
+Kraft	NOUN	Kraft	Acc				Fem		Sing						
 <g/>
 .	
-22	NUM	22
+22	NUM	22													
 </doc>

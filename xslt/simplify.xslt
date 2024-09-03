@@ -9,7 +9,6 @@
             <xsl:apply-templates select="node() | @*"/>
         </xsl:copy>
     </xsl:template>
-    
     <xsl:template match="tei:body//tei:p|tei:body//tei:item|tei:body//tei:div">
         <xsl:variable name="head_id">
             <xsl:value-of select="./tei:head/@xml:id"/>
