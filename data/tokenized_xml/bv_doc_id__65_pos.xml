@@ -75,12 +75,12 @@ Anmerkung: offenbar Zwischenstufe zwischen Evidenzexemplar und Renner-Mayr</note
          </creation>
       </profileDesc>
       <revisionDesc status="created">
-         <change when="2024-09-01" who="#cfh">document automatically created</change>
+         <change when="2024-09-03" who="#cfh">document automatically created</change>
       </revisionDesc>
    </teiHeader>
    <text type="Stellungnahme zum Verfassungsentwurf">
       <body>
-         <div>
+         <div type="main">
             <p>
 <w pos="X" lemma="Kl" ana="">Kl</w><w pos="NOUN" lemma="." ana="Case=Nom|Number=Sing">.</w><w pos="NUM" lemma="111" ana="">111</w><w pos="X" lemma="A" ana="">A</w><w pos="X" lemma="Moatstso" ana="">Moatstso</w></p>
             <p>

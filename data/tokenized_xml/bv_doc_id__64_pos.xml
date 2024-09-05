@@ -69,12 +69,12 @@
          </creation>
       </profileDesc>
       <revisionDesc status="created">
-         <change when="2024-09-01" who="#cfh">document automatically created</change>
+         <change when="2024-09-03" who="#cfh">document automatically created</change>
       </revisionDesc>
    </teiHeader>
    <text type="Verfassungstext">
       <body>
-         <div>
+         <div type="main">
             <p>
 <w pos="NUM" lemma="102" ana="">102</w><pc pos="PUNCT">/</pc><w pos="NUM" lemma="99-St" ana="">99-St</w><w pos="PROPN" lemma="." ana="Case=Nom|Gender=Masc|Number=Sing">.</w><w pos="PROPN" lemma="K.-1920" ana="">K.-1920</w></p>
             <p>
