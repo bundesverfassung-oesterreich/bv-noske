@@ -10,7 +10,12 @@
         <arg value="https://raw.githubusercontent.com/bundesverfassung-oesterreich/bv-static/main/xslt/mk_docinternal_nav_ids.xsl" />
         <arg value="-O" />
     </exec>
-    <!-- yea this is beyond bad, I now that, will improve later, maybe-->
+    <!-- yea this is beyond bad, I now that, will improve later, maybe
+        IF THE NOSKE-DATA SHOULD NEED LINKING IN FUTURE I WOULD GIVE IDS TO THE BODY p-ELEMENTS BASED ON POSTION
+        THIS WOULD BE 
+        A) EASY
+        B) STABLE 
+    -->
     <xslt style="./xslt/mk_docinternal_nav_ids.xsl" basedir="${source_dir}" destdir="${source_dir}" includes="*.xml" extension=".xml_with_id">
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
         <classpath location="${basedir}/saxon/saxon9he.jar"/>

@@ -34,26 +34,36 @@ NS = {
     "xml": "http://www.w3.org/XML/1998/namespace"
 }
 
-STRUCTURES = [
+# elements which child elements get processed and 
+# that get converted into vertical structures
+RELEVANT_ELEMENTS = [
     "head",
     "p",
     "lg",
     "titlePage",
     "item",
     "label",
+    "note",
+    "list"
+]
+# attribs extracted from structures
+RELEVANT_ELEMENTS_ATTRIBUTES = [
+    "xml:id"
+]
+
+# elements which child elements get processed and 
+# that DON'T get converted into vertical structures
+CONTAINER_ELEMENTS = [
     "div"
 ]
 
-STRUCUTRE_ATTRIBUTES = [
-    "@xml:id"
-]
-
-TAGS = [
+#tags considered tokens
+TOKEN_TAGS = [
     "w",
     "pc"
 ]
 
-TAG_ATTRIBUTES = [
+TOKEN_TAG_ATTRIBUTES = [
     "@lemma",
     "@pos"
 ]
@@ -113,7 +123,9 @@ def load_xml_files(input_dir: str) -> list:
     return glob.glob(os.path.join(input_dir, "*.xml"))
 
 
-def extract_structure_tag(element_name, open=False) -> str:
+def extract_structure_tag(element_name,  attributes:dict={}, open=False) -> str:
+    if attributes and not open:
+        input("You are trying to add attributes to a closing structure tag. Stop it!")
     if open:
         return f"<{element_name}>"
     else:
@@ -176,7 +188,7 @@ def get_vertical_for_atomic(element, element_name:str)-> str:
         return "<g/>\n" + text
     elif element_name == "w":
         token_attribs = [text]
-        for attrib in TAG_ATTRIBUTES:
+        for attrib in TOKEN_TAG_ATTRIBUTES:
             val = element.xpath(f"{attrib}")
             string_val = val[0] if val else ""
             token_attribs.append(string_val)
@@ -190,31 +202,60 @@ def get_vertical_for_atomic(element, element_name:str)-> str:
         input(f"unexpected element {element_name}")
         return ""
 
+def get_attributes_from_structure(element):
+    return_dict = {}
+    for attrib in RELEVANT_ELEMENTS_ATTRIBUTES:
+        val = element.xpath(f"./@{attrib}", namespaces=NS)
+        return_dict[attrib] = val
 
 def extract_subelement_verticals(verticals: list, current_root) -> list:
-    for element in current_root:
-        element_name = element.xpath("local-name()").removeprefix("{http://www.tei-c.org/ns/1.0}")
-        if element_name in STRUCTURES:
-            open_structure = extract_structure_tag(
-                element_name,
-                open=True
-            )
-            verticals.append(open_structure)
-            for subelement in element:
-                verticals = extract_subelement_verticals(
-                    verticals= verticals,
-                    current_root= subelement
-                )
-            close_structure = extract_structure_tag(
-                element_name,
-                open=False
-            )
-            verticals.append(close_structure)
-        elif element_name in TAGS:
-            vertical = get_vertical_for_atomic(element, element_name)
+    if len(current_root) == 0:
+        element_name = current_root.xpath("local-name()").removeprefix("{http://www.tei-c.org/ns/1.0}")
+        if element_name in TOKEN_TAGS:
+            vertical = get_vertical_for_atomic(current_root, element_name)
+            #print(vertical)
             verticals.append(vertical)
-        else:
-            input(element_name)
+        return verticals
+    else:
+        for element in current_root:
+            element_name = element.xpath("local-name()").removeprefix("{http://www.tei-c.org/ns/1.0}")
+            if element_name in RELEVANT_ELEMENTS:
+                # if element_name == "p":
+                #     input(element_name)
+                attributes= get_attributes_from_structure(element)
+                open_structure = extract_structure_tag(
+                    element_name,
+                    attributes,
+                    open=True
+                )
+                verticals.append(open_structure)
+                for subelement in element:
+                    #input(subelement)
+                    verticals = extract_subelement_verticals(
+                        verticals=verticals,
+                        current_root=subelement
+                    )
+                #input(element_name)
+                close_structure = extract_structure_tag(
+                    element_name,
+                    open=False
+                )
+                verticals.append(close_structure)
+                # if element_name == "p":
+                #     input(verticals)
+            elif element_name in CONTAINER_ELEMENTS:
+                for subelement in element:
+                    verticals = extract_subelement_verticals(
+                        verticals= verticals,
+                        current_root= subelement
+                    )
+            elif element_name in TOKEN_TAGS:
+                vertical = get_vertical_for_atomic(element, element_name)
+                #print(vertical)
+                verticals.append(vertical)
+            else:
+                input(element_name)
+    #print(verticals)
     return verticals
 
 
@@ -228,7 +269,7 @@ def create_verticals(doc: TeiReader, output_filename) -> None:
             verticals= [],
             current_root= root
         )
-    docstructure_closing = "</doc>"
+    docstructure_closing = "</doc>\n"
     verticals.append(docstructure_closing)
     verticals_str = "\n".join(verticals)
     output_file = os.path.join(output_filepath, "verticals", f"{output_filename}.tsv")

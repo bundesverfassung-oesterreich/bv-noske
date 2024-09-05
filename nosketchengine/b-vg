@@ -114,13 +114,40 @@ STRUCTURE "doc" {
 	}
 }
 
-# STRUCTURE "p" {
-# 	TYPE "map32"
-# 	ATTRIBUTE "id" {
-# 		TYPE "MD_MI"
-# 	}
-# }
+STRUCTURE "p" {
+	TYPE "map32"
+	ATTRIBUTE "id" {
+		TYPE "MD_MI"
+	}
+}
 
+STRUCTURE "head" {
+	TYPE "map32"
+	ATTRIBUTE "id" {
+		TYPE "MD_MI"
+	}
+}
+
+STRUCTURE "list" {
+	TYPE "map32"
+	ATTRIBUTE "id" {
+		TYPE "MD_MI"
+	}
+}
+
+STRUCTURE "item" {
+	TYPE "map32"
+	ATTRIBUTE "id" {
+		TYPE "MD_MI"
+	}
+}
+
+STRUCTURE "label" {
+	TYPE "map32"
+	ATTRIBUTE "id" {
+		TYPE "MD_MI"
+	}
+}
 
 STRUCTURE "g" {
     DISPLAYTAG 0

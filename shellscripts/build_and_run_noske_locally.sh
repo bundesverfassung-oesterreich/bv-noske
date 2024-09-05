@@ -5,7 +5,7 @@
 #
 # pulling some dependencies
 #
-read -p "Going to install python dependencies. Do you want to?\n" -n 1 -r user_input_value_1
+read -p "Going to install python dependencies. Do you want to?" -n 1 -r user_input_value_1
 echo
 if [[ $user_input_value_1 =~ ^[YyJj]$ ]]
 then
@@ -29,7 +29,7 @@ ant
 echo -e "\nannotating the xmls\n\n"
 python pyscripts/annotator.py
 echo -e "\nconvert them to verticals\n\n"
-python pyscripts/mk_verticals.py
+python pyscripts/extract_verticals.py
 echo -e "\nbuild the docker container\n\n"
 ./shellscripts/build_container.sh
 echo -e "\nthe interface should be running at http://localhost:8080/crystal/\n\n"
