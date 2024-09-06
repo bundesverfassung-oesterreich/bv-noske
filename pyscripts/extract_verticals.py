@@ -68,51 +68,6 @@ TOKEN_TAG_ATTRIBUTES = [
     "@pos"
 ]
 
-def yearToDecade(year) -> int:
-    year = int(year)
-    return year - year % 10
-
-
-def weekdayToString(weekday) -> str:
-    if weekday == 0:
-        return "Monday"
-    elif weekday == 1:
-        return "Tuesday"
-    elif weekday == 2:
-        return "Wednesday"
-    elif weekday == 3:
-        return "Thursday"
-    elif weekday == 4:
-        return "Friday"
-    elif weekday == 5:
-        return "Saturday"
-    elif weekday == 6:
-        return "Sunday"
-
-
-def dateToWeekday(year, month, day) -> int:
-    return datetime.date(int(year), int(month), int(day)).weekday()
-
-
-def punctuation_normalized(input_glob):
-    for file in glob.glob(input_glob):
-        with open(file, "r", encoding="utf-8") as f:
-            text = f.read()
-            text = text.replace("\\.", "<g/>\n\\.")
-            text = text.replace(",", "<g/>\n,")
-            text = text.replace(";", "<g/>\n;")
-            text = text.replace(":", "<g/>\n:")
-            text = text.replace("!", "<g/>\n!")
-            text = text.replace("?", "<g/>\n?")
-            text = text.replace("(", "<g/>\n(")
-            text = text.replace(")", "<g/>\n)")
-            text = text.replace("[", "<g/>\n[")
-            text = text.replace("]", "<g/>\n]")
-            text = text.replace("=", "<g/>\n=")
-        with open(file, "w", encoding="utf-8") as f:
-            f.write(text)
-
-
 def create_dirs(output_dir: str) -> None:
     output_dir = os.path.join(output_dir, "verticals")
     shutil.rmtree(output_dir, ignore_errors=True)
@@ -208,66 +163,55 @@ def get_attributes_from_structure(element):
         val = element.xpath(f"./@{attrib}", namespaces=NS)
         return_dict[attrib] = val
 
-def extract_subelement_verticals(verticals: list, current_root) -> list:
-    if len(current_root) == 0:
-        element_name = current_root.xpath("local-name()").removeprefix("{http://www.tei-c.org/ns/1.0}")
-        if element_name in TOKEN_TAGS:
-            vertical = get_vertical_for_atomic(current_root, element_name)
-            #print(vertical)
-            verticals.append(vertical)
-        return verticals
+def process_element(element, verticals:list):
+    element_name = element.xpath("local-name()").removeprefix("{http://www.tei-c.org/ns/1.0}")
+    if element_name in RELEVANT_ELEMENTS:
+        # if element_name == "head":
+        #         input(element_name)
+        attributes= get_attributes_from_structure(element)
+        open_structure = extract_structure_tag(
+            element_name,
+            attributes,
+            open=True
+        )
+        verticals.append(open_structure)
+        for subelement in element:
+            #input(subelement)
+            verticals = process_element(
+                verticals=verticals,
+                element=subelement
+            )
+        #input(element_name)
+        close_structure = extract_structure_tag(
+            element_name,
+            open=False
+        )
+        verticals.append(close_structure)
+        # if element_name == "head":
+        #         input(verticals)
+    elif element_name in CONTAINER_ELEMENTS:
+        for subelement in element:
+            verticals = process_element(
+                verticals=verticals,
+                element=subelement
+            )
+    elif element_name in TOKEN_TAGS:
+        vertical = get_vertical_for_atomic(element, element_name)
+        #print(vertical)
+        verticals.append(vertical)
     else:
-        for element in current_root:
-            element_name = element.xpath("local-name()").removeprefix("{http://www.tei-c.org/ns/1.0}")
-            if element_name in RELEVANT_ELEMENTS:
-                # if element_name == "p":
-                #     input(element_name)
-                attributes= get_attributes_from_structure(element)
-                open_structure = extract_structure_tag(
-                    element_name,
-                    attributes,
-                    open=True
-                )
-                verticals.append(open_structure)
-                for subelement in element:
-                    #input(subelement)
-                    verticals = extract_subelement_verticals(
-                        verticals=verticals,
-                        current_root=subelement
-                    )
-                #input(element_name)
-                close_structure = extract_structure_tag(
-                    element_name,
-                    open=False
-                )
-                verticals.append(close_structure)
-                # if element_name == "p":
-                #     input(verticals)
-            elif element_name in CONTAINER_ELEMENTS:
-                for subelement in element:
-                    verticals = extract_subelement_verticals(
-                        verticals= verticals,
-                        current_root= subelement
-                    )
-            elif element_name in TOKEN_TAGS:
-                vertical = get_vertical_for_atomic(element, element_name)
-                #print(vertical)
-                verticals.append(vertical)
-            else:
-                input(element_name)
-    #print(verticals)
+        input(f" unexpected element: {element_name}")
     return verticals
-
 
 def create_verticals(doc: TeiReader, output_filename) -> None:
     verticals = []
     docstructure_opening = mk_docstructure_open(doc)
     verticals.append(docstructure_opening)
-    roots = doc.any_xpath("//tei:body")
+    roots = doc.any_xpath("//tei:body/*")
     for root in roots:
-        verticals += extract_subelement_verticals(
-            verticals= [],
-            current_root= root
+        verticals += process_element(
+            verticals=[],
+            element= root
         )
     docstructure_closing = "</doc>\n"
     verticals.append(docstructure_closing)
