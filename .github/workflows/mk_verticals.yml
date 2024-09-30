@@ -23,7 +23,8 @@ jobs:
     - name: Install Saxon, Ant and Python
       run: |
         apt-get update && apt-get install openjdk-11-jre-headless -y --no-install-recommend
-        ./shellscripts/dl_saxon.sh 
+        ./shellscripts/dl_saxon.sh
+        python -m pip config set global.break-system-packages true
         pip install -r ./pyscripts/requirements.txt
         python -m spacy download de_dep_news_trf
     - name: pull xslt, create ids in xml, simplify xml
