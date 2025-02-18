@@ -1,0 +1,2960 @@
+<doc id="bv_doc_id__36" document_title="Protokoll der 1. Sitzung des Subkomitees des Verfassungsausschusses vom 11. Juli 1920" created_not_before="1920-07-11" created_not_after="1920-07-11" creation_year="1920" state_of_correction="structured" document_type="Lithographie" text_type="Sitzungsprotokoll" dataset="Sitzungsprotokolle" attrs="word lemma type">
+<head>
+Protokoll	Protokoll	NOUN	Nom				Neut		Sing						
+der	der	DET	Gen	Def			Fem		Sing			Art			
+1.	1.	ADJ	Gen		Pos		Fem		Sing						
+Sitzung	Sitzung	NOUN	Gen				Fem		Sing						
+des	der	DET	Gen	Def			Neut		Sing			Art			
+Subkomitees	Subkomitee	NOUN	Gen				Neut		Sing						
+des	der	DET	Gen	Def			Masc		Sing			Art			
+Verfassungsausschusses	Verfassungsausschuß	NOUN	Gen				Masc		Sing						
+vom	von	ADP	Dat				Masc		Sing						
+11.	11.	ADJ	Dat		Pos		Masc		Sing						
+Juli	Juli	NOUN	Dat				Masc		Sing						
+1920.	1920.	NUM													
+</head>
+<p>
+Beginn	Beginn	NOUN	Nom				Masc		Sing						
+9h30	9h30	NUM													
+Uhr	Uhr	NOUN					Fem		Sing						
+Vormittag	Vormittag	NOUN	Nom				Masc		Sing						
+<g/>
+.
+</p>
+<p>
+Anwesend	Anwesend	ADV			Pos										
+<g/>
+:
+</p>
+<list>
+<item>
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Otto	Otto	PROPN	Nom				Masc		Sing						
+Bauer	Bauer	PROPN	Nom				Masc		Sing						
+<g/>
+,
+als	als	ADP													
+Vorsitzender	vorsitzend	NOUN	Nom				Masc		Sing						
+<g/>
+,
+</item>
+<item>
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Josef	Josef	PROPN	Nom				Masc		Sing						
+Aigner	Aigner	PROPN	Nom				Masc		Sing						
+<g/>
+,
+</item>
+<item>
+Heinrich	Heinrich	PROPN	Nom				Masc		Sing						
+Clessin	Clessin	PROPN	Nom				Masc		Sing						
+<g/>
+,
+als	als	ADP													
+Berichterstatter	Berichterstatter	NOUN	Nom				Masc		Sing						
+<g/>
+,
+</item>
+<item>
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Robert	Robert	PROPN	Nom				Masc		Sing						
+Danneberg	Danneberg	PROPN	Nom				Masc		Sing						
+<g/>
+,
+</item>
+<item>
+Mathias	Mathias	PROPN	Nom				Masc		Sing						
+Eldersch	Eldersch	PROPN	Nom				Masc		Sing						
+<g/>
+,
+</item>
+<item>
+Jodok	Jodok	PROPN	Nom				Masc		Sing						
+Fink	Fink	PROPN	Nom				Masc		Sing						
+<g/>
+,
+</item>
+<item>
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Ignaz	Ignaz	PROPN	Nom				Masc		Sing						
+Seipel	Seipel	PROPN	Nom				Masc		Sing						
+</item>
+</list>
+<list>
+<item>
+Staatssekretär	Staatssekretär	NOUN	Nom				Masc		Sing						
+Prof.	Prof.	NOUN	Nom				Masc		Sing						
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Michael	Michael	PROPN	Nom				Masc		Sing						
+Mayr	Mayr	PROPN	Nom				Masc		Sing						
+<g/>
+.
+</item>
+</list>
+<list>
+<item>
+Prof.	Prof.	NOUN	Nom				Masc		Sing						
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Hans	Hans	PROPN	Nom				Masc		Sing						
+Kelsen	Kelsen	PROPN	Nom				Masc		Sing						
+</item>
+</list>
+<p>
+Von	von	ADP													
+der	der	DET	Dat	Def			Fem		Sing			Art			
+Staatskanzlei	Staatskanzlei	NOUN	Dat				Fem		Sing						
+<g/>
+:
+</p>
+<list>
+<item>
+Min	Min	NOUN					Fem								
+.	.	ADV													
+Rat	Rat	NOUN	Nom				Masc		Sing						
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Georg	Georg	PROPN	Nom				Masc		Sing						
+Froehlich	Froehlich	PROPN	Nom				Masc		Sing						
+<g/>
+,
+</item>
+<item>
+Sektionsrat	Sektionsrat	NOUN	Nom				Masc		Sing						
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Egbert	Egbert	PROPN	Nom				Masc		Sing						
+Mannlicher	Mannlicher	PROPN	Nom				Masc		Sing						
+<g/>
+,
+</item>
+<item>
+Oberfinanzrat	Oberfinanzrat	NOUN	Nom				Masc		Sing						
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Karl	Karl	PROPN	Nom				Masc		Sing						
+Moser	Moser	PROPN	Nom				Masc		Sing						
+<g/>
+,
+</item>
+<item>
+Min	Min	NOUN					Fem								
+.	.	NOUN													
+Vizesekretär	Vizesekretär	NOUN	Nom				Masc		Sing						
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Kurt	Kurt	PROPN	Nom				Masc		Sing						
+Frieberger	Frieberger	PROPN	Nom				Masc		Sing						
+<g/>
+,
+als	als	ADP													
+Schriftführer	Schriftführer	NOUN	Nom				Masc		Sing						
+</item>
+</list>
+<p>
+Der	der	DET	Nom	Def			Masc		Sing			Art			
+Vorsitzende	vorsitzend	NOUN	Nom				Masc		Sing						
+erteilt	erteilen	VERB						Ind	Sing	3				Pres	Fin
+nach	nach	ADP													
+Eröffnung	Eröffnung	NOUN	Dat				Fem		Sing						
+der	der	DET	Gen	Def			Fem		Sing			Art			
+Sitzung	Sitzung	NOUN	Gen				Fem		Sing						
+dem	der	DET	Dat	Def			Masc		Sing			Art			
+Berichterstatter	Berichterstatter	NOUN	Dat				Masc		Sing						
+Olessin	Olessin	PROPN	Nom				Masc		Sing						
+das	der	DET	Acc	Def			Neut		Sing			Art			
+Wort	Wort	NOUN	Acc				Neut		Sing						
+<g/>
+,
+der	der	PRON	Nom				Masc		Sing			Rel			
+es	es	PRON	Acc				Neut		Sing	3		Prs			
+als	als	ADP													
+seine	sein	DET	Acc				Fem		Sing		Yes	Prs			
+Aufgabe	Aufgabe	NOUN	Acc				Fem		Sing						
+darstellt	darstellen	VERB						Ind	Sing	3				Pres	Fin
+<g/>
+,
+aus	aus	ADP													
+den	der	DET	Dat	Def			Masc		Plur			Art			
+vorliegenden	vorliegend	ADJ	Dat		Pos		Masc		Plur						
+Entwürfen	Entwürf	NOUN	Dat				Masc		Plur						
+die	der	DET	Acc	Def			Masc		Plur			Art			
+Differenzpunkte	Differenzpunkt	NOUN	Acc				Masc		Plur						
+herauszuschälen	herauszuschälen	VERB													Inf
+<g/>
+,
+um	um	SCONJ													
+eine	ein	DET	Acc	Ind			Fem		Sing			Art			
+Grundlage	Grundlage	NOUN	Acc				Fem		Sing						
+der	der	DET	Gen	Def			Fem		Plur			Art			
+Verhandlungen	Verhandlung	NOUN	Gen				Fem		Plur						
+zu	zu	PART													
+gewinnen	gewinnen	VERB													Inf
+<g/>
+.
+Zur	zu	ADP	Dat				Fem		Sing						
+Beratung	Beratung	NOUN	Dat				Fem		Sing						
+liegen	liegen	VERB						Ind	Plur	3				Pres	Fin
+vor	vor	ADP													
+<g/>
+:
+</p>
+<p>
+1.	1.	ADV													
+<g/>
+)
+Der	der	DET	Nom	Def			Masc		Sing			Art			
+Entwurf	Entwurf	NOUN	Nom				Masc		Sing						
+<g/>
+,
+der	der	PRON	Nom				Masc		Sing			Rel			
+gemeinsam	gemeinsam	ADV			Pos										
+vom	von	ADP	Dat				Masc		Sing						
+Staatskanzler	Staatskanzler	NOUN	Dat				Masc		Sing						
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Renner	Renner	PROPN	Nom				Masc		Sing						
+und	und	CCONJ													
+Staatssekretär	Staatssekretär	NOUN	Dat				Masc		Sing						
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Mayr	Mayr	PROPN	Nom				Masc		Sing						
+verfaßt	verfassen	VERB													Part
+wurde	werden	AUX						Ind	Sing	3				Past	Fin
+<g/>
+(
+Renner-Mayr	Renner-Mayr	PROPN	Nom						Sing						
+Entwurf	Entwurf	NOUN	Nom				Masc		Sing						
+<g/>
+)
+<g/>
+;
+</p>
+<p>
+2.	2.	ADV													
+<g/>
+)
+Der	der	DET	Nom	Def			Masc		Sing			Art			
+Entwurf	Entwurf	NOUN	Nom				Masc		Sing						
+<g/>
+,
+der	der	PRON	Nom				Masc		Sing			Rel			
+auf	auf	ADP													
+Grund	Grund	NOUN	Dat				Masc		Sing						
+der	der	DET	Gen	Def			Fem		Plur			Art			
+Linzer	Linzer	ADJ			Pos										
+Verhandlungen	Verhandlung	NOUN	Gen				Fem		Plur						
+in	in	ADP													
+Form	Form	NOUN	Dat				Fem		Sing						
+einer	ein	DET	Gen	Ind			Fem		Sing			Art			
+Gegenüberstellung	Gegenüberstellung	NOUN	Gen				Fem		Sing						
+der	der	DET	Gen	Def			Masc		Plur			Art			
+Entwürfe	Entwürfe	NOUN	Gen				Masc		Plur						
+des	der	DET	Gen	Def			Masc		Sing			Art			
+Staatssekretärs	Staatssekretär	NOUN	Gen				Masc		Sing						
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Mayr	Mayr	PROPN	Nom				Masc		Sing						
+und	und	CCONJ													
+der	der	DET	Gen	Def			Fem		Sing			Art			
+soz.-	soz.-	PROPN	Gen				Fem		Sing						
+dem	der	DET	Dat	Def			Masc		Sing			Art			
+.	.	NOUN	Dat				Masc		Sing						
+Partei	Partei	NOUN	Nom				Fem		Sing						
+<g/>
+(
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Danneberg	Danneberg	PROPN	Nom				Masc		Sing						
+<g/>
+)
+abgefaßt	abfassen	VERB													Part
+ist	sein	AUX						Ind	Sing	3				Pres	Fin
+<g/>
+;
+</p>
+<p>
+3.	3.	ADV													
+<g/>
+)
+der	der	DET	Nom	Def			Masc		Sing			Art			
+Entwurf	Entwurf	NOUN	Nom				Masc		Sing						
+der	der	DET	Gen	Def			Fem		Sing			Art			
+großdeutschen	großdeutsch	ADJ	Gen		Pos		Fem		Sing						
+Vereinigung	Vereinigung	NOUN	Gen				Fem		Sing						
+und	und	CCONJ													
+</p>
+<p>
+4.	4.	ADV													
+<g/>
+)
+der	der	DET	Nom	Def			Masc		Sing			Art			
+Entwurf	Entwurf	NOUN	Nom				Masc		Sing						
+des	der	DET	Gen	Def			Masc		Sing			Art			
+Dr.	Dr.	NOUN	Gen				Masc		Sing						
+Mayr	Mayr	PROPN	Nom				Masc		Sing						
+<g/>
+(
+888	888	NUM													
+der	der	DET	Gen	Def			Fem		Plur			Art			
+Beilagen	Beilage	NOUN	Gen				Fem		Plur						
+<g/>
+)
+<g/>
+.
+</p>
+<p>
+Vor	vor	ADP													
+Eintritt	Eintritt	NOUN	Dat				Masc		Sing						
+in	in	ADP													
+die	der	DET	Acc	Def			Fem		Sing			Art			
+Debatte	Debatte	NOUN	Acc				Fem		Sing						
+über	über	ADP													
+diese	dieser	DET	Acc				Masc		Plur			Dem			
+Entwürfe	Entwürfe	NOUN	Acc				Masc		Plur						
+wird	werden	AUX						Ind	Sing	3				Pres	Fin
+es	es	PRON	Nom				Neut		Sing	3		Prs			
+aber	aber	ADV													
+notwendig	notwendig	ADV			Pos										
+sein	sein	AUX													Inf
+<g/>
+,
+sich	sich	PRON	Dat						Sing	3		Prs	Yes		
+darüber	darüber	ADV													
+klar	klar	ADV			Pos										
+zu	zu	PART													
+werden	werden	AUX													Inf
+<g/>
+,
+ob	ob	SCONJ													
+man	man	PRON	Nom						Sing			Ind			
+<g/>
+,
+wie	wie	SCONJ										Int			
+es	es	PRON	Acc				Neut		Sing	3		Prs			
+alle	aller	DET	Nom				Fem		Plur			Ind			
+3	3	NUM													
+Parteien	Partei	NOUN	Nom				Fem		Plur						
+vorschlagen	vorschlagen	VERB						Ind	Plur	3				Pres	Fin
+<g/>
+,
+eine	ein	DET	Acc	Ind			Fem		Sing			Art			
+Dreiteilung	Dreiteilung	NOUN	Acc				Fem		Sing						
+der	der	DET	Gen	Def			Fem		Plur			Art			
+Kompetenzen	Kompetenz	NOUN	Gen				Fem		Plur						
+vornehmen	vornehmen	VERB													Inf
+soll	sollen	AUX						Ind	Sing	3				Pres	Fin
+<g/>
+,
+u.	u.	ADV													
+zw	zw	X													
+.	.	ADV													
+folgendermaßen	folgendermaßen	ADV													
+<g/>
+:
+</p>
+<p>
+A	A	X													
+<g/>
+:
+Angelegenheiten	Angelegenheit	NOUN	Nom				Fem		Plur						
+<g/>
+,
+in	in	ADP													
+denen	der	PRON	Dat				Fem		Plur			Rel			
+die	der	DET	Nom	Def			Fem		Sing			Art			
+Gesetzgebung	Gesetzgebung	NOUN	Nom				Fem		Sing						
+und	und	CCONJ													
+die	der	DET	Nom	Def			Fem		Sing			Art			
+Vollziehung	Vollziehung	NOUN	Nom				Fem		Sing						
+dem	der	DET	Dat	Def			Masc		Sing			Art			
+Bund	Bund	NOUN	Dat				Masc		Sing						
+zustehen	zustehen	VERB						Ind	Plur	3				Pres	Fin
+<g/>
+,
+</p>
+<p>
+B	B	X													
+<g/>
+:
+Angelegenheiten	Angelegenheit	NOUN	Nom				Fem		Plur						
+<g/>
+,
+in	in	ADP													
+denen	der	PRON	Dat				Fem		Plur			Rel			
+die	der	DET	Nom	Def			Fem		Sing			Art			
+Gesetzgebung	Gesetzgebung	NOUN	Nom				Fem		Sing						
+dem	der	DET	Dat	Def			Masc		Sing			Art			
+Bunde	Bund	NOUN	Dat				Masc		Sing						
+und	und	CCONJ													
+die	der	DET	Acc	Def					Plur			Art			
+Vollziehungden	Vollziehungd	ADJ	Dat		Pos		Neut		Plur						
+Ländern	Land	NOUN	Dat				Neut		Plur						
+zusteht	zustehen	VERB						Ind	Sing	3				Pres	Fin
+<g/>
+,
+</p>
+<p>
+C	C	PROPN	Nom						Sing						
+<g/>
+:
+Angelegenheiten	Angelegenheit	NOUN	Nom				Fem		Plur						
+<g/>
+,
+in	in	ADP													
+denen	der	PRON	Dat				Fem		Plur			Rel			
+dem	der	DET	Dat	Def			Masc		Sing			Art			
+Bunde	Bund	NOUN	Dat				Masc		Sing						
+nur	nur	ADV													
+die	der	DET	Nom	Def			Fem		Sing			Art			
+grundsätzliche	grundsätzlich	ADJ	Nom		Pos		Fem		Sing						
+Gesetzgebung	Gesetzgebung	NOUN	Nom				Fem		Sing						
+<g/>
+,
+den	der	DET	Dat	Def			Neut		Plur			Art			
+Ländern	Land	NOUN	Dat				Neut		Plur						
+aber	aber	ADV													
+die	der	DET	Nom	Def			Fem		Sing			Art			
+Erlassung	Erlassung	NOUN	Nom				Fem		Sing						
+der	der	DET	Gen	Def			Neut		Plur			Art			
+Ausführungsgesetze	Ausführungsgesetz	NOUN	Gen				Neut		Plur						
+und	und	CCONJ													
+die	der	DET	Acc	Def			Fem		Sing			Art			
+Vollziehung	Vollziehung	NOUN	Nom				Fem		Sing						
+zustehen	zustehen	VERB						Ind	Plur	3				Pres	Fin
+<g/>
+.
+</p>
+<p>
+Nachdem	nachdem	SCONJ													
+der	der	DET	Nom	Def			Masc		Sing			Art			
+Berichterstatter	Berichterstatter	NOUN	Nom				Masc		Sing						
+in	in	ADP													
+ausführlicher	ausführlich	ADJ	Dat		Pos		Fem		Sing						
+Darstellung	Darstellung	NOUN	Dat				Fem		Sing						
+die	der	DET	Acc	Def			Masc		Plur			Art			
+Unterschiede	Unterschied	NOUN	Acc				Masc		Plur						
+der	der	DET	Gen	Def			Fem		Sing			Art			
+Kompetenzabgrenzung	Kompetenzabgrenzung	NOUN	Gen				Fem		Sing						
+in	in	ADP													
+den	der	DET	Dat	Def			Masc		Plur			Art			
+eingangs	eingangs	ADV													
+erwähnten	erwähnt	ADJ	Dat		Pos		Masc		Plur						
+Entwürfen	Entwürfen	NOUN	Dat				Masc		Plur						
+Punkt	Punkt	NOUN	Nom				Masc		Sing						
+für	für	ADP													
+Punkt	Punkt	NOUN	Acc				Masc		Sing						
+aufgezählt	aufzählen	VERB													Part
+und	und	CCONJ													
+erörtert	erörtern	VERB													Part
+hat	haben	AUX						Ind	Sing	3				Pres	Fin
+<g/>
+,
+empfiehlt	empfehlen	VERB						Ind	Sing	3				Pres	Fin
+er	er	PRON	Nom				Masc		Sing	3		Prs			
+die	der	DET	Acc	Def			Fem		Sing			Art			
+Debatte	Debatte	NOUN	Acc				Fem		Sing						
+in	in	ADP													
+der	der	DET	Dat	Def			Fem		Sing			Art			
+Weise	Weise	NOUN	Dat				Fem		Sing						
+zu	zu	PART													
+führen	führen	VERB													Inf
+<g/>
+,
+daß	daß	SCONJ													
+das	der	DET	Nom	Def			Neut		Sing			Art			
+Subkomitee	Subkomitee	NOUN	Nom				Neut		Sing						
+zuerst	zuerst	ADV													
+über	über	ADP													
+die	der	DET	Acc	Def			Fem		Sing			Art			
+allgemeine	allgemein	ADJ	Acc		Pos		Fem		Sing						
+Kompetenzabgrenzung	Kompetenzabgrenzung	NOUN	Acc				Fem		Sing						
+und	und	CCONJ													
+dann	dann	ADV													
+über	über	ADP													
+das	der	DET	Acc	Def			Neut		Sing			Art			
+Recht	Recht	NOUN	Acc				Neut		Sing						
+zur	zu	ADP	Dat				Fem		Sing						
+Erlassung	Erlassung	NOUN	Dat				Fem		Sing						
+von	von	ADP													
+Verordnungen	Verordnung	NOUN	Dat				Fem		Plur						
+schlüssig	schlüssig	ADV			Pos										
+werde	werden	AUX						Sub	Sing	3				Pres	Fin
+<g/>
+.
+</p>
+<p>
+Als	als	ADP													
+erster	erster	ADJ	Nom		Pos		Masc		Sing						
+Redner	Redner	NOUN	Nom				Masc		Sing						
+der	der	DET	Gen	Def			Fem		Sing			Art			
+Generaldebatte	Generaldebatte	NOUN	Gen				Fem		Sing						
+<g/>
+,
+die	der	PRON	Acc				Fem		Sing			Rel			
+der	der	DET	Nom	Def			Masc		Sing			Art			
+Vorsitzende	vorsitzend	NOUN	Nom				Masc		Sing						
+daraufhin	daraufhin	ADV													
+eröffnet	eröffnen	VERB						Ind	Sing	3				Pres	Fin
+<g/>
+,
+erklärt	erklären	VERB						Ind	Sing	3				Pres	Fin
+Staatssekretär	Staatssekretär	NOUN	Nom				Masc		Sing						
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Mayr	Mayr	PROPN	Nom				Masc		Sing						
+<g/>
+,
+daß	daß	SCONJ													
+sich	sich	PRON	Acc						Plur	3		Prs	Yes		
+die	der	DET	Nom	Def			Neut		Plur			Art			
+Länder	Land	NOUN	Nom				Neut		Plur						
+nach	nach	ADP													
+langwierigen	langwierig	ADJ	Dat		Pos		Fem		Plur						
+Verhandlungen	Verhandlung	NOUN	Dat				Fem		Plur						
+der	der	DET	Gen	Def			Fem		Sing			Art			
+Systematik	Systematik	NOUN	Gen				Fem		Sing						
+seines	sein	DET	Gen				Masc		Sing		Yes	Prs			
+Entwurfes	Entwurf	NOUN	Gen				Masc		Sing						
+<g/>
+,
+wie	wie	SCONJ										Int			
+er	er	PRON	Nom				Masc		Sing	3		Prs			
+der	der	DET	Dat	Def			Fem		Sing			Art			
+Linzer	Linzer	ADJ			Pos										
+Tagung	Tagung	NOUN	Dat				Fem		Sing						
+vorlag	vorliegen	VERB						Ind	Sing	3				Past	Fin
+und	und	CCONJ													
+nach	nach	ADP													
+dem	der	DET	Dat	Def			Masc		Sing			Art			
+Entwurf	Entwurf	NOUN	Dat				Masc		Sing						
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Dannebergs	Danneberg	PROPN	Gen				Masc		Sing						
+ergänzt	ergänzen	VERB													Part
+wurde	werden	AUX						Ind	Sing	3				Past	Fin
+<g/>
+,
+also	also	ADV													
+auch	auch	ADV													
+der	der	DET	Dat	Def			Fem		Sing			Art			
+Dreiteilung	Dreiteilung	NOUN	Dat				Fem		Sing						
+der	der	DET	Gen	Def			Fem		Plur			Art			
+Kompetenzen	Kompetenz	NOUN	Gen				Fem		Plur						
+einhellig	einhellig	ADV			Pos										
+angeschlossen	anschließen	VERB													Part
+hätten	haben	AUX						Sub	Plur	3				Past	Fin
+<g/>
+.
+Die	der	DET	Nom	Def			Fem		Sing			Art			
+Subsumierung	Subsumierung	NOUN	Nom				Fem		Sing						
+der	der	DET	Gen	Def			Fem		Plur			Art			
+Kompetenzen	Kompetenz	NOUN	Gen				Fem		Plur						
+hingegen	hingegen	ADV													
+sei	sein	AUX						Sub	Sing	3				Pres	Fin
+unter	unter	ADP													
+großen	groß	ADJ	Dat		Pos		Fem		Plur						
+Schwierigkeiten	Schwierigkeit	NOUN	Dat				Fem		Plur						
+in	in	ADP													
+der	der	DET	Dat	Def			Fem		Sing			Art			
+Staatskanzlei	Staatskanzlei	NOUN	Dat				Fem		Sing						
+unter	unter	ADP													
+Mitwirkung	Mitwirkung	NOUN	Dat				Fem		Sing						
+der	der	DET	Gen	Def			Masc		Plur			Art			
+maßgebenden	maßgebend	ADJ	Gen		Pos		Masc		Plur						
+Beamten	Beamter	NOUN	Gen				Masc		Plur						
+der	der	DET	Gen	Def			Fem		Sing			Art			
+Verfassungs-	Verfassung	X													
+und	und	CCONJ													
+Verwaltungsabteilungerfolgt	Verwaltungsabteilungerfolgt	NOUN	Gen				Fem		Sing						
+<g/>
+,
+wobei	wobei	SCONJ										Int			
+getrachtet	trachten	VERB													Part
+wurde	werden	AUX						Ind	Sing	3				Past	Fin
+<g/>
+,
+unter	unter	ADP													
+Heranziehung	Heranziehung	NOUN	Dat				Fem		Sing						
+zuständiger	zuständig	ADJ	Gen		Pos				Plur						
+Fachleute	Fachleute	NOUN	Gen						Plur						
+ein	ein	DET	Acc	Ind			Neut		Sing			Art			
+haltbares	haltbar	ADJ	Acc		Pos		Neut		Sing						
+und	und	CCONJ													
+praktisch	praktisch	ADV			Pos										
+durchführbares	durchführbar	ADJ	Acc		Pos		Neut		Sing						
+Werk	Werk	NOUN	Acc				Neut		Sing						
+zu	zu	PART													
+schaffen	schaffen	VERB													Inf
+<g/>
+.
+</p>
+<p>
+Über	über	ADP													
+den	der	DET	Acc	Def			Masc		Sing			Art			
+Entwurf	Entwurf	NOUN	Acc				Masc		Sing						
+<g/>
+,
+der	der	PRON	Nom				Masc		Sing			Rel			
+unter	unter	ADP													
+dem	der	DET	Dat	Def			Masc		Sing			Art			
+Vorsitz	Vorsitz	NOUN	Dat				Masc		Sing						
+des	der	DET	Gen	Def			Masc		Sing			Art			
+Staatskanzlers	Staatskanzler	NOUN	Gen				Masc		Sing						
+<g/>
+(
+Entwurf	Entwurf	NOUN	Nom				Masc		Sing						
+Renner-Mayr	Renner-Mayr	PROPN	Nom						Sing						
+<g/>
+)
+ausgearbeitet	ausarbeiten	VERB													Part
+wurde	werden	AUX						Ind	Sing	3				Past	Fin
+<g/>
+,
+wäre	sein	AUX						Sub	Sing	3				Past	Fin
+zu	zu	PART													
+bemerken	bemerken	VERB													Inf
+<g/>
+,
+daß	daß	SCONJ													
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Renner	Renner	PROPN	Nom				Masc		Sing						
+in	in	ADP													
+der	der	DET	Dat	Def			Fem		Sing			Art			
+Aufzählung	Aufzählung	NOUN	Dat				Fem		Sing						
+der	der	DET	Gen	Def			Fem		Plur			Art			
+Kompetenzen	Kompetenz	NOUN	Gen				Fem		Plur						
+bereits	bereits	ADV													
+den	der	DET	Acc	Def			Masc		Sing			Art			
+Wirkungskreis	Wirkungskreis	NOUN	Acc				Masc		Sing						
+jedes	jeder	DET	Gen				Neut		Sing			Ind			
+einzelnen	einzeln	ADJ	Gen		Pos		Neut		Sing						
+künftigen	künftig	ADJ	Gen		Pos		Neut		Sing						
+Bundesministeriums	Bundesministerium	NOUN	Gen				Neut		Sing						
+festlegen	festlegen	VERB													Inf
+wollte	wollen	AUX						Ind	Sing	3				Past	Fin
+<g/>
+,
+so	so	ADV													
+daß	daß	SCONJ													
+Pkt.	Pkt.	NOUN	Nom				Masc		Sing						
+1	1	NUM													
+die	der	DET	Acc	Def			Fem		Plur			Art			
+Angelegenheiten	Angelegenheit	NOUN	Acc				Fem		Plur						
+der	der	DET	Gen	Def			Fem		Sing			Art			
+Staatskanzlei	Staatskanzlei	NOUN	Gen				Fem		Sing						
+<g/>
+,
+2	2	NUM													
+die	der	PRON	Acc				Fem		Sing			Dem			
+des	der	DET	Gen	Def			Neut		Sing			Art			
+Staatsamtes	Staatsamt	NOUN	Gen				Neut		Sing						
+für	für	ADP													
+Aeußeres	Aeußer	NOUN	Acc				Masc		Plur						
+usw.	usw.	ADV													
+wiedergeben	wiedergeben	VERB						Ind	Plur	3				Pres	Fin
+<g/>
+.
+Die	der	DET	Nom	Def			Fem		Sing			Art			
+Erreichung	Erreichung	NOUN	Nom				Fem		Sing						
+dieses	dieser	DET	Gen				Masc		Sing			Dem			
+Zweckes	Zweck	NOUN	Gen				Masc		Sing						
+erscheint	erscheinen	VERB						Ind	Sing	3				Pres	Fin
+wenig	wenig	ADV													
+wichtig	wichtig	ADV			Pos										
+<g/>
+,
+da	da	SCONJ													
+keine	kein	DET	Nom				Fem		Sing			Ind			
+Notwendigkeit	Notwendigkeit	NOUN	Nom				Fem		Sing						
+besteht	bestehen	VERB						Ind	Sing	3				Pres	Fin
+<g/>
+,
+in	in	ADP													
+der	der	DET	Dat	Def			Fem		Sing			Art			
+Verfassung	Verfassung	NOUN	Dat				Fem		Sing						
+den	der	DET	Acc	Def			Masc		Sing			Art			
+Wirkungskreis	Wirkungskreis	NOUN	Acc				Masc		Sing						
+der	der	DET	Gen	Def			Neut		Plur			Art			
+Ministerien	Ministerium	NOUN	Gen				Neut		Plur						
+zum	zu	ADP	Dat				Masc		Sing						
+Ausdruck	Ausdruck	NOUN	Dat				Masc		Sing						
+zu	zu	PART													
+bringen	bringen	VERB													Inf
+<g/>
+,
+der	der	PRON	Nom				Masc		Sing			Rel			
+doch	doch	ADV													
+vielfachen	vielfach	ADJ	Dat		Pos		Fem		Plur						
+Änderungen	Änderung	NOUN	Dat				Fem		Plur						
+unterliegt	unterliegen	VERB						Ind	Sing	3				Pres	Fin
+<g/>
+.
+Die	der	DET	Nom	Def			Masc		Plur			Art			
+juristischen	juristisch	ADJ	Nom		Pos		Masc		Plur						
+Mitarbeiter	Mitarbeiter	NOUN	Nom				Masc		Plur						
+der	der	DET	Gen	Def			Fem		Sing			Art			
+Staatskanzlei	Staatskanzlei	NOUN	Gen				Fem		Sing						
+haben	haben	AUX						Ind	Plur	3				Pres	Fin
+sich	sich	PRON	Acc						Plur	3		Prs	Yes		
+ebenso	ebenso	ADV													
+wie	wie	ADP													
+die	der	DET	Nom	Def					Plur			Art			
+Fachleute	Fachleute	NOUN	Nom						Plur						
+der	der	DET	Gen	Def			Neut		Plur			Art			
+Staatsämter	Staatsamt	NOUN	Gen				Neut		Plur						
+seiner	sein	DET	Dat				Fem		Sing		Yes	Prs			
+Anschauung	Anschauung	NOUN	Dat				Fem		Sing						
+angeschlossen	anschließen	VERB													Part
+<g/>
+,
+daß	daß	SCONJ													
+die	der	DET	Nom	Def			Fem		Sing			Art			
+Systematik	Systematik	NOUN	Nom				Fem		Sing						
+des	der	DET	Gen	Def			Masc		Sing			Art			
+Linzer	Linzer	ADJ			Pos										
+und	und	CCONJ													
+des	der	DET	Gen	Def			Masc		Sing			Art			
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Danneberg	Danneberg	PROPN	Nom				Masc		Sing						
+<g/>
+’
+schen	sch	ADJ	Gen		Pos		Masc		Sing						
+Entwurfes	Entwurf	NOUN	Gen				Masc		Sing						
+richtiger	richtig	ADV			Cmp										
+sei	sein	AUX						Sub	Sing	3				Pres	Fin
+<g/>
+,
+als	als	ADP													
+Frage	Frage	NOUN	Nom				Fem		Sing						
+politischer	politisch	ADJ	Gen		Pos		Fem		Sing						
+Natur	Natur	NOUN	Gen				Fem		Sing						
+sei	sein	AUX						Sub	Sing	3				Pres	Fin
+noch	noch	ADV													
+zu	zu	PART													
+erwähnen	erwähnen	VERB													Inf
+<g/>
+,
+daß	daß	SCONJ													
+mit	mit	ADP													
+dem	der	DET	Dat	Def			Masc		Sing			Art			
+Satz	Satz	NOUN	Dat				Masc		Sing						
+<g/>
+,
+<g/>
+„
+die	der	DET	Nom	Def			Neut		Plur			Art			
+Länder	Land	NOUN	Nom				Neut		Plur						
+übertragen	übertragen	VERB													Part
+dem	der	DET	Dat	Def			Masc		Sing			Art			
+Bunde	Bund	NOUN	Dat				Masc		Sing						
+<g/>
+“
+zum	zu	ADP	Dat				Masc		Sing						
+Ausdruck	Ausdruck	NOUN	Dat				Masc		Sing						
+gebracht	bringen	VERB													Part
+werden	werden	AUX													Inf
+soll	sollen	AUX						Ind	Sing	3				Pres	Fin
+<g/>
+,
+daß	daß	SCONJ													
+die	der	DET	Nom	Def			Neut		Plur			Art			
+Länder	Land	NOUN	Nom				Neut		Plur						
+primäre	primär	ADJ	Acc		Pos		Fem		Sing						
+Gewalt	Gewalt	NOUN	Acc				Fem		Sing						
+besitzen	besitzen	VERB						Ind	Plur	3				Pres	Fin
+<g/>
+.
+Spätere	Spätere	ADJ	Nom		Cmp		Fem		Plur						
+Beratungen	Beratung	NOUN	Nom				Fem		Plur						
+führten	führen	VERB						Ind	Plur	3				Past	Fin
+<g/>
+,
+allerdings	allerdings	ADV													
+haben	haben	AUX						Ind	Plur	3				Pres	Fin
+noch	noch	ADV													
+nicht	nicht	PART													
+alle	aller	DET	Nom				Neut		Plur			Ind			
+Länder	Land	NOUN	Nom				Neut		Plur						
+ihre	ihr	DET	Acc				Fem		Sing		Yes	Prs			
+Zustimmung	Zustimmung	NOUN	Acc				Fem		Sing						
+gegeben	geben	VERB													Part
+<g/>
+,
+zur	zu	ADP	Dat				Fem		Sing						
+Wahl	Wahl	NOUN	Dat				Fem		Sing						
+der	der	DET	Gen	Def			Neut		Plur			Art			
+Worte	Wort	NOUN	Gen				Neut		Plur						
+<g/>
+:
+<g/>
+„
+Bundessache	Bundessache	NOUN	Nom				Fem		Sing						
+ist	sein	AUX						Ind	Sing	3				Pres	Fin
+<g/>
+,
+hinsichtlich	hinsichtlich	ADP													
+Gesetzgebung	Gesetzgebung	NOUN	Gen				Fem		Sing						
+und	und	CCONJ													
+Vollziehung	Vollziehung	NOUN	Gen				Fem		Sing						
+<g/>
+...
+</p>
+<p>
+Abschließend	abschließend	ADV			Pos										
+regt	regen	VERB						Ind	Sing	3				Pres	Fin
+der	der	DET	Nom	Def			Masc		Sing			Art			
+Staatssekretär	Staatssekretär	NOUN	Nom				Masc		Sing						
+an	an	ADP													
+<g/>
+,
+nicht	nicht	PART													
+den	der	DET	Acc	Def			Masc		Sing			Art			
+Entwurf	Entwurf	NOUN	Acc				Masc		Sing						
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Renners	Renner	PROPN	Gen				Masc		Sing						
+als	als	ADP													
+Grundlage	Grundlage	NOUN	Acc				Fem		Sing						
+der	der	DET	Gen	Def			Fem		Plur			Art			
+Beratungen	Beratung	NOUN	Gen				Fem		Plur						
+zu	zu	PART													
+nehmen	nehmen	VERB													Inf
+<g/>
+,
+da	da	SCONJ													
+sich	sich	PRON	Acc						Plur	3		Prs	Yes		
+dann	dann	ADV													
+die	der	DET	Nom	Def			Masc		Plur			Art			
+Differenzpunkte	Differenzpunkt	NOUN	Nom				Masc		Plur						
+zwischen	zwischen	ADP													
+den	der	DET	Dat	Def			Masc		Plur			Art			
+Entwürfen	Entwürfen	NOUN	Dat				Masc		Plur						
+der	der	DET	Gen	Def					Plur			Art			
+Christlich-sozialen	Christlich-sozialen	X													
+<g/>
+,
+der	der	DET	Gen	Def			Masc		Plur			Art			
+Sozial-Demokraten	Sozial-Demokrat	NOUN	Gen				Masc		Plur						
+und	und	CCONJ													
+der	der	DET	Gen	Def			Fem		Sing			Art			
+Großdeutschen	großdeutsch	ADJ	Gen		Pos		Fem		Sing						
+Vereinigung	Vereinigung	NOUN	Gen				Fem		Sing						
+leichter	leicht	ADV			Cmp										
+hervorheben	hervorheben	VERB													Inf
+lassen	lassen	VERB						Ind	Plur	3				Pres	Fin
+<g/>
+.
+</p>
+<p>
+Auch	auch	ADV													
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Seipel	Seipel	PROPN	Nom				Masc		Sing						
+beantragt	beantragen	VERB						Ind	Sing	3				Pres	Fin
+<g/>
+,
+sich	sich	PRON	Acc						Sing	3		Prs	Yes		
+mit	mit	ADP													
+der	der	DET	Dat	Def			Fem		Sing			Art			
+Systematik	Systematik	NOUN	Dat				Fem		Sing						
+der	der	DET	Gen	Def			Masc		Plur			Art			
+letzteren	letzter	ADJ	Gen		Pos		Masc		Plur						
+Entwürfe	Entwürfe	NOUN	Gen				Masc		Plur						
+einverstanden	einverstanden	ADV			Pos										
+zu	zu	PART													
+erklären	erklären	VERB													Inf
+<g/>
+,
+worauf	worauf	SCONJ										Int			
+der	der	DET	Nom	Def			Masc		Sing			Art			
+Berichterstatter	Berichterstatter	NOUN	Nom				Masc		Sing						
+die	der	DET	Acc	Def			Fem		Sing			Art			
+Notwendigkeit	Notwendigkeit	NOUN	Acc				Fem		Sing						
+einer	ein	DET	Gen	Ind			Fem		Sing			Art			
+Rahmengesetzgebung	Rahmengesetzgebung	NOUN	Gen				Fem		Sing						
+des	der	DET	Gen	Def			Masc		Sing			Art			
+Bundes	Bund	NOUN	Gen				Masc		Sing						
+erörtert	erörtern	VERB						Ind	Sing	3				Pres	Fin
+<g/>
+,
+die	der	PRON	Acc				Fem		Sing			Rel			
+er	er	PRON	Nom				Masc		Sing	3		Prs			
+mit	mit	ADP													
+Beispielen	Beispiel	NOUN	Dat				Neut		Plur						
+aus	aus	ADP													
+früherer	früh	ADJ	Dat		Cmp		Fem		Sing						
+Zeit	Zeit	NOUN	Dat				Fem		Sing						
+belegt	belegen	VERB						Ind	Sing	3				Pres	Fin
+<g/>
+.
+</p>
+<p>
+Zur	zu	ADP	Dat				Fem		Sing						
+Frage	Frage	NOUN	Dat				Fem		Sing						
+der	der	DET	Gen	Def			Fem		Sing			Art			
+Systematik	Systematik	NOUN	Gen				Fem		Sing						
+verweist	verweisen	VERB						Ind	Sing	3				Pres	Fin
+Min	Min	NOUN	Nom				Masc		Sing						
+.	.	NOUN	Nom				Masc		Sing						
+Rat	Rat	NOUN	Nom				Masc		Sing						
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Froehlich	Froehlich	PROPN	Nom				Masc		Sing						
+darauf	darauf	ADV													
+<g/>
+,
+daß	daß	SCONJ													
+zahlreiche	zahlreich	ADJ	Nom		Pos		Fem		Plur						
+Materien	Materie	NOUN	Nom				Fem		Plur						
+in	in	ADP													
+die	der	DET	Acc	Def			Fem		Sing			Art			
+Kompetenz	Kompetenz	NOUN	Acc				Fem		Sing						
+verschiedener	verschieden	ADJ	Gen		Pos		Neut		Plur						
+Staatsämter	Staatsamt	NOUN	Gen				Neut		Plur						
+gehören	gehören	VERB						Ind	Plur	3				Pres	Fin
+und	und	CCONJ													
+bei	bei	ADP													
+einer	ein	DET	Dat	Ind			Fem		Sing			Art			
+Gliederung	Gliederung	NOUN	Dat				Fem		Sing						
+des	der	DET	Gen	Def			Masc		Sing			Art			
+Stoffes	Stoff	NOUN	Gen				Masc		Sing						
+nach	nach	ADP													
+Bundesministerien	Bundesministerium	NOUN	Dat				Neut		Plur						
+Kompetenzstreitigkeiten	Kompetenzstreitigkeit	NOUN	Nom				Fem		Plur						
+nicht	nicht	PART													
+zu	zu	PART													
+vermeiden	vermeiden	VERB													Inf
+wären	sein	AUX						Sub	Plur	3				Past	Fin
+<g/>
+,
+daß	daß	SCONJ													
+aber	aber	ADV													
+andererseits	andererseits	ADV													
+auch	auch	ADV													
+Angelegenheiten	Angelegenheit	NOUN	Nom				Fem		Plur						
+in	in	ADP													
+der	der	DET	Dat	Def			Fem		Sing			Art			
+Verfassung	Verfassung	NOUN	Dat				Fem		Sing						
+erwähnt	erwähnen	VERB													Part
+werden	werden	AUX													Inf
+müssen	müssen	AUX						Ind	Plur	3				Pres	Fin
+<g/>
+,
+die	der	PRON	Nom				Fem		Plur			Rel			
+keinem	kein	DET	Dat				Neut		Sing			Ind			
+Staatsamt	Staatsamt	NOUN	Dat				Neut		Sing						
+zugehören	zugehören	VERB						Ind	Plur	3				Pres	Fin
+<g/>
+,
+wie	wie	ADP													
+z.B.	z.B.	NOUN	Dat				Neut		Sing						
+die	der	DET	Nom	Def			Fem		Sing			Art			
+Verwaltungsgerichtsbarkeit	Verwaltungsgerichtsbarkeit	NOUN	Nom				Fem		Sing						
+<g/>
+.
+</p>
+<p>
+Prof.	Prof.	NOUN	Nom				Masc		Sing						
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Kelsen	Kelsen	PROPN	Nom				Masc		Sing						
+fügt	fügen	VERB						Ind	Sing	3				Pres	Fin
+hinzu	hinzu	ADV													
+<g/>
+,
+daß	daß	SCONJ													
+zwar	zwar	ADV													
+die	der	DET	Nom	Def			Masc		Plur			Art			
+Linzer	Linzer	ADJ			Pos										
+Entwürfe	Entwürfe	NOUN	Nom				Masc		Plur						
+wie	wie	ADP													
+alle	aller	DET	Nom				Masc		Plur			Ind			
+übrigen	übrig	ADJ	Nom		Pos		Masc		Plur						
+mangelhaft	mangelhaft	ADV			Pos										
+und	und	CCONJ													
+reformbedürftig	reformbedürftig	ADV			Pos										
+seien	sein	AUX						Sub	Plur	3				Pres	Fin
+<g/>
+,
+daß	daß	SCONJ													
+sich	sich	PRON	Acc						Sing	3		Prs	Yes		
+aber	aber	ADV													
+eine	ein	DET	Nom	Ind			Fem		Sing			Art			
+Kompetenzabgrenzung	Kompetenzabgrenzung	NOUN	Nom				Fem		Sing						
+nach	nach	ADP													
+zwei	zwei	NUM													
+Gesichtspunkten	Gesichtspunkt	NOUN	Dat				Masc		Plur						
+wie	wie	SCONJ										Int			
+sie	sie	PRON	Acc				Fem		Sing	3		Prs			
+der	der	DET	Nom	Def			Masc		Sing			Art			
+Entwurf	Entwurf	NOUN	Nom				Masc		Sing						
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Renners	Renners	PROPN	Nom				Masc		Sing						
+versucht	versuchen	VERB						Ind	Sing	3				Pres	Fin
+<g/>
+,
+nicht	nicht	PART													
+durchführen	durchführen	VERB													Inf
+lasse	lassen	VERB						Sub	Sing	3				Pres	Fin
+und	und	CCONJ													
+Unstimmigkeiten	Unstimmigkeit	NOUN	Acc				Fem		Plur						
+im	in	ADP	Dat				Neut		Sing						
+Gefolge	Gefolge	NOUN	Dat				Neut		Sing						
+habe	haben	VERB						Sub	Sing	3				Pres	Fin
+<g/>
+.
+Auch	auch	ADV													
+er	er	PRON	Nom				Masc		Sing	3		Prs			
+redet	reden	VERB						Ind	Sing	3				Pres	Fin
+einer	ein	DET	Dat	Ind			Fem		Sing			Art			
+Rahmen-gesetzgebung	Rahmen-gesetzgebung	NOUN	Dat				Fem		Sing						
+das	der	DET	Acc	Def			Neut		Sing			Art			
+Wort	Wort	NOUN	Acc				Neut		Sing						
+<g/>
+,
+nur	nur	ADV													
+müsse	müssen	AUX						Sub	Sing	3				Pres	Fin
+man	man	PRON	Nom						Sing			Ind			
+die	der	DET	Acc	Def			Neut		Plur			Art			
+Länder	Land	NOUN	Acc				Neut		Plur						
+verpflichten	verpflichten	VERB													Inf
+<g/>
+,
+diese	dieser	DET	Acc				Neut		Plur			Dem			
+Gesetze	Gesetz	NOUN	Acc				Neut		Plur						
+binnen	binnen	ADP													
+einer	ein	DET	Dat	Ind			Fem		Sing			Art			
+bestimmten	bestimmt	ADJ	Dat		Pos		Fem		Sing						
+Frist	Frist	NOUN	Dat				Fem		Sing						
+durchzuführen	durchführen	VERB													Inf
+<g/>
+.
+</p>
+<p>
+Der	der	DET	Nom	Def			Masc		Sing			Art			
+Vorsitzende	vorsitzend	NOUN	Nom				Masc		Sing						
+bringt	bringen	VERB						Ind	Sing	3				Pres	Fin
+hierauf	hierauf	ADV													
+den	der	DET	Acc	Def			Masc		Sing			Art			
+Antrag	Antrag	NOUN	Acc				Masc		Sing						
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Seipel	Seipel	PROPN	Nom				Masc		Sing						
+zur	zu	ADP	Dat				Fem		Sing						
+Abstimmung	Abstimmung	NOUN	Dat				Fem		Sing						
+<g/>
+,
+daß	daß	SCONJ													
+die	der	DET	Nom	Def			Fem		Sing			Art			
+Dreiteilung	Dreiteilung	NOUN	Nom				Fem		Sing						
+beizubehalten	beibehalten	VERB													Inf
+sei	sein	AUX						Sub	Sing	3				Pres	Fin
+<g/>
+,
+womit	womit	SCONJ										Int			
+implicite	implicite	PROPN	Nom						Sing						
+festgestellt	feststellen	VERB													Part
+wird	werden	AUX						Ind	Sing	3				Pres	Fin
+<g/>
+,
+daß	daß	SCONJ													
+alles	alle	PRON	Nom				Neut		Sing			Ind			
+<g/>
+,
+was	wer	PRON	Nom				Neut		Sing			Rel			
+nicht	nicht	PART													
+ausdrücklich	ausdrücklich	ADV			Pos										
+dem	der	DET	Dat	Def			Masc		Sing			Art			
+Bunde	Bund	NOUN	Dat				Masc		Sing						
+vorbchalten	vorbchalten	VERB													Inf
+ist	sein	AUX						Ind	Sing	3				Pres	Fin
+<g/>
+,
+in	in	ADP													
+den	der	DET	Acc	Def			Masc		Sing			Art			
+Wirkungskreis	Wirkungskreis	NOUN	Acc				Masc		Sing						
+der	der	DET	Gen	Def			Neut		Plur			Art			
+Länder	Land	NOUN	Gen				Neut		Plur						
+fällt	fallen	VERB						Ind	Sing	3				Pres	Fin
+<g/>
+.
+<g/>
+(
+Antrag	Antrag	NOUN	Acc				Masc		Sing						
+angenommen	annehmen	VERB													Part
+<g/>
+)
+<g/>
+.
+Weiters	weiters	ADV													
+beantragt	beantragen	VERB						Ind	Sing	3				Pres	Fin
+er	er	PRON	Nom				Masc		Sing	3		Prs			
+<g/>
+,
+mit	mit	ADP													
+Rücksicht	Rücksicht	NOUN	Dat				Fem		Sing						
+auf	auf	ADP													
+die	der	DET	Acc	Def			Fem		Sing			Art			
+vorliegende	vorliegend	ADJ	Acc		Pos		Fem		Sing						
+Gegenüberstellung	Gegenüberstellung	NOUN	Acc				Fem		Sing						
+des	der	DET	Gen	Def			Masc		Sing			Art			
+christlich-sozialen	christlich-sozial	ADJ	Gen		Pos		Masc		Sing						
+und	und	CCONJ													
+des	der	DET	Gen	Def			Masc		Sing			Art			
+sozialdemokratischen	sozialdemokratisch	ADJ	Gen		Pos		Masc		Sing						
+Entwurfes	Entwurf	NOUN	Gen				Masc		Sing						
+in	in	ADP													
+der	der	DET	Dat	Def			Fem		Sing			Art			
+Linzer	Linzer	ADJ			Pos										
+Fassung	Fassung	NOUN	Dat				Fem		Sing						
+<g/>
+—
+der	der	DET	Nom	Def			Masc		Sing			Art			
+großdeutsche	großdeutsch	ADJ	Nom		Pos		Masc		Sing						
+Entwurf	Entwurf	NOUN	Nom				Masc		Sing						
+wird	werden	AUX						Ind	Sing	3				Pres	Fin
+sich	sich	PRON	Acc						Sing	3		Prs	Yes		
+unschwer	unschwer	ADV			Pos										
+mitbehandeln	mitbehandeln	VERB													Inf
+lassen	lassen	VERB													Inf
+<g/>
+—
+den	der	DET	Acc	Def			Masc		Sing			Art			
+Linzer	Linzer	ADJ			Pos										
+Entwurf	Entwurf	NOUN	Acc				Masc		Sing						
+als	als	ADP													
+Grundlage	Grundlage	NOUN	Acc				Fem		Sing						
+der	der	DET	Gen	Def			Fem		Sing			Art			
+Verhandlung	Verhandlung	NOUN	Gen				Fem		Sing						
+<g/>
+"
+<g/>
+)
+zu	zu	PART													
+nehmen	nehmen	VERB													Inf
+<g/>
+,
+wobei	wobei	ADV										Int			
+es	es	PRON	Nom				Neut		Sing	3		Prs			
+notwendig	notwendig	ADV			Pos										
+sein	sein	AUX													Inf
+wird	werden	AUX						Ind	Sing	3				Pres	Fin
+<g/>
+,
+im	in	ADP	Dat				Masc		Sing						
+Art	Art	NOUN	Dat				Masc		Sing						
+.	.	NOUN	Dat				Masc		Sing						
+10	10	NUM													
+nur	nur	ADV													
+teilweise	teilweise	ADV													
+behandelte	behandelt	ADJ	Acc		Pos		Neut		Plur						
+Dinge	Ding	NOUN	Acc				Neut		Plur						
+gemeinsam	gemeinsam	ADV			Pos										
+mit	mit	ADP													
+Art	Art	NOUN	Dat				Masc		Sing						
+.	.	NOUN	Dat				Masc		Sing						
+11	11	NUM													
+zu	zu	PART													
+behandeln	behandeln	VERB													Inf
+<g/>
+.
+<g/>
+(
+Angenommen	Angenommen	VERB													Part
+<g/>
+)
+<g/>
+.
+Der	der	DET	Nom	Def			Masc		Sing			Art			
+Vorsitzende	vorsitzend	NOUN	Nom				Masc		Sing						
+leitet	leiten	VERB						Ind	Sing	3				Pres	Fin
+hierauf	hierauf	ADV													
+die	der	DET	Acc	Def			Fem		Plur			Art			
+Einzelberatungen	Einzelberatung	NOUN	Acc				Fem		Plur						
+ein	ein	ADV													
+und	und	CCONJ													
+das	der	DET	Nom	Def			Neut		Sing			Art			
+Subkomitée	Subkomitée	NOUN	Nom				Neut		Sing						
+beschließt	beschließen	VERB						Ind	Sing	3				Pres	Fin
+über	über	ADP													
+seinen	sein	DET	Acc				Masc		Sing		Yes	Prs			
+Antrag	Antrag	NOUN	Acc				Masc		Sing						
+<g/>
+,
+daß	daß	SCONJ													
+Abs.	Abs.	NOUN	Nom				Masc		Sing						
+1	1	NUM													
+des	der	DET	Gen	Def			Masc		Sing			Art			
+Art	Art	NOUN	Gen				Masc		Sing						
+.	.	NOUN	Gen				Masc		Sing						
+10	10	NUM													
+zu	zu	PART													
+lauten	lauten	VERB													Inf
+hat	haben	AUX						Ind	Sing	3				Pres	Fin
+<g/>
+:
+<g/>
+„
+Bundessache	Bundessache	NOUN	Nom				Fem		Sing						
+ist	sein	AUX						Ind	Sing	3				Pres	Fin
+die	der	DET	Nom	Def			Fem		Sing			Art			
+Gesetzgebung	Gesetzgebung	NOUN	Nom				Fem		Sing						
+und	und	CCONJ													
+Vollziehung	Vollziehung	NOUN	Nom				Fem		Sing						
+in	in	ADP													
+folgenden	folgend	ADJ	Dat		Pos		Fem		Plur						
+Angelegenheiten	Angelegenheit	NOUN	Dat				Fem		Plur						
+<g/>
+“
+<g/>
+.
+Im	in	ADP	Dat				Neut		Sing						
+Folgenden	Folgenden	NOUN	Dat				Neut		Sing						
+haben	haben	AUX						Ind	Plur	3				Pres	Fin
+dann	dann	ADV													
+die	der	DET	Nom	Def			Masc		Plur			Art			
+bestimmten	bestimmt	ADJ	Nom		Pos		Masc		Plur						
+Artikel	Artikel	NOUN	Nom				Masc		Plur						
+zu	zu	PART													
+entfallen	entfallen	VERB													Inf
+<g/>
+.
+</p>
+<p>
+Zu	zu	ADP													
+Pkt.	Pkt.	NOUN	Dat				Masc		Sing						
+1	1	NUM													
+empfiehlt	empfehlen	VERB						Ind	Sing	3				Pres	Fin
+der	der	DET	Nom	Def			Masc		Sing			Art			
+Berichterstatter	Berichterstatter	NOUN	Nom				Masc		Sing						
+nach	nach	ADP													
+dem	der	DET	Dat	Def			Neut		Sing			Art			
+Wort	Wort	NOUN	Dat				Neut		Sing						
+<g/>
+„
+Ausland	Ausland	NOUN	Nom				Neut		Sing						
+einzufügen	einfügen	VERB													Inf
+<g/>
+:
+<g/>
+„
+insbesondere	insbesondere	ADV													
+der	der	DET	Nom	Def			Masc		Sing			Art			
+Abschluß	Abschluß	NOUN	Nom				Masc		Sing						
+allerStaatsverträge	allerStaatsverträge	NOUN	Gen				Masc		Plur						
+<g/>
+“
+<g/>
+,
+was	wer	PRON	Nom				Neut		Sing			Rel			
+zwar	zwar	ADV													
+nach	nach	ADP													
+Anschauung	Anschauung	NOUN	Dat				Fem		Sing						
+des	der	DET	Gen	Def			Masc		Sing			Art			
+Staatssekretärs	Staatssekretär	NOUN	Gen				Masc		Sing						
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Mayr	Mayr	PROPN	Nom				Masc		Sing						
+nicht	nicht	PART													
+notwendig	notwendig	ADV			Pos										
+sei	sein	AUX						Sub	Sing	3				Pres	Fin
+<g/>
+,
+aber	aber	CCONJ													
+einem	ein	DET	Dat	Ind			Masc		Sing			Art			
+Wunsche	Wunsch	NOUN	Dat				Masc		Sing						
+des	der	DET	Gen	Def			Neut		Sing			Art			
+Staatsamtes	Staatsamt	NOUN	Gen				Neut		Sing						
+für	für	ADP													
+Aeußeres	Aeußeres	NOUN	Acc				Masc		Plur						
+entgegenkomme	entgegenkommen	VERB						Sub	Sing	3				Pres	Fin
+<g/>
+.
+Nachdem	nachdem	SCONJ													
+auch	auch	ADV													
+Prof.	Prof.	NOUN	Nom				Masc		Sing						
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Kelsen	Kelsen	PROPN	Nom				Masc		Sing						
+diesen	dieser	DET	Acc				Masc		Sing			Dem			
+Vorschlag	Vorschlag	NOUN	Acc				Masc		Sing						
+unterstützt	unterstützen	VERB						Ind	Sing	3				Pres	Fin
+<g/>
+,
+weil	weil	SCONJ													
+sich	sich	PRON	Acc						Sing	3		Prs	Yes		
+in	in	ADP													
+den	der	DET	Dat	Def			Neut		Plur			Art			
+Ländern	Land	NOUN	Dat				Neut		Plur						
+die	der	DET	Nom	Def			Fem		Sing			Art			
+Tendenz	Tendenz	NOUN	Nom				Fem		Sing						
+zum	zu	ADP	Dat				Masc		Sing						
+Abschluß	Abschluß	NOUN	Dat				Masc		Sing						
+von	von	ADP													
+Staatsverträgen	Staatsvertrag	NOUN	Dat				Masc		Plur						
+zeige	zeigen	VERB						Sub	Sing	3				Pres	Fin
+<g/>
+,
+wird	werden	AUX						Ind	Sing	3				Pres	Fin
+der	der	DET	Nom	Def			Masc		Sing			Art			
+Antrag	Antrag	NOUN	Nom				Masc		Sing						
+angenommen	annehmen	VERB													Part
+<g/>
+.
+</p>
+<p>
+In	in	ADP													
+diesem	dieser	DET	Dat				Masc		Sing			Dem			
+Zusammenhange	Zusammenhang	NOUN	Dat				Masc		Sing						
+gelangt	gelangen	VERB						Ind	Sing	3				Pres	Fin
+auch	auch	ADV													
+die	der	DET	Nom	Def			Fem		Sing			Art			
+Frage	Frage	NOUN	Nom				Fem		Sing						
+zur	zu	ADP	Dat				Fem		Sing						
+Erörterung	Erörterung	NOUN	Dat				Fem		Sing						
+<g/>
+,
+wer	wer	PRON	Nom				Masc		Sing			Int			
+zur	zu	ADP	Dat				Fem		Sing						
+Kriegserklärung	Kriegserklärung	NOUN	Dat				Fem		Sing						
+kompetent	kompetent	ADV			Pos										
+sei	sein	AUX						Sub	Sing	3				Pres	Fin
+<g/>
+,
+wobei	wobei	ADV										Int			
+Staatssekretär	Staatssekretär	NOUN	Nom				Masc		Sing						
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Mayr	Mayr	PROPN	Nom				Masc		Sing						
+auf	auf	ADP													
+die	der	DET	Acc	Def			Fem		Sing			Art			
+Schwierigkeit	Schwierigkeit	NOUN	Acc				Fem		Sing						
+hinweist	hinweisen	VERB						Ind	Sing	3				Pres	Fin
+<g/>
+,
+daß	daß	SCONJ													
+es	es	PRON	Nom				Neut		Sing	3		Prs			
+noch	noch	ADV													
+nicht	nicht	PART													
+sicher	sicher	ADV			Pos										
+sei	sein	AUX						Sub	Sing	3				Pres	Fin
+<g/>
+,
+in	in	ADP													
+welcher	welcher	DET	Dat				Fem		Sing			Int			
+Form	Form	NOUN	Dat				Fem		Sing						
+die	der	DET	Nom	Def			Fem		Sing			Art			
+Gesetzgebung	Gesetzgebung	NOUN	Nom				Fem		Sing						
+durchgeführt	durchführen	VERB													Part
+wird	werden	AUX						Ind	Sing	3				Pres	Fin
+<g/>
+—
+Bundesrat	Bundesrat	NOUN	Nom				Masc		Sing						
+oder	oder	CCONJ													
+Bundestag	Bundestag	NOUN	Nom				Masc		Sing						
+<g/>
+.
+Es	es	PRON	Nom				Neut		Sing	3		Prs			
+sei	sein	AUX						Sub	Sing	3				Pres	Fin
+fraglich	fraglich	ADV			Pos										
+<g/>
+,
+welche	welcher	DET	Nom				Neut		Plur			Int			
+Organe	Organ	NOUN	Nom				Neut		Plur						
+ein	ein	DET	Acc	Ind			Neut		Sing			Art			
+solches	solcher	DET	Acc				Neut		Sing			Ind			
+Gesetz	Gesetz	NOUN	Acc				Neut		Sing						
+zu	zu	PART													
+beschließen	beschließen	VERB													Inf
+hätten	haben	AUX						Sub	Plur	3				Past	Fin
+<g/>
+,
+nicht	nicht	PART													
+fraglich	fraglich	ADV			Pos										
+sei	sein	AUX						Sub	Sing	3				Pres	Fin
+es	es	PRON	Nom				Neut		Sing	3		Prs			
+aber	aber	ADV													
+<g/>
+,
+daß	daß	SCONJ													
+die	der	DET	Nom	Def			Neut		Plur			Art			
+Länder	Land	NOUN	Nom				Neut		Plur						
+eine	ein	DET	Acc	Ind			Fem		Sing			Art			
+Kriegserklärung	Kriegserklärung	NOUN	Acc				Fem		Sing						
+nicht	nicht	PART													
+beschließen	beschließen	VERB													Inf
+können	können	AUX						Ind	Plur	3				Pres	Fin
+<g/>
+.
+Prof.	Prof.	NOUN	Nom				Masc		Sing						
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Kelsen	Kelsen	PROPN	Nom				Masc		Sing						
+gibt	geben	VERB						Ind	Sing	3				Pres	Fin
+zu	zu	PART													
+bedenken	bedenken	VERB													Inf
+<g/>
+,
+daß	daß	SCONJ													
+wir	wir	PRON	Nom						Plur	1		Prs			
+nach	nach	ADP													
+dem	der	DET	Dat	Def			Masc		Sing			Art			
+Friedensvertrag	Friedensvertrag	NOUN	Dat				Masc		Sing						
+keinen	kein	DET	Acc				Masc		Sing			Ind			
+Krieg	Krieg	NOUN	Acc				Masc		Sing						
+führen	führen	VERB													Inf
+dürfen	dürfen	AUX						Ind	Plur	1				Pres	Fin
+und	und	CCONJ													
+auch	auch	ADV													
+kein	kein	DET	Acc				Neut		Sing			Ind			
+Instrument	Instrument	NOUN	Acc				Neut		Sing						
+dafür	dafür	ADV													
+haben	haben	VERB						Ind	Plur	1				Pres	Fin
+<g/>
+;
+schon	schon	ADV													
+aus	aus	ADP													
+politischen	politisch	ADJ	Dat		Pos		Masc		Plur						
+Gründen	Grund	NOUN	Dat				Masc		Plur						
+würde	werden	AUX						Sub	Sing	3				Past	Fin
+sich	sich	PRON	Acc						Sing	3		Prs	Yes		
+nicht	nicht	PART													
+empfehlen	empfehlen	VERB													Inf
+<g/>
+,
+an	an	ADP													
+die	der	DET	Acc	Def			Fem		Sing			Art			
+Spitze	Spitze	NOUN	Acc				Fem		Sing						
+dieser	dieser	DET	Gen				Fem		Sing			Dem			
+Verfassung	Verfassung	NOUN	Gen				Fem		Sing						
+die	der	DET	Acc	Def			Fem		Sing			Art			
+Kriegserklärung	Kriegserklärung	NOUN	Acc				Fem		Sing						
+zu	zu	PART													
+stellen	stellen	VERB													Inf
+<g/>
+.
+Auch	auch	ADV													
+Staatssekretär	Staatssekretär	NOUN	Nom				Masc		Sing						
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Mayr	Mayr	PROPN	Nom				Masc		Sing						
+möchte	möchten	AUX						Ind	Sing	3				Pres	Fin
+nur	nur	ADV													
+das	der	DET	Acc	Def			Neut		Sing			Art			
+unbedingt	unbedingt	ADV			Pos										
+Notwendige	Notwendige	NOUN	Acc				Neut		Sing						
+aufnehmen	aufnehmen	VERB													Inf
+<g/>
+.
+</p>
+<p>
+Punkt	Punkt	NOUN	Nom				Masc		Sing						
+2	2	NUM													
+wird	werden	AUX						Ind	Sing	3				Pres	Fin
+in	in	ADP													
+der	der	DET	Dat	Def			Fem		Sing			Art			
+Linzer	Linzer	ADJ			Pos										
+Fassung	Fassung	NOUN	Dat				Fem		Sing						
+angenommen	annehmen	VERB													Part
+<g/>
+,
+nur	nur	ADV													
+wird	werden	AUX						Ind	Sing	3				Pres	Fin
+über	über	ADP													
+Antrag	Antrag	NOUN	Acc				Masc		Sing						
+desVorsitzenden	desVorsitzender	NOUN	Gen				Masc		Sing						
+anstatt	anstatt	ADP													
+des	der	DET	Gen	Def			Neut		Sing			Art			
+Wortes	Wort	NOUN	Gen				Neut		Sing						
+<g/>
+„
+diesem	dieser	PRON	Dat				Masc		Sing			Dem			
+<g/>
+“
+das	der	DET	Nom	Def			Neut		Sing			Art			
+Wort	Wort	NOUN	Nom				Neut		Sing						
+<g/>
+„
+ihm	ihm	PRON	Dat				Masc		Sing	3		Prs			
+<g/>
+“
+gesetzt	setzen	VERB													Part
+<g/>
+.
+</p>
+<p>
+Bei	bei	ADP													
+Punkt	Punkt	NOUN	Dat				Masc		Sing						
+3	3	NUM													
+entwickelt	entwickeln	VERB						Ind	Sing	3				Pres	Fin
+sich	sich	PRON	Acc						Sing	3		Prs	Yes		
+über	über	ADP													
+die	der	DET	Acc	Def			Fem		Sing			Art			
+Einführung	Einführung	NOUN	Acc				Fem		Sing						
+der	der	DET	Gen	Def			Fem		Sing			Art			
+Bürgerliste	Bürgerliste	NOUN	Gen				Fem		Sing						
+eine	ein	DET	Nom	Ind			Fem		Sing			Art			
+längere	lang	ADJ	Nom		Cmp		Fem		Sing						
+Auseinandersetzung	Auseinandersetzung	NOUN	Nom				Fem		Sing						
+<g/>
+,
+in	in	ADP													
+deren	der	DET	Gen				Fem		Sing			Rel			
+Verlauf	Verlauf	NOUN	Dat				Masc		Sing						
+Min.-Rat	Min.-Rat	NOUN	Nom				Masc		Sing						
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Froehlich	Froehlich	PROPN	Nom				Masc		Sing						
+und	und	CCONJ													
+Sekt.-Rat	Sekt.-Rat	NOUN	Nom				Masc		Sing						
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Mannlicher	Mannlicher	PROPN	Nom				Masc		Sing						
+den	der	DET	Acc	Def			Masc		Sing			Art			
+Wert	Wert	NOUN	Acc				Masc		Sing						
+der	der	DET	Gen	Def			Fem		Sing			Art			
+Führung	Führung	NOUN	Gen				Fem		Sing						
+solcher	solcher	DET	Gen				Fem		Plur			Ind			
+Listen	Liste	NOUN	Gen				Fem		Plur						
+nach	nach	ADP													
+belgischem	belgisch	ADJ	Dat		Pos		Neut		Sing						
+Muster	Muster	NOUN	Dat				Neut		Sing						
+mit	mit	ADP													
+der	der	DET	Dat	Def			Fem		Sing			Art			
+Wichtigkeit	Wichtigkeit	NOUN	Dat				Fem		Sing						
+dieses	dieser	DET	Gen				Masc		Sing			Dem			
+Behelfes	Behelf	NOUN	Gen				Masc		Sing						
+bei	bei	ADP													
+Wahlen	Wahl	NOUN	Dat				Fem		Plur						
+in	in	ADP													
+den	der	DET	Acc	Def			Masc		Sing			Art			
+Bundestag	Bundestag	NOUN	Acc				Masc		Sing						
+und	und	CCONJ													
+bei	bei	ADP													
+Volksabstimmungen	Volksabstimmung	NOUN	Dat				Fem		Plur						
+begründen	begründen	VERB						Ind	Plur	3				Pres	Fin
+<g/>
+,
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Danneberg	Danneberg	PROPN	Nom				Masc		Sing						
+und	und	CCONJ													
+M.	M.	PROPN	Nom				Masc		Sing						
+Eldersch	Eldersch	PROPN	Nom				Masc		Sing						
+aber	aber	ADV													
+der	der	DET	Gen	Def			Fem		Sing			Art			
+Anschauung	Anschauung	NOUN	Gen				Fem		Sing						
+sind	sein	AUX						Ind	Plur	3				Pres	Fin
+<g/>
+,
+daß	daß	SCONJ													
+bei	bei	ADP													
+den	der	DET	Dat	Def			Fem		Plur			Art			
+Wahlen	Wahl	NOUN	Dat				Fem		Plur						
+<g/>
+,
+trotzdem	trotzdem	ADV													
+wegen	wegen	ADP													
+der	der	DET		Def			Fem		Sing			Art			
+unvermeidlichen	unvermeidlich	ADJ			Pos		Fem		Sing						
+Mangelhaftigkeit	Mangelhaftigkeit	NOUN					Fem		Sing						
+solcher	solcher	DET	Gen				Fem		Plur			Ind			
+Aufzeichnungen	Aufzeichnung	NOUN	Gen				Fem		Plur						
+jedesmal	jedesmal	ADV													
+neue	neu	ADJ	Nom		Pos		Fem		Plur						
+Wählerlisten	Wählerliste	NOUN	Nom				Fem		Plur						
+unentbehrlich	unentbehrlich	ADV			Pos										
+wären	sein	AUX						Sub	Plur	3				Past	Fin
+und	und	CCONJ													
+die	der	DET	Nom	Def					Plur			Art			
+Kosten	Kosten	NOUN	Nom						Plur						
+der	der	DET	Gen	Def			Fem		Sing			Art			
+Evidenthaltung	Evidenthaltung	NOUN	Gen				Fem		Sing						
+namentlich	namentlich	ADV													
+in	in	ADP													
+der	der	DET	Dat	Def			Fem		Sing			Art			
+Millionenstadt	Millionenstadt	NOUN	Dat				Fem		Sing						
+Wien	Wien	PROPN	Nom				Neut		Sing						
+die	der	DET	Acc	Def			Fem		Sing			Art			
+finanzielle	finanziell	ADJ	Acc		Pos		Fem		Sing						
+Leistungsfähigkeit	Leistungsfähigkeit	NOUN	Acc				Fem		Sing						
+des	der	DET	Gen	Def			Masc		Sing			Art			
+Staates	Staat	NOUN	Gen				Masc		Sing						
+weit	weit	ADV			Pos										
+übersteigen	übersteigen	VERB						Ind	Plur	3				Pres	Fin
+<g/>
+.
+</p>
+<p>
+Keinesfalls	keinesfalls	ADV													
+dürfe	dürfen	AUX						Sub	Sing	3				Pres	Fin
+die	der	DET	Nom	Def			Fem		Sing			Art			
+Aufnahme	Aufnahme	NOUN	Nom				Fem		Sing						
+in	in	ADP													
+die	der	DET	Acc	Def			Fem		Sing			Art			
+Bürgerliste	Bürgerliste	NOUN	Acc				Fem		Sing						
+an	an	ADP													
+eine	ein	DET	Acc	Ind			Fem		Sing			Art			
+gewisse	gewiß	ADJ	Acc		Pos		Fem		Sing						
+Seßhaftigkeit	Seßhaftigkeit	NOUN	Acc				Fem		Sing						
+gebunden	binden	VERB													Part
+werden	werden	AUX													Inf
+<g/>
+.
+Staatssekretär	Staatssekretär	NOUN	Nom				Masc		Sing						
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Mayr	Mayr	PROPN	Nom				Masc		Sing						
+erklärt	erklären	VERB						Ind	Sing	3				Pres	Fin
+<g/>
+,
+er	er	PRON	Nom				Masc		Sing	3		Prs			
+habe	haben	AUX						Sub	Sing	3				Pres	Fin
+sich	sich	PRON	Acc						Sing	3		Prs	Yes		
+verpflichtet	verpflichten	VERB													Part
+gefühlt	fühlen	VERB													Part
+<g/>
+,
+hervorzuheben	hervorzuheben	VERB													Inf
+<g/>
+,
+daß	daß	SCONJ													
+die	der	DET	Nom	Def			Fem		Sing			Art			
+Praxis	Praxis	NOUN	Nom				Fem		Sing						
+für	für	ADP													
+die	der	DET	Acc	Def			Fem		Plur			Art			
+Bürgerlisten	Bürgerliste	NOUN	Acc				Fem		Plur						
+spreche	sprechen	VERB						Sub	Sing	3				Pres	Fin
+<g/>
+,
+während	während	SCONJ													
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Seipel	Seipel	PROPN	Nom				Masc		Sing						
+gegen	gegen	ADP													
+eine	ein	DET	Acc	Ind			Fem		Sing			Art			
+Streichung	Streichung	NOUN	Acc				Fem		Sing						
+des	der	DET	Gen	Def			Masc		Sing			Art			
+Beisatzes	Beisatz	NOUN	Gen				Masc		Sing						
+nichts	nichts	PRON					Neut					Ind			
+einzuwenden	einwenden	VERB													Inf
+hat	haben	AUX						Ind	Sing	3				Pres	Fin
+<g/>
+,
+weil	weil	SCONJ													
+die	der	DET	Nom	Def			Fem		Sing			Art			
+Angelegenheit	Angelegenheit	NOUN	Nom				Fem		Sing						
+noch	noch	ADV													
+nicht	nicht	PART													
+spruchreif	spruchreif	ADV			Pos										
+sei	sein	AUX						Sub	Sing	3				Pres	Fin
+<g/>
+.
+</p>
+<p>
+Da	da	SCONJ													
+auch	auch	ADV													
+der	der	DET	Nom	Def			Masc		Sing			Art			
+Vorsitzende	vorsitzend	NOUN	Nom				Masc		Sing						
+den	der	DET	Acc	Def			Masc		Sing			Art			
+Beisatz	Beisatz	NOUN	Acc				Masc		Sing						
+nicht	nicht	PART													
+für	für	ADP													
+notwendig	notwendig	ADV			Pos										
+hält	halten	VERB						Ind	Sing	3				Pres	Fin
+<g/>
+,
+weil	weil	SCONJ													
+die	der	DET	Nom	Def			Fem		Sing			Art			
+Vollziehung	Vollziehung	NOUN	Nom				Fem		Sing						
+in	in	ADP													
+Wahlangelegenheitenund	Wahlangelegenheitenund	NOUN	Dat				Fem		Plur						
+Volksabstimmungen	Volksabstimmung	NOUN	Dat				Fem		Plur						
+Bundessache	Bundessache	NOUN	Nom				Fem		Sing						
+sei	sein	AUX						Sub	Sing	3				Pres	Fin
+und	und	CCONJ													
+daher	daher	ADV													
+die	der	DET	Nom	Def			Fem		Sing			Art			
+Bundesregierung	Bundesregierung	NOUN	Nom				Fem		Sing						
+die	der	DET	Acc	Def			Fem		Sing			Art			
+Anlegung	Anlegung	NOUN	Acc				Fem		Sing						
+einer	ein	DET	Gen	Ind			Fem		Sing			Art			
+Bürgerliste	Bürgerliste	NOUN	Gen				Fem		Sing						
+verfügen	verfügen	VERB													Inf
+könne	können	AUX						Sub	Sing	3				Pres	Fin
+<g/>
+,
+wird	werden	AUX						Ind	Sing	3				Pres	Fin
+Punkt	Punkt	NOUN	Nom				Masc		Sing						
+3	3	NUM													
+in	in	ADP													
+der	der	DET	Dat	Def			Fem		Sing			Art			
+Fassung	Fassung	NOUN	Dat				Fem		Sing						
+des	der	DET	Gen	Def			Masc		Sing			Art			
+Entwurfes	Entwurf	NOUN	Gen				Masc		Sing						
+angenommen	annehmen	VERB													Part
+<g/>
+,
+jedoch	jedoch	ADV													
+entfällt	entfallen	VERB						Ind	Sing	3				Pres	Fin
+der	der	DET	Nom	Def			Masc		Sing			Art			
+Nachsatz	Nachsatz	NOUN	Nom				Masc		Sing						
+<g/>
+„
+sowie	sowie	CCONJ													
+die	der	DET	Nom	Def			Fem		Sing			Art			
+Einrichtung	Einrichtung	NOUN	Nom				Fem		Sing						
+und	und	CCONJ													
+Führung	Führung	NOUN	Nom				Fem		Sing						
+der	der	DET	Gen	Def			Fem		Sing			Art			
+Bürgerliste	Bürgerliste	NOUN	Gen				Fem		Sing						
+<g/>
+.
+</p>
+<p>
+Am	an	ADP	Dat				Masc		Sing						
+Beginne	Beginn	NOUN	Dat				Masc		Sing						
+des	der	DET	Gen	Def			Masc		Sing			Art			
+Punktes	Punkt	NOUN	Gen				Masc		Sing						
+4	4	NUM													
+hat	haben	AUX						Ind	Sing	3				Pres	Fin
+im	in	ADP	Dat				Masc		Sing						
+Gegensatz	Gegensatz	NOUN	Dat				Masc		Sing						
+zur	zu	ADP	Dat				Fem		Sing						
+sonstigen	sonstig	ADJ	Dat		Pos		Fem		Sing						
+Streichung	Streichung	NOUN	Dat				Fem		Sing						
+der	der	DET	Nom	Def			Masc		Sing			Art			
+bestimmte	bestimmt	ADJ	Nom		Pos		Masc		Sing						
+Artikel	Artikel	NOUN	Nom				Masc		Sing						
+vor	vor	ADP													
+dem	der	DET	Dat	Def			Neut		Sing			Art			
+Worte	Wort	NOUN	Dat				Neut		Sing						
+<g/>
+„
+Bundesfinanzen	Bundesfinanz	NOUN	Nom				Fem		Plur						
+<g/>
+“
+stehen	stehen	VERB													Inf
+zu	zu	PART													
+bleiben	bleiben	VERB													Inf
+<g/>
+,
+hinsichtlich	hinsichtlich	ADP													
+des	der	DET	Gen	Def			Masc		Sing			Art			
+übrigen	übrig	ADJ	Gen		Pos		Masc		Sing						
+Wortlautes	Wortlaut	NOUN	Gen				Masc		Sing						
+verweist	verweisen	VERB						Ind	Sing	3				Pres	Fin
+der	der	DET	Nom	Def			Masc		Sing			Art			
+Vorsitzende	vorsitzend	NOUN	Nom				Masc		Sing						
+auf	auf	ADP													
+den	der	DET	Acc	Def			Masc		Sing			Art			
+Renner	Renner	NOUN	Acc				Masc		Sing						
+<g/>
+’
+schen	sch	ADJ	Acc		Pos		Masc		Sing						
+Entwurf	Entwurf	NOUN	Acc				Masc		Sing						
+<g/>
+,
+der	der	PRON	Nom				Masc		Sing			Rel			
+hier	hier	ADV													
+überall	überall	ADV													
+<g/>
+,
+wo	wo	SCONJ										Int			
+von	von	ADP													
+den	der	DET	Dat	Def			Neut		Plur			Art			
+Ländern	Land	NOUN	Dat				Neut		Plur						
+die	der	DET	Nom	Def			Fem		Sing			Art			
+Rede	Rede	NOUN	Nom				Fem		Sing						
+ist	sein	AUX						Ind	Sing	3				Pres	Fin
+<g/>
+,
+auch	auch	ADV													
+die	der	DET	Acc	Def			Fem		Plur			Art			
+<g/>
+„
+Gemeinden	Gemeinde	NOUN	Acc				Fem		Plur						
+<g/>
+“
+anführt	anführen	VERB						Ind	Sing	3				Pres	Fin
+<g/>
+.
+</p>
+<p>
+<g/>
+(
+<g/>
+„
+Regelung	Regelung	NOUN	Nom				Fem		Sing						
+<g/>
+,
+welche	welcher	DET	Nom				Fem		Plur			Int			
+Abgaben	Abgabe	NOUN	Nom				Fem		Plur						
+dem	der	DET	Dat	Def			Masc		Sing			Art			
+Bunde	Bund	NOUN	Dat				Masc		Sing						
+<g/>
+,
+den	der	DET	Dat	Def			Neut		Plur			Art			
+Ländern	Land	NOUN	Dat				Neut		Plur						
+und	und	CCONJ													
+den	der	DET	Dat	Def			Fem		Plur			Art			
+Gemeinden	Gemeinde	NOUN	Dat				Fem		Plur						
+zustehen	zustehen	VERB						Ind	Plur	3				Pres	Fin
+<g/>
+;
+Regelung	Regelung	NOUN	Nom				Fem		Sing						
+der	der	DET	Gen	Def			Fem		Sing			Art			
+Anteilnahme	Anteilnahme	NOUN	Gen				Fem		Sing						
+der	der	DET	Gen	Def					Plur			Art			
+Länder	Land	NOUN	Gen				Neut		Plur						
+und	und	CCONJ													
+Gemeinden	Gemeinde	NOUN	Gen				Fem		Plur						
+an	an	ADP													
+den	der	DET	Dat	Def			Fem		Plur			Art			
+Einnahmen	Einnahme	NOUN	Dat				Fem		Plur						
+des	der	DET	Gen	Def			Masc		Sing			Art			
+Bundes	Bund	NOUN	Gen				Masc		Sing						
+und	und	CCONJ													
+Regelung	Regelung	NOUN	Nom				Fem		Sing						
+der	der	DET	Gen	Def			Masc		Plur			Art			
+Beiträge	Beitrag	NOUN	Gen				Masc		Plur						
+und	und	CCONJ													
+Zuschüsse	Zuschuß	NOUN	Gen				Masc		Plur						
+aus	aus	ADP													
+Bundesmitteln	Bundesmittel	NOUN	Dat				Neut		Plur						
+zu	zu	ADP													
+den	der	DET	Dat	Def			Fem		Plur			Art			
+Ausgaben	Ausgabe	NOUN	Dat				Fem		Plur						
+der	der	DET	Gen	Def			Fem		Plur			Art			
+Länder	Land	NOUN	Gen				Neut		Plur						
+und	und	CCONJ													
+Gemeinden	Gemeinde	NOUN	Gen				Fem		Plur						
+<g/>
+.
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Danneberg	Danneberg	PROPN	Nom				Masc		Sing						
+schließt	schließen	VERB						Ind	Sing	3				Pres	Fin
+sich	sich	PRON	Acc						Sing	3		Prs	Yes		
+der	der	DET	Dat	Def			Fem		Sing			Art			
+Anschauung	Anschauung	NOUN	Dat				Fem		Sing						
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Renner	Renner	PROPN	Nom				Masc		Sing						
+<g/>
+’s
+an	an	ADP													
+<g/>
+,
+da	da	SCONJ													
+die	der	DET	Nom	Def			Fem		Sing			Art			
+Sorge	Sorge	NOUN	Nom				Fem		Sing						
+um	um	ADP													
+die	der	DET	Acc	Def			Fem		Plur			Art			
+Finanzen	Finanz	NOUN	Acc				Fem		Plur						
+der	der	DET	Gen	Def			Neut		Plur			Art			
+Länder	Land	NOUN	Gen				Neut		Plur						
+und	und	CCONJ													
+der	der	DET	Gen	Def			Fem		Plur			Art			
+Gemeinden	Gemeinde	NOUN	Gen				Fem		Plur						
+gleich	gleich	ADV													
+brennend	brennend	ADV			Pos										
+sei	sein	AUX						Sub	Sing	3				Pres	Fin
+<g/>
+.
+Sollte	sollen	AUX						Ind	Sing	3				Past	Fin
+die	der	DET	Nom	Def			Fem		Sing			Art			
+Regelung	Regelung	NOUN	Nom				Fem		Sing						
+der	der	DET	Gen	Def			Fem		Plur			Art			
+Gemeindefinanzen	Gemeindefinanz	NOUN	Gen				Fem		Plur						
+den	der	DET	Dat	Def			Neut		Plur			Art			
+Ländern	Land	NOUN	Dat				Neut		Plur						
+überlassen	überlassen	VERB													Part
+bleiben	bleiben	VERB													Inf
+<g/>
+,
+dann	dann	ADV													
+ist	sein	AUX						Ind	Sing	3				Pres	Fin
+zu	zu	PART													
+fürchten	fürchten	VERB													Inf
+<g/>
+,
+daß	daß	SCONJ													
+die	der	DET	Nom	Def			Fem		Plur			Art			
+großen	groß	ADJ	Nom		Pos		Fem		Plur						
+Auseinandersetzungen	Auseinandersetzung	NOUN	Nom				Fem		Plur						
+zwischen	zwischen	ADP													
+Bund	Bund	NOUN	Dat				Masc		Sing						
+und	und	CCONJ													
+Ländern	Land	NOUN	Dat				Neut		Plur						
+dann	dann	ADV													
+erst	erst	ADV													
+noch	noch	ADV													
+zwischen	zwischen	ADP													
+Gemeinden	Gemeinde	NOUN	Dat				Fem		Plur						
+und	und	CCONJ													
+Ländern	Land	NOUN	Dat				Neut		Plur						
+durchgekämpft	durchgekämpfen	VERB													Part
+werden	werden	AUX													Inf
+müssen	müssen	AUX						Ind	Plur	3				Pres	Fin
+<g/>
+,
+während	während	SCONJ													
+so	so	ADV													
+eine	ein	DET	Nom	Ind			Fem		Sing			Art			
+einheitliche	einheitlich	ADJ	Nom		Pos		Fem		Sing						
+Regelung	Regelung	NOUN	Nom				Fem		Sing						
+möglich	möglich	ADV			Pos										
+wäre	sein	AUX						Sub	Sing	3				Past	Fin
+<g/>
+.
+Prof.	Prof.	NOUN	Nom				Masc		Sing						
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Kelsen	Kelsen	PROPN	Nom				Masc		Sing						
+meint	meinen	VERB						Ind	Sing	3				Pres	Fin
+in	in	ADP													
+verfas-sungstechnischer	verfas-sungstechnisch	ADJ	Dat		Pos		Fem		Sing						
+Hinsicht	Hinsicht	NOUN	Dat				Fem		Sing						
+die	der	DET	Acc	Def			Fem		Sing			Art			
+Einfügung	Einfügung	NOUN	Acc				Fem		Sing						
+davon	davon	ADV													
+abhängig	abhängig	ADV			Pos										
+machen	machen	VERB													Inf
+zu	zu	PART													
+müssen	müssen	AUX													Inf
+<g/>
+,
+wie	wie	SCONJ										Int			
+die	der	DET	Nom	Def			Fem		Plur			Art			
+Gemeinden	Gemeinde	NOUN	Nom				Fem		Plur						
+in	in	ADP													
+die	der	DET	Acc	Def			Fem		Sing			Art			
+Verfassung	Verfassung	NOUN	Acc				Fem		Sing						
+eingegliedert	eingliederen	VERB													Part
+werden	werden	AUX						Ind	Plur	3				Pres	Fin
+<g/>
+,
+denn	denn	CCONJ													
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Renner	Renner	PROPN	Nom				Masc		Sing						
+habe	haben	AUX						Sub	Sing	3				Pres	Fin
+die	der	DET	Acc	Def			Fem		Plur			Art			
+Gemeinden	Gemeinde	NOUN	Acc				Fem		Plur						
+den	der	DET	Dat	Def			Neut		Plur			Art			
+Ländern	Land	NOUN	Dat				Neut		Plur						
+selbständig	selbständig	ADV			Pos										
+gegenübergestellt	gegenüberstellen	VERB													Part
+<g/>
+.
+Demgegenüber	demgegenüber	ADV													
+verweist	verweisen	VERB						Ind	Sing	3				Pres	Fin
+der	der	DET	Nom	Def			Masc		Sing			Art			
+Vorsitzende	vorsitzend	NOUN	Nom				Masc		Sing						
+auf	auf	ADP													
+die	der	DET	Acc	Def			Fem		Sing			Art			
+stete	stet	ADJ	Acc		Pos		Fem		Sing						
+Forderung	Forderung	NOUN	Acc				Fem		Sing						
+der	der	DET	Gen	Def			Fem		Plur			Art			
+Gemeinden	Gemeinde	NOUN	Gen				Fem		Plur						
+nach	nach	ADP													
+Zuweisungen	Zuweisung	NOUN	Dat				Fem		Plur						
+seitens	seitens	ADP													
+des	der	DET	Gen	Def			Masc		Sing			Art			
+Staates	Staat	NOUN	Gen				Masc		Sing						
+<g/>
+,
+deren	der	DET	Gen				Fem		Sing			Rel			
+Höhe	Höhe	NOUN	Acc				Fem		Sing						
+dieser	dieser	PRON	Nom				Masc		Sing			Dem			
+selbst	selbst	ADV													
+regeln	regeln	VERB													Inf
+solle	sollen	AUX						Sub	Sing	3				Pres	Fin
+und	und	CCONJ													
+erwähnt	erwähnen	VERB						Ind	Sing	3				Pres	Fin
+einen	ein	DET	Acc	Ind			Masc		Sing			Art			
+Gesetzesentwurf	Gesetzesentwurf	NOUN	Acc				Masc		Sing						
+der	der	DET	Gen	Def			Fem		Sing			Art			
+Regierung	Regierung	NOUN	Gen				Fem		Sing						
+<g/>
+,
+in	in	ADP													
+dem	der	PRON	Dat				Masc		Sing			Rel			
+den	der	DET	Dat	Def			Fem		Plur			Art			
+Gemeinden	Gemeinde	NOUN	Dat				Fem		Plur						
+verschiedene	verschieden	ADJ	Nom		Pos		Fem		Plur						
+Steuern	Steuer	NOUN	Nom				Fem		Plur						
+zugewiesen	zugewiesen	VERB													Part
+werden	werden	AUX						Ind	Plur	3				Pres	Fin
+<g/>
+(
+Umsatzsteuer	Umsatzsteuer	NOUN	Nom				Fem		Sing						
+<g/>
+,
+Hauszinssteuer	Hauszinssteuer	NOUN	Nom				Fem		Sing						
+<g/>
+,
+Fleischsteuer	Fleischsteuer	NOUN	Nom				Fem		Sing						
+<g/>
+,
+etc.	etc.	ADV													
+<g/>
+)
+<g/>
+.
+Ein	ein	DET	Nom	Ind			Neut		Sing			Art			
+Connex	Connex	NOUN	Nom				Masc		Sing						
+werde	werden	AUX						Sub	Sing	3				Pres	Fin
+immer	immer	ADV													
+bestehen	bestehen	VERB													Inf
+und	und	CCONJ													
+es	es	PRON	Nom				Neut		Sing	3		Prs			
+sei	sein	AUX						Sub	Sing	3				Pres	Fin
+nicht	nicht	PART													
+ungefährlich	ungefährlich	ADV			Pos										
+<g/>
+,
+die	der	DET	Acc	Def			Fem		Sing			Art			
+Frage	Frage	NOUN	Acc				Fem		Sing						
+nur	nur	ADV													
+vom	von	ADP	Dat				Masc		Sing						
+staatsrechtlichen	staatsrechtlich	ADJ	Dat		Pos		Masc		Sing						
+Standpunkt	Standpunkt	NOUN	Dat				Masc		Sing						
+zu	zu	PART													
+behandeln	behandeln	VERB													Inf
+<g/>
+.
+</p>
+<p>
+Staatssekretär	Staatssekretär	NOUN	Nom				Masc		Sing						
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Mayr	Mayr	PROPN	Nom				Masc		Sing						
+würde	werden	AUX						Sub	Sing	3				Past	Fin
+es	es	PRON	Acc				Neut		Sing	3		Prs			
+für	für	ADP													
+praktischer	praktisch	ADV			Cmp										
+halten	halten	VERB													Inf
+<g/>
+,
+das	der	DET	Acc	Def			Neut		Sing			Art			
+Vorbild	Vorbild	NOUN	Acc				Neut		Sing						
+der	der	DET	Gen	Def			Fem		Sing			Art			
+deutschen	deutsch	ADJ	Gen		Pos		Fem		Sing						
+Reichsverfassung	Reichsverfassung	NOUN	Gen				Fem		Sing						
+zu	zu	PART													
+nehmen	nehmen	VERB													Inf
+<g/>
+;
+man	man	PRON	Nom						Sing			Ind			
+müßte	müssen	AUX						Sub	Sing	3				Past	Fin
+dann	dann	ADV													
+auch	auch	ADV													
+auf	auf	ADP													
+etwa	etwa	ADV													
+zu	zu	PART													
+schaffende	schaffend	ADJ	Acc		Pos		Masc		Plur						
+Gemeindeverbände	Gemeindeverband	NOUN	Acc				Masc		Plur						
+Rücksicht	Rücksicht	NOUN	Acc				Fem		Sing						
+nehmen	nehmen	VERB													Inf
+<g/>
+.
+In	in	ADP													
+keiner	kein	DET	Dat				Fem		Sing			Ind			
+anderen	anderer	ADJ	Dat		Pos		Fem		Sing						
+Verfassung	Verfassung	NOUN	Dat				Fem		Sing						
+sei	sein	AUX						Sub	Sing	3				Pres	Fin
+eine	ein	DET	Nom	Ind			Fem		Sing			Art			
+solche	solcher	DET	Nom				Fem		Sing			Ind			
+Heranziehung	Heranziehung	NOUN	Nom				Fem		Sing						
+der	der	DET	Gen	Def			Fem		Plur			Art			
+Gemeinden	Gemeinde	NOUN	Gen				Fem		Plur						
+festgelegt	festlegen	VERB													Part
+<g/>
+.
+Wenn	wenn	SCONJ													
+wir	wir	PRON	Nom						Plur	1		Prs			
+dies	dieser	PRON	Acc				Neut		Sing			Dem			
+als	als	ADP													
+Bundessache	Bundessache	NOUN	Acc				Fem		Sing						
+einfügen	einfügen	VERB						Ind	Plur	1				Pres	Fin
+<g/>
+,
+so	so	ADV													
+werden	werden	AUX						Ind	Plur	3				Pres	Fin
+die	der	DET	Nom	Def			Fem		Plur			Art			
+Gemeinden	Gemeinde	NOUN	Nom				Fem		Plur						
+in	in	ADP													
+einer	einer	PRON	Dat				Fem		Sing			Ind			
+ihrer	ihr	DET	Gen				Fem		Plur		Yes	Prs			
+wichtigsten	wichtig	ADJ	Gen		Sup		Fem		Plur						
+Angelegenheiten	Angelegenheit	NOUN	Gen				Fem		Plur						
+von	von	ADP													
+den	der	DET	Dat	Def			Neut		Plur			Art			
+Ländern	Land	NOUN	Dat				Neut		Plur						
+lösgelöst	lösgelöst	VERB													Part
+<g/>
+.
+Die	der	DET	Nom	Def			Neut		Plur			Art			
+Länder	Land	NOUN	Nom				Neut		Plur						
+würden	werden	AUX						Sub	Plur	3				Past	Fin
+dagegen	dagegen	ADV													
+so	so	ADV													
+heftig	heftig	ADV			Pos										
+Widerspruch	Widerspruch	NOUN	Acc				Masc		Sing						
+erheben	erheben	VERB													Inf
+<g/>
+,
+daß	daß	SCONJ													
+das	der	DET	Nom	Def			Neut		Sing			Art			
+ganze	ganz	ADJ	Nom		Pos		Neut		Sing						
+Verfassungswerk	Verfassungswerk	NOUN	Nom				Neut		Sing						
+in	in	ADP													
+Frage	Frage	NOUN	Acc				Fem		Sing						
+käme	kommen	VERB						Sub	Sing	3				Past	Fin
+<g/>
+,
+denn	denn	CCONJ													
+nach	nach	ADP													
+deren	der	PRON	Gen				Fem		Sing			Dem			
+Anschauung	Anschauung	NOUN	Dat				Fem		Sing						
+gäbe	geben	VERB						Sub	Sing	3				Past	Fin
+es	es	PRON	Nom				Neut		Sing	3		Prs			
+überhauptBundesmittel	überhauptBundesmittel	NOUN	Acc				Neut		Plur						
+<g/>
+,
+sondern	sondern	CCONJ													
+nur	nur	ADV													
+Landesmittel	Landesmittel	NOUN	Acc				Neut		Plur						
+<g/>
+,
+über	über	ADP													
+die	der	PRON	Acc				Neut		Plur			Rel			
+der	der	DET	Nom	Def			Masc		Sing			Art			
+Bund	Bund	NOUN	Nom				Masc		Sing						
+verfügt	verfügen	VERB						Ind	Sing	3				Pres	Fin
+<g/>
+.
+</p>
+<p>
+Der	der	DET	Nom	Def			Masc		Sing			Art			
+Vorsitzende	vorsitzend	NOUN	Nom				Masc		Sing						
+widerspricht	widersprechen	VERB						Ind	Sing	3				Pres	Fin
+dieser	dieser	DET	Dat				Fem		Sing			Dem			
+Auffassung	Auffassung	NOUN	Dat				Fem		Sing						
+<g/>
+,
+da	da	SCONJ													
+man	man	PRON	Nom						Sing			Ind			
+im	in	ADP	Dat				Masc		Sing						
+Hinblick	Hinblick	NOUN	Dat				Masc		Sing						
+auf	auf	ADP													
+die	der	DET	Acc	Def			Fem		Plur			Art			
+staatlichen	staatlich	ADJ	Acc		Pos		Fem		Plur						
+Überweisungen	Überweisung	NOUN	Acc				Fem		Plur						
+mit	mit	ADP													
+mehr	mehr	DET										Ind			
+Recht	Recht	NOUN	Dat				Neut		Sing						
+sagen	sagen	VERB													Inf
+könne	können	AUX						Sub	Sing	3				Pres	Fin
+<g/>
+,
+daß	daß	SCONJ													
+der	der	DET	Nom	Def			Masc		Sing			Art			
+Bund	Bund	NOUN	Nom				Masc		Sing						
+die	der	DET	Acc	Def			Neut		Plur			Art			
+Bedürfnisse	Bedürfnis	NOUN	Acc				Neut		Plur						
+der	der	DET	Gen	Def			Neut		Plur			Art			
+Länder	Land	NOUN	Gen				Neut		Plur						
+bestreite	bestreiten	VERB						Sub	Sing	3				Pres	Fin
+<g/>
+.
+Immerhin	immerhin	ADV													
+müsse	müssen	AUX						Sub	Sing	3				Pres	Fin
+dem	der	DET	Dat	Def			Masc		Sing			Art			
+Bunde	Bund	NOUN	Dat				Masc		Sing						
+das	der	DET	Nom	Def			Neut		Sing			Art			
+Recht	Recht	NOUN	Nom				Neut		Sing						
+gewahrt	wahren	VERB													Part
+werden	werden	AUX													Inf
+<g/>
+,
+über	über	ADP													
+Gemeindefinanzen	Gemeindefinanz	NOUN	Acc				Fem		Plur						
+abzusprechen	absprechen	VERB													Inf
+<g/>
+,
+wenn	wenn	SCONJ													
+er	er	PRON	Nom				Masc		Sing	3		Prs			
+über	über	ADP													
+Gemeindeangelegenheiten	Gemeindeangelegenheit	NOUN	Acc				Fem		Plur						
+<g/>
+,
+wie	wie	ADP													
+z.	z.	ADP	Dat				Neut		Sing						
+B.	B.	NOUN	Dat				Neut		Sing						
+die	der	DET	Acc	Def			Fem		Sing			Art			
+lokale	lokal	ADJ	Acc		Pos		Fem		Sing						
+Polizei	Polizei	NOUN	Acc				Fem		Sing						
+entscheiden	entscheiden	VERB													Inf
+darf	dürfen	AUX						Ind	Sing	3				Pres	Fin
+<g/>
+;
+in	in	ADP													
+diesem	dieser	DET	Dat				Masc		Sing			Dem			
+Falle	Fall	NOUN	Dat				Masc		Sing						
+entscheidet	entscheiden	VERB						Ind	Sing	3				Pres	Fin
+der	der	DET	Nom	Def			Masc		Sing			Art			
+Bund	Bund	NOUN	Nom				Masc		Sing						
+<g/>
+,
+ob	ob	SCONJ													
+er	er	PRON	Nom				Masc		Sing	3		Prs			
+für	für	ADP													
+die	der	DET	Acc	Def			Fem		Sing			Art			
+Ausführung	Ausführung	NOUN	Acc				Fem		Sing						
+des	der	DET	Gen	Def			Masc		Sing			Art			
+übertragenen	übertragen	ADJ	Gen		Pos		Masc		Sing						
+Wirkungskreises	Wirkungskreis	NOUN	Gen				Masc		Sing						
+eine	ein	DET	Acc	Ind			Fem		Sing			Art			
+Entschädigung	Entschädigung	NOUN	Acc				Fem		Sing						
+gewährt	gewähren	VERB						Ind	Sing	3				Pres	Fin
+<g/>
+.
+M.	M.	PROPN	Nom				Masc		Sing						
+Eldersch	Eldersch	PROPN	Nom				Masc		Sing						
+fügt	fügen	VERB						Ind	Sing	3				Pres	Fin
+hinzu	hinzu	ADV													
+<g/>
+,
+daß	daß	SCONJ													
+schließlich	schließlich	ADV													
+aus	aus	ADP													
+den	der	DET	Dat	Def			Fem		Plur			Art			
+Steuerquellen	Steuerquelle	NOUN	Dat				Fem		Plur						
+Wiens	Wien	PROPN	Gen				Neut		Sing						
+sowohl	sowohl	CCONJ													
+die	der	DET	Nom	Def			Fem		Plur			Art			
+Länder	Land	NOUN	Nom				Neut		Plur						
+wie	wie	CCONJ													
+die	der	DET	Nom	Def			Fem		Plur			Art			
+Gemeinden	Gemeinde	NOUN	Nom				Fem		Plur						
+dotiert	dotieren	VERB													Part
+werden	werden	AUX													Inf
+müssen	müssen	AUX						Ind	Plur	3				Pres	Fin
+<g/>
+.
+</p>
+<p>
+Nachdem	nachdem	SCONJ													
+Staatssekretär	Staatssekretär	NOUN	Nom				Masc		Sing						
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Mayr	Mayr	PROPN	Nom				Masc		Sing						
+erwähnt	erwähnen	VERB						Ind	Sing	3				Pres	Fin
+<g/>
+,
+daß	daß	SCONJ													
+die	der	DET	Nom	Def			Fem		Plur			Art			
+Gemeinden	Gemeinde	NOUN	Nom				Fem		Plur						
+erst	erst	ADV													
+seit	seit	ADP													
+Errichtung	Errichtung	NOUN	Dat				Fem		Sing						
+der	der	DET	Gen	Def			Fem		Sing			Art			
+Republik	Republik	NOUN	Gen				Fem		Sing						
+aus	aus	ADP													
+Not	Not	NOUN	Dat				Fem		Sing						
+staatliche	staatlich	ADJ	Acc		Pos		Fem		Sing						
+Hilfe	Hilfe	NOUN	Acc				Fem		Sing						
+in	in	ADP													
+Anspruch	Anspruch	NOUN	Acc				Masc		Sing						
+nehmen	nehmen	VERB													Inf
+müssen	müssen	AUX						Ind	Plur	3				Pres	Fin
+<g/>
+,
+der	der	DET	Nom	Def			Masc		Sing			Art			
+Vorsitzende	vorsitzend	NOUN	Nom				Masc		Sing						
+die	der	DET	Acc	Def			Fem		Sing			Art			
+Frage	Frage	NOUN	Acc				Fem		Sing						
+meritorisch	meritorisch	ADV			Pos										
+derzeit	derzeit	ADV													
+als	als	ADP													
+unlösbar	unlösbar	ADV			Pos										
+bezeichnet	bezeichnen	VERB						Ind	Sing	3				Pres	Fin
+und	und	CCONJ													
+die	der	DET	Acc	Def			Fem		Sing			Art			
+vom	von	ADP	Dat				Masc		Sing						
+Staatssekretär	Staatssekretär	NOUN	Dat				Masc		Sing						
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Mayr	Mayr	PROPN	Nom				Masc		Sing						
+angekündigte	angekündigt	ADJ	Acc		Pos		Fem		Sing						
+Vorlage	Vorlage	NOUN	Acc				Fem		Sing						
+geeigneten	geeignet	ADJ	Gen		Pos		Neut		Sing						
+Studienmaterials	Studienmaterial	NOUN	Gen				Neut		Sing						
+begrüßt	begrüßen	VERB						Ind	Sing	3				Pres	Fin
+<g/>
+,
+beantragt	beantragen	VERB						Ind	Sing	3				Pres	Fin
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Seipel	Seipel	PROPN	Nom				Masc		Sing						
+im	in	ADP	Dat				Masc		Sing						
+Sinne	Sinn	NOUN	Dat				Masc		Sing						
+einer	ein	DET	Gen	Ind			Fem		Sing			Art			
+Anregung	Anregung	NOUN	Gen				Fem		Sing						
+Finks	Fink	PROPN	Gen						Sing						
+den	der	DET	Acc	Def			Masc		Sing			Art			
+Antrag	Antrag	NOUN	Acc				Masc		Sing						
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Dannebergs	Danneberg	PROPN	Gen				Masc		Sing						
+zu	zu	PART													
+vertragen	vertragen	VERB													Inf
+<g/>
+,
+welcher	welcher	DET	Nom				Masc		Sing			Dem			
+Antrag	Antrag	NOUN	Nom				Masc		Sing						
+angenommen	annehmen	VERB													Part
+wird	werden	AUX						Ind	Sing	3				Pres	Fin
+<g/>
+,
+im	in	ADP	Dat				Neut		Sing						
+übrigen	übrig	ADJ	Dat		Pos		Neut		Sing						
+wird	werden	AUX						Ind	Sing	3				Pres	Fin
+der	der	DET	Nom	Def			Masc		Sing			Art			
+Pkt.	Pkt.	NOUN	Nom				Masc		Sing						
+4	4	NUM													
+im	in	ADP	Dat				Masc		Sing						
+Wortlaut	Wortlaut	NOUN	Dat				Masc		Sing						
+angenommen	annehmen	VERB													Part
+<g/>
+.
+Ebenso	ebenso	ADV													
+auch	auch	ADV													
+Pkt.	Pkt.	NOUN	Nom				Masc		Sing						
+<g/>
+5,nachdem
+ein	ein	DET	Nom	Ind			Masc		Sing			Art			
+Antrag	Antrag	NOUN	Nom				Masc		Sing						
+Clessins	Clessin	PROPN	Gen						Sing						
+auf	auf	ADP													
+Einschaltung	Einschaltung	NOUN	Acc				Fem		Sing						
+der	der	DET	Gen	Def			Neut		Plur			Art			
+Worte	Wort	NOUN	Gen				Neut		Plur						
+<g/>
+„
+mit	mit	ADP													
+Ausnahme	Ausnahme	NOUN	Dat				Fem		Sing						
+der	der	DET	Gen	Def			Fem		Plur			Art			
+Länderbanken	Länderbank	NOUN	Gen				Fem		Plur						
+und	und	CCONJ													
+gewerblichen	gewerblich	ADJ	Gen		Pos		Fem		Plur						
+Kreditanstalten	Kreditanstalt	NOUN	Gen				Fem		Plur						
+<g/>
+“
+nach	nach	ADP													
+dem	der	DET	Dat	Def			Neut		Sing			Art			
+Wort	Wort	NOUN	Dat				Neut		Sing						
+<g/>
+„
+Bankwesen	Bankwesen	NOUN	Nom				Neut		Sing						
+<g/>
+“
+im	in	ADP	Dat				Masc		Sing						
+Verlauf	Verlauf	NOUN	Dat				Masc		Sing						
+einer	ein	DET	Gen	Ind			Fem		Sing			Art			
+Debatte	Debatte	NOUN	Gen				Fem		Sing						
+<g/>
+,
+an	an	ADP													
+der	der	PRON	Dat				Fem		Sing			Rel			
+sich	sich	PRON	Acc						Sing	3		Prs	Yes		
+der	der	DET	Nom	Def			Masc		Sing			Art			
+Vorsitzende	vorsitzend	NOUN	Nom				Masc		Sing						
+<g/>
+,
+Fink	Fink	PROPN	Nom						Sing						
+<g/>
+,
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Seipel	Seipel	PROPN	Nom				Masc		Sing						
+<g/>
+,
+M.	M.	PROPN	Nom				Masc		Sing						
+Eldersch	Eldersch	PROPN	Nom				Masc		Sing						
+<g/>
+,
+S.	S.	NOUN	Nom				Masc		Sing						
+R.	R.	NOUN	Nom				Masc		Sing						
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Mannlicher	Mannlicher	PROPN	Nom				Masc		Sing						
+und	und	CCONJ													
+Prof.	Prof.	NOUN	Nom				Masc		Sing						
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Kelsen	Kelsen	PROPN	Nom				Masc		Sing						
+beteiligten	beteiligen	VERB						Ind	Plur	3				Past	Fin
+<g/>
+,
+abgelehnt	ablehnen	VERB													Part
+wird	werden	AUX						Ind	Sing	3				Pres	Fin
+<g/>
+.
+Insbesondere	insbesondere	ADV													
+die	der	DET	Nom	Def					Plur			Art			
+beiden	beide	DET	Nom						Plur			Ind			
+letzteren	letzterer	ADJ	Nom		Pos				Plur						
+machen	machen	VERB						Ind	Plur	3				Pres	Fin
+dagegen	dagegen	ADV													
+geltend	geltend	ADV			Pos										
+<g/>
+,
+daß	daß	SCONJ													
+die	der	DET	Nom	Def			Fem		Sing			Art			
+Stellung	Stellung	NOUN	Nom				Fem		Sing						
+der	der	DET	Gen	Def			Neut		Plur			Art			
+Länder	Land	NOUN	Gen				Neut		Plur						
+ebenso	ebenso	ADV													
+wie	wie	ADP													
+die	der	PRON	Nom				Fem		Sing			Dem			
+des	der	DET	Gen	Def			Masc		Sing			Art			
+Bundes	Bund	NOUN	Gen				Masc		Sing						
+<g/>
+,
+soweit	soweit	SCONJ													
+sie	sie	PRON	Nom				Neut		Plur	3		Prs			
+Träger	Träger	NOUN	Nom				Masc		Plur						
+von	von	ADP													
+Privatrechten	Privatrecht	NOUN	Dat				Neut		Plur						
+sind	sein	AUX						Ind	Plur	3				Pres	Fin
+<g/>
+,
+durch	durch	ADP													
+die	der	DET	Acc	Def			Fem		Plur			Art			
+Bestimmungen	Bestimmung	NOUN	Acc				Fem		Plur						
+des	der	DET	Gen	Def			Masc		Sing			Art			
+Artikels	Artikel	NOUN	Gen				Masc		Sing						
+unberührt	unberührt	ADV			Pos										
+bleiben	bleiben	VERB						Ind	Plur	3				Pres	Fin
+und	und	CCONJ													
+sich	sich	PRON	Acc						Sing	3		Prs	Yes		
+der	der	DET	Nom	Def			Masc		Sing			Art			
+Ausdruck	Ausdruck	NOUN	Nom				Masc		Sing						
+<g/>
+„
+Vollziehung	Vollziehung	NOUN	Nom				Fem		Sing						
+<g/>
+“
+ausschließlich	ausschließlich	ADV													
+auf	auf	ADP													
+die	der	DET	Acc	Def			Fem		Sing			Art			
+hoheitliche	hoheitlich	ADJ	Acc		Pos		Fem		Sing						
+nicht	nicht	PART													
+auf	auf	ADP													
+die	der	DET	Acc	Def			Fem		Sing			Art			
+wirtschaftliche	wirtschaftlich	ADJ	Acc		Pos		Fem		Sing						
+Regelung	Regelung	NOUN	Acc				Fem		Sing						
+bezieht	beziehen	VERB						Ind	Sing	3				Pres	Fin
+<g/>
+;
+auch	auch	ADV													
+bei	bei	ADP													
+der	der	DET	Dat	Def			Fem		Sing			Art			
+Unterstellung	Unterstellung	NOUN	Dat				Fem		Sing						
+des	der	DET	Gen	Def			Neut		Sing			Art			
+Verkehrswesens	Verkehrswesen	NOUN	Gen				Neut		Sing						
+unter	unter	ADP													
+die	der	DET	Acc	Def			Fem		Sing			Art			
+Gesetzgebung	Gesetzgebung	NOUN	Acc				Fem		Sing						
+und	und	CCONJ													
+Vollziehung	Vollziehung	NOUN	Acc				Fem		Sing						
+des	der	DET	Gen	Def			Masc		Sing			Art			
+Bundes	Bund	NOUN	Gen				Masc		Sing						
+sei	sein	AUX						Sub	Sing	3				Pres	Fin
+nicht	nicht	PART													
+gemeint	meinen	VERB													Part
+<g/>
+,
+daß	daß	SCONJ													
+alle	aller	DET	Nom				Fem		Plur			Ind			
+Landesbahnen	Landesbahn	NOUN	Nom				Fem		Plur						
+Bundesbahnen	Bundesbahn	NOUN	Nom				Fem		Plur						
+werden	werden	AUX													Inf
+müssen	müssen	AUX						Ind	Plur	3				Pres	Fin
+<g/>
+.
+</p>
+<p>
+Pkt.	Pkt.	NOUN	Nom				Masc		Sing						
+6	6	NUM													
+wird	werden	AUX						Ind	Sing	3				Pres	Fin
+im	in	ADP	Dat				Masc		Sing						
+Wortlaut	Wortlaut	NOUN	Dat				Masc		Sing						
+angenommen	annehmen	VERB													Part
+desgleichen	desgleichen	ADV													
+Pkt.	Pkt.	NOUN	Nom				Masc		Sing						
+7	7	NUM													
+<g/>
+,
+in	in	ADP													
+den	der	PRON	Acc				Masc		Sing			Rel			
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Danneberg	Danneberg	PROPN	Nom				Masc		Sing						
+das	der	DET	Acc	Def			Neut		Sing			Art			
+Kraftfahrwesen	Kraftfahrwesen	NOUN	Acc				Neut		Sing						
+aufgenommen	aufnehmen	VERB													Part
+sehen	sehen	VERB													Inf
+möchte	möchten	AUX						Ind	Sing	3				Pres	Fin
+<g/>
+.
+Zu	zu	ADP													
+dieser	dieser	DET	Dat				Fem		Sing			Dem			
+Frage	Frage	NOUN	Dat				Fem		Sing						
+bemerkt	bemerken	VERB						Ind	Sing	3				Pres	Fin
+Staatssekretär	Staatssekretär	NOUN	Nom				Masc		Sing						
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Mayr	Mayr	PROPN	Nom				Masc		Sing						
+<g/>
+,
+daß	daß	SCONJ													
+mit	mit	ADP													
+der	der	DET	Dat	Def			Fem		Sing			Art			
+Regelung	Regelung	NOUN	Dat				Fem		Sing						
+des	der	DET	Gen	Def			Masc		Sing			Art			
+Durchzugsverkehres	Durchzugsverkehr	NOUN	Gen				Masc		Sing						
+die	der	DET	Nom	Def			Fem		Sing			Art			
+Bundeskompetenz	Bundeskompetenz	NOUN	Nom				Fem		Sing						
+auf	auf	ADP													
+diesem	dieser	DET	Dat				Neut		Sing			Dem			
+Gebiet	Gebiet	NOUN	Dat				Neut		Sing						
+genügend	genügend	ADV			Pos										
+gewährt	gewähren	VERB													Part
+sei	sein	AUX						Sub	Sing	3				Pres	Fin
+<g/>
+;
+so	so	ADV													
+habe	haben	AUX						Sub	Sing	3				Pres	Fin
+auch	auch	ADV													
+die	der	DET	Nom	Def			Fem		Sing			Art			
+Schweiz	Schweiz	PROPN	Nom				Fem		Sing						
+eine	ein	DET	Acc	Ind			Fem		Sing			Art			
+Reihe	Reihe	NOUN	Acc				Fem		Sing						
+von	von	ADP													
+Straßen	Straße	NOUN	Dat				Fem		Plur						
+als	als	ADP													
+Durchzugsstraßen	Durchzugsstraße	NOUN	Acc				Fem		Plur						
+erklärt	erklären	VERB													Part
+<g/>
+,
+wie	wie	SCONJ										Int			
+es	es	PRON	Nom				Neut		Sing	3		Prs			
+bei	bei	ADP													
+uns	uns	PRON	Dat						Plur	1		Prs			
+mit	mit	ADP													
+den	der	DET	Dat	Def			Fem		Plur			Art			
+Hauptlinien	Hauptlinie	NOUN	Dat				Fem		Plur						
+der	der	DET	Gen	Def			Fem		Plur			Art			
+Reichsstraßen	Reichsstraße	NOUN	Gen				Fem		Plur						
+werden	werden	AUX						Ind	Plur	3				Pres	Fin
+geschehen	geschehen	VERB													Inf
+müssen	müssen	AUX													Inf
+<g/>
+.
+Gegen	gegen	ADP													
+die	der	DET	Acc	Def			Fem		Sing			Art			
+Einbeziehungspricht	Einbeziehungsprechen	VERB						Ind	Sing	3				Pres	Fin
+auch	auch	ADV													
+<g/>
+,
+daß	daß	SCONJ													
+es	es	PRON	Nom				Neut		Sing	3		Prs			
+sich	sich	PRON	Acc						Sing	3		Prs	Yes		
+nicht	nicht	PART													
+um	um	ADP													
+ein	ein	DET	Acc	Ind			Neut		Sing			Art			
+geschlossenes	geschlossen	ADJ	Acc		Pos		Neut		Sing						
+Ganzes	ganze	NOUN	Acc				Neut		Sing						
+handelt	handeln	VERB						Ind	Sing	3				Pres	Fin
+<g/>
+,
+sondern	sondern	CCONJ													
+nur	nur	ADV													
+um	um	ADP													
+einen	ein	DET	Acc	Ind			Masc		Sing			Art			
+Teil	Teil	NOUN	Acc				Masc		Sing						
+der	der	DET	Gen	Def			Fem		Sing			Art			
+Betätigung	Betätigung	NOUN	Gen				Fem		Sing						
+auf	auf	ADP													
+den	der	DET	Dat	Def			Fem		Plur			Art			
+Straßen	Straße	NOUN	Dat				Fem		Plur						
+<g/>
+,
+weshalb	weshalb	SCONJ										Int			
+das	der	DET	Nom	Def			Neut		Sing			Art			
+Kraftfahrwesen	Kraftfahrwesen	NOUN	Nom				Neut		Sing						
+im	in	ADP	Dat				Neut		Sing						
+Einvernehmen	Einvernehmen	NOUN	Dat				Neut		Sing						
+mit	mit	ADP													
+dem	der	DET	Dat	Def			Neut		Sing			Art			
+Staatsamt	Staatsamt	NOUN	Dat				Neut		Sing						
+für	für	ADP													
+Verkehrswesen	Verkehrswesen	NOUN	Acc				Neut		Sing						
+in	in	ADP													
+diesem	dieser	DET	Dat				Masc		Sing			Dem			
+Punkt	Punkt	NOUN	Dat				Masc		Sing						
+ausgelassen	auslassen	VERB													Part
+wurde	werden	AUX						Ind	Sing	3				Past	Fin
+<g/>
+.
+</p>
+<p>
+Wesentliche	Wesentliche	ADJ	Nom		Pos		Fem		Plur						
+Abänderungen	Abänderung	NOUN	Nom				Fem		Plur						
+betreffen	betreffen	VERB						Ind	Plur	3				Pres	Fin
+den	der	DET	Acc	Def			Masc		Sing			Art			
+Punkt	Punkt	NOUN	Acc				Masc		Sing						
+8	8	NUM													
+des	der	DET	Gen	Def			Masc		Sing			Art			
+Art	Art	NOUN	Gen				Masc		Sing						
+.	.	NOUN	Gen				Masc		Sing						
+<g/>
+10.
+Hiezu	Hiezu	PROPN	Nom						Sing						
+bemerkt	bemerken	VERB						Ind	Sing	3				Pres	Fin
+Staatssekretär	Staatssekretär	NOUN	Nom				Masc		Sing						
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Mayr	Mayr	PROPN	Nom				Masc		Sing						
+<g/>
+,
+daß	daß	SCONJ													
+die	der	DET	Nom	Def			Fem		Sing			Art			
+vorliegende	vorliegend	ADJ	Nom		Pos		Fem		Sing						
+Textierung	Textierung	NOUN	Nom				Fem		Sing						
+das	der	DET	Nom	Def			Neut		Sing			Art			
+Ergebnis	Ergebnis	NOUN	Nom				Neut		Sing						
+langwieriger	langwierig	ADJ	Gen		Pos		Fem		Plur						
+Verhandlungen	Verhandlung	NOUN	Gen				Fem		Plur						
+in	in	ADP													
+Salzburg	Salzburg	PROPN	Dat				Neut		Sing						
+gewesen	sein	AUX													Part
+sei	sein	AUX						Sub	Sing	3				Pres	Fin
+<g/>
+,
+bei	bei	ADP													
+denen	der	PRON	Dat				Fem		Plur			Rel			
+es	es	PRON	Nom				Neut		Sing	3		Prs			
+mit	mit	ADP													
+schwerer	schwer	ADJ	Dat		Pos		Fem		Sing						
+Mühe	Mühe	NOUN	Dat				Fem		Sing						
+erreicht	erreichen	VERB													Part
+wurde	werden	AUX						Ind	Sing	3				Past	Fin
+<g/>
+,
+daß	daß	SCONJ													
+das	der	DET	Nom	Def			Neut		Sing			Art			
+Wasser-	Wasser	X													
+und	und	CCONJ													
+Elektrizitätswesen	Elektrizitätswesen	NOUN	Nom				Neut		Sing						
+der	der	DET	Dat	Def			Fem		Sing			Art			
+Grundsatzregelung	Grundsatzregelung	NOUN	Dat				Fem		Sing						
+des	der	DET	Gen	Def			Masc		Sing			Art			
+Bundes	Bund	NOUN	Gen				Masc		Sing						
+unterstellt	unterstellen	VERB													Part
+wurde	werden	AUX						Ind	Sing	3				Past	Fin
+<g/>
+,
+allerdings	allerdings	ADV													
+hat	haben	AUX						Ind	Sing	3				Pres	Fin
+sich	sich	PRON	Acc						Sing	3		Prs	Yes		
+die	der	DET	Nom	Def			Fem		Sing			Art			
+sozialdemokratische	sozialdemokratisch	ADJ	Nom		Pos		Fem		Sing						
+Partei	Partei	NOUN	Nom				Fem		Sing						
+an	an	ADP													
+der	der	DET	Dat	Def			Fem		Sing			Art			
+Fassung	Fassung	NOUN	Dat				Fem		Sing						
+dieser	dieser	DET	Gen				Masc		Plur			Dem			
+Beschlüsse	Beschluß	NOUN	Gen				Masc		Plur						
+nicht	nicht	PART													
+beteiligt	beteiligen	VERB													Part
+<g/>
+.
+</p>
+<p>
+Im	in	ADP	Dat				Masc		Sing						
+Laufe	Lauf	NOUN	Dat				Masc		Sing						
+der	der	DET	Gen	Def			Fem		Plur			Art			
+Debatten	Debatte	NOUN	Gen				Fem		Plur						
+<g/>
+,
+an	an	ADP													
+der	der	PRON	Dat				Fem		Sing			Rel			
+sich	sich	PRON	Acc						Plur	3		Prs	Yes		
+außer	außer	ADP													
+dem	der	DET	Dat	Def			Masc		Sing			Art			
+Staatssekretär	Staatssekretär	NOUN	Dat				Masc		Sing						
+<g/>
+,
+dem	der	DET	Dat	Def			Masc		Sing			Art			
+Vorsitzenden	vorsitzend	NOUN	Dat				Masc		Sing						
+und	und	CCONJ													
+dem	der	DET	Dat	Def			Masc		Sing			Art			
+Berichterstatter	Berichterstatter	NOUN	Dat				Masc		Sing						
+auch	auch	ADV													
+die	der	DET	Nom	Def			Neut		Plur			Art			
+Komitéemitglieder	Komitéemitglieder	NOUN	Nom				Neut		Plur						
+Eldersch	Eldersch	PROPN	Nom						Sing						
+<g/>
+,
+Pinok	Pinok	PROPN	Nom				Masc		Sing						
+<g/>
+,
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Seipel	Seipel	PROPN	Nom				Masc		Sing						
+und	und	CCONJ													
+Dr.	Dr.	NOUN	Nom				Masc		Sing						
+Aigner	Aigner	PROPN	Nom				Masc		Sing						
+beteiligen	beteiligen	VERB						Ind	Plur	3				Pres	Fin
+<g/>
+,
+wird	werden	AUX						Ind	Sing	3				Pres	Fin
+an	an	ADP													
+der	der	DET	Dat	Def			Fem		Sing			Art			
+Hand	Hand	NOUN	Dat				Fem		Sing						
+verschiedener	verschieden	ADJ	Gen		Pos		Neut		Plur						
+Beispiele	Beispiel	NOUN	Gen				Neut		Plur						
+gezeigt	zeigen	VERB													Part
+<g/>
+,
+welche	welcher	DET	Nom				Neut		Plur			Int			
+Hindernisse	Hindernis	NOUN	Nom				Neut		Plur						
+der	der	DET	Dat	Def			Fem		Sing			Art			
+Kapitalsbeschaffung	Kapitalsbeschaffung	NOUN	Dat				Fem		Sing						
+der	der	DET	Gen	Def			Neut		Plur			Art			
+Länder	Land	NOUN	Gen				Neut		Plur						
+beim	bei	ADP	Dat				Masc		Sing						
+Ausbau	Ausbau	NOUN	Dat				Masc		Sing						
+der	der	DET	Gen	Def			Fem		Plur			Art			
+Wasserkräfte	Wasserkraft	NOUN	Gen				Fem		Plur						
+entgegenstehen	entgegenstehen	VERB						Ind	Plur	3				Pres	Fin
+und	und	CCONJ													
+daß	daß	SCONJ													
+ausländische	ausländisch	ADJ	Nom		Pos		Neut		Plur						
+Mittel	Mittel	NOUN	Nom				Neut		Plur						
+für	für	ADP													
+besonders	besonders	ADV													
+ertragsreiche	ertragsreich	ADJ	Acc		Pos		Neut		Plur						
+Projekte	Projekt	NOUN	Acc				Neut		Plur						
+wohl	wohl	ADV													
+gegeben	geben	VERB													Part
+werden	werden	AUX						Ind	Plur	3				Pres	Fin
+<g/>
+,
+daß	daß	SCONJ													
+aber	aber	ADV													
+dadurch	dadurch	ADV													
+eine	ein	DET	Nom	Ind			Fem		Sing			Art			
+einheitliche	einheitlich	ADJ	Nom		Pos		Fem		Sing						
+und	und	CCONJ													
+systematische	systematisch	ADJ	Nom		Pos		Fem		Sing						
+Verwertung	Verwertung	NOUN	Nom				Fem		Sing						
+sämtlicher	sämtlich	ADJ	Gen		Pos		Fem		Plur						
+Wasserkräfte	Wasserkraft	NOUN	Gen				Fem		Plur						
+Österreichs	Österreich	PROPN	Gen				Neut		Sing						
+unmöglich	unmöglich	ADV			Pos										
+gemacht	machen	VERB													Part
+wird	werden	AUX						Ind	Sing	3				Pres	Fin
+<g/>
+.
+In	in	ADP													
+Deutschland	Deutschland	PROPN	Dat				Neut		Sing						
+wäre	sein	AUX						Sub	Sing	3				Past	Fin
+es	es	PRON	Nom				Neut		Sing	3		Prs			
+undenkbar	undenkbar	ADV			Pos										
+<g/>
+,
+daßzum	daßzum	SCONJ													
+Beispiel	Beispiel	NOUN	Dat				Neut		Sing						
+Bayern	Bayern	PROPN	Nom				Neut		Sing						
+beim	bei	ADP	Dat				Masc		Sing						
+Ausbau	Ausbau	NOUN	Dat				Masc		Sing						
+seiner	sein	DET	Gen				Fem		Plur		Yes	Prs			
+Wasserkräfte	Wasserkraft	NOUN	Gen				Fem		Plur						
+dem	der	DET	Dat	Def			Neut		Sing			Art			
+Reiche	Reich	NOUN	Dat				Neut		Sing						
+irgendein	irgendein	DET	Acc				Neut		Sing			Ind			
+Zugeständnis	Zugeständnis	NOUN	Acc				Neut		Sing						
+macht	machen	VERB						Ind	Sing	3				Pres	Fin
+<g/>
+.
+</p>
+<p>
+Zur	zu	ADP	Dat				Fem		Sing						
+Annahme	Annahme	NOUN	Dat				Fem		Sing						
+gelangt	gelangen	VERB						Ind	Sing	3				Pres	Fin
+folgende	folgend	ADJ	Nom		Pos		Fem		Sing						
+Fassung	Fassung	NOUN	Nom				Fem		Sing						
+des	der	DET	Gen	Def			Masc		Sing			Art			
+Punktes	Punkt	NOUN	Gen				Masc		Sing						
+8	8	NUM													
+<g/>
+:
+</p>
+<p>
+<g/>
+„
+Bergwesen	Bergwesen	NOUN	Nom				Neut		Sing						
+<g/>
+;
+die	der	DET	Acc	Def			Fem		Sing			Art			
+Ausführung	Ausführung	NOUN	Nom				Fem		Sing						
+der	der	DET	Gen	Def			Fem		Sing			Art			
+Regulierung	Regulierung	NOUN	Gen				Fem		Sing						
+und	und	CCONJ													
+die	der	DET	Acc	Def			Fem		Sing			Art			
+Instandsetzung	Instandsetzung	NOUN	Acc				Fem		Sing						
+der	der	DET	Gen	Def			Neut		Plur			Art			
+schiffbaren	schiffbar	ADJ	Gen		Pos		Neut		Plur						
+und	und	CCONJ													
+flößbaren	flößbar	ADJ	Gen		Pos		Neut		Plur						
+Gewässer	Gewässer	NOUN	Gen				Neut		Plur						
+<g/>
+,
+dann	dann	ADV													
+solcher	solcher	DET	Gen				Neut		Plur			Ind			
+Gewässer	Gewässer	NOUN	Gen				Neut		Plur						
+<g/>
+,
+welche	welcher	PRON	Nom				Neut		Plur			Rel			
+die	der	DET	Acc	Def			Fem		Sing			Art			
+Grenze	Grenze	NOUN	Acc				Fem		Sing						
+gegen	gegen	ADP													
+das	der	DET	Acc	Def			Neut		Sing			Art			
+Ausland	Ausland	NOUN	Acc				Neut		Sing						
+oder	oder	CCONJ													
+zwischen	zwischen	ADP													
+Ländern	Land	NOUN	Dat				Neut		Plur						
+bilden	bilden	VERB						Ind	Plur	3				Pres	Fin
+<g/>
+,
+oder	oder	CCONJ													
+die	der	PRON	Nom				Neut		Plur			Rel			
+zwei	zwei	NUM													
+oder	oder	CCONJ													
+mehrere	mehrere	DET	Acc				Neut		Plur			Ind			
+Länder	Land	NOUN	Acc				Neut		Plur						
+durchfließen	durchfließen	VERB						Ind	Plur	3				Pres	Fin
+<g/>
+,
+den	der	DET	Acc	Def			Masc		Sing			Art			
+Bau	Bau	NOUN	Acc				Masc		Sing						
+derjenigen	derjenigen	DET	Gen				Fem		Plur			Dem			
+Wasserstraßen	Wasserstraße	NOUN	Gen				Fem		Plur						
+<g/>
+,
+die	der	PRON	Nom				Fem		Plur			Rel			
+das	der	DET	Acc	Def			Neut		Sing			Art			
+Inland	Inland	NOUN	Acc				Neut		Sing						
+mit	mit	ADP													
+dem	der	DET	Dat	Def			Neut		Sing			Art			
+Ausland	Ausland	NOUN	Dat				Neut		Sing						
+<g/>
+,
+oder	oder	CCONJ													
+die	der	PRON	Nom				Fem		Plur			Rel			
+mehrere	mehrere	DET	Acc				Neut		Plur			Ind			
+Länder	Land	NOUN	Acc				Neut		Plur						
+verbinden	verbinden	VERB						Ind	Plur	3				Pres	Fin
+<g/>
+;
+Dampfkessel-	Dampfkessel	X													
+und	und	CCONJ													
+Kraftmaschinenwesen	Kraftmaschinenwesen	NOUN	Nom				Neut		Sing						
+<g/>
+;
+Vermessungswesen	Vermessungswesen	NOUN	Nom				Neut		Sing						
+<g/>
+.
+<g/>
+“
+</p>
+<p>
+Abgelehnt	ablehnen	VERB													Part
+wurde	werden	AUX						Ind	Sing	3				Past	Fin
+der	der	DET	Nom	Def			Masc		Sing			Art			
+Antrag	Antrag	NOUN	Nom				Masc		Sing						
+auf	auf	ADP													
+Einschaltung	Einschaltung	NOUN	Acc				Fem		Sing						
+der	der	DET	Gen	Def			Neut		Plur			Art			
+Worte	Wort	NOUN	Gen				Neut		Plur						
+<g/>
+„
+die	der	DET	Nom	Def			Fem		Plur			Art			
+Angelegenheiten	Angelegenheit	NOUN	Nom				Fem		Plur						
+der	der	DET	Gen	Def			Masc		Plur			Art			
+Wohlfahrtswälder	Wohlfahrtswald	NOUN	Gen				Neut		Plur						
+<g/>
+(
+Schutz-	Schutz	X													
+und	und	CCONJ													
+Bannwälder	Bannwald	NOUN	Nom				Neut		Plur						
+<g/>
+)
+sowie	sowie	CCONJ													
+das	der	DET	Nom	Def			Neut		Sing			Art			
+Aufforstungswesen	Aufforstungswesen	NOUN	Acc				Neut		Sing						
+<g/>
+“
+<g/>
+,
+die	der	DET	Nom	Def			Fem		Sing			Art			
+von	von	ADP													
+sozialdemokratischer	sozialdemokratisch	ADJ	Dat		Pos		Fem		Sing						
+Seite	Seite	NOUN	Dat				Fem		Sing						
+gewünschte	gewünscht	ADJ	Nom		Pos		Fem		Sing						
+Einschaltung	Einschaltung	NOUN	Nom				Fem		Sing						
+des	der	DET	Gen	Def			Neut		Sing			Art			
+Wortes	Wort	NOUN	Gen				Neut		Sing						
+<g/>
+„
+Wasserrechtswesen	Wasserrechtswesen	NOUN	Nom				Neut		Sing						
+<g/>
+“
+sowie	sowie	CCONJ													
+der	der	DET	Nom	Def			Masc		Sing			Art			
+Antrag	Antrag	NOUN	Nom				Masc		Sing						
+Eldersch	Eldersch	PROPN	Nom						Sing						
+auf	auf	ADP													
+Aufnahme	Aufnahme	NOUN	Acc				Fem		Sing						
+der	der	DET	Gen	Def			Neut		Plur			Art			
+Worte	Wort	NOUN	Gen				Neut		Plur						
+<g/>
+„
+Elektrizitätswesen	Elektrizitätswesen	NOUN	Nom				Neut		Sing						
+und	und	CCONJ													
+industrielle	industriell	ADJ	Nom		Pos		Fem		Sing						
+Verwertung	Verwertung	NOUN	Nom				Fem		Sing						
+der	der	DET	Gen	Def			Neut		Plur			Art			
+Gewässer	Gewässer	NOUN	Gen				Neut		Plur						
+<g/>
+“
+</p>
+<p>
+Nachdem	nachdem	SCONJ													
+der	der	DET	Nom	Def			Masc		Sing			Art			
+Vorsitzende	vorsitzend	NOUN	Nom				Masc		Sing						
+die	der	DET	Acc	Def			Neut		Plur			Art			
+Mitglieder	Mitglied	NOUN	Acc				Neut		Plur						
+des	der	DET	Gen	Def			Neut		Sing			Art			
+Subkomitées	Subkomitées	NOUN	Gen				Neut		Sing						
+deren	der	PRON	Gen				Fem		Sing			Dem			
+Anträge	Antrag	NOUN	Acc				Masc		Plur						
+abgelehnt	ablehnen	VERB													Part
+wurden	werden	AUX						Ind	Plur	3				Past	Fin
+<g/>
+,
+zur	zu	ADP	Dat				Fem		Sing						
+rechtzeitigen	rechtzeitig	ADJ	Dat		Pos		Fem		Sing						
+Vorlage	Vorlage	NOUN	Dat				Fem		Sing						
+der	der	DET	Gen	Def			Fem		Plur			Art			
+Minoritätsvoten	Minoritätsvot	NOUN	Gen				Fem		Plur						
+eingeladen	einladen	VERB													Part
+hat	haben	AUX						Ind	Sing	3				Pres	Fin
+<g/>
+,
+schließt	schließen	VERB						Ind	Sing	3				Pres	Fin
+er	er	PRON	Nom				Masc		Sing	3		Prs			
+die	der	DET	Acc	Def			Fem		Sing			Art			
+Sitzung	Sitzung	NOUN	Acc				Fem		Sing						
+um	um	ADP													
+12	12	NUM													
+Uhr	Uhr	NOUN	Acc				Fem		Sing						
+30	30	NUM													
+Minuten	Minute	NOUN	Acc				Fem		Plur						
+und	und	CCONJ													
+beraumt	beraumen	VERB						Ind	Sing	3				Pres	Fin
+die	der	DET	Acc	Def			Fem		Sing			Art			
+Fortsetzung	Fortsetzung	NOUN	Acc				Fem		Sing						
+auf	auf	ADP													
+Montag	Montag	NOUN	Acc				Masc		Sing						
+<g/>
+,
+den	der	DET	Acc	Def			Masc		Sing			Art			
+12.	12.	ADJ	Acc		Pos		Masc		Sing						
+Juli	Juli	NOUN	Acc				Masc		Sing						
+<g/>
+,
+10	10	NUM													
+Uhr	Uhr	NOUN	Acc				Fem		Sing						
+vormittag	vormittag	ADV													
+an	an	ADP													
+<g/>
+.
+</p>
+</doc>
