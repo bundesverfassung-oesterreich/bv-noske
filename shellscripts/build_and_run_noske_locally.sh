@@ -21,6 +21,10 @@ if [ ! -d "saxon" ]
 then
     ./shellscripts/dl_saxon.sh
 fi
+echo removing old data
+rm data/editions/*.xml
+rm data/tokenized_xml/*.xml
+rm data/verticals/*.tsv
 echo -e "\nstarting the data part\n\n"
 echo -e "\npulling the editions from the bv-data-github\n\n"
 ./shellscripts/fetch_editions.sh
