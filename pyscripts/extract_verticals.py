@@ -3,12 +3,8 @@
 import os
 import glob
 import shutil
-import datetime
 from tqdm import tqdm
 from acdh_tei_pyutils.tei import TeiReader
-from acdh_tei_pyutils.utils import extract_fulltext
-from typing import Generator, Any
-from collections import deque
 
 morph_keys = [
     'Case', 
@@ -118,7 +114,7 @@ def mk_docstructure_open(doc: TeiReader) -> str:
         f'document_type="{doc_type}"',
         f'text_type="{doc_text_type}"',
         f'dataset="{dataset}"',
-        f'attrs="word lemma type">'
+        f'attrs="word lemma">'
     ])
 
 def handle_ana_attribute(element)->str:
@@ -148,11 +144,11 @@ def get_vertical_for_atomic(element, element_name:str)-> str:
             val = element.xpath(f"{attrib}")
             string_val = val[0] if val else ""
             token_attribs.append(string_val)
-        token_attribs.append(
-            handle_ana_attribute(
-                element
-            )
-        )
+        # token_attribs.append(
+        #     handle_ana_attribute(
+        #         element
+        #     )
+        # )
         return "\t".join(token_attribs)
     else:
         input(f"unexpected element {element_name}")
@@ -227,7 +223,6 @@ def process_xml_files(input_dir: str, output_dir: str) -> None:
     for xml_file in tqdm(xml_files, total=len(xml_files)):
         doc = TeiReader(xml_file)
         filename = os.path.splitext(os.path.basename(xml_file))[0].replace(".xml", "")
-        # print(filename)
         create_verticals(doc, filename)
 
 
