@@ -46,7 +46,7 @@
             <xsl:apply-templates mode="body"/>
         </xsl:copy>
     </xsl:template>
-    <xsl:template match="tei:list" mode="body">
+    <!-- <xsl:template match="tei:list" mode="body">
         <xsl:copy>
             <xsl:copy-of select="@*"/>
             <xsl:apply-templates mode="body"/>
@@ -63,19 +63,19 @@
             <xsl:copy-of select="@*"/>
             <xsl:apply-templates mode="body"/>
         </xsl:copy>
-    </xsl:template>
+    </xsl:template> -->
     <xsl:template match="tei:head" mode="body">
         <xsl:copy>
             <xsl:apply-templates mode="body"/>
         </xsl:copy>
     </xsl:template>
-    <xsl:template match="tei:note" mode="body">
+    <!-- <xsl:template match="tei:note" mode="body">
         <xsl:copy>
             <xsl:copy-of select="@*"/>
             <xsl:apply-templates mode="body"/>
         </xsl:copy>
-    </xsl:template>
-    <xsl:template match="tei:div" mode="body">
+    </xsl:template> -->
+    <xsl:template match="tei:div[not(parent::tei:div)] | tei:div[parent::tei:div[@type='main']]" mode="body">
         <xsl:copy>
             <xsl:copy-of select="@*"/>
             <xsl:call-template name="get_id"/>
@@ -90,6 +90,9 @@
         </xsl:copy>
     </xsl:template>
     <!-- keep contents but ignore tag (no copy) -->
+    <xsl:template match="tei:div[parent::tei:div[not(@type='main')]]" mode="body">
+        <xsl:apply-templates mode="body"/>
+    </xsl:template>
     <xsl:template match="tei:choice" mode="body">
         <xsl:apply-templates mode="body"/>
     </xsl:template>
@@ -102,6 +105,12 @@
     <xsl:template match="tei:add" mode="body">
         <xsl:apply-templates mode="body"/>
     </xsl:template>
+    <xsl:template match="tei:item" mode="body">
+        <xsl:apply-templates mode="body"/>
+    </xsl:template>
+    <xsl:template match="tei:label" mode="body">
+        <xsl:apply-templates mode="body"/>
+    </xsl:template>
     <!-- killer templates -->
     <xsl:template match="tei:gap" mode="body"/>
     <xsl:template match="tei:fw" mode="body"/>
@@ -111,6 +120,7 @@
     <xsl:template match="tei:lb" mode="body"/>
     <xsl:template match="tei:funder" mode="header"/>
     <xsl:template match="tei:respStmt" mode="header"/>
+    <xsl:template match="tei:note" mode="body"/>
     
     <!-- head ids handling -->
     <xsl:template name="get_id">
