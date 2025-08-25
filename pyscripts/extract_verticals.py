@@ -40,11 +40,12 @@ RELEVANT_ELEMENTS = [
     "head",
     "p",
     "lg",
-    "titlePage",
-    "item",
-    "label",
-    "note",
-    "list"
+    # "div"
+    # "titlePage",
+    # "item",
+    # "label",
+    # "note",
+    # "list"
 ]
 # attribs extracted from structures
 RELEVANT_ELEMENTS_ATTRIBUTES = [
@@ -65,7 +66,7 @@ TOKEN_TAGS = [
 
 TOKEN_TAG_ATTRIBUTES = [
     "@lemma",
-    "@pos"
+    # "@pos"
 ]
 
 def create_dirs(output_dir: str) -> None:
@@ -226,7 +227,7 @@ def process_xml_files(input_dir: str, output_dir: str) -> None:
     for xml_file in tqdm(xml_files, total=len(xml_files)):
         doc = TeiReader(xml_file)
         filename = os.path.splitext(os.path.basename(xml_file))[0].replace(".xml", "")
-        print(filename)
+        # print(filename)
         create_verticals(doc, filename)
 
 

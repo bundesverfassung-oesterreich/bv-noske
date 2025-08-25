@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv_doc_id__96">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">CS Entwurf I Textvariante</title>
+            <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
+            <principal>
+               <persName role="acdh:hasPrincipialInvestigator">Olechowski, Thomas</persName>
+            </principal>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural
+                        Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+            </publisher>
+            <publisher>
+               <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und
+                        Verfassungsgeschichte</orgName>
+            </publisher>
+            <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License
+                            applies to this text.</p>
+                  <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
+               </licence>
+            </availability>
+            <idno type="transkribus_doc">9199218</idno>
+            <idno type="transkribus_collection">196429</idno>
+            <idno type="bv_data_set">Datenset C</idno>
+            <idno type="goobi">18760</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness sameAs="#bv_doc_id__31"/>
+               <witness sameAs="#bv_doc_id__66"/>
+            </listWit>
+            <msDesc type="invetory" subtype="secondary">
+               <msIdentifier>
+                  <institution key="https://d-nb.info/gnd/37748-X">Österreichisches
+                            Staatsarchiv</institution>
+                  <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik
+                            (Wien)</repository>
+                  <idno type="archive">KVVI-Archiv, Christlichsozialer Parlamentsclub, Karton
+                            93</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <author role="acdh:hasAuthor">Christlichsoziale Partei</author>
+                     <title>CS Entwurf I Textvariante</title>
+                     <note type="editor">CS Entwurf I Textvariante (Titel des Dokuments:
+                                "Bundesverfassung des deutschen Freistaates Österreich"), Typ:
+                                Typoskript, Zustand: gut, keine Ergänzungen, 53 Artikel. BEMERKUNG:
+                                Offenbar Vorstufe zu CS I, gegenüber dem definitiven Entwurf mehrere
+                                textliche Abweichungen</note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="Typoskript"/>
+                  <handDesc/>
+               </physDesc>
+               <history>
+                  <origin notBefore-iso="1919-01-01" notAfter-iso="1919-05-13">Vor dem 14. Mai
+                            1919</origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date notBefore-iso="1919-01-01" notAfter-iso="1919-05-13">
+                    Vor dem 14. Mai 1919
+                </date>
+         </creation>
+      </profileDesc>
+      <revisionDesc status="created">
+         <change when="2025-07-23" who="#cfh">document automatically created</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="Verfassungsentwurf">
+      <body>
+         <div type="main"/>
+      </body>
+   </text>
+</TEI>

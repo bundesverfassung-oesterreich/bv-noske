@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bv_doc_id__87">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Protokoll der 22. Sitzung des Verfassungsausschusses</title>
+            <title type="sub">Die Entstehung des Bundes-Verfassungsgesetzes 1920</title>
+            <principal>
+               <persName role="acdh:hasPrincipialInvestigator">Olechowski, Thomas</persName>
+            </principal>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName key="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural
+                        Heritage an der Österreichischen Akademie der Wissenschaften</orgName>
+            </publisher>
+            <publisher>
+               <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien. Institut für Rechts- und
+                        Verfassungsgeschichte</orgName>
+            </publisher>
+            <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License
+                            applies to this text.</p>
+                  <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
+               </licence>
+            </availability>
+            <idno type="transkribus_doc">9217598</idno>
+            <idno type="transkribus_collection">196428</idno>
+            <idno type="bv_data_set">Datenset B</idno>
+            <idno type="goobi">18733</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</institution>
+                  <repository key="https://d-nb.info/gnd/1601181-8">Archiv der Republik (Wien)</repository>
+                  <idno type="archive">Parlamentsarchiv, Ausschussprotokolle</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <author role="acdh:hasAuthor">Verfassungsausschuss</author>
+                     <title>Protokoll der 22. Sitzung des Verfassungsausschusses</title>
+                     <note type="editor">Protokoll der 22. Sitzung des Verfassungsausschusses vom 15. Juli 1920, handschriftlicher Protokolltext, mit Bleistift geschrieben, Papier zum Teil beschädigt, dadurch einzelne Wörter unleserlich. Zum Teil handschriftliche oder maschinschriftliche Beilagen.</note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="Handschriftlicher Protokolltext">
+                        </objectDesc>
+                  <handDesc>
+                        </handDesc>
+               </physDesc>
+               <history>
+                  <origin notBefore-iso="1920-07-15" notAfter-iso="1920-07-15">15. Juli 1920</origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <date notBefore-iso="1920-07-15" notAfter-iso="1920-07-15">
+                    15. Juli 1920
+                </date>
+         </creation>
+      </profileDesc>
+      <revisionDesc status="created">
+         <change when="2025-07-23" who="#cfh">document automatically created</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="Sitzungsprotokoll">
+      <body>
+         <div type="main">
+            <p>
+<w pos="NUM" lemma="2292." ana="">2292.</w><w pos="NOUN" lemma="KONSTITUIERENDE" ana="Case=Nom|Gender=Fem|Number=Sing">KONSTITUIERENDE</w><w pos="NOUN" lemma="NATIONALVERSAMMLUNG" ana="Case=Nom|Gender=Fem|Number=Sing">NATIONALVERSAMMLUNG</w><w pos="PROPN" lemma="DER" ana="Case=Nom|Gender=Masc|Number=Sing">DER</w><w pos="NOUN" lemma="REPUBLIK" ana="Case=Nom|Gender=Fem|Number=Sing">REPUBLIK</w><w pos="NOUN" lemma="OSTERREICH" ana="Case=Nom|Gender=Fem|Number=Sing">OSTERREICH</w><pc pos="PUNCT">.</pc><w pos="NOUN" lemma="Verfassungs-Ausschuss" ana="Case=Nom|Gender=Masc|Number=Sing">Verfassungs-Ausschuss</w><w pos="NOUN" lemma="Protokoll" ana="Case=Nom|Gender=Neut|Number=Sing">Protokoll</w><w pos="ADP" lemma="über" ana="">über</w><w pos="DET" lemma="der" ana="Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art">die</w><w pos="NOUN" lemma="Sitzung" ana="Case=Acc|Gender=Fem|Number=Sing">Sitzung</w><w pos="ADP" lemma="an" ana="Case=Dat|Gender=Masc|Number=Sing">am</w><w pos="ADJ" lemma="15." ana="Case=Dat|Degree=Pos|Gender=Masc|Number=Sing">15.</w><w pos="NOUN" lemma="Juli" ana="Case=Dat|Gender=Masc|Number=Sing">Juli</w><w pos="NUM" lemma="1920" ana="">1920</w><w pos="NOUN" lemma="Anwesende" ana="Case=Nom|Number=Plur">Anwesende</w><pc pos="PUNCT">:</pc><w pos="ADV" lemma="Seitens" ana="">Seitens</w><w pos="DET" lemma="der" ana="Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art">der</w><w pos="NOUN" lemma="Regierung" ana="Case=Gen|Gender=Fem|Number=Sing">Regierung</w><pc pos="PUNCT">:</pc><w pos="NOUN" lemma="Hofrat" ana="Case=Nom|Gender=Masc|Number=Plur">Hofräte</w><w pos="PROPN" lemma="Fröhlich" ana="Case=Nom|Gender=Masc|Number=Sing">Fröhlich</w><w pos="CCONJ" lemma="u." ana="">u.</w><w pos="PROPN" lemma="Ruber" ana="Case=Nom|Gender=Masc|Number=Sing">Ruber</w><w pos="NOUN" lemma="Obmann" ana="Case=Nom|Gender=Masc|Number=Sing">Obmann</w><pc pos="PUNCT">:</pc><w pos="NOUN" lemma="Dr" ana="Case=Nom|Gender=Masc|Number=Sing">Dr</w><w pos="PROPN" lemma="Seipel" ana="Case=Nom|Gender=Masc|Number=Sing">Seipel</w><w pos="NOUN" lemma="Obmann" ana="Case=Nom|Gender=Masc|Number=Sing">Obmann</w><pc pos="PUNCT">=</pc><w pos="NOUN" lemma="Stellvertreter" ana="Case=Nom|Gender=Masc|Number=Sing">Stellvertreter</w><pc pos="PUNCT">:</pc><w pos="NOUN" lemma="Schriftführer" ana="Case=Nom|Gender=Masc|Number=Sing">Schriftführer</w><pc pos="PUNCT">:</pc><w pos="PROPN" lemma="Danneberg" ana="Case=Nom|Gender=Neut|Number=Sing">Danneberg</w><w pos="NOUN" lemma="Mitglied" ana="Case=Nom|Gender=Neut|Number=Plur">Mitglieder</w><pc pos="PUNCT">:</pc><w pos="NOUN" lemma="Berichterst" ana="Case=Nom|Gender=Masc|Number=Sing">Berichterst</w><pc pos="PUNCT">.</pc><w pos="NOUN" lemma="Dr." ana="Case=Nom|Gender=Masc|Number=Sing">Dr.</w><w pos="PROPN" lemma="Adler" ana="Case=Nom|Gender=Masc|Number=Sing">Adler</w><w pos="VERB" lemma="beantragen" ana="Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin">beantragt</w><w pos="DET" lemma="der" ana="Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art">die</w><w pos="NOUN" lemma="Reassumierung" ana="Case=Acc|Gender=Fem|Number=Sing">Reassumierung</w><w pos="DET" lemma="der" ana="Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art">des</w><w pos="NOUN" lemma="§" ana="Case=Gen|Gender=Masc|Number=Sing">§</w><w pos="NUM" lemma="4" ana="">4</w><pc pos="PUNCT">(</pc><w pos="NUM" lemma="923" ana="">923</w><w pos="X" lemma="d" ana="">d</w><w pos="NOUN" lemma="Beil" ana="Case=Nom|Gender=Neut|Number=Sing">Beil</w><pc pos="PUNCT">)</pc><w pos="CCONJ" lemma="und" ana="">und</w><w pos="VERB" lemma="beantragen" ana="Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin">beantragt</w><w pos="DET" lemma="der" ana="Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art">die</w><w pos="NOUN" lemma="Wiederherstellung" ana="Case=Acc|Gender=Fem|Number=Sing">Wiederherstellung</w><pc pos="PUNCT">"</pc><w pos="NUM" lemma="dreiJahre" ana="">dreiJahre</w><pc pos="PUNCT">"</pc><pc pos="PUNCT">.</pc></p>
+            <p>
+<w pos="ADP" lemma="zu" ana="">Zu</w><w pos="NOUN" lemma="Beil" ana="Case=Dat|Gender=Neut|Number=Sing">Beil</w><w pos="NUM" lemma="924" ana="">924</w><pc pos="PUNCT">,</pc><w pos="NOUN" lemma="Punkt" ana="Case=Nom|Gender=Masc|Number=Sing">Punkt</w><w pos="NUM" lemma="25" ana="">25</w><w pos="VERB" lemma="beantragen" ana="Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin">beantragt</w><w pos="PROPN" lemma="Ernach" ana="Case=Nom|Number=Sing">ernach</w><w pos="NOUN" lemma="Reassumierungbei" ana="Case=Acc|Gender=Fem|Number=Sing">Reassumierungbei</w><w pos="PROPN" lemma="Untersteier" ana="Case=Dat|Number=Sing">Untersteier</w><w pos="ADP" lemma="statt" ana="">statt</w><w pos="NUM" lemma="5" ana="">5</w><pc pos="PUNCT">"</pc><w pos="NUM" lemma="6" ana="">6</w><pc pos="PUNCT">"</pc><w pos="NOUN" lemma="Mandat" ana="Case=Acc|Gender=Neut|Number=Plur">Mandate</w><w pos="ADV" lemma="zuu" ana="">zuu</w><w pos="ADV" lemma="." ana="">.</w><w pos="DET" lemma="der" ana="Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art">den</w><w pos="NOUN" lemma="Absatz" ana="Case=Acc|Gender=Masc|Number=Sing">Absatz</w><w pos="ADP" lemma="über" ana="">über</w><w pos="PROPN" lemma="Obersteier" ana="Case=Acc|Number=Sing">Obersteier</w><w pos="PART" lemma="zu" ana="">zu</w><w pos="VERB" lemma="streichen" ana="VerbForm=Inf">streichen</w><pc pos="PUNCT">.</pc><w pos="ADV" lemma="ferner" ana="">Ferner</w><w pos="DET" lemma="der" ana="Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art">die</w><w pos="NOUN" lemma="Bestimmung" ana="Case=Acc|Gender=Fem|Number=Sing">Bestimmung</w><w pos="ADP" lemma="gemäß" ana="">gemäß</w><w pos="NOUN" lemma="Antrag" ana="Case=Dat|Gender=Masc|Number=Sing">Antrag</w><w pos="PROPN" lemma="Danneberg" ana="Case=Nom|Gender=Neut|Number=Sing">Danneberg</w><w pos="PROPN" lemma="bezügl" ana="Case=Nom|Gender=Neut|Number=Sing">bezügl</w><w pos="X" lemma="." ana="">.</w><w pos="DET" lemma="der" ana="Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Art">der</w><w pos="NOUN" lemma="Wahlkreis" ana="Case=Gen|Gender=Masc|Number=Plur">Wahlkreise</w><w pos="NUM" lemma="1" ana="">1</w><w pos="NUM" lemma="-" ana="">-</w><w pos="NUM" lemma="11" ana="">11</w><w pos="PART" lemma="zu" ana="">zu</w><w pos="VERB" lemma="streichen" ana="VerbForm=Inf">streichen</w><pc pos="PUNCT">.</pc><w pos="DET" lemma="aller" ana="Case=Nom|Gender=Masc|Number=Plur|PronType=Ind">Alle</w><w pos="NOUN" lemma="Antrag" ana="Case=Nom|Gender=Masc|Number=Plur">Anträge</w><w pos="AUX" lemma="werden" ana="Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin">werden</w><w pos="VERB" lemma="annehmen" ana="VerbForm=Part">angenommen</w><pc pos="PUNCT">.</pc></p>
+            <p>
+<w pos="ADP" lemma="zu" ana="Case=Dat|Gender=Masc|Number=Sing">Zum</w><w pos="NOUN" lemma="Berichterstatter" ana="Case=Dat|Gender=Masc|Number=Sing">Berichterstatter</w><w pos="ADP" lemma="für" ana="Case=Acc|Gender=Neut|Number=Sing">fürs</w><w pos="NOUN" lemma="Haus" ana="Case=Acc|Gender=Neut|Number=Sing">Haus</w><w pos="AUX" lemma="werden" ana="Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin">wird</w><w pos="NOUN" lemma="Dr" ana="Case=Nom|Gender=Masc|Number=Sing">Dr</w><w pos="PROPN" lemma="Adler" ana="Case=Nom|Gender=Masc|Number=Sing">Adler</w><w pos="VERB" lemma="bestellen" ana="VerbForm=Part">bestellt</w></p>
+            <p>
+<w pos="PROPN" lemma="Seipel" ana="Case=Nom|Gender=Masc|Number=Sing">Seipel</w><w pos="NOUN" lemma="vorsitzend" ana="Case=Nom|Gender=Masc|Number=Sing">Vorsitzender</w><w pos="PROPN" lemma="Danneberg" ana="Case=Nom|Gender=Masc|Number=Sing">Danneberg</w><w pos="NOUN" lemma="SchriftführerPräsenzliste" ana="Case=Nom|Gender=Fem|Number=Sing">SchriftführerPräsenzliste</w><w pos="DET" lemma="der" ana="Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art">des</w><w pos="NOUN" lemma="Verfassungs-Ausschuß" ana="Case=Gen|Gender=Masc|Number=Sing">Verfassungs-Ausschusses</w><w pos="ADP" lemma="von" ana="Case=Dat|Gender=Masc|Number=Sing">vom</w><w pos="ADJ" lemma="15." ana="Case=Dat|Degree=Pos|Gender=Masc|Number=Sing">15.</w><w pos="NOUN" lemma="Juli" ana="Case=Dat|Gender=Masc|Number=Sing">Juli</w><w pos="NUM" lemma="1920" ana="">1920</w></p>
+            <p>
+<w pos="PROPN" lemma="Seipel" ana="Case=Nom|Number=Sing">Seipel</w><w pos="PROPN" lemma="FinkAusterlitzDer" ana="Case=Nom|Number=Sing">FinkAusterlitzDer</w><w pos="NOUN" lemma="Verfassungsausschuß" ana="Case=Nom|Gender=Masc|Number=Sing">Verfassungsausschuß</w><w pos="VERB" lemma="halten" ana="Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin">hält</w><w pos="ADV" lemma="morgen" ana="">morgen</w><pc pos="PUNCT">,</pc><w pos="NOUN" lemma="Donnerstag" ana="Case=Acc|Gender=Masc|Number=Sing">Donnerstag</w><pc pos="PUNCT">,</pc><w pos="DET" lemma="der" ana="Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art">den</w><w pos="ADJ" lemma="15." ana="Case=Acc|Degree=Pos|Gender=Masc|Number=Sing">15.</w><w pos="ADJ" lemma="d." ana="Case=Acc|Degree=Pos|Gender=Masc|Number=Sing">d.</w><w pos="PROPN" lemma="M." ana="Case=Acc|Gender=Masc|Number=Sing">M.</w><pc pos="PUNCT">,</pc><w pos="ADP" lemma="nach" ana="">nach</w><w pos="NOUN" lemma="Schluß" ana="Case=Dat|Gender=Masc|Number=Sing">Schluß</w><w pos="DET" lemma="der" ana="Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art">der</w><w pos="NOUN" lemma="Haussitzung" ana="Case=Gen|Gender=Fem|Number=Sing">Haussitzung</w><w pos="ADP" lemma="in" ana="Case=Dat|Gender=Neut|Number=Sing">im</w><w pos="NOUN" lemma="Lokal" ana="Case=Dat|Gender=Neut|Number=Sing">Lokal</w><w pos="NUM" lemma="I" ana="">I</w><w pos="DET" lemma="ein" ana="Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art">eine</w><w pos="NOUN" lemma="Sitzung" ana="Case=Acc|Gender=Fem|Number=Sing">Sitzung</w><w pos="ADP" lemma="ab" ana="">ab</w><pc pos="PUNCT">.</pc><w pos="NOUN" lemma="Tagesordnung" ana="Case=Nom|Gender=Fem|Number=Sing">Tagesordnung</w><pc pos="PUNCT">:</pc><w pos="DET" lemma="der" ana="Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art">Die</w><w pos="NOUN" lemma="Wahlordnung" ana="Case=Nom|Gender=Fem|Number=Sing">Wahlordnung</w><w pos="ADP" lemma="für" ana="">für</w><w pos="DET" lemma="der" ana="Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art">die</w><w pos="NOUN" lemma="Nationalversammlung" ana="Case=Acc|Gender=Fem|Number=Sing">Nationalversammlung</w><pc pos="PUNCT">.</pc><w pos="PROPN" lemma="Wien" ana="Case=Nom|Gender=Neut|Number=Sing">Wien</w><pc pos="PUNCT">,</pc><w pos="DET" lemma="der" ana="Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art">den</w><w pos="ADJ" lemma="14." ana="Case=Acc|Degree=Pos|Gender=Masc|Number=Sing">14.</w><w pos="NOUN" lemma="Juli" ana="Case=Acc|Gender=Masc|Number=Sing">Juli</w><w pos="NUM" lemma="1920." ana="">1920.</w><w pos="PROPN" lemma="Bauer" ana="Case=Nom|Gender=Masc|Number=Sing">Bauer</w><pc pos="PUNCT">,</pc><w pos="NOUN" lemma="Obmann" ana="Case=Nom|Gender=Masc|Number=Sing">Obmann</w><pc pos="PUNCT">.</pc></p>
+         </div>
+      </body>
+   </text>
+</TEI>
