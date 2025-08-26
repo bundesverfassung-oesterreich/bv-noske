@@ -2,6 +2,7 @@ import de_dep_news_trf
 import glob
 import lxml.builder as builder
 from acdh_tei_pyutils.tei import TeiReader
+from tqdm import tqdm
 
 nsmap = {
     "tei": "http://www.tei-c.org/ns/1.0"
@@ -39,7 +40,6 @@ def write_new_doc(xml_doc: TeiReader, docpath):
 
 def tag_doc(docpath: str, source_elements_xpath: str):
     # load doc
-    print(f"processing {docpath}")
     xml_doc = TeiReader(docpath)
     # identifiy text to annotate: source elements
     source_elements = xml_doc.any_xpath(
@@ -96,5 +96,6 @@ def tag_doc(docpath: str, source_elements_xpath: str):
     write_new_doc(xml_doc, docpath)
 
 if __name__ == "__main__":
-    for docpath in glob.glob(f"{editions_dir}/*.xml"):
-        tag_doc(docpath, source_elements_xpath)
+    xml_files = glob.glob(f"{editions_dir}/*.xml")
+    for xml_file in tqdm(xml_files, total=len(xml_files)):
+        tag_doc(xml_file, source_elements_xpath)

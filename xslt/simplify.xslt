@@ -110,6 +110,7 @@
     </xsl:template>
     <xsl:template match="tei:label" mode="body">
         <xsl:apply-templates mode="body"/>
+        <xsl:text> </xsl:text>
     </xsl:template>
     <!-- killer templates -->
     <xsl:template match="tei:gap" mode="body"/>
