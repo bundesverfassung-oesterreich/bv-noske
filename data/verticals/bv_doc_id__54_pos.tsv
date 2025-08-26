@@ -47,7 +47,9 @@ Salzburg	Salzburg
 .
 </head>
 <p>
-I.Es	I.Es
+	
+I.	I.
+Es	es
 wird	werden
 ein	ein
 Vorsitzender	vorsitzend
@@ -62,7 +64,8 @@ ein	ein
 Stellvertreter	Stellvertreter
 <g/>
 .
-II.Für	II.Für
+II.	II.
+Für	für
 die	der
 Verhandlungen	Verhandlung
 gelten	gelten
@@ -135,7 +138,8 @@ Köpfen	Kopf
 abgestimmt	abstimmen
 <g/>
 .
-III.Die	III.Die
+III.	III.
+Die	der
 meritorischen	meritorisch
 Abstimmungen	Abstimmung
 werden	werden
@@ -154,7 +158,8 @@ Stimme	Stimme
 abgibt	abgeben
 <g/>
 .
-IV.An	IV.An
+IV.	IV.
+An	an
 der	der
 Länderkonferenz	Länderkonferenz
 können	können
@@ -167,7 +172,8 @@ Delegierten	delegierter
 teilnehmen	teilnehmen
 <g/>
 .
-V.Der	V.Der
+V.	V.
+Der	der
 Vorsitzende	vorsitzend
 bestellt	bestellen
 einen	ein
@@ -175,7 +181,9 @@ parsitätischen	parsitätisch
 Pressedienst	Pressedienst
 <g/>
 .
-VI.Als	VI.Als
+VI	VI
+.	.
+Als	als
 Verhandlungsgrundlage	Verhandlungsgrundlage
 dient	dienen
 der	der
@@ -204,19 +212,35 @@ gebracht	bringen
 :
 </p>
 <p>
-Artikel:1.1	Artikel:1.1
+Artikel	Artikel
+<g/>
+:
+1.	1.
+1	1
 -	-
 9	9
 allgemeine	allgemein
-Bestimmungen.2.14	Bestimmungen.2.14
+Bestimmungen	Bestimmung
+<g/>
+.
+2.	2.
+14	14
 -	-
 24	24
 der	der
-Bundestag.3.25	Bundestag.3.25
+Bundestag	Bundestag
+<g/>
+.
+3.	3.
+25	25
 -	-
 28	28
 der	der
-Bundesrat.4.29	Bundesrat.4.29
+Bundesrat	Bundesrat
+<g/>
+.
+4.	4.
+29	29
 -	-
 30	30
 <g/>
@@ -233,7 +257,11 @@ Artikel	Artikel
 ,
 Weg	Weg
 der	der
-Bundesgesetzgebung.5.30	Bundesgesetzgebung.5.30
+Bundesgesetzgebung	Bundesgesetzgebung
+<g/>
+.
+5.	5.
+30	30
 Absatz	Absatz
 2	2
 <g/>
@@ -244,52 +272,92 @@ Artikel	Artikel
 ,
 Abänderung	Abänderung
 der	der
-Verfassung.6.43	Verfassung.6.43
+Verfassung	Verfassung
+<g/>
+.
+6.	6.
+43	43
 <g/>
 -
 44	44
 Stellung	Stellung
 der	der
-Mitglieder.7.45	Mitglieder.7.45
+Mitglieder	Mitglied
+<g/>
+.
+7.	7.
+45	45
 <g/>
 -
 47	47
 Stellung	Stellung
 der	der
-Regierung.8.48	Regierung.8.48
+Regierung	Regierung
+<g/>
+.
+8.	8.
+48	48
 -	-
 54	54
 der	der
-Bundespräsident.9.55	Bundespräsident.9.55
+Bundespräsident	Bundespräsident
+<g/>
+.
+9.	9.
+55	55
 -	-
 64	64
 die	der
-Bundesregierung.10.65	Bundesregierung.10.65
+Bundesregierung	Bundesregierung
+<g/>
+.
+10.	10.
+65	65
 -	-
 68	68
 das	der
-Bundesheer.11.69	Bundesheer.11.69
+Bundesheer	Bundesheer
+<g/>
+.
+11.	11.
+69	69
 <g/>
 -
 81	81
 die	der
-Gerichtsbarkeit.12.82	Gerichtsbarkeit.12.82
+Gerichtsbarkeit	Gerichtsbarkeit
+<g/>
+.
+12.	12.
+82	82
 <g/>
 -
 96	96
 Gesetzgebung	Gesetzgebung
 der	der
-Länder.13.97	Länder.13.97
+Länder	Land
+<g/>
+.
+13.	13.
+97	97
 <g/>
 -
 106	106
-Rechnungskontrolle.14.107	Rechnungskontrolle.14.107
+Rechnungskontrolle	Rechnungskontrolle
+<g/>
+.
+14.	14.
+107	107
 <g/>
 -
 108	108
 Gleichheit	Gleichheit
 der	der
-Bürger.15.109	Bürger.15.109
+Bürger	Bürger
+<g/>
+.
+15.	15.
+109	109
 <g/>
 -
 114	114
@@ -299,7 +367,11 @@ Freizügigkeit	Freizügigkeit
 Hausrecht	Hausrecht
 <g/>
 ,
-Briefgeheimnis.16.115	Briefgeheimnis.16.115
+Briefgeheimnis	Briefgeheimnis
+<g/>
+.
+16.	16.
+115	115
 <g/>
 -
 117	117
@@ -308,60 +380,120 @@ Pressfreiheit	Pressfreiheit
 ,
 Vereins-	Verein
 und	und
-Versammlungsrecht.17.118	Versammlungsrecht.17.118
+Versammlungsrecht	Versammlungsrecht
+<g/>
+.
+17.	17.
+118	118
 <g/>
 -
 124	124
 Glaubens-	Glauben
 und	und
-Gewissensfreiheit.18.125	Gewissensfreiheit.18.125
+Gewissensfreiheit	Gewissensfreiheit
+<g/>
+.
+18.	18.
+125	125
 <g/>
 -
 126	126
 Kunst	Kunst
 und	und
-Wissenschaft.19.127	Wissenschaft.19.127
+Wissenschaft	Wissenschaft
+<g/>
+.
+19.	19.
+127	127
 <g/>
 -
 129	129
-Schule.20.130	Schule.20.130
+Schule	Schule
+<g/>
+.
+20.	20.
+130	130
 <g/>
 -
 132	132
 Nationalität	Nationalität
 und	und
-Sprache.21.135	Sprache.21.135
-Arbeitsrecht.22.133	Arbeitsrecht.22.133
+Sprache	Sprache
+<g/>
+.
+21.	21.
+135	135
+Arbeitsrecht	Arbeitsrecht
+<g/>
+.
+22.	22.
+133	133
 <g/>
 -
 134	134
 Schutz	Schutz
 des	der
-Eigentums.23.136	Eigentums.23.136
+Eigentums	Eigentum
+<g/>
+.
+23.	23.
+136	136
 Aufhebung	Aufhebung
 der	der
-Freiheit.24.137	Freiheit.24.137
+Freiheit	Freiheit
+<g/>
+.
+24.	24.
+137	137
 <g/>
 -
 146	146
-Verwaltungsgerichtshof.25.147	Verwaltungsgerichtshof.25.147
+Verwaltungsgerichtshof	Verwaltungsgerichtshof
+<g/>
+.
+25.	25.
+147	147
 <g/>
 -
 157	157
-Verfassungsgerichtshof.26.10	Verfassungsgerichtshof.26.10
+Verfassungsgerichtshof	Verfassungsgerichtshof
+<g/>
+.
+26.	26.
+10	10
 Gesetzgebung	Gesetzgebung
 und	und
 Vollziehung	Vollziehung
 des	der
-Bundes.27.11	Bundes.27.11
+Bundes	Bund
+<g/>
+.
+27.	27.
+11	11
 Gesetzgebung	Gesetzgebung
 ohne	ohne
-Vollziehung.28.12	Vollziehung.28.12
-Rahmengesetzgebung.29.13	Rahmengesetzgebung.29.13
+Vollziehung	Vollziehung
+<g/>
+.
+28.	28.
+12	12
+Rahmengesetzgebung	Rahmengesetzgebung
+<g/>
+.
+29.	29.
+13	13
 Erläuterungen	Erläuterung
-dazu.30.Titel	dazu.30.Titel
+dazu	dazu
+<g/>
+.
+30.	30.
+Titel	Titel
 und	und
-Eingang.31.Form	Eingang.31.Form
+Eingang	Eingang
+<g/>
+.
+31.	31.
+Form	Form
 der	der
 Gesetzwerdung	Gesetzwerdung
 <g/>

@@ -27,21 +27,39 @@ Anwesend	Anwesend
 <g/>
 :
 Dr.	Dr.
-OttoBauerals	OttoBaueral
-VorsitzenderPräsident	VorsitzenderPräsident
-KarlSeitzDr	KarlSeitzDr
-.	.
-JosefAignerHeinrichClessinDr	JosefAignerHeinrichClessinDr
-.	.
-RobertDannebergJodokFinkLeopoldKunschakKarlLeuthnerProf	RobertDannebergJodokFinkLeopoldKunschakKarlLeuthnerProf
-.	.
+Otto	Otto
+Bauer	Bauer
+als	als
+Vorsitzender	vorsitzend
+Präsident	Präsident
+Karl	Karl
+Seitz	Seitz
 Dr.	Dr.
-IgnazSeipelDr	IgnazSeipelDr
-.	.
-RichardWeiskirchnerStaatssekretär	RichardWeiskirchnerStaatssekretär
+Josef	Josef
+Aigner	Aigner
+Heinrich	Heinrich
+Clessin	Clessin
+Dr.	Dr.
+Robert	Robert
+Danneberg	Danneberg
+Jodok	Jodok
+Fink	Fink
+Leopold	Leopold
+Kunschak	Kunschak
+Karl	Karl
+Leuthner	Leuthner
 Prof.	Prof.
 Dr.	Dr.
-MichaelMayr	MichaelMayr
+Ignaz	Ignaz
+Seipel	Seipel
+Dr.	Dr.
+Richard	Richard
+Weiskirchner	Weiskirchner
+Staatssekretär	Staatssekretär
+Prof.	Prof.
+Dr.	Dr.
+Michael	Michael
+Mayr	Mayr
 </p>
 <p>
 Von	von
@@ -51,18 +69,26 @@ Staatskanzlei	Staatskanzlei
 :
 Ministerialrat	Ministerialrat
 Dr.	Dr.
-GeorgFroehlichSektionsrat	GeorgFroehlichSektionsrat
+Georg	Georg
+Froehlich	Froehlich
+Sektionsrat	Sektionsrat
 Dr.	Dr.
-EgbertMannlicherMinisterialvizesekretär	EgbertMannlicherMinisterialvizesekretär
+Egbert	Egbert
+Mannlicher	Mannlicher
+Ministerialvizesekretär	Ministerialvizesekretär
 Dr.	Dr.
-KurtFriebergerals	KurtFriebergeral
-SchriftführerProf	SchriftführerProf
-.	.
+Kurt	Kurt
+Frieberger	Frieberger
+als	als
+Schriftführer	Schriftführer
+Prof.	Prof.
 Dr.	Dr.
-HansKelsenals	HansKelsenal
+Hans	Hans
+Kelsen	Kelsen
+als	als
 Experte	Experte
 des	der
-Verfassungsausschusses	Verfassungsausschuß
+Verfassungsausschusses	Verfassungsausschuss
 </p>
 <p>
 Zu	zu
@@ -72,7 +98,8 @@ Sitzung	Sitzung
 gibt	geben
 Prof.	Prof.
 Dr.	Dr.
-Seipelfolgende	Seipelfolgende
+Seipel	Seipel
+folgende	folgend
 Erklärung	Erklärung
 ab	ab
 <g/>
@@ -377,7 +404,8 @@ und	und
 erteilt	erteilen
 Prof.	Prof.
 Dr.	Dr.
-Kelsendas	Kelsenda
+Kelsen	Kelsen
+das	der
 Wort	Wort
 zu	zu
 seinem	sein
@@ -414,7 +442,9 @@ zu	zu
 überprüfen	überprüfen
 <g/>
 .
-DieWienerAngelegenheiten	DieWienerAngelegenheit
+Die	der
+Wiener	Wiener
+Angelegenheiten	Angelegenheit
 sollen	sollen
 in	in
 einem	ein
@@ -458,7 +488,8 @@ mit	mit
 dem	der
 Magistratsdirektor	Magistratsdirektor
 Dr.	Dr.
-Hartlausgearbeitet	Hartlausgearbeitet
+Hartl	Hartl
+ausgearbeitet	ausarbeiten
 und	und
 eine	ein
 endgiltige	endgiltig
@@ -809,8 +840,10 @@ zu	zu
 erklären	erklären
 <g/>
 .
-Eskönnte	Eskönnte
-etwader	etwader
+Es	es
+könnte	können
+etwa	etwa
+der	der
 Bürgermeister	Bürgermeister
 in	in
 zwei	zwei
@@ -818,7 +851,9 @@ Instanzen	Instanz
 entscheiden	entscheiden
 <g/>
 ,
-erkönnteauch	erkönnteauch
+er	er
+könnte	können
+auch	auch
 die	der
 magistratischen	magistratisch
 Bezirksämter	Bezirksamt
@@ -954,7 +989,9 @@ anlangt	anlangen
 ,
 hält	halten
 es	es
-derVorsitzendefür	derVorsitzendefür
+der	der
+Vorsitzende	vorsitzend
+für	für
 unnötig	unnötig
 in	in
 die	der
@@ -979,7 +1016,8 @@ wählen	wählen
 Auch	auch
 Prof.	Prof.
 Dr.	Dr.
-Seipelhält	Seipelhält
+Seipel	Seipel
+hält	halten
 die	der
 Einführung	Einführung
 indirekt	indirekt
@@ -991,8 +1029,10 @@ bedenklich	bedenklich
 <g/>
 .
 Dr.	Dr.
-Dannebergsieht	Dannebergsieht
-indem	indem
+Danneberg	Danneberg
+sieht	sehen
+in	in
+dem	der
 Vorgang	Vorgang
 <g/>
 ,
@@ -1016,7 +1056,9 @@ alten	alt
 Staatsrechts	Staatsrecht
 <g/>
 .
-DerVorsitzendemöchte	DerVorsitzendemöchte
+Der	der
+Vorsitzende	vorsitzend
+möchte	möchten
 namentlich	namentlich
 die	der
 Worte	Wort
@@ -1091,12 +1133,14 @@ beschließt	beschließen
 :
 </p>
 <p>
+	
 <g/>
 „
 Artikel	Artikel
 A.	A.
 </p>
 <p>
+	
 <g/>
 (
 1	1
@@ -1159,6 +1203,7 @@ entsendet	entsenden
 .
 </p>
 <p>
+	
 <g/>
 (
 2	2
@@ -1241,6 +1286,7 @@ wird	werden
 :
 </p>
 <p>
+	
 <g/>
 „
 Art	Art
@@ -1248,6 +1294,7 @@ Art	Art
 B.	B.
 </p>
 <p>
+	
 Als	als
 gemeinsamer	gemeinsam
 Landtag	Landtag
@@ -1289,11 +1336,13 @@ selbst	selbst
 .
 </p>
 <p>
+	
 Art	Art
 .	.
 C.	C.
 </p>
 <p>
+	
 <g/>
 (
 1	1
@@ -1317,6 +1366,7 @@ Landes	Land
 .
 </p>
 <p>
+	
 <g/>
 (
 2	2
@@ -1350,11 +1400,13 @@ Landtages	Landtag
 .
 </p>
 <p>
+	
 Art	Art
 .	.
 D.	D.
 </p>
 <p>
+	
 <g/>
 (
 1	1
@@ -1367,7 +1419,8 @@ gemeinsamen	gemeinsam
 Angelegenheiten	Angelegenheit
 gehört	gehören
 die	der
-Verfassungjedes	Verfassungjedes
+Verfassung	Verfassung
+jedes	jeder
 der	der
 beiden	beide
 Landesteile	Landesteil
@@ -1382,6 +1435,7 @@ Bundesrat	Bundesrat
 .
 </p>
 <p>
+	
 <g/>
 (
 2	2
@@ -1425,6 +1479,7 @@ zu	zu
 .
 </p>
 <p>
+	
 <g/>
 (
 3	3
@@ -1465,7 +1520,9 @@ festgesetzt	festsetzen
 oder	oder
 ein	ein
 Teil	Teil
-derErtragssteuern	derErtragssteuer
+der	der
+E	E
+rtragssteuern	rtragssteuern
 dem	der
 gemeinsamen	gemeinsam
 Lande	Land
@@ -1482,7 +1539,8 @@ sich	sich
 wie	wie
 Prof.	Prof.
 Dr.	Dr.
-Kelsenbemerkt	Kelsenbemerkt
+Kelsen	Kelsen
+bemerkt	bemerken
 <g/>
 ,
 wesentlich	wesentlich
@@ -1517,8 +1575,9 @@ entscheidet	entscheiden
 .
 </p>
 <p>
-<g/>
-DerVorsitzendewürde
+Der	der
+Vorsitzende	vorsitzend
+würde	werden
 eine	ein
 Verkürzung	Verkürzung
 des	der
@@ -1586,7 +1645,8 @@ Debatte	Debatte
 erklärt	erklären
 es	es
 Dr.	Dr.
-Dannebergfür	Dannebergfür
+Danneberg	Danneberg
+für	für
 selbstverständlich	selbstverständlich
 <g/>
 ,
@@ -1618,6 +1678,7 @@ des	der
 Unterausschusses	Unterausschuß
 </p>
 <p>
+	
 <g/>
 „
 Art	Art
@@ -1625,6 +1686,7 @@ Art	Art
 E.	E.
 </p>
 <p>
+	
 Für	für
 beide	beide
 Landesteile	Landesteil
@@ -1687,6 +1749,7 @@ Art	Art
 F.	F.
 </p>
 <p>
+	
 <g/>
 (
 1	1
@@ -1719,6 +1782,7 @@ Landesregierung	Landesregierung
 .
 </p>
 <p>
+	
 <g/>
 (
 2	2
@@ -1755,7 +1819,8 @@ Land	Land
 <p>
 Prof.	Prof.
 Dr.	Dr.
-Seipelwünscht	Seipelwünscht
+Seipel	Seipel
+wünscht	wünschen
 Feststellung	Feststellung
 <g/>
 ,
@@ -1769,7 +1834,9 @@ zustande	zustande
 gekommen	kommen
 sind	sein
 und	und
-meldetMinderheitsanträge	meldetMinderheitsantrag
+meldet	melden
+Minder	Minder
+heitsanträge	heitsanträge
 seiner	sein
 Partei	Partei
 an	an
@@ -1779,7 +1846,9 @@ an	an
 <p>
 Da	da
 sich	sich
-PräsidentSeitzgegen	PräsidentSeitzgegen
+Präsident	Präsident
+Seitz	Seitz
+gegen	gegen
 das	der
 Alternieren	Alternieren
 ausspricht	aussprechen
@@ -1788,12 +1857,15 @@ ausspricht	aussprechen
 weist	weisen
 Prof.	Prof.
 Dr.	Dr.
-Kelsendarauf	Kelsendarauf
+Kelsen	Kelsen
+darauf	darauf
 hin	hin
 <g/>
 ,
 daß	daß
-eineigenerVorsitzender	eineigenerVorsitzend
+ein	ein
+eigener	eigen
+Vorsitzender	vorsitzend
 ein	ein
 neuer	neu
 Landeshauptmann	Landeshauptmann
@@ -1825,7 +1897,9 @@ Kommission	Kommission
 dürften	dürfen
 sich	sich
 wie	wie
-derVorsitzendeannimmt	derVorsitzendeannimmt
+der	der
+Vorsitzende	vorsitzend
+annimmt	annehmen
 <g/>
 ,
 etwa	etwa
@@ -1836,11 +1910,13 @@ alten	alt
 Landesausschusses	Landesausschuß
 decken	decken
 und	und
-zwarhätte	zwarhätte
+zwar	zwar
+hätte	haben
 sie	sie
 zu	zu
 sorgen	sorgen
-fürdie	fürdie
+für	für
+die	der
 Spitäler	Spitäler
 <g/>
 ,
@@ -1869,7 +1945,9 @@ aufzuteilen	aufteilen
 wären	sein
 <g/>
 .
-AbgeordneterKunschakhält	AbgeordneterKunschakhält
+Abgeordneter	abgeordneter
+Kunschak	Kunschak
+hält	halten
 auch	auch
 seinerseits	seinerseits
 die	der
@@ -1917,7 +1995,8 @@ Hauptstückes	Hauptstück
 hält	halten
 Prof.	Prof.
 Dr.	Dr.
-Kelseneine	Kelseneine
+Kelsen	Kelsen
+eine	ein
 besondere	besonderer
 Bestimmung	Bestimmung
 nicht	nicht
@@ -1958,7 +2037,9 @@ werden	werden
 .
 </p>
 <p>
-DerVorsitzendegeht	DerVorsitzendegeht
+Der	der
+Vorsitzende	vorsitzend
+geht	gehen
 hierauf	hierauf
 zur	zu
 Besprechung	Besprechung
@@ -1988,7 +2069,8 @@ sind	sein
 .
 Ministerialrat	Ministerialrat
 Dr.	Dr.
-Froehlichhielte	Froehlichhielte
+Froehlich	Froehlich
+hielte	halteen
 es	es
 für	für
 eine	ein
@@ -2172,7 +2254,8 @@ feststeht	feststehen
 <g/>
 .
 Der	der
-Entwurfist	Entwurfist
+Entwurf	Entwurf
+ist	sein
 abgestellt	abstellen
 auf	auf
 den	der
@@ -2203,7 +2286,9 @@ erfordern	erfordern
 .
 </p>
 <p>
-PräsidentSeitzverweist	PräsidentSeitzverweist
+Präsident	Präsident
+Seitz	Seitz
+verweist	verweisen
 hinsichtlich	hinsichtlich
 der	der
 Richterernennung	Richterernennung
@@ -2221,7 +2306,8 @@ Memorandum	Memorandum
 .
 Ministerialrat	Ministerialrat
 Dr.	Dr.
-Froehlicherwähnt	Froehlicherwähnt
+Froehlich	Froehlich
+erwähnt	erwähnen
 <g/>
 ,
 daß	daß
@@ -2284,7 +2370,8 @@ ist	sein
 .
 Prof.	Prof.
 Dr.	Dr.
-Seipelerklärt	Seipelerklären
+Seipel	Seipel
+erklärt	erklären
 <g/>
 ,
 daß	daß
@@ -2344,7 +2431,9 @@ Bestimmungen	Bestimmung
 <g/>
 “
 beantragt	beantragen
-derVorsitzendedie	derVorsitzendedie
+der	der
+Vorsitzende	vorsitzend
+die	der
 Streichung	Streichung
 des	der
 Beisatzes	Beisatz
@@ -2365,7 +2454,8 @@ Gesetzes	Gesetz
 .
 Ministerialrat	Ministerialrat
 Dr.	Dr.
-Froehlichbegründet	Froehlichbegründen
+Froehlich	Froehlich
+begründet	begründen
 diese	dieser
 Worte	Wort
 mit	mit
@@ -2399,7 +2489,9 @@ erfolgen	erfolgen
 hätte	haben
 <g/>
 .
-AbgeordneterClessinschließt	AbgeordneterClessinschließt
+Abgeordneter	abgeordneter
+Clessin	Clessin
+schließt	schließen
 sich	sich
 den	der
 Streichungsantrag	Streichungsantrag
@@ -2428,7 +2520,9 @@ Titel	Titel
 des	der
 Verfassungsgesetzes	Verfassungsgesetz
 wünscht	wünschen
-derVorsitzendeoffen	derVorsitzendeoffen
+der	der
+Vorsitzende	vorsitzend
+offen	offen
 zu	zu
 lassen	lassen
 <g/>
@@ -2536,6 +2630,7 @@ lauten	lauten
 2.	2.
 </p>
 <p>
+	
 <g/>
 (
 1	1
@@ -2626,6 +2721,7 @@ Bundesverfassungsgesetzes	Bundesverfassungsgesetz
 .
 </p>
 <p>
+	
 <g/>
 (
 2	2
@@ -2661,6 +2757,7 @@ Verordnungen	Verordnung
 3.	3.
 </p>
 <p>
+	
 <g/>
 (
 1	1
@@ -2746,7 +2843,8 @@ Staatsgesetze	Staatsgesetz
 ,
 einschließlich	einschließlich
 früherer	früh
-Reichsgesetzegeregelt	Reichsgesetzegeregelt
+Reichsgesetze	Reichsgesetz
+geregelt	regeln
 <g/>
 ,
 so	so
@@ -2795,7 +2893,7 @@ Jänner	Jänner
 erlischt	erlischen
 die	der
 Wirksamkeit	Wirksamkeit
-derartiger	derartig
+derartiger	derartiger
 Gesetze	Gesetz
 <g/>
 ;
@@ -2827,6 +2925,7 @@ macht	machen
 .
 </p>
 <p>
+	
 <g/>
 (
 3	3
@@ -2859,6 +2958,7 @@ Verordnungen	Verordnung
 4.	4.
 </p>
 <p>
+	
 <g/>
 (
 1	1
@@ -2903,6 +3003,7 @@ Bundesverfassungsgesetzes	Bundesverfassungsgesetz
 .
 </p>
 <p>
+	
 <g/>
 (
 2	2
@@ -2940,6 +3041,7 @@ Bundesverfassungsgesetzes	Bundesverfassungsgesetz
 .
 </p>
 <p>
+	
 <g/>
 (
 3	3
@@ -2982,7 +3084,8 @@ behandelt	behandeln
 wie	wie
 Prof.	Prof.
 Dr.	Dr.
-Kelsenausführt	Kelsenausführt
+Kelsen	Kelsen
+ausführt	ausführen
 <g/>
 ,
 eines	einer
@@ -2999,7 +3102,9 @@ Verfassung	Verfassung
 mit	mit
 zahlreichen	zahlreich
 Normen	Norm
-dermateriellen	dermateriell
+der	der
+materie	materie
+llen	llen
 Gesetzgebung	Gesetzgebung
 in	in
 Widerspruch	Widerspruch
@@ -3040,10 +3145,12 @@ der	der
 interpretierenden	interpretierend
 Behörden	Behörde
 und	und
-im	in
+i	i
+m	m
 Zweifel	Zweifel
 der	der
-Entscheidungder	Entscheidungder
+Entscheidung	Entscheidung
+der	der
 Bundesregierung	Bundesregierung
 überlassen	überlassen
 bleiben	bleiben
@@ -3072,7 +3179,11 @@ Verordnungsgewalt	Verordnungsgewalt
 eingreifen	eingreifen
 <g/>
 .
-DerVorsitzendeerblickteineGefahr	DerVorsitzendeerblickteineGefahr
+Der	der
+Vorsitzende	vorsitzend
+erblickt	erblicken
+eine	ein
+Gefahr	Gefahr
 in	in
 der	der
 Konkurrenz	Konkurrenz
@@ -3080,7 +3191,9 @@ der	der
 Bundes-	Bunde
 und	und
 der	der
-Landesregierungenund	Landesregierungenund
+Landesregierung	Landesregierung
+en	en
+und	und
 möchte	möchten
 erwägen	erwägen
 <g/>
@@ -3105,7 +3218,8 @@ Hauptausschusses	Hauptausschuß
 .
 Prof.	Prof.
 Dr.	Dr.
-Kelsenerblickt	Kelsenerblickt
+Kelsen	Kelsen
+erblickt	erblicken
 darin	darin
 eine	ein
 Verzögerung	Verzögerung
@@ -3124,7 +3238,8 @@ trägt	tragen
 Besonders	besonders
 bedenklich	bedenklich
 findet	finden
-derVorsitzende	derVorsitzende
+der	der
+Vorsitzende	vorsitzend
 <g/>
 ,
 daß	daß
@@ -3140,7 +3255,9 @@ eine	ein
 Unzahl	Unzahl
 von	von
 Verordnungen	Verordnung
-erlassendürftendie	erlassendürftendie
+erlassen	erlassen
+dürften	dürfen
+die	der
 materiell-rechtlich	materiell-rechtlich
 von	von
 größter	groß
@@ -3149,7 +3266,9 @@ sein	sein
 können	können
 <g/>
 .
-AbgeordneterClessinbefürchtet	AbgeordneterClessinbefürchtet
+Abgeordneter	abgeordneter
+Clessin	Clessin
+befürchtet	befürchten
 seinerseits	seinerseits
 das	der
 Entstehen	entstehen
@@ -3172,7 +3291,8 @@ hätte	haben
 .
 Prof.	Prof.
 Dr.	Dr.
-Kelsensieht	Kelsensieht
+Kelsen	Kelsen
+sieht	sehen
 jedoch	jedoch
 in	in
 dieser	dieser
@@ -3189,9 +3309,12 @@ die	der
 Macht	Macht
 <g/>
 ,
-jedesolche	jedesolcher
+jede	jeder
+solche	solcher
 Verordnung	Verordnung
-durcheinGesetz	durcheinGesetz
+durch	durch
+ein	ein
+Gesetz	Gesetz
 aus	aus
 der	der
 Welt	Welt
@@ -3229,7 +3352,9 @@ solcher	solcher
 Verordnungen	Verordnung
 wie	wie
 sie	sie
-derVorsitzendeanregt	derVorsitzendeanregen
+der	der
+Vorsitzende	vorsitzend
+anregt	anregen
 <g/>
 ,
 sei	sein
@@ -3259,7 +3384,8 @@ eintritt	eintreten
 <p>
 Ministerialrat	Ministerialrat
 Dr.	Dr.
-Froehlichmeint	Froehlichmeint
+Froehlich	Froehlich
+meint	meinen
 <g/>
 ,
 daß	daß
@@ -3274,7 +3400,8 @@ auf	auf
 formell-rechtliche	formell-rechtlich
 Angelegenheiten	Angelegenheit
 erstrecken	erstrecken
-dürften	dürfen
+dürft	dürft
+en	en
 <g/>
 .
 So	so
@@ -3284,7 +3411,8 @@ soll	sollen
 wie	wie
 Prof.	Prof.
 Dr.	Dr.
-Kelsenerwähnt	Kelsenerwähnt
+Kelsen	Kelsen
+erwähnt	erwähnen
 <g/>
 ,
 z.	z.
@@ -3310,7 +3438,9 @@ des	der
 Landes	Land
 <g/>
 .
-DurchdieVerfassung	DurchdieVerfassung
+Durch	durch
+die	der
+Verfassung	Verfassung
 würde	werden
 diese	dieser
 Bestimmung	Bestimmung
@@ -3345,6 +3475,7 @@ Wortlaut	Wortlaut
 5.	5.
 </p>
 <p>
+	
 <g/>
 (
 1	1
@@ -3405,7 +3536,8 @@ Insbesondere	insbesondere
 endet	enden
 demgemäß	demgemäß
 in	in
-denAngelegenheiten	denAngelegenheit
+den	der
+Angelegenheiten	Angelegenheit
 <g/>
 ,
 die	der
@@ -3427,6 +3559,7 @@ Landesregierung	Landesregierung
 .
 </p>
 <p>
+	
 <g/>
 (
 2	2
@@ -3518,7 +3651,9 @@ eingefügt	einfügen
 sei	sein
 <g/>
 .
-PräsidentSeitzfindet	PräsidentSeitzfindet
+Präsident	Präsident
+Seitz	Seitz
+findet	finden
 <g/>
 ,
 daß	daß
@@ -3589,6 +3724,7 @@ Entwurfes	Entwurf
 6.	6.
 </p>
 <p>
+	
 <g/>
 (
 1	1
@@ -3746,7 +3882,8 @@ treffen	treffen
 <g/>
 ,
 der	der
-Regierungzustehenden	Regierungzustehend
+Regierung	Regierung
+zustehenden	zustehend
 Befugnisse	Befugnis
 gehen	gehen
 sowohl	sowohl
@@ -3772,7 +3909,8 @@ Zum	zu
 folgenden	folgend
 Paragraph	Paragraph
 bemerkt	bemerken
-derVorsitzende	derVorsitzende
+der	der
+Vorsitzende	vorsitzend
 <g/>
 ,
 er	er
@@ -3800,7 +3938,9 @@ Länder	Land
 ,
 ohne	ohne
 daß	daß
-dieDemokratisierung	dieDemokratisierung
+die	der
+Demokratis	Demokratis
+ierung	ierung
 dieser	dieser
 Behörde	Behörde
 sichergestellt	sicherstellen
@@ -3809,7 +3949,8 @@ ist	sein
 .
 Sektionsrat	Sektionsrat
 Dr.	Dr.
-Mannlicherbringt	Mannlicherbringt
+Mannlicher	Mannlicher
+bringt	bringen
 den	der
 Einspruch	Einspruch
 des	der
@@ -3831,7 +3972,9 @@ der	der
 Anschauung	Anschauung
 <g/>
 ,
-daßden§	daßden§
+daß	daß
+den	der
+§	§
 7	7
 schon	schon
 die	der
@@ -3842,7 +3985,9 @@ Artikels	Artikel
 präjudizieren	präjudizieren
 <g/>
 ,
-indenen	indenen
+in	in
+den	der
+en	en
 vorgesehen	vorsehen
 ist	sein
 <g/>
@@ -3885,7 +4030,9 @@ Zukunft	Zukunft
 Einen	ein
 Abänderungsantrag	Abänderungsantrag
 bringt	bringen
-derVorsitzendezu	derVorsitzendezu
+der	der
+Vorsitzende	vorsitzend
+zu	zu
 §	§
 7	7
 <g/>
@@ -3921,18 +4068,26 @@ im	in
 Artikel	Artikel
 97f	97f
 vorgesehenen	vorgesehen
+Verwaltungsgesetze	Verwaltungsgesetz
 <g/>
-Verwaltungsgesetze“.Wichtigwäre
+“
+<g/>
+.
+Wichtig	wichtig
+wäre	sein
 auch	auch
 <g/>
 ,
 wie	wie
 Prof.	Prof.
 Dr.	Dr.
-Kelsenmeint	Kelsenmeint
+Kelsen	Kelsen
+meint	meinen
 <g/>
 ,
-dieFestsetzung	dieFestsetzung
+die	der
+Fest	Fest
+setzung	setzung
 der	der
 Worte	Wort
 <g/>
@@ -3960,7 +4115,8 @@ ist	sein
 wie	wie
 Sektionsrat	Sektionsrat
 Dr.	Dr.
-Mannlicherfeststellt	Mannlicherfeststellen
+Mannlicher	Mannlicher
+feststellt	feststellen
 <g/>
 ,
 hier	hier
@@ -3992,8 +4148,10 @@ formuliert	formulieren
 <p>
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 staatlichen	staatlich
 Behörden	Behörde
 der	der
@@ -4109,7 +4267,9 @@ Bundesbehörden	Bundesbehörde
 <p>
 Doch	doch
 findet	finden
-AbgeordneterFinkden	AbgeordneterFinkden
+Abgeordneter	abgeordneter
+Fink	Fink
+den	der
 Paragraph	Paragraph
 sehr	sehr
 weitgehend	weitgehend
@@ -4132,7 +4292,9 @@ vollzählig	vollzählig
 ist	sein
 <g/>
 .
-AbgeordneterClessinverweist	AbgeordneterClessinverweist
+Abgeordneter	abgeordneter
+Clessin	Clessin
+verweist	verweisen
 namentlich	namentlich
 auf	auf
 das	der
@@ -4143,7 +4305,8 @@ das	der
 wie	wie
 Sektionsrat	Sektionsrat
 Dr.	Dr.
-Mannlichermitteilt	Mannlichermitteilt
+Mannlicher	Mannlicher
+mitteilt	mitteilen
 <g/>
 ,
 noch	noch
@@ -4170,7 +4333,9 @@ des	der
 §	§
 8	8
 findet	finden
-derVorsitzendesehr	derVorsitzendesehr
+der	der
+Vorsitzende	vorsitzend
+sehr	sehr
 schwierig	schwierig
 <g/>
 .
@@ -4194,7 +4359,8 @@ Landesdienst	Landesdienst
 .
 Sektionsrat	Sektionsrat
 Dr.	Dr.
-Mannlicherbemerkt	Mannlicherbemerkt
+Mannlicher	Mannlicher
+bemerkt	bemerken
 hiezu	hiezu
 <g/>
 ,
@@ -4270,7 +4436,9 @@ vorgesehen	vorsehen
 habe	haben
 <g/>
 .
-DerVorsitzendebetont	DerVorsitzendebetont
+Der	der
+Vorsitzende	vorsitzend
+betont	betonen
 <g/>
 ,
 daß	daß
@@ -4309,7 +4477,8 @@ nach	nach
 Anschauung	Anschauung
 Prof.	Prof.
 Dr.	Dr.
-Kelsen'snur	Kelsen'snur
+Kelsen's	Kelsen's
+nur	nur
 möglich	möglich
 wäre	sein
 <g/>
@@ -4326,7 +4495,9 @@ Kraft	Kraft
 träte	träte
 <g/>
 .
-PräsidentSeitzhält	PräsidentSeitzhält
+Präsident	Präsident
+Seitz	Seitz
+hält	halten
 es	es
 für	für
 unmöglich	unmöglich
@@ -4395,7 +4566,9 @@ Hievon	Hievon
 verspricht	versprechen
 sich	sich
 jedoch	jedoch
-derVorsitzendekeine	derVorsitzendekeine
+der	der
+Vorsitzende	vorsitzend
+keine	kein
 Vorteile	Vorteil
 <g/>
 ;
@@ -4403,7 +4576,9 @@ die	der
 gewählte	gewählt
 Vertretung	Vertretung
 träte	träte
-nurneben	nurneben
+nu	nu
+r	r
+neben	neben
 die	der
 Hauptmannschaft	Hauptmannschaft
 <g/>
@@ -4497,6 +4672,7 @@ lauten	lauten
 8.	8.
 </p>
 <p>
+	
 <g/>
 (
 1	1
@@ -4559,6 +4735,7 @@ geändert	ändern
 .
 </p>
 <p>
+	
 <g/>
 (
 2	2
@@ -4588,6 +4765,7 @@ Bundes	Bund
 .
 </p>
 <p>
+	
 <g/>
 (
 3	3
@@ -4639,6 +4817,7 @@ Körperschaften	Körperschaft
 9.	9.
 </p>
 <p>
+	
 <g/>
 (
 1	1
@@ -4684,6 +4863,7 @@ Bundesverfassungsgesetzes	Bundesverfassungsgesetz
 .
 </p>
 <p>
+	
 <g/>
 (
 2	2
@@ -4710,6 +4890,7 @@ sind	sein
 .
 </p>
 <p>
+	
 <g/>
 (
 3	3
@@ -4871,6 +5052,7 @@ geregelt	regeln
 10.	10.
 </p>
 <p>
+	
 Das	der
 Gesetz	Gesetz
 vom	von
@@ -4955,7 +5137,9 @@ das	der
 eingebrachte	eingebracht
 Gesetz	Gesetz
 über	über
-dasBurgenlandnoch	dasBurgenlandnoch
+das	der
+Burgenland	Burgenland
+noch	noch
 vor	vor
 der	der
 Verfassung	Verfassung
@@ -5011,6 +5195,7 @@ Absatz	Absatz
 :
 </p>
 <p>
+	
 Die	der
 näheren	näh
 Bestimmungen	Bestimmung
@@ -5055,7 +5240,9 @@ die	der
 <g/>
 ,
 wie	wie
-AbgeordneterFinkerklärt	AbgeordneterFinkerklärt
+Abgeordneter	abgeordneter
+Fink	Fink
+erklärt	erklären
 <g/>
 ,
 wohl	wohl
@@ -5088,10 +5275,12 @@ auch	auch
 wie	wie
 Abgeordneter	abgeordneter
 Dr.	Dr.
-Aignererwähnt	Aignererwähnt
+Aigner	Aigner
+erwähnt	erwähnen
 <g/>
 ,
-Verkehrsbeschränkungen	Verkehrsbeschränkung
+Verkehrsb	Verkehrsb
+eschränkungen	eschränkung
 nicht	nicht
 bloß	bloß
 einseitig	einseitig
@@ -5146,7 +5335,9 @@ ruiniert	ruinieren
 <g/>
 ,
 wenn	wenn
-nichteinAusfuhrverbot	nichteinAusfuhrverbot
+nicht	nicht
+ein	ein
+Ausfuhrverbot	Ausfuhrverbot
 erlassen	erlassen
 worden	werden
 wäre	sein
@@ -5154,7 +5345,8 @@ wäre	sein
 .
 Ministerialrat	Ministerialrat
 Dr.	Dr.
-Froehlichbemerkt	Froehlichbemerkt
+Froehlich	Froehlich
+bemerkt	bemerken
 hiezu	hiezu
 <g/>
 ,
@@ -5166,7 +5358,9 @@ dem	der
 Volksernährungsamt	Volksernährungsamt
 in	in
 dieser	dieser
-Angelegenheithergestellt	Angelegenheitherstellen
+Angelegenheit	Angelegenheit
+her	her
+gestellt	stellen
 worden	werden
 sei	sein
 <g/>
@@ -5216,7 +5410,9 @@ erfolgen	erfolgen
 .
 </p>
 <p>
-DerVorsitzendehält	DerVorsitzendehält
+Der	der
+Vorsitzende	vorsitzend
+hält	halten
 eine	ein
 Fühlungnahme	Fühlungnahme
 mit	mit
@@ -5294,8 +5490,9 @@ im	in
 spricht	sprechen
 sich	sich
 sowohl	sowohl
-<g/>
-derVorsitzendeals
+der	der
+Vorsitzende	vorsitzend
+als	als
 auch	auch
 Prof.	Prof.
 Dr.	Dr.
@@ -5362,7 +5559,8 @@ habe	haben
 wie	wie
 Ministerialrat	Ministerialrat
 Dr.	Dr.
-Froehlichausführt	Froehlichausführt
+Froehlich	Froehlich
+ausführt	ausführen
 <g/>
 ,
 nach	nach
@@ -5370,7 +5568,9 @@ allgemeiner	allgemein
 Ansicht	Ansicht
 auch	auch
 der	der
-Tschechoslowakennursuppletorische	Tschechoslowakennursuppletorisch
+Tschechoslowaken	Tschechoslowake
+nur	nur
+suppletorische	suppletorisch
 Bedeutung	Bedeutung
 <g/>
 ,
@@ -5401,7 +5601,13 @@ an	an
 <g/>
 ,
 dessen	der
-FormulierungerdertechnischenLesung	FormulierungerdertechnischenLesung
+Formulierung	Formulierung
+er	er
+de	de
+r	r
+technische	technisch
+n	n
+Lesung	Lesung
 vorbehält	vorbehalten
 <g/>
 :
@@ -5470,8 +5676,10 @@ Artikel	Artikel
 <p>
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 Verwaltung	Verwaltung
 der	der
 Staatsstraßen	Staatsstraße
@@ -5524,8 +5732,10 @@ besorgen	besorgen
 <p>
 <g/>
 (
+2	2
 <g/>
-2)Die
+)
+Die	der
 Feststellung	Feststellung
 jener	jener
 Gewässer	Gewässer
@@ -5600,8 +5810,10 @@ a.	a.
 <p>
 <g/>
 (
+1	1
 <g/>
-1)Gemäß
+)
+Gemäß	Gemäß
 Artikel	Artikel
 10	10
 <g/>
@@ -5666,8 +5878,10 @@ zu	zu
 <p>
 <g/>
 (
+2	2
 <g/>
-2)Der
+)
+Der	der
 Zeitpunkt	Zeitpunkt
 von	von
 dem	der
@@ -5717,6 +5931,7 @@ Artikel	Artikel
 g.	g.
 </p>
 <p>
+	
 Die	der
 Bestimmungen	Bestimmung
 des	der
@@ -5767,7 +5982,8 @@ von	von
 richterlichen	richterlich
 Beamten	Beamter
 in	in
-Ausübung	Ausübung
+Aus	Aus
+übung	übung
 ihrer	ihr
 amtlichen	amtlich
 Wirksamkeit	Wirksamkeit
@@ -5809,7 +6025,9 @@ Im	in
 soll	sollen
 auf	auf
 Antrag	Antrag
-desVorsitzendendas	desVorsitzendendas
+des	der
+Vorsitzenden	vorsitzend
+das	der
 Datum	Datum
 offen	offen
 gelassen	lassen
@@ -5849,8 +6067,10 @@ Artikel	Artikel
 <p>
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 auf	auf
 Grund	Grund
 des	der
@@ -5889,8 +6109,10 @@ Bundesverfassungsgesetzes	Bundesverfassungsgesetz
 <p>
 <g/>
 (
+2	2
 <g/>
-2)Die
+)
+Die	der
 Gesetze	Gesetz
 vom	von
 20.	20.
@@ -5991,8 +6213,10 @@ zusammen	zusammen
 <p>
 <g/>
 (
+3	3
 <g/>
-3)Die
+)
+Die	der
 Mitglieder	Mitglied
 des	der
 Nationalrates	Nationalrat
@@ -6072,8 +6296,10 @@ anzugeloben	angeloben
 <p>
 <g/>
 (
+4	4
 <g/>
-4)Die
+)
+Die	der
 Beamten	Beamter
 und	und
 Diener	Diener
@@ -6112,7 +6338,9 @@ in	in
 §	§
 17	17
 wünscht	wünschen
-derVorsitzendeden	derVorsitzendeden
+der	der
+Vorsitzende	vorsitzend
+den	der
 Zeitpunkt	Zeitpunkt
 des	der
 Zusammentrittes	Zusammentritt
@@ -6125,7 +6353,8 @@ Aufzählung	Aufzählung
 wünscht	wünschen
 Prof.	Prof.
 Dr.	Dr.
-Kelsenausdrückliche	Kelsenausdrücklich
+Kelsen	Kelsen
+ausdrückliche	ausdrücklich
 Feststellung	Feststellung
 <g/>
 ,
@@ -6165,8 +6394,10 @@ und	und
 <p>
 <g/>
 (
+1	1
 <g/>
-1)In
+)
+In	in
 den	der
 ersten	erster
 Bundesrat	Bundesrat
@@ -6175,41 +6406,49 @@ wählen	wählen
 :
 </p>
 <p>
+	
 Wien	Wien
 12	12
 Mitglieder	Mitglied
 </p>
 <p>
+	
 Niederösterreich	Niederösterreich
 10	10
 Mitglieder	Mitglied
 </p>
 <p>
+	
 Steiermark	Steiermark
 6	6
 Mitglieder	Mitglied
 </p>
 <p>
+	
 Oberösterreich	Oberösterreich
 6	6
 Mitglieder	Mitglied
 </p>
 <p>
+	
 Tirol	Tirol
 3	3
 Mitglieder	Mitglied
 </p>
 <p>
+	
 Kärnten	Kärnten
 3	3
 Mitglieder	Mitglied
 </p>
 <p>
+	
 Salzburg	Salzburg
 3	3
 Mitglieder	Mitglied
 </p>
 <p>
+	
 Vorarlberg	Vorarlberg
 3	3
 Mitglieder	Mitglied
@@ -6217,8 +6456,10 @@ Mitglieder	Mitglied
 <p>
 <g/>
 (
+2	2
 <g/>
-2)Im
+)
+Im	in
 gegebenen	gegeben
 Zeitpunkte	Zeitpunkt
 wird	werden
@@ -6240,8 +6481,10 @@ ermittelt	ermitteln
 <p>
 <g/>
 (
+3	3
 <g/>
-3)Der
+)
+Der	der
 Bundesrat	Bundesrat
 tritt	treten
 zu	zu
@@ -6289,8 +6532,10 @@ Artikel	Artikel
 <p>
 <g/>
 (
+1	1
 <g/>
-1)Bis
+)
+Bis	bis
 zur	zu
 Erlassung	Erlassung
 des	der
@@ -6363,8 +6608,10 @@ findet	finden
 <p>
 <g/>
 (
+2	2
 <g/>
-2)Als
+)
+Als	als
 erste	erster
 Verlautbarungen	Verlautbarung
 des	der
@@ -6402,6 +6649,7 @@ Artikel	Artikel
 c.	c.
 </p>
 <p>
+	
 Das	der
 Gesetz	Gesetz
 vom	von
@@ -6472,7 +6720,9 @@ findet	finden
 "
 </p>
 <p>
-DerVorsitzendehält	derVorsitzendehält
+Der	der
+Vorsitzende	vorsitzend
+hält	halten
 es	es
 mit	mit
 Rücksicht	Rücksicht
@@ -6529,7 +6779,8 @@ kann	können
 .
 Ministerialrat	Ministerialrat
 Dr.	Dr.
-Froehlichmeint	Froehlichmeint
+Froehlich	Froehlich
+meint	meinen
 <g/>
 ,
 daß	daß
@@ -6578,7 +6829,8 @@ Vorsitzenden	vorsitzend
 wählen	wählen
 <g/>
 ,
-wofüreine	wofürein
+wofür	wofür
+eine	ein
 gewisse	gewiß
 Zeit	Zeit
 freigegeben	freigeben
@@ -6630,7 +6882,8 @@ Vertrages	Vertrag
 .
 Prof.	Prof.
 Dr.	Dr.
-Seipelschlägt	Seipelschlägt
+Seipel	Seipel
+schlägt	schlagen
 zur	zu
 Vermeidung	Vermeidung
 von	von
@@ -6681,8 +6934,10 @@ und	und
 <p>
 <g/>
 (
+1	1
 <g/>
-1)Zur
+)
+Zur	zu
 1.	1.
 Wahl	Wahl
 eines	ein
@@ -6716,8 +6971,10 @@ zusammen	zusammen
 <p>
 <g/>
 (
+2	2
 <g/>
-2)Kann
+)
+Kann	können
 die	der
 Angelobung	Angelobung
 des	der
@@ -6735,7 +6992,8 @@ erfolgen	erfolgen
 ,
 so	so
 hat	haben
-dieBundeskanzlei	dieBundeskanzlei
+die	der
+Bundeskanzlei	Bundeskanzlei
 die	der
 Bundesversammlung	Bundesversammlung
 auf	auf
@@ -6753,8 +7011,10 @@ einzuberufen	einberufen
 <p>
 <g/>
 (
+3	3
 <g/>
-3)Bis
+)
+Bis	bis
 zur	zu
 Angelobung	Angelobung
 des	der
@@ -6784,18 +7044,24 @@ des	der
 ist	sein
 Prof.	Prof.
 Dr.	Dr.
-Seipelder	Seipelder
+Seipel	Seipel
+der	der
 Ansicht	Ansicht
 <g/>
 ,
 daß	daß
 gemäß	gemäß
 §	§
-1,modifiziert	1,modifizieren
+1	1
+<g/>
+,
+modifiziert	modifizieren
 durch	durch
 §	§
+5	5
 <g/>
-5,die
+,
+die	der
 gegenwärtige	gegenwärtig
 Dienstpragmatik	Dienstpragmatik
 gilt	gelten
@@ -6840,8 +7106,10 @@ Absatz	Absatz
 <p>
 <g/>
 (
+1	1
 <g/>
-1)Das
+)
+Das	der
 Gesetz	Gesetz
 vom	von
 26.	26.
@@ -6895,8 +7163,10 @@ Absatz	Absatz
 <p>
 <g/>
 (
+2	2
 <g/>
-2)Die
+)
+Die	der
 nach	nach
 den	der
 bisher	bisher
@@ -6934,9 +7204,14 @@ sind	sein
 <p>
 <g/>
 (
-3)Unvorgreiflich	3)Unvorgreiflich
+3	3
+<g/>
+)
+Unvorgreiflich	unvorgreiflich
 der	der
-Neuregelung	Neuregelung
+Neureg	Neureg
+e	e
+lung	lung
 des	der
 Dienstrechtes	Dienstrecht
 der	der
@@ -6994,7 +7269,9 @@ für	für
 §	§
 22	22
 hält	halten
-derVorsitzendedas	derVorsitzendedas
+der	der
+Vorsitzende	vorsitzend
+das	der
 Wort	Wort
 die	der
 <g/>
@@ -7045,8 +7322,10 @@ Artikel	Artikel
 <p>
 <g/>
 (
+1	1
 <g/>
-1)Bis
+)
+Bis	bis
 zur	zu
 Wahl	Wahl
 einer	ein
@@ -7054,7 +7333,8 @@ Bundesregierung	Bundesregierung
 gemäß	gemäß
 Artikel	Artikel
 60	60
-führtdie	führtdie
+führt	führen
+die	der
 Staatsregierung	Staatsregierung
 die	der
 Geschäfte	Geschäft
@@ -7066,8 +7346,10 @@ Bundesregierung	Bundesregierung
 <p>
 <g/>
 (
+2	2
 <g/>
-2)Die
+)
+Die	der
 Staatskanzlei	Staatskanzlei
 und	und
 die	der
@@ -7124,6 +7406,7 @@ Artikel	Artikel
 69.	69.
 </p>
 <p>
+	
 Das	der
 auf	auf
 Grund	Grund
@@ -7196,6 +7479,7 @@ Artikel	Artikel
 81.	81.
 </p>
 <p>
+	
 Die	der
 geltenden	geltend
 Bestimmungen	Bestimmung
@@ -7223,7 +7507,9 @@ Kraft	Kraft
 Dagegen	dagegen
 wendet	wenden
 sich	sich
-AbgeordneterFinkgegen	AbgeordneterFinkgegen
+Abgeordneter	abgeordneter
+Fink	Fink
+gegen	gegen
 die	der
 von	von
 der	der
@@ -7247,6 +7533,7 @@ daher	daher
 25.	25.
 </p>
 <p>
+	
 Die	der
 bestehenden	bestehend
 Volksvertretungen	Volksvertretung
@@ -7264,7 +7551,8 @@ ersten	erster
 Landtage	Landtag
 im	in
 Sinne	Sinn
-desBundes-Verfassungsgesetzes	desBundes-Verfassungsgesetz
+des	der
+Bundes-Verfassungsgesetzes	Bundes-Verfassungsgesetz
 <g/>
 .
 <g/>
@@ -7288,8 +7576,10 @@ Artikel	Artikel
 <p>
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 Bestimmungen	Bestimmung
 des	der
 Artikels	Artikel
@@ -7355,7 +7645,8 @@ den	der
 letztbezogenen	letztbezogen
 Gesetzesstellen	Gesetzesstelle
 bestimmten	bestimmt
-Fristennoch	Fristennoch
+Fristen	Frist
+noch	noch
 nicht	nicht
 verstrichen	verstrichen
 sind	sein
@@ -7399,8 +7690,10 @@ Bundesregierung	Bundesregierung
 <p>
 <g/>
 (
+2	2
 <g/>
-2)Vorstellungen
+)
+Vorstellungen	Vorstellung
 der	der
 Staatsregierung	Staatsregierung
 gegen	gegen
@@ -7440,6 +7733,7 @@ Bundesregierung	Bundesregierung
 27.	27.
 </p>
 <p>
+	
 Die	der
 in	in
 Wirksamkeit	Wirksamkeit
@@ -7494,14 +7788,16 @@ beschließen	beschließen
 </p>
 <p>
 Sowohl	sowohl
-derVorsitzende	derVorsitzende
+der	der
+Vorsitzende	vorsitzend
 <g/>
 ,
 als	als
 auch	auch
 Professor	Professor
 Dr.	Dr.
-Seipelspricht	Seipelspricht
+Seipel	Seipel
+spricht	sprechen
 sich	sich
 gegen	gegen
 die	der
@@ -7524,8 +7820,10 @@ aus	aus
 <p>
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 Landesregierungen	Landesregierung
 setzten	setzen
 ihre	ihr
@@ -7543,8 +7841,10 @@ fort	fort
 <p>
 <g/>
 (
+2	2
 <g/>
-2)Die
+)
+Die	der
 Angelobung	Angelobung
 der	der
 Landeshauptmänner	Landeshauptmann
@@ -7597,8 +7897,10 @@ Bundesverfassungsgesetzes	Bundesverfassungsgesetz
 <p>
 <g/>
 (
+3	3
 <g/>
-3)Die
+)
+Die	der
 nach	nach
 dem	der
 Inkrafttreten	Inkrafttreten
@@ -7622,7 +7924,8 @@ Länder	Land
 <p>
 Ministerialrat	Ministerialrat
 Dr.	Dr.
-Froehlichbemerkt	Froehlichbemerkt
+Froehlich	Froehlich
+bemerkt	bemerken
 hiezu	hiezu
 <g/>
 ,
@@ -7654,7 +7957,8 @@ Art	Art
 .	.
 29	29
 bemerkt	bemerken
-derVorsitzende	derVorsitzende
+der	der
+Vorsitzende	vorsitzend
 <g/>
 ,
 daß	daß
@@ -7668,7 +7972,8 @@ Auch	auch
 hält	halten
 Professor	Professor
 Dr.	Dr.
-Kelseneinen	Kelseneinen
+Kelsen	Kelsen
+einen	ein
 Zusatz	Zusatz
 bezüglich	bezüglich
 der	der
@@ -7685,7 +7990,8 @@ Wirkungskreises	Wirkungskreis
 der	der
 Bezirksvertretungen	Bezirksvertretung
 bemerkt	bemerken
-derVorsitzende	derVorsitzende
+der	der
+Vorsitzende	vorsitzend
 <g/>
 ,
 daß	daß
@@ -7742,8 +8048,10 @@ e.	e.
 <p>
 <g/>
 (
+1	1
 <g/>
-1)Bis
+)
+Bis	bis
 zur	zu
 Einrichtung	Einrichtung
 der	der
@@ -7786,8 +8094,10 @@ werden	werden
 <p>
 <g/>
 (
+2	2
 <g/>
-2)In
+)
+In	in
 den	der
 Städten	Stadt
 mit	mit
@@ -7901,8 +8211,10 @@ Anwendung	Anwendung
 <p>
 <g/>
 (
+4	4
 <g/>
-4)In
+)
+In	in
 die	der
 Bezirksvertretung	Bezirksvertretung
 sind	sein
@@ -7931,8 +8243,10 @@ sind	sein
 <p>
 <g/>
 (
+5	5
 <g/>
-5)Die
+)
+Die	der
 näheren	näh
 Bestimmungen	Bestimmung
 der	der
@@ -7950,8 +8264,10 @@ getroffen	treffen
 <p>
 <g/>
 (
+6	6
 <g/>
-6)Die
+)
+Die	der
 Festsetzung	Festsetzung
 der	der
 weiteren	weit
@@ -8005,8 +8321,10 @@ Artikel	Artikel
 <p>
 <g/>
 (
+1	1
 <g/>
-1)Der
+)
+Der	der
 bisherige	bisherig
 Staatsrechnungshof	Staatsrechnungshof
 wird	werden
@@ -8022,8 +8340,10 @@ Bundes-Verfassungsgesetzes	Bundes-Verfassungsgesetz
 <p>
 <g/>
 (
+2	2
 <g/>
-2)Bis
+)
+Bis	bis
 zur	zu
 Wahl	Wahl
 des	der
@@ -8052,8 +8372,10 @@ Artikel	Artikel
 <p>
 <g/>
 (
+1	1
 <g/>
-1)Der
+)
+Der	der
 dermalige	dermalig
 Verwaltungsgerichtshof	Verwaltungsgerichtshof
 wird	werden
@@ -8068,8 +8390,10 @@ Bundes-Verfassungsgesetzes	Bundes-Verfassungsgesetz
 <p>
 <g/>
 (
+2	2
 <g/>
-2)Sein
+)
+Sein	sein
 Präsident	Präsident
 und	und
 die	der
@@ -8103,7 +8427,10 @@ erfolgen	erfolgen
 <p>
 <g/>
 (
-3)Innerhalb	3)Innerhalb
+3	3
+<g/>
+)
+Innerhalb	innerhalb
 dieses	dieser
 Zeitraumes	Zeitraum
 können	können
@@ -8176,7 +8503,8 @@ Zu	zu
 bemerkt	bemerken
 Professor	Professor
 Dr.	Dr.
-Kelsendaß	Kelsendaß
+Kelsen	Kelsen
+daß	daß
 zwar	zwar
 eine	ein
 Frist	Frist
@@ -8208,8 +8536,10 @@ könne	können
 Der	der
 Unterausschuß	Unterausschuß
 entschließt	entschließen
-sichfür	sichfür
-dievon	dievon
+sich	sich
+für	für
+die	der
+von	von
 der	der
 Staatskanzlei	Staatskanzlei
 vorgelegte	vorgelegt
@@ -8231,8 +8561,10 @@ Artikel	Artikel
 <p>
 <g/>
 (
+1	1
 <g/>
-1)Der
+)
+Der	der
 dermalige	dermalig
 Verfassungsgerichtshof	Verfassungsgerichtshof
 wird	werden
@@ -8248,8 +8580,10 @@ Bundesverfassungsgesetzes	Bundesverfassungsgesetz
 <p>
 <g/>
 (
+2	2
 <g/>
-2)Sein
+)
+Sein	sein
 Präsident	Präsident
 <g/>
 ,
@@ -8338,7 +8672,8 @@ notwendig	notwendig
 .
 Professor	Professor
 Dr.	Dr.
-Kelsenfindet	Kelsenfindet
+Kelsen	Kelsen
+findet	finden
 es	es
 mißlich	mißlich
 <g/>
@@ -8414,7 +8749,9 @@ das	der
 Verfahren	Verfahren
 <g/>
 .
-DerVorsitzendemeint	DerVorsitzendemeint
+Der	der
+Vorsitzende	vorsitzend
+meint	meinen
 <g/>
 ,
 daß	daß
@@ -8469,6 +8806,7 @@ Artikel	Artikel
 157.	157.
 </p>
 <p>
+	
 Die	der
 Gesetze	Gesetz
 <g/>
@@ -8512,7 +8850,9 @@ des	der
 ,
 bei	bei
 dem	der
-derVorsitzendedie	derVorsitzendedie
+der	der
+Vorsitzende	vorsitzend
+die	der
 technischen	technisch
 Schwierigkeiten	Schwierigkeit
 hervorhebt	hervorheben
@@ -8521,7 +8861,8 @@ hervorhebt	hervorheben
 bemerkt	bemerken
 Sektionsrat	Sektionsrat
 Dr.	Dr.
-Mannlicher	Mannlicher
+Mann	Mann
+licher	licher
 <g/>
 ,
 daß	daß
@@ -8651,8 +8992,10 @@ Schlußbestimmungen	Schlußbestimmung
 <p>
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 im	in
 Zeitpunkte	Zeitpunkt
 des	der
@@ -8682,8 +9025,10 @@ behandelt	behandeln
 <p>
 <g/>
 (
+2	2
 <g/>
-2)Soferne
+)
+Soferne	Soferne
 es	es
 sich	sich
 jedoch	jedoch
@@ -8787,8 +9132,10 @@ abzutreten	abtreten
 <p>
 <g/>
 (
+1	1
 <g/>
-1)Dieses
+)
+Dieses	dieser
 Gesetz	Gesetz
 tritt	treten
 zugleich	zugleich
@@ -8803,8 +9150,10 @@ Kraft	Kraft
 <p>
 <g/>
 (
+2	2
 <g/>
-2)Mit
+)
+Mit	mit
 seinem	sein
 Vollzug	Vollzug
 ist	sein
@@ -8825,7 +9174,8 @@ Vorschriften	Vorschrift
 teilt	teilen
 Ministerialrat	Ministerialrat
 Dr.	Dr.
-Froehlichmit	Froehlichmit
+Froehlich	Froehlich
+mit	mit
 <g/>
 ,
 daß	daß
@@ -8896,7 +9246,8 @@ sein	sein
 wird	werden
 <g/>
 ,
-zugleich	zugleich
+zu	zu
+gleich	gleich
 mit	mit
 der	der
 Verfassung	Verfassung
@@ -8912,7 +9263,9 @@ einzubringen	einbringen
 .
 </p>
 <p>
-DerVorsitzendebemerkt	DerVorsitzendebemerkt
+Der	der
+Vorsitzende	vorsitzend
+bemerkt	bemerken
 abschließend	abschließend
 <g/>
 ,
@@ -8970,7 +9323,8 @@ sei	sein
 Da	da
 Professor	Professor
 Dr.	Dr.
-Kelsennoch	Kelsennoch
+Kelsen	Kelsen
+noch	noch
 auf	auf
 die	der
 Schwierigkeit	Schwierigkeit
@@ -8989,7 +9343,8 @@ Entscheidung	Entscheidung
 Wien	Wien
 <g/>
 ,
-überdie	überdie
+über	über
+die	der
 Gendarmerie	Gendarmerie
 und	und
 die	der
@@ -8999,7 +9354,8 @@ sei	sein
 <g/>
 ,
 erklärt	erklären
-derVorsitzende	derVorsitzende
+der	der
+Vorsitzende	vorsitzend
 <g/>
 ,
 daß	daß

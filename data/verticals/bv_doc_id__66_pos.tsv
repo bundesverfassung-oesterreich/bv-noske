@@ -17,17 +17,20 @@ Antrag	Antrag
 der	der
 Abgeordneten	abgeordneter
 Dr.	Dr.
-MichaelMayr	MichaelMayr
+Michael	Michael
+Mayr	Mayr
 <g/>
 ,
 Dr.	Dr.
 Gimpl	Gimpl
 <g/>
 ,
-F.Födermayr	F.Födermayr
+F.	F.
+Födermayr	Födermayr
 <g/>
 ,
-W.Miklas	W.Miklas
+W.	W.
+Miklas	Miklas
 <g/>
 ,
 Paulitsch	Paulitsch
@@ -38,7 +41,8 @@ Ramek	Ramek
 <g/>
 ,
 Dr.	Dr.
-Schneiderund	Schneiderund
+Schneider	Schneider
+und	und
 Genossen	Genosse
 <g/>
 ,
@@ -719,6 +723,7 @@ Mai	Mai
 1919.
 </p>
 <p>
+	
 Schoepfer	Schoepfer
 <g/>
 .
@@ -890,7 +895,8 @@ aus	aus
 Gottes	Gott
 gnädigen	gnädig
 Beistand	Beistand
-nachstehendeVerfassung	nachstehendeVerfassung
+nachstehende	nachstehend
+Verfassung	Verfassung
 <g/>
 .
 </p>
@@ -912,10 +918,13 @@ Artikel	Artikel
 1	1
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Der
+)
+Der	der
 deutsche	deutsch
 Bundesfreistaat	Bundesfreistaat
 Österreich	Österreich
@@ -971,10 +980,13 @@ Umfang	Umfang
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Die
+)
+Die	der
 Grenzen	Grenze
 der	der
 Länder	Land
@@ -993,10 +1005,13 @@ werden	werden
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Das
+)
+Das	der
 Gebiet	Gebiet
 der	der
 Freistadt	Freistadt
@@ -1077,10 +1092,13 @@ Artikel	Artikel
 3.	3.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Der
+)
+Der	der
 deutsche	deutsch
 Bundesfreistaat	Bundesfreistaat
 Österreich	Österreich
@@ -1097,10 +1115,13 @@ Länder	Land
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Er
+)
+Er	er
 bezweckt	bezwecken
 die	der
 gemeinsame	gemeinsam
@@ -1166,10 +1187,13 @@ Artikel	Artikel
 4.	4.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 Länder	Land
 sind	sein
 selbständig	selbständig
@@ -1208,10 +1232,13 @@ sind	sein
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Die
+)
+Die	der
 verfassungsmäßig	verfassungsmäßig
 zustandegekommenen	zustandegekommen
 Bundesgesetze	Bundesgesetz
@@ -1523,10 +1550,13 @@ Artikel	Artikel
 13.	13.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Jeder
+)
+Jeder	jeder
 Staatsbürger	Staatsbürger
 ist	sein
 wehrpflichtig	wehrpflichtig
@@ -1534,10 +1564,13 @@ wehrpflichtig	wehrpflichtig
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Mütter
+)
+Mütter	Mütter
 <g/>
 ,
 die	der
@@ -1554,10 +1587,13 @@ enthoben	enthoben
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Zum
+)
+Zum	zu
 Dienste	Dienst
 mit	mit
 der	der
@@ -1573,10 +1609,13 @@ werden	werden
 .
 </p>
 <p>
+	
 <g/>
 (
+4	4
 <g/>
-4)Soweit
+)
+Soweit	soweit
 nicht	nicht
 militärische	militärisch
 Gründe	Grund
@@ -1597,10 +1636,13 @@ werden	werden
 .
 </p>
 <p>
+	
 <g/>
 (
+5	5
 <g/>
-5)Die
+)
+Die	der
 Dauer	Dauer
 und	und
 Art	Art
@@ -1627,9 +1669,13 @@ geregelt	regeln
 .
 </p>
 <p>
+	
 <g/>
 (
-6)Wehrpflichtige	6)Wehrpflichtige
+6	6
+<g/>
+)
+Wehrpflichtige	Wehrpflichtige
 <g/>
 ,
 die	der
@@ -1676,10 +1722,13 @@ Artikel	Artikel
 14	14
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Der
+)
+Der	der
 Wirkungsbereich	Wirkungsbereich
 der	der
 Bundesgewalt	Bundesgewalt
@@ -1711,10 +1760,13 @@ sind	sein
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Diese
+)
+Diese	dieser
 Angelegenheiten	Angelegenheit
 sind	sein
 <g/>
@@ -1734,7 +1786,10 @@ Organisation	Organisation
 die	der
 Kundmachung	Kundmachung
 der	der
-Bundesgesetze;b	Bundesgesetze;b
+Bundesgesetze	Bundesgesetz
+<g/>
+;
+b	--
 <g/>
 )
 die	der
@@ -1797,7 +1852,10 @@ die	der
 Festlegung	Festlegung
 jeder	jeder
 Art	Art
-Heereslasten;d	Heereslasten;d
+Heereslasten	Heereslast
+<g/>
+;
+d	d
 <g/>
 )
 die	der
@@ -1835,8 +1893,10 @@ der	der
 Steuerquellen	Steuerquelle
 für	für
 die	der
+Länder	Land
 <g/>
-Länder;e
+;
+e	e
 <g/>
 )
 die	der
@@ -1850,7 +1910,10 @@ Versammlungsrechtes	Versammlungsrecht
 des	der
 Presse-	Presse
 und	und
-Theaterwesens;f	Theaterwesens;f
+Theaterwesens	Theaterwesen
+<g/>
+;
+f	f
 <g/>
 )
 die	der
@@ -1880,13 +1943,19 @@ Paßwesens	Paßwesen
 endlich	endlich
 der	der
 bundesstaatlichen	bundesstaatlich
-Statistik;g	Statistik;g
+Statistik	Statistik
+<g/>
+;
+g	g
 <g/>
 )
 die	der
 Regelung	Regelung
 des	der
-Hochschulwesens;h	Hochschulwesens;h
+Hochschulwesens	Hochschulwesen
+<g/>
+;
+h	h
 <g/>
 )
 das	der
@@ -1900,7 +1969,10 @@ Kinderschutz	Kinderschutz
 ;
 das	der
 soziale	sozial
-Versicherungswesen;i	Versicherungswesen;i
+Versicherungswesen	Versicherungswesen
+<g/>
+;
+i	i
 <g/>
 )
 die	der
@@ -1953,7 +2025,10 @@ Finanzbehörden	Finanzbehörde
 sowie	sowie
 der	der
 obersten	oberer
-Gerichtshöfe;k	Gerichtshöfe;k
+Gerichtshöfe	Gerichtshof
+<g/>
+;
+k	k
 <g/>
 )
 ferner	ferner
@@ -2001,7 +2076,10 @@ Gewicht	Gewicht
 <g/>
 ,
 das	der
-Zollwesen;l	Zollwesen;l
+Zollwesen	Zollwesen
+<g/>
+;
+l	l
 <g/>
 )
 das	der
@@ -2033,10 +2111,13 @@ Artikel	Artikel
 15.	15.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Alle
+)
+Alle	aller
 übrigen	übrig
 Angelegenheiten	Angelegenheit
 fallen	fallen
@@ -2049,10 +2130,13 @@ Länder	Land
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Die
+)
+Die	der
 Bundesgesetzgebung	Bundesgesetzgebung
 kann	können
 auch	auch
@@ -2074,10 +2158,13 @@ Ländern	Land
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Jede
+)
+Jede	jeder
 Gesetzgebung	Gesetzgebung
 kann	können
 in	in
@@ -2224,10 +2311,13 @@ Artikel	Artikel
 17	17
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Alle
+)
+Alle	aller
 Gewalt	Gewalt
 ruht	ruhen
 beim	bei
@@ -2243,10 +2333,13 @@ Volkes	Volk
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Die
+)
+Die	der
 gesetzgebende	gesetzgebend
 Gewalt	Gewalt
 wird	werden
@@ -2280,10 +2373,13 @@ Artikel	Artikel
 18.	18.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 Volksvertretung	Volksvertretung
 besteht	bestehen
 aus	aus
@@ -2300,10 +2396,13 @@ Ständehaus	Ständehaus
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Die
+)
+Die	der
 Volksvertretung	Volksvertretung
 wird	werden
 auf	auf
@@ -2335,10 +2434,13 @@ Artikel	Artikel
 19.	19.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Das
+)
+Das	der
 Volkshaus	Volkshaus
 wird	werden
 in	in
@@ -2400,10 +2502,13 @@ werden	werden
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Das
+)
+Das	der
 Wahlverfahren	Wahlverfahren
 bestimmt	bestimmen
 das	der
@@ -2414,9 +2519,13 @@ Volksvertretung	Volksvertretung
 .
 </p>
 <p>
+	
 <g/>
 (
-3)Wahlberechtigt	3)Wahlberechtigt
+3	3
+<g/>
+)
+Wahlberechtigt	Wahlberechtigt
 ist	sein
 jeder	jeder
 Staatsbürger	Staatsbürger
@@ -2441,9 +2550,13 @@ ist	sein
 .
 </p>
 <p>
+	
 <g/>
 (
-4)Wählbar	4)Wählbar
+4	4
+<g/>
+)
+Wählbar	Wählbar
 ist	sein
 jeder	jeder
 wahlberechtigte	wahlberechtigt
@@ -2474,16 +2587,23 @@ Artikel	Artikel
 20.	20.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Das
+)
+Das	der
 Ständehaus	Ständehaus
 setzt	setzen
 sich	sich
 wie	wie
 folgt	folgen
-zusammen:1.Die	zusammen:1.Die
+zusammen	zusammen
+<g/>
+:
+1.	1.
+Die	der
 Landtage	Landtag
 entsenden	entsenden
 je	je
@@ -2520,7 +2640,11 @@ das	der
 30.	30.
 Lebensjahr	Lebensjahr
 vollendet	vollenden
-hat.2.Ebenso	hat.2.Ebenso
+hat	haben
+<g/>
+.
+2.	2.
+Ebenso	ebenso
 entsenden	entsenden
 die	der
 Räteorganisationen	Räteorganisation
@@ -2603,10 +2727,13 @@ entsenden	entsenden
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Die
+)
+Die	der
 Zahl	Zahl
 der	der
 Mitglieder	Mitglied
@@ -2704,7 +2831,8 @@ der	der
 Bundesgewalt	Bundesgewalt
 <g/>
 ,
-insbesonderea	insbesonderea
+insbesondere	insbesondere
+a	a
 <g/>
 )
 die	der
@@ -2714,14 +2842,20 @@ Genehmigung	Genehmigung
 der	der
 Staats-	Staat
 und	und
-Handelsverträge;b	Handelsverträge;b
+Handelsverträge	Handelsvertrag
+<g/>
+;
+b	--
 <g/>
 )
 die	der
 jährliche	jährlich
 Bewilligung	Bewilligung
 des	der
-Rekrutenkontingentes;c	Rekrutenkontingentes;c
+Rekrutenkontingentes	Rekrutenkontingent
+<g/>
+;
+c	c
 <g/>
 )
 die	der
@@ -2744,7 +2878,10 @@ Bewilligung	Bewilligung
 der	der
 Steuern	Steuer
 und	und
-Abgaben;d	Abgaben;d
+Abgaben	Abgabe
+<g/>
+;
+d	d
 <g/>
 )
 die	der
@@ -2763,8 +2900,12 @@ Gerichtshöfe	Gerichtshöfe
 (
 Art	Art
 .	.
+55	55
 <g/>
-55);e
+)
+<g/>
+;
+e	e
 <g/>
 )
 die	der
@@ -2775,8 +2916,12 @@ Landesverfassungen	Landesverfassung
 (
 Art	Art
 .	.
+7	7
 <g/>
-7);f
+)
+<g/>
+;
+f	f
 <g/>
 )
 die	der
@@ -2821,7 +2966,10 @@ des	der
 Bundes	Bund
 für	für
 seine	sein
-Organe;g	Organe;g
+Organe	Organ
+<g/>
+;
+g	g
 <g/>
 )
 die	der
@@ -2834,7 +2982,10 @@ bundesstaatlichen	bundesstaatlich
 Wahlverfahrens	Wahlverfahren
 und	und
 der	der
-Volksabstimmung;h	Volksabstimmung;h
+Volksabstimmung	Volksabstimmung
+<g/>
+;
+h	h
 <g/>
 )
 die	der
@@ -2849,8 +3000,10 @@ Hausordnung	Hausordnung
 die	der
 Wahl	Wahl
 der	der
+Leitung	Leitung
 <g/>
-Leitung;i
+;
+i	i
 <g/>
 )
 die	der
@@ -2883,7 +3036,10 @@ endlich	endlich
 des	der
 Herzogs	Herzog
 der	der
-Bundesarmee;k	Bundesarmee;k
+Bundesarmee	Bundesarmee
+<g/>
+;
+k	k
 <g/>
 )
 jene	jener
@@ -2915,10 +3071,13 @@ Artikel	Artikel
 23.	23.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Das
+)
+Das	der
 Vorschlagsrecht	Vorschlagsrecht
 <g/>
 (
@@ -2962,9 +3121,13 @@ auszuüben	ausüben
 .
 </p>
 <p>
+	
 <g/>
 (
-2)Wenn	2)Wenn
+2	2
+<g/>
+)
+Wenn	wenn
 100.000	100.000
 stimmberechtigte	stimmberechtigt
 Staatsbürger	Staatsbürger
@@ -3028,10 +3191,13 @@ Artikel	Artikel
 25.	25.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Beide
+)
+Beide	beide
 Kammern	Kammer
 verhandeln	verhandeln
 in	in
@@ -3046,10 +3212,13 @@ Leitung	Leitung
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Folgende
+)
+Folgende	Folgende
 Angelegenheiten	Angelegenheit
 des	der
 Wirkungskreises	Wirkungskreis
@@ -3063,7 +3232,11 @@ beider	beide
 Kammern	Kammer
 verfassungsmäßig	verfassungsmäßig
 zu	zu
-erledigen:1.Die	erledigen:1.Die
+erledigen	erledigen
+<g/>
+:
+1.	1.
+Die	der
 Gesetzgebung	Gesetzgebung
 <g/>
 ,
@@ -3080,7 +3253,11 @@ für	für
 beide	beide
 Kammern	Kammer
 Geltung	Geltung
-haben;2.die	haben;2.die
+haben	haben
+<g/>
+;
+2.	2.
+die	der
 Wahlen	Wahl
 des	der
 Präsidenten	Präsident
@@ -3125,16 +3302,26 @@ Artikel	Artikel
 ,
 lit	lit
 .	.
+i.	i.
 <g/>
-i.);3.die
+)
+<g/>
+;
+3.	3.
+die	der
 Gewährleistung	Gewährleistung
 der	der
 Landesverfassungen	Landesverfassung
 <g/>
 (
 Artikel	Artikel
+7	7
 <g/>
-7);4.die
+)
+<g/>
+;
+4.	4.
+die	der
 Erhebung	Erhebung
 der	der
 Staatsanklage	Staatsanklage
@@ -3154,7 +3341,11 @@ oder	oder
 einzelne	einzeln
 Mitglieder	Mitglied
 der	der
-Bundesregierung;5.die	Bundesregierung;5.die
+Bundesregierung	Bundesregierung
+<g/>
+;
+5.	5.
+die	der
 Fälle	Fall
 des	der
 Artikels	Artikel
@@ -3167,9 +3358,13 @@ Absatz	Absatz
 .
 </p>
 <p>
+	
 <g/>
 (
-3)Gemeinsame	3)Gemeinsame
+3	3
+<g/>
+)
+Gemeinsame	Gemeinsame
 Sitzungen	Sitzung
 beider	beide
 Kammern	Kammer
@@ -3182,10 +3377,13 @@ Volkshauses	Volkshaus
 .
 </p>
 <p>
+	
 <g/>
 (
+4	4
 <g/>
-4)Alle
+)
+Alle	aller
 Angelegenheiten	Angelegenheit
 des	der
 Wirkungskreises	Wirkungskreis
@@ -3224,10 +3422,13 @@ Artikel	Artikel
 26.	26.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Zu
+)
+Zu	zu
 einem	ein
 gültigen	gültig
 Beschlusse	Beschluss
@@ -3267,10 +3468,13 @@ Kammer	Kammer
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Es
+)
+Es	es
 entscheidet	entscheiden
 die	der
 absolute	absolut
@@ -3297,10 +3501,13 @@ Artikel	Artikel
 27	27
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Zu
+)
+Zu	zu
 einem	ein
 Gesetze	Gesetz
 im	in
@@ -3338,10 +3545,13 @@ erforderlich	erforderlich
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Kann
+)
+Kann	können
 in	in
 einem	ein
 Finanzgesetz	Finanzgesetz
@@ -3381,9 +3591,13 @@ genehmigt	genehmigen
 .
 </p>
 <p>
+	
 <g/>
 (
-3)Wenn	3)Wenn
+3	3
+<g/>
+)
+Wenn	wenn
 bezüglich	bezüglich
 anderer	anderer
 Beschlüsse	Beschluß
@@ -3492,10 +3706,13 @@ Artikel	Artikel
 28.	28.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 Mitglieder	Mitglied
 der	der
 Volksvertretung	Volksvertretung
@@ -3525,10 +3742,13 @@ unwiderruflich	unwiderruflich
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Die
+)
+Die	der
 Mitglieder	Mitglied
 können	können
 wegen	wegen
@@ -3569,10 +3789,13 @@ werden	werden
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Kein
+)
+Kein	kein
 Mitglied	Mitglied
 der	der
 Volksvertretung	Volksvertretung
@@ -3611,9 +3834,13 @@ werden	werden
 .
 </p>
 <p>
+	
 <g/>
 (
-4)Selbst	4)Selbst
+4	4
+<g/>
+)
+Selbst	selbst
 im	in
 Falle	Fall
 der	der
@@ -3637,10 +3864,13 @@ bekanntzugeben	bekanntzugeben
 .
 </p>
 <p>
+	
 <g/>
 (
+5	5
 <g/>
-5)Wenn
+)
+Wenn	wenn
 es	es
 die	der
 Kammer	Kammer
@@ -3713,10 +3943,13 @@ Artikel	Artikel
 30.	30.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 Mandate	Mandat
 der	der
 Mitglieder	Mitglied
@@ -3734,10 +3967,13 @@ Wahlperiode	Wahlperiode
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)In
+)
+In	in
 welchen	welcher
 Fällen	Fall
 während	während
@@ -3759,10 +3995,13 @@ Volksvertretung	Volksvertretung
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Wenn
+)
+Wenn	wenn
 das	der
 Volk	Volk
 die	der
@@ -3802,9 +4041,13 @@ und	und
 )
 </p>
 <p>
+	
 <g/>
 (
-4)Gewesene	4)Gewesene
+4	4
+<g/>
+)
+Gewesene	Gewesene
 Mitglieder	Mitglied
 der	der
 Volksvertretung	Volksvertretung
@@ -3815,10 +4058,13 @@ werden	werden
 .
 </p>
 <p>
+	
 <g/>
 (
+5	5
 <g/>
-5)Die
+)
+Die	der
 Mitglieder	Mitglied
 der	der
 Volksvertretung	Volksvertretung
@@ -3890,10 +4136,13 @@ einberufen	einberufen
 .
 </p>
 <p>
+	
 <g/>
 (
+6	6
 <g/>
-6)Es
+)
+Es	es
 kann	können
 niemand	niemand
 gleichzeitig	gleichzeitig
@@ -3907,10 +4156,13 @@ sein	sein
 .
 </p>
 <p>
+	
 <g/>
 (
+7	7
 <g/>
-7)Kein
+)
+Kein	kein
 Mitglied	Mitglied
 der	der
 Volksvertretung	Volksvertretung
@@ -3936,10 +4188,13 @@ Artikel	Artikel
 31.	31.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 Mitglieder	Mitglied
 der	der
 Bundesregierung	Bundesregierung
@@ -3970,10 +4225,13 @@ vertreten	vertreten
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Jede
+)
+Jede	jeder
 Kammer	Kammer
 kann	können
 die	der
@@ -4165,10 +4423,13 @@ Artikel	Artikel
 37.	37.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Über
+)
+Über	über
 die	der
 Totalrevision	Totalrevision
 <g/>
@@ -4193,10 +4454,13 @@ Abstimmung	Abstimmung
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Der
+)
+Der	der
 Volksabstimmung	Volksabstimmung
 sind	sein
 außer	außer
@@ -4214,7 +4478,8 @@ Absatz	Absatz
 noch	noch
 vorbehalten	vorbehalten
 Beschlüsse	Beschluß
-übera	übera
+über	über
+a	a
 <g/>
 )
 den	der
@@ -4274,7 +4539,8 @@ Artikel	Artikel
 )
 <g/>
 ,
-endlichd	endlichd
+endlich	endlich
+d	d
 <g/>
 )
 über	über
@@ -4322,10 +4588,13 @@ Artikel	Artikel
 38.	38.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Für
+)
+Für	für
 die	der
 nach	nach
 Ländern	Land
@@ -4341,9 +4610,13 @@ Fristen	Frist
 .
 </p>
 <p>
+	
 <g/>
 (
-2)Stimmberechtigt	2)Stimmberechtigt
+2	2
+<g/>
+)
+Stimmberechtigt	Stimmberechtigt
 ist	sein
 jeder	jeder
 Staatsbürger	Staatsbürger
@@ -4363,10 +4636,13 @@ besitzt	besitzen
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Über
+)
+Über	über
 jede	jeder
 Frage	Frage
 wird	werden
@@ -4537,10 +4813,13 @@ Artikel	Artikel
 41.	41.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Der
+)
+Der	der
 Präsident	Präsident
 und	und
 der	der
@@ -4580,9 +4859,13 @@ und	und
 .
 </p>
 <p>
+	
 <g/>
 (
-2)Wählbar	2)Wählbar
+2	2
+<g/>
+)
+Wählbar	Wählbar
 ist	sein
 jeder	jeder
 Staatsbürger	Staatsbürger
@@ -4606,10 +4889,13 @@ hat	haben
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Präsident
+)
+Präsident	Präsident
 und	und
 Vizepräsident	Vizepräsident
 müssen	müssen
@@ -4649,9 +4935,13 @@ aus	aus
 .
 </p>
 <p>
+	
 <g/>
 (
-4)Präsident	4)Präsident
+4	4
+<g/>
+)
+Präsident	Präsident
 und	und
 Vizepräsident	Vizepräsident
 leisten	leisten
@@ -4672,10 +4962,13 @@ Bundesverfassung	Bundesverfassung
 .
 </p>
 <p>
+	
 <g/>
 (
+5	5
 <g/>
-5)Der
+)
+Der	der
 Präsident	Präsident
 kann	können
 während	während
@@ -4707,10 +5000,13 @@ Artikel	Artikel
 42.	42.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Der
+)
+Der	der
 Präsident	Präsident
 vertritt	vertreten
 den	der
@@ -4764,8 +5060,12 @@ derselben	derselben
 Artikel	Artikel
 44	44
 und	und
+45	45
 <g/>
-45);b
+)
+<g/>
+;
+b	--
 <g/>
 )
 die	der
@@ -4779,7 +5079,10 @@ und	und
 kommerziellen	kommerziell
 Vertreter	Vertreter
 im	in
-Auslande;c	Auslande;c
+Auslande	Ausland
+<g/>
+;
+c	c
 <g/>
 )
 die	der
@@ -4791,8 +5094,12 @@ Beschlüsse	Beschluß
 <g/>
 (
 Artikel	Artikel
+27	27
 <g/>
-27);d
+)
+<g/>
+;
+d	d
 <g/>
 )
 der	der
@@ -4819,8 +5126,10 @@ Amtstiteln	Amtstitel
 über	über
 Vorschlag	Vorschlag
 der	der
+Bundesregierung	Bundesregierung
 <g/>
-Bundesregierung;e
+;
+e	e
 <g/>
 )
 im	in
@@ -4850,10 +5159,13 @@ Artikel	Artikel
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Dem
+)
+Dem	der
 Präsidenten	Präsident
 des	der
 Bundesfreistaates	Bundesfreistaat
@@ -4904,10 +5216,13 @@ Absatz	Absatz
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Der
+)
+Der	der
 Präsident	Präsident
 ist	sein
 dem	der
@@ -5052,10 +5367,13 @@ Artikel	Artikel
 44.	44.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Zur
+)
+Zur	zu
 Durchführung	Durchführung
 der	der
 Aufgaben	Aufgabe
@@ -5083,10 +5401,13 @@ Artikel	Artikel
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Der
+)
+Der	der
 Sitz	Sitz
 der	der
 Bundesregierung	Bundesregierung
@@ -5108,10 +5429,13 @@ Bundeskanzlers	Bundeskanzler
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Welche
+)
+Welche	welcher
 Bundesämter	Bundesamt
 mit	mit
 dauernden	dauernd
@@ -5280,10 +5604,13 @@ Artikel	Artikel
 48.	48.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Hat
+)
+Hat	haben
 die	der
 Bundesregierung	Bundesregierung
 gegen	gegen
@@ -5319,10 +5646,13 @@ erheben	erheben
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Vor
+)
+Vor	vor
 Ablauf	Ablauf
 dieser	dieser
 Frist	Frist
@@ -5439,9 +5769,13 @@ Artikel	Artikel
 50.	50.
 </head>
 <p>
+	
 <g/>
 (
-1)Gesetzesbeschlüsse	1)Gesetzesbeschlüsse
+1	1
+<g/>
+)
+Gesetzesbeschlüsse	Gesetzesbeschluß
 eines	ein
 Landtages	Landtag
 können	können
@@ -5478,10 +5812,13 @@ werden	werden
 gleichwie	gleichwie
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)jene
+)
+jene	jener
 Gesetzesbeschlüsse	Gesetzesbeschluß
 <g/>
 ,
@@ -5514,10 +5851,13 @@ Absatz	Absatz
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Die
+)
+Die	der
 Anfechtung	Anfechtung
 ist	sein
 der	der
@@ -5528,10 +5868,13 @@ mitzuteilen	mitteilen
 .
 </p>
 <p>
+	
 <g/>
 (
+4	4
 <g/>
-4)Die
+)
+Die	der
 Kundmachung	Kundmachung
 des	der
 angefochtenen	angefochten
@@ -5570,10 +5913,13 @@ Artikel	Artikel
 51.	51.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Der
+)
+Der	der
 Landtag	Landtag
 wählt	wählen
 aus	aus
@@ -5622,10 +5968,13 @@ gewählt	wählen
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Der
+)
+Der	der
 Landeshauptmann	Landeshauptmann
 bildet	bilden
 mit	mit
@@ -5641,10 +5990,13 @@ Artikel	Artikel
 52.	52.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 Landesregierung	Landesregierung
 hat	haben
 <g/>
@@ -5676,10 +6028,13 @@ verantwortlich	verantwortlich
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Der
+)
+Der	der
 Landeshauptmann	Landeshauptmann
 leistet	leisten
 die	der
@@ -5713,9 +6068,13 @@ Artikel	Artikel
 53.	53.
 </head>
 <p>
+	
 <g/>
 (
-1)Unbeschadet	1)Unbeschadet
+1	1
+<g/>
+)
+Unbeschadet	unbeschadet
 ihrer	ihr
 Stellung	Stellung
 und	und
@@ -5739,10 +6098,13 @@ beschließen	beschließen
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Der
+)
+Der	der
 Landeshauptmann	Landeshauptmann
 hat	haben
 die	der
@@ -5807,10 +6169,13 @@ Artikel	Artikel
 55.	55.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 Errichtung	Errichtung
 <g/>
 ,
@@ -5834,10 +6199,13 @@ geregelt	regeln
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Der
+)
+Der	der
 Verfassungsgerichtshof	Verfassungsgerichtshof
 entscheidet	entscheiden
 über	über
@@ -5879,10 +6247,13 @@ endgültig	endgültig
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Der
+)
+Der	der
 Oberste	oberer
 Verwaltungsgerichtshof	Verwaltungsgerichtshof
 hat	haben

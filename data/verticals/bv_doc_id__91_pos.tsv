@@ -62,7 +62,7 @@ Dr.	Dr.
 Sektionsrat	Sektionsrat
 Dr.	Dr.
 Friedrich	Friedrich
-.	--
+.	.
 Staatskanzlei	Staatskanzlei
 <g/>
 :
@@ -73,7 +73,9 @@ Fröhlich	Fröhlich
 ,
 Sektionsrat	Sektionsrat
 Dr.	Dr.
-Mannlicher	Mannlicher
+Man	man
+n	n
+licher	licher
 <g/>
 ,
 Experte	Experte
@@ -469,7 +471,9 @@ gestrichen	streichen
 <p>
 Artikel	Artikel
 21	21
-AntragWeiskirchnerWien	AntragWeiskirchnerWien
+Antrag	Antrag
+Weiskirchner	Weiskirchner
+Wien	Wien
 mit	mit
 dem	der
 Vorsitze	Vorsitz
@@ -506,7 +510,9 @@ sich	sich
 .
 </p>
 <p>
-22stilistische	22stilistisch
+	
+22	22
+stilistische	stilistisch
 Aenderung	Aenderung
 und	und
 </p>
@@ -670,8 +676,10 @@ aufgenommen	aufnehmen
 Bindung	Bindung
 über	über
 Artikel	Artikel
-42die	42die
-Artikel10	Artikel10
+42	42
+die	der
+Artikel	Artikel
+10	10
 bis	bis
 13	13
 und	und

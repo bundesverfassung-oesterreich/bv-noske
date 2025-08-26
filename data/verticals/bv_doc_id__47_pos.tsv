@@ -14,23 +14,28 @@ vom	von
 August	August
 1920.	1920.
 </head>
+	
 Dr.	Dr.
 Otto	Otto
 Bauer	Bauer
 als	als
-VorsitzenderSimon	VorsitzenderSimon
-AbramDr	AbramDr
-.	.
+Vorsitzender	vorsitzend
+Simon	Simon
+Abram	Abram
+Dr.	Dr.
 Josef	Josef
-AignerHeinrich	AignerHeinrich
-ClessinDr	ClessinDr
-.	.
+Aigner	Aigner
+Heinrich	Heinrich
+Clessin	Clessin
+Dr.	Dr.
 Robert	Robert
-DannebergJodok	DannebergJodok
-FinkDr	FinkDr
-.	.
+Danneberg	Danneberg
+Jodok	Jodok
+Fink	Fink
+Dr.	Dr.
 Ignaz	Ignaz
-SeipelStaatssekretär	SeipelStaatssekretär
+Seipel	Seipel
+Staatssekretär	Staatssekretär
 Prof.	Prof.
 Dr.	Dr.
 Michael	Michael
@@ -42,13 +47,16 @@ Staatskanzlei	Staatskanzlei
 <g/>
 :
 </p>
+	
 Sektionsrat	Sektionsrat
 Dr.	Dr.
 Hugo	Hugo
-JäcklSektionsrat	JäcklSektionsrat
+Jäckl	Jäckl
+Sektionsrat	Sektionsrat
 Dr.	Dr.
 Egbert	Egbert
-MannlicherMinisterialvizesekretär	MannlicherMinisterialvizesekretär
+Mannlicher	Mannlicher
+Ministerialvizesekretär	Ministerialvizesekretär
 Dr.	Dr.
 Kurt	Kurt
 Frieberger	Frieberger
@@ -67,7 +75,9 @@ Verfassungsausschusses	Verfassungsausschuß
 <g/>
 .
 <p>
-DerVorsitzendeeröffnet	DerVorsitzendeeröffnet
+Der	der
+Vorsitzende	vorsitzend
+eröffnet	eröffnen
 die	der
 Sitzung	Sitzung
 und	und
@@ -91,12 +101,13 @@ Formulierungen	Formulierung
 Es	es
 wird	werden
 beschlossen	beschließen
-demArt	demArt
+dem	der
+Art	Art
 .	.
 45	45
 Abs.	Abs.
-<g/>
-3folgenden
+3	3
+folgenden	folgend
 Wortlaut	Wortlaut
 zu	zu
 geben	geben
@@ -128,7 +139,8 @@ Nationalrat	Nationalrat
 bewerben	bewerben
 ist	sein
 ihnen	ihnen
-dieZeit	dieZeit
+die	der
+Zeit	Zeit
 zu	zu
 gewähren	gewähren
 <g/>
@@ -147,10 +159,12 @@ getroffen	treffen
 .
 </p>
 <p>
-InArt	InArt
+In	in
+Art	Art
 .	.
 42	42
-bwird	bwird
+b	b
+wird	werden
 die	der
 Frist	Frist
 für	für
@@ -2158,6 +2172,7 @@ erstatten	erstatten
 .
 </p>
 <p>
+	
 Für	für
 das	der
 Gemeindewahlrecht	Gemeindewahlrecht

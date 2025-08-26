@@ -201,13 +201,28 @@ Staatsgewalt	Staatsgewalt
 in	in
 den	der
 folgenden	folgend
+Angelegenheiten	Angelegenheit
 <g/>
-Angelegenheiten:1./die
+:
+1.	1.
+<g/>
+/
+die	der
 auswärtigen	auswärtig
+Angelegenheiten	Angelegenheit
 <g/>
-Angelegenheiten,2./das
+,
+2.	2.
 <g/>
-Militärwesen,3./die
+/
+das	der
+Militärwesen	Militärwesen
+<g/>
+,
+3.	3.
+<g/>
+/
+die	der
 Sicherheitspolizei	Sicherheitspolizei
 in	in
 Gemeinden	Gemeinde
@@ -225,8 +240,13 @@ die	der
 Fremdenpolizei	Fremdenpolizei
 und	und
 das	der
+Passwesen	Passwesen
 <g/>
-Passwesen,4./die
+,
+4.	4.
+<g/>
+/
+die	der
 Bundesfinanzen	Bundesfinanz
 <g/>
 ,
@@ -236,15 +256,22 @@ und	und
 die	der
 Verwaltung	Verwaltung
 der	der
+Bundesbetriebe	Bundesbetrieb
 <g/>
-Bundesbetriebe,5./das
+,
+5.	5.
+<g/>
+/
+das	der
 Zollwesen	Zollwesen
 <g/>
 ,
 Geld	Geld
 -	
 und	und
-Bankwesen	Bankwesen
+B	B
+a	a
+nkwesen	nkwesen
 <g/>
 ;
 Handel	Handel
@@ -258,15 +285,25 @@ und	und
 Verkehr	Verkehr
 <g/>
 ,
+Bergwesen	Bergwesen
 <g/>
-Bergwesen.6./Mass-
+.
+6.	6.
+<g/>
+/
+Mass-	Mass
 und	und
 Gewichtswesen	Gewichtswesen
 <g/>
 ,
 Punzierungs	Punzierung
+wesen	wesen
 <g/>
-wesen,7./Zivil
+,
+7.	7.
+<g/>
+/
+Zivil	Zivil
 -	
 und	und
 Strafjustiz	Strafjustiz
@@ -278,7 +315,13 @@ Strafjustiz	Strafjustiz
 Kultus	Kultus
 -	
 und	und
-Hochschulwesen,9./Volksgesundheit	Hochschulwesen,9./Volksgesundheit
+Hochschulwesen	Hochschulwesen
+<g/>
+,
+9.	9.
+<g/>
+/
+Volksgesundheit	Volksgesundheit
 und	und
 soziale	sozial
 Fürsorge	Fürsorge
@@ -310,7 +353,11 @@ Gesetzgebung	Gesetzgebung
 des	der
 Bundes	Bund
 ist	sein
-übertragen:1.die	übertragen:1.die
+übertragen	übertragen
+<g/>
+:
+1.	1.
+die	der
 Aenderung	Aenderung
 der	der
 Bundesverfassung	Bundesverfassung
@@ -323,7 +370,11 @@ der	der
 souveränen	souverän
 Länder	Land
 zum	zu
-Bunde,2.die	Bunde,2.die
+Bunde	Bund
+<g/>
+,
+2.	2.
+die	der
 Bestimmung	Bestimmung
 der	der
 Art	Art
@@ -341,16 +392,28 @@ Rechtes	Recht
 Abgaben	Abgabe
 auszuschreiben	ausschreiben
 und	und
-einzuheben,3.die	einzuheben,3.die
+einzuheben	einheben
+<g/>
+,
+3.	3.
+die	der
 Regelung	Regelung
 des	der
 Staatsbürger	Staatsbürger
 -	
 und	und
-Heimatsrechtes,4.die	Heimatsrechtes,4.die
+Heimatsrechtes	Heimatsrecht
+<g/>
+,
+4.	4.
+die	der
 Regelung	Regelung
 des	der
-Bevölkerungswesens,5.die	Bevölkerungswesens,5.die
+Bevölkerungswesens	Bevölkerungswesen
+<g/>
+,
+5.	5.
+die	der
 Regelung	Regelung
 des	der
 Administrativverfahrens	Administrativverfahren
@@ -361,7 +424,11 @@ der	der
 allgemeinen	allgemein
 Grundsätze	Grundsatz
 des	der
-Verwaltungsstrafverfahrens,6.die	Verwaltungsstrafverfahrens,6.die
+Verwaltungsstrafverfahrens	Verwaltungsstrafverfahren
+<g/>
+,
+6.	6.
+die	der
 Feststellung	Feststellung
 der	der
 Grundsätze	Grundsatz
@@ -2344,7 +2411,9 @@ XXXIV	XXXIV
 Die	der
 Mitglieder	Mitglied
 der	der
-Bundesversammlung	Bundesversammlung
+Bunde	Bund
+s	s
+versammlung	Versammlung
 können	können
 wegen	wegen
 der	der
@@ -2863,7 +2932,9 @@ Der	der
 Stimmzettel	Stimmzettel
 für	für
 die	der
-Präsidentschaftswahlistim	Präsidentschaftswahlistim
+Präsidentschaftswahl	Präsidentschaftswahl
+ist	sein
+im	in
 Falle	Fall
 des	der
 Art	Art
@@ -3502,7 +3573,9 @@ LIV	LIV
 .
 </head>
 <p>
-Bisdie	bisdie
+Bi	Bi
+s	s
+die	der
 neue	neu
 Bundesregierung	Bundesregierung
 gebildet	bilden
@@ -3581,7 +3654,9 @@ der	der
 Bundesregierung	Bundesregierung
 oder	oder
 einzelnen	einzeln
-Mitgiedernderselben	Mitgiedernderselbe
+Mitgieder	Mitgieder
+n	n
+derselben	derselben
 durch	durch
 ausdrückliche	ausdrücklich
 Entschliessung	Entschliessung
@@ -6213,12 +6288,14 @@ berechtigt	berechtigen
 zur	zu
 Ueberprüfung	Ueberprüfung
 der	der
-Gebarungadie	Gebarungadie
+Gebarung	Gebarung
+a	a
+die	der
 Einsendung	Einsendung
 von	von
 Rechnungsbelegen	Rechnungsbelegen
 und	und
-Behelfen	Behelfe
+Behelfen	Behelfen
 <g/>
 /
 Geschäftsstücke	Geschäftsstück
@@ -6229,7 +6306,9 @@ u.s.w.	u.s.w.
 <g/>
 /
 zu	zu
-verlangenbdurch	verlangenbdurch
+verlangen	verlangen
+b	b
+durch	durch
 Beauftragte	beauftragter
 an	an
 Ort	Ort
@@ -6249,8 +6328,11 @@ stehenden	stehend
 Behelfe	Behelfe
 Einschau	Einschau
 zu	zu
+nehmen	nehmen
 <g/>
-nehmen.cdie
+.
+c	c
+die	der
 Vornahme	Vornahme
 von	von
 Lokalerhebungen	Lokalerhebung
@@ -7294,7 +7376,8 @@ administrativen	administrativ
 Instanzenzuges	Instanzenzug
 <g/>
 :
-ain	ain
+a	a
+in	in
 Angelegenheiten	Angelegenheit
 des	der
 selbständigen	selbständig
@@ -7305,7 +7388,11 @@ Länder	Land
 <g/>
 ,
 die	der
-Landesverwaltungsgerichte;bin	Landesverwaltungsgerichte;bin
+Landesverwaltungsgerichte	Landesverwaltungsgericht
+<g/>
+;
+b	b
+in	in
 Angelegenheiten	Angelegenheit
 der	der
 Bundesverwaltung	Bundesverwaltung
@@ -7497,7 +7584,9 @@ die	der
 Bundesregierung	Bundesregierung
 vor	vor
 einem	ein
-LandesverwaltungsgerichteBeschwerde	LandesverwaltungsgerichteBeschwerd
+Landesverwaltungsgericht	Landesverwaltungsgericht
+e	e
+Beschwerde	Beschwerde
 erheben	erheben
 <g/>
 .
@@ -7547,7 +7636,8 @@ sind	sein
 ausgeschlossen	ausschließen
 <g/>
 :
-aAngelegenheiten	aAngelegenheit
+a	a
+Angelegenheiten	Angelegenheit
 über	über
 welche	welcher
 den	der
@@ -7555,7 +7645,11 @@ ordentlichen	ordentlich
 Gerichten	Gericht
 die	der
 Entscheidung	Entscheidung
-zusteht.bAngelegenheiten	zusteht.bAngelegenheit
+zusteht	zustehen
+<g/>
+.
+b	b
+Angelegenheiten	Angelegenheit
 <g/>
 ,
 welche	welcher
@@ -7566,7 +7660,11 @@ zur	zu
 Kompetenz	Kompetenz
 des	der
 Bundesverfassungsgerichtes	Bundesverfassungsgericht
-gehören.cAngelegenheiten	gehören.cAngelegenheit
+gehören	gehören
+<g/>
+.
+c	c
+Angelegenheiten	Angelegenheit
 <g/>
 ,
 in	in
@@ -7579,7 +7677,11 @@ nach	nach
 freiem	frei
 Ermessen	Ermessen
 vorzugehen	vorgehen
-haben.dDisziplinarangelegenheiten	haben.dDisziplinarangelegenheit
+haben	haben
+<g/>
+.
+d	d
+Disziplinarangelegenheiten	Disziplinarangelegenheit
 <g/>
 .
 </p>
@@ -7706,7 +7808,9 @@ entscheidet	entscheiden
 ferner	ferner
 <g/>
 :
-Kompetenzkonflikteazwischen	Kompetenzkonflikteazwisch
+Kompetenzkonflikte	Kompetenzkonflikt
+a	a
+zwischen	zwischen
 Gerichten	Gericht
 und	und
 Verwaltungsbehörden	Verwaltungsbehörde
@@ -7718,7 +7822,8 @@ souveränen	souverän
 Länder	Land
 <g/>
 ,
-bzwischen	bzwischen
+b	--
+zwischen	zwischen
 Landesregierungen	Landesregierung
 untereinander	untereinander
 <g/>
@@ -7803,7 +7908,8 @@ des	der
 Bundesverfassungsgerichtes	Bundesverfassungsgericht
 bewirkt	bewirken
 die	der
-Kassaition	Kassaition
+Kassa	Kassa
+ition	ition
 der	der
 gesetzwidrigen	gesetzwidrig
 Vollzugsanweisung	Vollzugsanweisung
@@ -7927,7 +8033,9 @@ Bundesversammlung	Bundesversammlung
 auf	auf
 Erklärung	Erklärung
 des	der
-Mandatsverlustes	Mandatsverlust
+Mandatsver	Mandatsver
+l	l
+ustes	ustes
 eines	einer
 ihrer	ihr
 Mitglieder	Mitglied
@@ -7950,11 +8058,16 @@ die	der
 Verantwortlichkeit	Verantwortlichkeit
 <g/>
 :
-ades	ades
+a	a
+des	der
 Bundespräsidenten	Bundespräsident
 und	und
 seiner	sein
-Stellvertreter;bder	Stellvertreter;bder
+Stellvertreter	Stellvertreter
+<g/>
+;
+b	b
+der	der
 Mitglieder	Mitglied
 der	der
 Bundesregierung	Bundesregierung
@@ -7968,7 +8081,8 @@ gleichgestellten	gleichgestellt
 Organe	Organ
 <g/>
 ,
-cder	cder
+c	c
+der	der
 Mitglieder	Mitglied
 der	der
 Landesregierungen	Landesregierung
@@ -8203,7 +8317,9 @@ CXXX	CXXX
 Der	der
 Präsident	Präsident
 des	der
-Bundesverfassungsgerichtes	Bundesverfassungsgericht
+Bundesverfas	Bundesverfas
+s	s
+ungsgerichtes	ungsgerichtes
 steht	stehen
 im	in
 Range	Rang
@@ -8217,7 +8333,7 @@ im	in
 Range	Rang
 eines	ein
 Staats	Staat
-sekretärs	sekretär
+sekretärs	sekretärs
 <g/>
 .
 </p>

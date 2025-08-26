@@ -274,13 +274,28 @@ Staatsgewalt	Staatsgewalt
 in	in
 den	der
 folgenden	folgend
+Angelegenheiten	Angelegenheit
 <g/>
-Angelegenheiten:1.)die
+:
+1.	1.
+<g/>
+)
+die	der
 auswärtigen	auswärtig
+Angelegenheiten	Angelegenheit
 <g/>
-Angelegenheiten,2.)das
+,
+2.	2.
 <g/>
-Militärwesen,3.)die
+)
+das	der
+Militärwesen	Militärwesen
+<g/>
+,
+3.	3.
+<g/>
+)
+die	der
 Sicherheitspolizei	Sicherheitspolizei
 in	in
 Gemeinden	Gemeinde
@@ -300,7 +315,13 @@ die	der
 Fremdenpolizei	Fremdenpolizei
 und	und
 das	der
-Paßwesen,4.)die	Paßwesen,4.)die
+Paßwesen	Paßwesen
+<g/>
+,
+4.	4.
+<g/>
+)
+die	der
 Bundesfinanzen	Bundesfinanz
 <g/>
 ,
@@ -310,8 +331,13 @@ und	und
 die	der
 Verwaltung	Verwaltung
 der	der
+Bundesbetriebe	Bundesbetrieb
 <g/>
-Bundesbetriebe,5.)das
+,
+5.	5.
+<g/>
+)
+das	der
 Zollwesen	Zollwesen
 <g/>
 ,
@@ -331,18 +357,40 @@ und	und
 Verkehr	Verkehr
 <g/>
 ,
+Bergwesen	Bergwesen
 <g/>
-Bergwesen,6.)Maß-
+,
+6.	6.
+<g/>
+)
+Maß-	Maß
 und	und
 Gewichtwesen	Gewichtwesen
 <g/>
 ,
-Punzierungswesen,7.)Zivil-	Punzierungswesen,7.)Zivil-
-und	und
+Punzierungswesen	Punzierungswesen
 <g/>
-Strafjustiz,8.)Kultus-
+,
+7.	7.
+<g/>
+)
+Zivil-	Zivil
 und	und
-Hochschulwesen,9.)Volksgesundheit	Hochschulwesen,9.)Volksgesundheit
+Strafjustiz	Strafjustiz
+<g/>
+,
+8.	8.
+<g/>
+)
+Kultus-	Kultus
+und	und
+Hochschulwesen	Hochschulwesen
+<g/>
+,
+9.	9.
+<g/>
+)
+Volksgesundheit	Volksgesundheit
 und	und
 soziale	sozial
 Fürsorge	Fürsorge
@@ -375,8 +423,13 @@ Gesetzgebung	Gesetzgebung
 des	der
 Bundes	Bund
 ist	sein
+übertragen	übertragen
 <g/>
-übertragen:1.)die
+:
+1.	1.
+<g/>
+)
+die	der
 Aenderung	Aenderung
 der	der
 Bundesverfassung	Bundesverfassung
@@ -389,8 +442,13 @@ der	der
 souveränen	souverän
 Länder	Land
 zum	zu
+Bunde	Bund
 <g/>
-Bunde,2.)die
+,
+2.	2.
+<g/>
+)
+die	der
 Bestimmung	Bestimmung
 der	der
 Art	Art
@@ -408,17 +466,33 @@ Rechtes	Recht
 Abgaben	Abgabe
 auszuschreiben	ausschreiben
 und	und
+einzuheben	einheben
 <g/>
-einzuheben,3.)die
+,
+3.	3.
+<g/>
+)
+die	der
 Regelung	Regelung
 des	der
 Staatsbürger-	Staatsbürger
 und	und
-Heimatsrechtes,4.)die	Heimatsrechtes,4.)die
+Heimatsrechtes	Heimatsrecht
+<g/>
+,
+4.	4.
+<g/>
+)
+die	der
 Regelung	Regelung
 des	der
+Bevölkerungswesens	Bevölkerungswesen
 <g/>
-Bevölkerungswesens,5.)die
+,
+5.	5.
+<g/>
+)
+die	der
 Grundzüge	Grundzug
 der	der
 Verwaltungsorganisation	Verwaltungsorganisation
@@ -435,7 +509,13 @@ der	der
 allgemeinen	allgemein
 Grundsätze	Grundsatz
 des	der
-Verwaltungsstrafrechtes,6.)die	Verwaltungsstrafrechtes,6.)die
+Verwaltungsstrafrechtes	Verwaltungsstrafrecht
+<g/>
+,
+6.	6.
+<g/>
+)
+die	der
 Feststellung	Feststellung
 der	der
 Grundsätze	Grundsatz
@@ -940,7 +1020,9 @@ jedoch	jedoch
 nur	nur
 einmal	einmal
 aus	aus
-demselben	derselbe
+de	de
+m	m
+selben	selber
 Anlaß	Anlaß
 vertagt	vertagen
 werden	werden
@@ -2005,7 +2087,9 @@ des	der
 Bundespräsidenten	Bundespräsident
 bedürfen	bedürfen
 der	der
-Gegenzeichnung	Gegenzeichnung
+Gegen	Gegen
+z	z
+eichnung	Eichnung
 des	der
 Bundeskanzlers	Bundeskanzler
 und	und
@@ -2730,7 +2814,9 @@ Einheit	Einheit
 und	und
 Stetigkeit	Stetigkeit
 des	der
-Geschäftsganges	Geschäftsgang
+Geschäftsga	Geschäftsga
+n	n
+ges	ges
 ein	ein
 Beamter	Beamter
 zur	zu
@@ -2997,7 +3083,9 @@ Der	der
 Bundesrat	Bundesrat
 tritt	treten
 mindestens	mindestens
-einmal	einmal
+einm	einm
+a	a
+l	l
 im	in
 Monat	Monat
 unter	unter
@@ -3137,10 +3225,12 @@ Bundesregierung	Bundesregierung
 die	der
 Führung	Führung
 der	der
-Bundesgeschäfte	Bundesgeschäft
+Bundesg	Bundesg
+e	e
+schäfte	schäfte
 auf	auf
 dem	der
-Laufenden	Laufenden
+Laufenden	Laufend
 zu	zu
 halten	halten
 <g/>
@@ -5512,7 +5602,9 @@ Verhältniswahlrechtes	Verhältniswahlrecht
 aller	aller
 nach	nach
 den	der
-Landtagsordnungenwahlberechtigten	Landtagsordnungenwahlberechtigt
+Landtagsordnungen	Landtagsordnung
+w	w
+ahlberechtigten	ahlberechtigt
 Bundesbürger	Bundesbürger
 ohne	ohne
 Unterschied	Unterschied
@@ -6268,7 +6360,8 @@ Abschnitt	Abschnitt
 <head>
 Von	von
 der	der
-Rechnungskontrolledes	Rechnungskontrolledes
+Rechnungskontrolle	Rechnungskontrolle
+des	der
 Bundes	Bund
 <g/>
 .
@@ -6534,7 +6627,9 @@ Der	der
 Präsident	Präsident
 des	der
 Bundesrechnungshofes	Bundesrechnungshof
-verkehrtmit	verkehrtmien
+verkehr	verkehr
+t	t
+mit	mit
 dem	der
 Bundestag	Bundestag
 <g/>
@@ -6994,7 +7089,8 @@ berechtigt	berechtigen
 zur	zu
 Ueberprüfung	Ueberprüfung
 der	der
-Gebarunga	Gebarunga
+Gebarung	Gebarung
+a	a
 <g/>
 )
 die	der
@@ -7013,8 +7109,10 @@ u.s.w.	u.s.w.
 <g/>
 )
 zu	zu
+verlangen	verlangen
 <g/>
-verlangen;b
+;
+b	b
 <g/>
 )
 durch	durch
@@ -7037,7 +7135,10 @@ stehenden	stehend
 Behelfe	Behelfe
 Einschau	Einschau
 zu	zu
-nehmen;c	nehmen;c
+nehmen	nehmen
+<g/>
+;
+c	c
 <g/>
 )
 die	der
@@ -10909,11 +11010,12 @@ und	und
 für	für
 alle	aller
 Berufe	Beruf
-gewährleistet	gewährleisten
+gewährleiste	gewährleisten
+t	t
 <g/>
 .
 Alle	aller
-Abreden	Abrede
+Abreden	Abred
 und	und
 Maßnahmen	Maßnahme
 <g/>
@@ -11548,7 +11650,10 @@ Länder	Land
 <g/>
 ,
 die	der
-Landesverwaltungsgerichte;b	Landesverwaltungsgerichte;b
+Landesverwaltungsgerichte	Landesverwaltungsgericht
+<g/>
+;
+b	--
 <g/>
 )
 in	in
@@ -11798,8 +11903,10 @@ ordentlichen	ordentlich
 Gerichten	Gericht
 die	der
 Entscheidung	Entscheidung
+zusteht	zustehen
 <g/>
-zusteht.b
+.
+b	b
 <g/>
 )
 Angelegenheiten	Angelegenheit
@@ -11813,8 +11920,10 @@ zur	zu
 Kompetenz	Kompetenz
 des	der
 Bundesverfassungsgerichtes	Bundesverfassungsgericht
+gehören	gehören
 <g/>
-gehören.c
+.
+c	c
 <g/>
 )
 Angelegenheiten	Angelegenheit
@@ -11830,8 +11939,10 @@ nach	nach
 freiem	frei
 Ermessen	Ermessen
 vorzugehen	vorgehen
+haben	haben
 <g/>
-haben.d
+.
+d	d
 <g/>
 )
 Disziplinarangelegenheiten	Disziplinarangelegenheit
@@ -11956,7 +12067,8 @@ entscheidet	entscheiden
 ferner	ferner
 <g/>
 :
-Kompetenzkonfliktea	Kompetenzkonfliktea
+Kompetenzkonflikte	Kompetenzkonflikt
+a	a
 <g/>
 )
 zwischen	zwischen

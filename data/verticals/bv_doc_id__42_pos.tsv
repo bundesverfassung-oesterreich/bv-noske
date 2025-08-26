@@ -25,18 +25,34 @@ Anwesend	Anwesend
 <g/>
 :
 </p>
+	
 Dr.	Dr.
-OttoBauerals	OttoBaueral
-VorsitzenderSimonAbramDr	VorsitzenderSimonAbramDr
-.	.
-JosefAignerHeinrichClessinDr	JosefAignerHeinrichClessinDr
-.	.
-RobertDannebergJodokFinkKarlLeuthnerDr	RobertDannebergJodokFinkKarlLeuthnerDr
-.	.
-IgnazSeipelStaatssekretär	IgnazSeipelStaatssekretär
+Otto	Otto
+Bauer	Bauer
+als	als
+Vorsitzender	vorsitzend
+Simon	Simon
+Abram	Abram
+Dr.	Dr.
+Josef	Josef
+Aigner	Aigner
+Heinrich	Heinrich
+Clessin	Clessin
+Dr.	Dr.
+Robert	Robert
+Danneberg	Danneberg
+Jodok	Jodok
+Fink	Fink
+Karl	Karl
+Leuthner	Leuthner
+Dr.	Dr.
+Ignaz	Ignaz
+Seipel	Seipel
+Staatssekretär	Staatssekretär
 Prof.	Prof.
 Dr.	Dr.
-MichaelMayr	MichaelMayr
+Michael	Michael
+Mayr	Mayr
 <p>
 Von	von
 der	der
@@ -44,21 +60,32 @@ Staatskanzlei	Staatskanzlei
 <g/>
 :
 </p>
+	
 Ministerialrat	Ministerialrat
 Dr.	Dr.
-GeorgFroehlichSektionsrat	GeorgFroehlichSektionsrat
+Georg	Georg
+Froehlich	Froehlich
+Sektionsrat	Sektionsrat
 Dr.	Dr.
-HugoJäcklSektionsrat	HugoJäcklSektionsrat
+Hugo	Hugo
+Jäckl	Jäckl
+Sektionsrat	Sektionsrat
 Dr.	Dr.
-EgbertMannlicherMinisterialvizesekretär	EgbertMannlicherMinisterialvizesekretär
+Egbert	Egbert
+Mannlicher	Mannlicher
+Ministerialvizesekretär	Ministerialvizesekretär
 Dr.	Dr.
-KurtFriebergerals	KurtFriebergeral
+Kurt	Kurt
+Frieberger	Frieberger
+als	als
 Schriftführer	Schriftführer
 <g/>
 .
 Prof.	Prof.
 Dr.	Dr.
-HansKelsenals	HansKelsenal
+Hans	Hans
+Kelsen	Kelsen
+als	als
 Experte	Experte
 des	der
 Verfassungsausschusses	Verfassungsausschuß
@@ -83,7 +110,9 @@ Sitzung	Sitzung
 erhaltenen	erhalten
 Auftrages	Auftrag
 verfaßten	verfaßt
-Formulierungenmehrerer	Formulierungenmehrerer
+Formulierung	Formulierung
+en	en
+mehrerer	mehrere
 Artikel	Artikel
 vor	vor
 <g/>
@@ -313,7 +342,9 @@ wenn	wenn
 mehrere	mehrere
 Parteien	Partei
 die	der
-gleicheAnzahl	gleicheAnzahl
+gleich	gleich
+e	e
+Anzahl	Anzahl
 von	von
 Sitzen	Sitz
 haben	haben
@@ -602,8 +633,10 @@ wird	werden
 <g/>
 ,
 bringt	bringen
-derVorsitzendeden	derVorsitzendeden
-hiefür	Hiefür
+der	der
+Vorsitzende	vorsitzend
+den	der
+hiefür	hiefür
 maßgebenden	maßgebend
 Art	Art
 .	.
@@ -762,7 +795,8 @@ des	der
 Abg	Abg
 <g/>
 .
-Leuthnergegen	Leuthnergegen
+Leuthner	Leuthner
+gegen	gegen
 die	der
 Oeffentlichkeit	Oeffentlichkeit
 und	und
@@ -787,9 +821,10 @@ berücksichtigt	berücksichtigen
 Auch	auch
 Art	Art
 .	.
-28Abs	28Abs
-.	.
-3wird	3wird
+28	28
+Abs.	Abs.
+3	3
+wird	werden
 in	in
 der	der
 vorgelegten	vorgelegt
@@ -856,7 +891,9 @@ Ausschüsse	Ausschuß
 “
 </p>
 <p>
-DerVorsitzendestellt	DerVorsitzendestellt
+Der	der
+Vorsitzende	vorsitzend
+stellt	stellen
 fest	fest
 <g/>
 ,
@@ -994,7 +1031,9 @@ Wechselrede	Wechselrede
 in	in
 deren	der
 Verlauf	Verlauf
-derVorsitzendeden	derVorsitzendeden
+der	der
+Vorsitzende	vorsitzend
+den	der
 Grundsatz	Grundsatz
 der	der
 relativen	relativ
@@ -1025,7 +1064,8 @@ erklärt	erklären
 und	und
 Prof.	Prof.
 Dr.	Dr.
-Kelsenzu	Kelsenzu
+Kelsen	Kelsen
+zu	zu
 bedenken	bedenken
 gibt	geben
 <g/>
@@ -1055,9 +1095,11 @@ Dr.	Dr.
 Danneberg	Danneberg
 <g/>
 ,
-Finkund	Finkund
+Fink	Fink
+und	und
 Dr.	Dr.
-Seipeldas	Seipelda
+Seipel	Seipel
+das	der
 französische	französisch
 Beispiel	Beispiel
 gewählt	wählen
@@ -1231,7 +1273,8 @@ ergibt	ergeben
 </p>
 <p>
 Dr.	Dr.
-Dannebergmacht	Dannebergmacht
+Danneberg	Danneberg
+macht	machen
 aufmerksam	aufmerksam
 <g/>
 ,
@@ -1254,7 +1297,8 @@ wäre	sein
 Abg	Abg
 <g/>
 .
-Abramreferiert	Abramreferiern
+Abram	Abram
+referiert	referieren
 hierauf	hierauf
 über	über
 den	der
@@ -1360,7 +1404,9 @@ Bei	bei
 Bildung	Bildung
 der	der
 Kreisgemeinden	Kreisgemeinde
-müssemansich	müssemansich
+müsse	müssen
+man	man
+sich	sich
 nach	nach
 seiner	sein
 persönlichen	persönlich
@@ -1520,7 +1566,9 @@ Bezirke	Bezirk
 .
 </p>
 <p>
-DerVorsitzendestellt	derVorsitzendestellt
+Der	der
+Vorsitzende	vorsitzend
+stellt	stellen
 fest	fest
 <g/>
 ,
@@ -1630,7 +1678,8 @@ werden	werden
 </p>
 <p>
 Dr.	Dr.
-Seipelschließt	Seipelschließt
+Seipel	Seipel
+schließt	schließen
 sich	sich
 dem	der
 Vorschlag	Vorschlag
@@ -1865,7 +1914,9 @@ Gesetze	Gesetz
 .
 </p>
 <p>
-DerVorsitzendepflichtet	DerVorsitzendepflichtet
+Der	der
+Vorsitzende	vorsitzend
+pflichtet	pflichten
 dem	der
 Vorredner	Vorredner
 bei	bei
@@ -2616,7 +2667,9 @@ aufzunehmen	aufnehmen
 .
 Nach	nach
 dem	der
-englischen	englisch
+engli	engli
+s	s
+chen	chen
 Prinzip	Prinzip
 des	der
 <g/>
@@ -2696,7 +2749,9 @@ formulieren	formulieren
 <g/>
 ,
 betrachtet	betrachten
-derVorsitzendeals	derVorsitzendeal
+der	der
+Vorsitzende	vorsitzend
+als	als
 Vorschlag	Vorschlag
 <g/>
 ,
@@ -2715,11 +2770,12 @@ Beilagen	Beilage
 <g/>
 )
 artikelweise	artikelweise
-durchzugehen	durchgehen
+durchzugehen	durchzugehen
 <g/>
 .
 Dr.	Dr.
-Seipelwürde	Seipelwürde
+Seipel	Seipel
+würde	werden
 als	als
 Einleitung	Einleitung
 Art	Art
@@ -2757,7 +2813,8 @@ selbständig	selbständig
 <g/>
 “
 Dr.	Dr.
-Dannebergwäre	Dannebergwäre
+Danneberg	Danneberg
+wäre	sein
 einverstanden	einverstanden
 <g/>
 ,
@@ -2796,7 +2853,8 @@ Antrag	Antrag
 des	der
 Staatssekretärs	Staatssekretär
 Dr.	Dr.
-Mayrnoch	Mayrnoch
+Mayr	Mayr
+noch	noch
 nicht	nicht
 zu	zu
 formulieren	formulieren
@@ -2824,7 +2882,8 @@ B.	B.
 )
 meint	meinen
 Dr.	Dr.
-Seipeldaß	Seipeldaß
+Seipel	Seipel
+daß	daß
 eine	ein
 Einteilung	Einteilung
 in	in
@@ -2843,7 +2902,9 @@ würde	werden
 .
 Hiegegen	Hiegegen
 macht	machen
-derVorsitzendegeltend	derVorsitzendegeltend
+der	der
+Vorsitzende	vorsitzend
+geltend	geltend
 <g/>
 ,
 daß	daß
@@ -2873,7 +2934,8 @@ muß	müssen
 .
 Staatssekretär	Staatssekretär
 Dr.	Dr.
-Mayrgibt	Mayrgibt
+Mayr	Mayr
+gibt	geben
 seiner	sein
 Anschauung	Anschauung
 Ausdruck	Ausdruck
@@ -2913,7 +2975,8 @@ Wirkungskreise	Wirkungskreis
 .
 Auch	auch
 Dr.	Dr.
-Seipelist	Seipelist
+Seipel	Seipel
+ist	sein
 der	der
 Anschauung	Anschauung
 <g/>
@@ -2975,10 +3038,13 @@ tragen	tragen
 <g/>
 ,
 sind	sein
-derVorsitzendeund	derVorsitzendeund
+der	der
+Vorsitzende	vorsitzend
+und	und
 Staatssekretär	Staatssekretär
 Dr.	Dr.
-Mayrentgegengesetzter	Mayrentgegengesetzter
+Mayr	Mayr
+entgegengesetzter	entgegengesetzt
 Meinung	Meinung
 <g/>
 .
@@ -3006,7 +3072,8 @@ müsse	müssen
 </p>
 <p>
 Dr.	Dr.
-Seipelgibt	Seipelgibt
+Seipel	Seipel
+gibt	geben
 die	der
 Zustimmung	Zustimmung
 seiner	sein
@@ -3029,7 +3096,9 @@ werden	werden
 darf	dürfen
 <g/>
 .
-DerVorsitzendestellt	DerVorsitzendestellt
+Der	der
+Vorsitzende	vorsitzend
+stellt	stellen
 fest	fest
 <g/>
 ,
@@ -3053,11 +3122,13 @@ Art	Art
 verhält	verhalen
 sich	sich
 Dr.	Dr.
-Seipelablehnend	Seipelablehnend
+Seipel	Seipel
+ablehnend	ablehnend
 und	und
 Staatssekretär	Staatssekretär
 Dr.	Dr.
-Mayrerklärt	Mayrerklärt
+Mayr	Mayr
+erklärt	erklären
 <g/>
 :
 </p>
@@ -3134,7 +3205,9 @@ bildet	bilden
 <p>
 Dem	der
 hält	halten
-derVorsitzendeentgegen	derVorsitzendeentgegen
+der	der
+Vorsitzende	vorsitzend
+entgegen	entgegen
 <g/>
 ,
 daß	daß
@@ -3158,7 +3231,8 @@ sei	sein
 <p>
 Prof.	Prof.
 Dr.	Dr.
-Kelsenstellt	Kelsenstellt
+Kelsen	Kelsen
+stellt	stellen
 fest	fest
 <g/>
 ,
@@ -3252,7 +3326,9 @@ schreiten	schreiten
 könne	können
 <g/>
 .
-AbgeordneterClessinbefürchtet	AbgeordneterClessinbefürchtet
+Abgeordneter	abgeordneter
+Clessin	Clessin
+befürchtet	befürchten
 den	der
 Mangel	Mangel
 genügender	genügend
@@ -3279,7 +3355,9 @@ Verwaltung	Verwaltung
 einführen	einführen
 <g/>
 .
-DerVorsitzendeerklärt	DerVorsitzendeerklären
+Der	der
+Vorsitzende	vorsitzend
+erklärt	erklären
 <g/>
 ,
 daß	daß
@@ -3333,7 +3411,8 @@ erfolge	erfolgen
 Abg	Abg
 <g/>
 .
-Clessinkritisiert	Clessinkritisieren
+Clessin	Clessin
+kritisiert	kritisieren
 die	der
 Stellung	Stellung
 der	der
@@ -3341,7 +3420,7 @@ heutigen	heutig
 gewählten	gewählt
 Bürgermeister	Bürgermeister
 in	in
-Statutargemeinden	Statutargemeinde
+Statutargemeinden	Statutargemeind
 <g/>
 ,
 die	der
@@ -3413,7 +3492,8 @@ sich	sich
 </p>
 <p>
 Dr.	Dr.
-Dannebergbetont	Dannebergbetont
+Danneberg	Danneberg
+betont	betonen
 <g/>
 ,
 daß	daß
@@ -3451,7 +3531,8 @@ wären	sein
 .
 Staatssekretär	Staatssekretär
 Dr.	Dr.
-Mayrnimmt	Mayrnimmt
+Mayr	Mayr
+nimmt	nehmen
 gegen	gegen
 ein	ein
 etwaiges	etwaig
@@ -3479,7 +3560,9 @@ finden	finden
 könne	können
 <g/>
 .
-DerVorsitzendeerklärt	DerVorsitzendeerklärt
+Der	der
+Vorsitzende	vorsitzend
+erklärt	erklären
 sich	sich
 ohneweiteres	ohneweiteres
 bereit	bereit
@@ -3495,7 +3578,7 @@ nur	nur
 ein	ein
 fachlich	fachlich
 ausgebildeter	ausgebildet
-Berufsbeamter	Berufsbeamter
+Berufsbeamter	Berufsbeamte
 gewählt	wählen
 werden	werden
 kann	können
@@ -3506,7 +3589,8 @@ kann	können
 Abg	Abg
 <g/>
 .
-Clessinbeantragt	Clessinbeantragn
+Clessin	Clessin
+beantragt	beantragen
 Präsentation	Präsentation
 des	der
 Kreishauptmannes	Kreishauptmann
@@ -3530,7 +3614,8 @@ und	und
 dem	der
 Antrage	Antrag
 des	der
-BerichterstattersAbram	BerichterstattersAbram
+Berichterstatters	Berichterstatter
+Abram	Abram
 <g/>
 ,
 daß	daß
@@ -3550,7 +3635,8 @@ des	der
 Abg	Abg
 .	.
 Dr.	Dr.
-Seipelangenommen	Seipelangenommen
+Seipel	Seipel
+angenommen	annehmen
 <g/>
 :
 Eine	ein
@@ -3575,7 +3661,8 @@ Sekt	Sekt
 .
 Rat	Rat
 Dr.	Dr.
-Mannlichermeint	Mannlichermeint
+Mannlicher	Mannlicher
+meint	meinen
 unter	unter
 Hinweis	Hinweis
 auf	auf
@@ -3622,7 +3709,9 @@ werden	werden
 .
 Daraufhin	daraufhin
 lädt	laden
-derVorsitzendedie	derVorsitzendedie
+der	der
+Vorsitzende	vorsitzend
+die	der
 Staatskanzlei	Staatskanzlei
 ein	ein
 mit	mit
@@ -3663,7 +3752,8 @@ worden	werden
 Der	der
 Staatssekretär	Staatssekretär
 Dr.	Dr.
-Mayrerwähnt	Mayrerwähnt
+Mayr	Mayr
+erwähnt	erwähnen
 hiezu	hiezu
 <g/>
 ,
@@ -3691,7 +3781,8 @@ Art	Art
 bis	bis
 100	100
 bemerkt	bemerken
-derVorsitzende	derVorsitzende
+der	der
+Vorsitzende	vorsitzend
 <g/>
 ,
 daß	daß
@@ -3714,7 +3805,8 @@ belassen	belassen
 </p>
 <p>
 Dr.	Dr.
-Seipelverweist	Seipelverweist
+Seipel	Seipel
+verweist	verweisen
 auf	auf
 Art	Art
 .	.
@@ -3740,7 +3832,8 @@ Min	Min
 .	.
 Rat	Rat
 Dr.	Dr.
-Froehlicherläutert	Froehlicherläutert
+Froehlich	Froehlich
+erläutert	erläutern
 <g/>
 ,
 wegen	wegen
@@ -3782,7 +3875,8 @@ des	der
 Abg	Abg
 <g/>
 .
-Clessinzur	Clessinzur
+Clessin	Clessin
+zur	zu
 Annahme	Annahme
 <g/>
 :
@@ -3892,9 +3986,11 @@ Antrag	Antrag
 die	der
 Stellung	Stellung
 von	von
-Kreis-	Kreis
+Kreis	Kreis
+-	
 oder	oder
-Bezirksgemeindenzu	Bezirksgemeindenzu
+Bezirksgemeinden	Bezirksgemeinde
+zu	zu
 verleihen	verleihen
 <g/>
 .
@@ -3952,7 +4048,8 @@ beantragt	beantragen
 Abg	Abg
 <g/>
 .
-Clessinzum	Clessinzum
+Clessin	Clessin
+zum	zu
 Schutze	Schutz
 der	der
 Gemeinden	Gemeinde
@@ -4016,7 +4113,9 @@ auszuschreiben	ausschreiben
 .
 </p>
 <p>
-DerVorsitzendeerörtert	DerVorsitzendeerörtert
+Der	der
+Vorsitzende	vorsitzend
+erörtert	erörtern
 bei	bei
 Beratung	Beratung
 dieses	dieser
@@ -4073,13 +4172,14 @@ sprechen	sprechen
 <g/>
 .
 Dr.	Dr.
-Seipelmacht	Seipelmacht
+Seipel	Seipel
+macht	machen
 aufmerksam	aufmerksam
 <g/>
 ,
 daß	daß
 im	in
-Rennerschen	Rennerscher
+Rennerschen	Rennerschen
 Entwurfe	Entwurf
 Art	Art
 .	.
@@ -4099,7 +4199,9 @@ womit	womit
 jedoch	jedoch
 nach	nach
 Anschauung	Anschauung
-desVorsitzendenwohl	desVorsitzendenwohl
+des	der
+Vorsitzenden	vorsitzend
+wohl	wohl
 nur	nur
 eine	ein
 Art	Art
@@ -4122,7 +4224,8 @@ von	von
 Bezirkshauptmännern	Bezirkshauptmann
 hält	halten
 Dr.	Dr.
-Seipelgegenwärtig	Seipelgegenwärtig
+Seipel	Seipel
+gegenwärtig	gegenwärtig
 für	für
 sehr	sehr
 gefährlich	gefährlich
@@ -4144,7 +4247,9 @@ beizubehalten	beibehalten
 wären	sein
 <g/>
 .
-DerVorsitzendenimmt	DerVorsitzendenimmt
+Der	der
+Vorsitzende	vorsitzend
+nimmt	nehmen
 an	an
 <g/>
 ,
@@ -4186,7 +4291,8 @@ werden	werden
 <g/>
 .
 Dr.	Dr.
-Dannebergist	Dannebergist
+Danneberg	Danneberg
+ist	sein
 der	der
 Überzeugung	Überzeugung
 <g/>
@@ -4259,7 +4365,9 @@ geschaffen	schaffen
 .
 </p>
 <p>
-DerVorsitzendeerwähnt	DerVorsitzendeerwähnt
+Der	der
+Vorsitzende	vorsitzend
+erwähnt	erwähnen
 <g/>
 ,
 daß	daß
@@ -4445,9 +4553,11 @@ bleiben	bleiben
 </p>
 <p>
 Abg	Abg
-.	.
+<g/>
+.
 Dr.	Dr.
-Seipelmacht	Seipelmacht
+Seipel	Seipel
+macht	machen
 darauf	darauf
 aufmerksam	aufmerksam
 <g/>
@@ -4475,7 +4585,8 @@ Sekt	Sekt
 .
 Rat	Rat
 Dr.	Dr.
-Mannlicherfindet	Mannlicherfindet
+Mannlicher	Mannlicher
+findet	finden
 es	es
 notwendig	notwendig
 <g/>
@@ -4515,7 +4626,8 @@ erforderlich	erforderlich
 .
 Prof.	Prof.
 Dr.	Dr.
-Kelsenist	Kelsenist
+Kelsen	Kelsen
+ist	sein
 der	der
 Änsicht	Änsicht
 <g/>
@@ -4552,7 +4664,8 @@ könnte	können
 Abg	Abg
 <g/>
 .
-Finkerörtert	Finkerörtert
+Fink	Fink
+erörtert	erörtern
 Schwierigkeiten	Schwierigkeit
 in	in
 der	der
@@ -4615,7 +4728,9 @@ kurz	kurz
 .
 </p>
 <p>
-DerVorsitzendebetont	DerVorsitzendebetonen
+Der	der
+Vorsitzende	vorsitzend
+betont	betonen
 <g/>
 ,
 daß	daß
@@ -4828,7 +4943,8 @@ noch	noch
 unerledigten	unerledigt
 Teile	Teil
 des	der
-ReferatesAbram	ReferatesAbram
+Referates	Referat
+Abram	Abram
 <g/>
 .
 Nach	nach

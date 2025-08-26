@@ -25,22 +25,41 @@ Anwesend	Anwesend
 <g/>
 :
 </p>
+	
 Dr.	Dr.
-OttoBauerals	OttoBaueral
-VorsitzenderPräsident	VorsitzenderPräsident
-KarlSeitzDr	KarlSeitzDr
-.	.
-JosefAignerHeinrichClessinDr	JosefAignerHeinrichClessinDr
-.	.
-RobertDannebergMichaelElderschJodokFinkKarlLeuthnerProf	RobertDannebergMichaelElderschJodokFinkKarlLeuthnerProf
-.	.
+Otto	Otto
+Bauer	Bauer
+als	als
+Vorsitzender	vorsitzend
+Präsident	Präsident
+Karl	Karl
+Seitz	Seitz
 Dr.	Dr.
-IgnazSeipelDr	IgnazSeipelDr
-.	.
-RichardWeiskirchnerStaatssekretär	RichardWeiskirchnerStaatssekretär
+Josef	Josef
+Aigner	Aigner
+Heinrich	Heinrich
+Clessin	Clessin
+Dr.	Dr.
+Robert	Robert
+Danneberg	Danneberg
+Michael	Michael
+Eldersch	Eldersch
+Jodok	Jodok
+Fink	Fink
+Karl	Karl
+Leuthner	Leuthner
 Prof.	Prof.
 Dr.	Dr.
-MichaelMayr	MichaelMayr
+Ignaz	Ignaz
+Seipel	Seipel
+Dr.	Dr.
+Richard	Richard
+Weiskirchner	Weiskirchner
+Staatssekretär	Staatssekretär
+Prof.	Prof.
+Dr.	Dr.
+Michael	Michael
+Mayr	Mayr
 <p>
 Von	von
 der	der
@@ -48,17 +67,26 @@ Staatskanzlei	Staatskanzlei
 <g/>
 :
 </p>
+	
 Ministerialrat	Ministerialrat
 Dr.	Dr.
-GeorgFroehlichSektionsrat	GeorgFroehlichSektionsrat
+Georg	Georg
+Froehlich	Froehlich
+Sektionsrat	Sektionsrat
 Dr.	Dr.
-EgbertMannlicherMinisterialvizesekretär	EgbertMannlicherMinisterialvizesekretär
+Egbert	Egbert
+Mannlicher	Mannlicher
+Ministerialvizesekretär	Ministerialvizesekretär
 Dr.	Dr.
-KurtFriebergerals	KurtFriebergeral
-SchriftführerProf	SchriftführerProf
-.	.
+Kurt	Kurt
+Frieberger	Frieberger
+als	als
+Schriftführer	Schriftführer
+Prof.	Prof.
 Dr.	Dr.
-HansKelsenals	HansKelsenal
+Hans	Hans
+Kelsen	Kelsen
+als	als
 Experte	Experte
 des	der
 Verfassungsausschusses	Verfassungsausschuß
@@ -68,7 +96,9 @@ Beginn	Beginn
 der	der
 Sitzung	Sitzung
 teilt	teilen
-derVorsitzendemit	derVorsitzendemit
+der	der
+Vorsitzende	vorsitzend
+mit	mit
 <g/>
 ,
 daß	daß
@@ -175,7 +205,9 @@ Bei	bei
 Artikel	Artikel
 73	73
 stellt	stellen
-derVorsitzendedie	derVorsitzendedie
+der	der
+Vorsitzende	vorsitzend
+die	der
 Uebereinstimmung	Uebereinstimmung
 fest	fest
 <g/>
@@ -189,7 +221,12 @@ des	der
 Absatzes	Absatz
 zu	zu
 lauten	lauten
-hat:„Ausnahmsgerichte	hat:„Ausnahmsgericht
+hat	haben
+<g/>
+:
+<g/>
+„
+Ausnahmsgerichte	Ausnahmsgericht
 sind	sein
 nur	nur
 in	in
@@ -199,8 +236,12 @@ der	der
 Strafprozeßordnung	Strafprozeßordnung
 geregelten	geregelt
 Fällen	Fall
+zulässig	zulässig
 <g/>
-zulässig.“Zu
+.
+<g/>
+“
+Zu	zu
 Artikel	Artikel
 76	76
 liegt	liegen
@@ -250,7 +291,8 @@ Abstimmung	Abstimmung
 Nach	nach
 Prof.	Prof.
 Dr.	Dr.
-Seipelhandle	Seipelhandle
+Seipel	Seipel
+handle	handeln
 es	es
 sich	sich
 hier	hier
@@ -273,7 +315,9 @@ behandeln	behandeln
 sind	sein
 <g/>
 .
-DerVorsitzendewünscht	DerVorsitzendewünscht
+Der	der
+Vorsitzende	vorsitzend
+wünscht	wünschen
 auch	auch
 eine	ein
 neue	neu
@@ -335,6 +379,7 @@ lauten	lauten
 :
 </p>
 <p>
+	
 <g/>
 „
 <g/>
@@ -384,7 +429,8 @@ ihnen	ihnen
 nach	nach
 dem	der
 Ergebnis	Ergebnis
-derletzten	derletzter
+der	der
+letzten	letzter
 Volkszählung	Volkszählung
 ihren	ihr
 Wohnsitz	Wohnsitz
@@ -464,16 +510,20 @@ Unterausschuß	Unterausschuß
 <g/>
 ,
 daß	daß
-dieFrist	dieFrist
+die	der
+Frist	Frist
 für	für
 Einsprüche	Einspruch
 der	der
-Bundesregierunggegen	Bundesregierunggegen
+Bundesregierung	Bundesregierung
+gegen	gegen
 Gesetzesbeschlüsse	Gesetzesbeschluß
 der	der
 Landtage	Landtag
-mit8	mit8
-Wochenfestzusetzen	Wochenfestzusetzen
+mit	mit
+8	8
+Wochen	Woche
+festzusetzen	festsetzen
 sei	sein
 <g/>
 .
@@ -482,7 +532,9 @@ sei	sein
 Der	der
 Minderheitsantrag	Minderheitsantrag
 des	der
-AbgeordnetenLeuthnerzu	AbgeordnetenLeuthnerzu
+Abgeordneten	abgeordneter
+Leuthner	Leuthner
+zu	zu
 Artikel	Artikel
 88	88
 wird	werden
@@ -508,9 +560,16 @@ Antrag	Antrag
 des	der
 Abgeordneten	abgeordneter
 Dr.	Dr.
-Seipelzu	Seipelzu
+Seipel	Seipel
+zu	zu
+lauten	lauten
 <g/>
-lauten:„(4
+:
+<g/>
+„
+<g/>
+(
+4	4
 <g/>
 )
 Der	der
@@ -533,8 +592,12 @@ Landeshauptmann	Landeshauptmann
 auf	auf
 die	der
 Verfassung	Verfassung
+angelobt	anloben
 <g/>
-angelobt“.Auf
+“
+<g/>
+.
+Auf	auf
 das	der
 Minderheitsvotum	Minderheitsvotum
 zu	zu
@@ -569,7 +632,9 @@ werden	werden
 <p>
 Hierauf	hierauf
 verliest	verliest
-derVorsitzendeeine	derVorsitzendeeine
+der	der
+Vorsitzende	vorsitzend
+eine	ein
 Formulierung	Formulierung
 des	der
 Artikels	Artikel
@@ -592,7 +657,8 @@ Sekt	Sekt
 Rat	Rat
 .	.
 Dr.	Dr.
-Mannlicherbemerkt	Mannlicherbemerkt
+Mannlicher	Mannlicher
+bemerkt	bemerken
 <g/>
 ,
 daß	daß
@@ -741,7 +807,8 @@ wünscht	wünschen
 wie	wie
 Ministerialrat	Ministerialrat
 Dr.	Dr.
-Froehlichmitteilt	Froehlichmitteilt
+Froehlich	Froehlich
+mitteilt	mitteilen
 <g/>
 ,
 das	der
@@ -789,7 +856,8 @@ Aufnahme	Aufnahme
 gebeten	bitten
 <g/>
 ,
-dennArbeiterrecht	dennArbeiterrecht
+denn	denn
+Arbeiterrecht	Arbeiterrecht
 und	und
 Arbeiterschutz	Arbeiterschutz
 greifen	greifen
@@ -833,7 +901,9 @@ Angestelltenschutz	Angestelltenschutz
 sagen	sagen
 <g/>
 .
-DerVorsitzendesieht	DerVorsitzendesieht
+Der	der
+Vorsitzende	vorsitzend
+sieht	sehen
 die	der
 praktische	praktisch
 Durchführung	Durchführung
@@ -841,7 +911,11 @@ darin	darin
 <g/>
 ,
 daß	daß
-mandieGewerbeinspektorenmit	mandieGewerbeinspektorenmit
+man	man
+die	der
+Gewerbeinspektor	Gewerbeinspektor
+en	en
+mit	mit
 allen	aller
 einschlägigen	einschlägig
 Agenden	Agende
@@ -862,7 +936,8 @@ Min	Min
 Rat	Rat
 .	.
 Dr.	Dr.
-Froehlichbetont	Froehlichbetont
+Froehlich	Froehlich
+betont	betonen
 <g/>
 ,
 außerordentliche	außerordentlich
@@ -934,7 +1009,8 @@ die	der
 Bauangelegenheiten	Bauangelegenheit
 <g/>
 ,
-derGesundheits-	derGesundheits
+der	der
+Gesundheits-	Gesundheit
 <g/>
 ,
 Veterinär-	Veterinär
@@ -954,7 +1030,8 @@ Verwaltung	Verwaltung
 <p>
 Prof.	Prof.
 Dr.	Dr.
-Seipelwünscht	Seipelwünscht
+Seipel	Seipel
+wünscht	wünschen
 Feststellung	Feststellung
 <g/>
 ,
@@ -1065,7 +1142,8 @@ Sekt	Sekt
 Rat	Rat
 .	.
 Dr.	Dr.
-Mannlichererwähnt	Mannlichererwähnt
+Mannlicher	Mannlicher
+erwähnt	erwähnen
 <g/>
 ,
 daß	daß
@@ -1201,7 +1279,8 @@ Arbeiterrechtes	Arbeiterrecht
 Staatssekretär	Staatssekretär
 Prof.	Prof.
 Dr.	Dr.
-Mayrerklärt	Mayrerklärt
+Mayr	Mayr
+erklärt	erklären
 <g/>
 ,
 daß	daß
@@ -1234,7 +1313,9 @@ Leuten	Leute
 mangelt	mangeln
 <g/>
 .
-AbgeordneterFinkwünscht	AbgeordneterFinkwünscht
+Abgeordneter	abgeordneter
+Fink	Fink
+wünscht	wünschen
 im	in
 Berichte	Bericht
 eine	ein
@@ -1244,7 +1325,9 @@ Erklärung	Erklärung
 die	der
 Kompetenz	Kompetenz
 in	in
-Fragendes	Fragendes
+Fr	Fr
+agen	agen
+des	der
 Arbeiterrechtes	Arbeiterrecht
 und	und
 Arbeiterschutzes	Arbeiterschutz
@@ -1267,12 +1350,14 @@ beschlossen	beschließen
 :
 </p>
 <p>
+	
 <g/>
 „
 Artikel	Artikel
 92.	92.
 </p>
 <p>
+	
 <g/>
 (
 1	1
@@ -1318,6 +1403,7 @@ ausgeübt	ausüben
 .
 </p>
 <p>
+	
 <g/>
 (
 2	2
@@ -1338,12 +1424,14 @@ des	der
 Bundesunmittelbar	Bundesunmittelbar
 durch	durch
 Bundesbehörden	Bundesbehörde
-versehen	versehen
+ver	ver
+sehen	sehen
 werden	werden
 <g/>
 :
 </p>
 <p>
+	
 Waren	Ware
 und	und
 Viehverkehr	Viehverkehr
@@ -1466,6 +1554,7 @@ Denkmalschutz	Denkmalschutz
 .
 </p>
 <p>
+	
 <g/>
 (
 3	3
@@ -1500,6 +1589,7 @@ beauftragen	beauftragen
 .
 </p>
 <p>
+	
 <g/>
 (
 4	4
@@ -1531,6 +1621,7 @@ erfolgen	erfolgen
 .
 </p>
 <p>
+	
 <g/>
 (
 5	5
@@ -1585,6 +1676,7 @@ Bundesministerien	Bundesministerium
 .
 </p>
 <p>
+	
 Art	Art
 .	.
 92	92
@@ -1663,7 +1755,9 @@ folgenden	folgend
 5.	5.
 Hauptstück	Hauptstück
 bemerkt	bemerken
-derVorsitzendedaß	derVorsitzendedaß
+der	der
+Vorsitzende	vorsitzend
+daß	daß
 prinzipielle	prinzipiell
 Fragen	Frage
 offen	offen
@@ -1694,7 +1788,9 @@ größeren	groß
 Ländern	Land
 Stellung	Stellung
 genommen	nehmen
-haben	haben
+<g/>
+ha
+ben	ben
 <g/>
 ;
 ferner	ferner
@@ -1841,7 +1937,8 @@ b	b
 beantragt	beantragen
 Prof.	Prof.
 Dr.	Dr.
-Seipeldie	Seipeldie
+Seipel	Seipel
+die	der
 Streichung	Streichung
 der	der
 <g/>
@@ -1853,7 +1950,8 @@ Kreise	Kreis
 ,
 was	wer
 Dr.	Dr.
-Dannebergfür	Dannebergfür
+Danneberg	Danneberg
+für	für
 unannehmbar	unannehmbar
 erklärt	erklären
 <g/>
@@ -1890,7 +1988,9 @@ können	können
 .
 </p>
 <p>
-DerVorsitzendemeint	DerVorsitzendemeint
+Der	der
+Vorsitzende	vorsitzend
+meint	meinen
 <g/>
 ,
 daß	daß
@@ -1929,7 +2029,9 @@ abhängig	abhängig
 machen	machen
 <g/>
 .
-PräsidentSeitzerklärt	PräsidentSeitzerklärt
+Präsident	Präsident
+Seitz	Seitz
+erklärt	erklären
 <g/>
 ,
 daß	daß
@@ -1989,7 +2091,8 @@ betrachten	betrachten
 .
 Prof.	Prof.
 Dr.	Dr.
-Seipelmeint	Seipelmeint
+Seipel	Seipel
+meint	meinen
 <g/>
 ,
 daß	daß
@@ -2020,7 +2123,9 @@ werden	werden
 könne	können
 <g/>
 .
-DerVorsitzendeerwähnt	DerVorsitzendeerwähnt
+Der	der
+Vorsitzende	vorsitzend
+erwähnt	erwähnen
 <g/>
 ,
 daß	daß
@@ -2096,6 +2201,7 @@ Artikel	Artikel
 b.	b.
 </p>
 <p>
+	
 <g/>
 (
 1	1
@@ -2124,6 +2230,7 @@ Gebietsgemeinden	Gebietsgemeinde
 .
 </p>
 <p>
+	
 <g/>
 (
 2	2
@@ -2148,7 +2255,8 @@ untergeordnet	untergeordnet
 Hiegegen	Hiegegen
 meldet	melden
 Dr.	Dr.
-Dannebergein	Dannebergein
+Danneberg	Danneberg
+ein	ein
 Minoritätsvotum	Minoritätsvotum
 an	an
 <g/>
@@ -2158,7 +2266,8 @@ an	an
 Ein	ein
 Antrag	Antrag
 des	der
-AbgeordnetenFink	AbgeordnetenFink
+Abgeordneten	abgeordneter
+Fink	Fink
 <g/>
 ,
 nur	nur
@@ -2190,7 +2299,8 @@ abgelehnt	ablehnen
 da	da
 Abgeordneter	abgeordneter
 Dr.	Dr.
-Dannebergnachweist	Dannebergnachweist
+Danneberg	Danneberg
+nachweist	nachweisen
 <g/>
 ,
 daß	daß
@@ -2313,10 +2423,16 @@ Ferner	ferner
 hat	haben
 der	der
 Beginn	Beginn
-desArtikels	desArtikel
-97dzu	97dzu
+des	der
+Artikels	Artikel
+97d	97d
+zu	zu
+lauten	lauten
 <g/>
-lauten:„Die
+:
+<g/>
+„
+Die	der
 Ortsgemeinden	Ortsgemeinde
 und	und
 Gebietsgemeinden	Gebietsgemeinde
@@ -2334,9 +2450,11 @@ Artikel	Artikel
 e	e
 meldet	melden
 Dr.	Dr.
-Dannebergein	Dannebergein
+Danneberg	Danneberg
+ein	ein
 soz.dem	soz.dem
-.	.
+<g/>
+.
 Minoritätsvotum	Minoritätsvotum
 bezüglich	bezüglich
 der	der
@@ -2349,7 +2467,8 @@ an	an
 .
 Prof.	Prof.
 Dr.	Dr.
-Seipelstellt	Seipelstellt
+Seipel	Seipel
+stellt	stellen
 fest	fest
 <g/>
 ,
@@ -2365,6 +2484,7 @@ hat	haben
 :
 </p>
 <p>
+	
 <g/>
 „
 <g/>
@@ -2467,7 +2587,9 @@ Amtsvorsteher	Amtsvorsteher
 .
 </p>
 <p>
-DerVorsitzendebemängelt	DerVorsitzendebemängelt
+Der	der
+Vorsitzende	vorsitzend
+bemängelt	bemängeln
 <g/>
 ,
 daß	daß
@@ -2520,7 +2642,9 @@ beschränken	beschränken
 .
 </p>
 <p>
-AbgeordneterClessinmeint	AbgeordneterClessinmeint
+Abgeordneter	abgeordneter
+Clessin	Clessin
+meint	meinen
 <g/>
 ,
 daß	daß
@@ -2545,7 +2669,9 @@ machen	machen
 können	können
 <g/>
 .
-PräsidentSeitzfindet	PräsidentSeitzfindet
+Präsident	Präsident
+Seitz	Seitz
+findet	finden
 den	der
 Vorschlag	Vorschlag
 des	der
@@ -2598,7 +2724,9 @@ eintreten	eintreten
 .
 </p>
 <p>
-AbgeordneterClessinverweist	AbgeordneterClessinverweist
+Abgeordneter	abgeordneter
+Clessin	Clessin
+verweist	verweisen
 auf	auf
 eine	ein
 ähnliche	ähnlich
@@ -2610,7 +2738,8 @@ Reich	Reich
 .
 Abgeordneter	abgeordneter
 Dr.	Dr.
-Weiskirchnermeint	Weiskirchnermeint
+Weiskirchner	Weiskirchner
+meint	meinen
 <g/>
 ,
 daß	daß
@@ -2652,7 +2781,9 @@ Saisonarbeiter	Saisonarbeiter
 waren	sein
 <g/>
 .
-AbgeordneterFinkhält	AbgeordneterFinkhält
+Abgeordneter	abgeordneter
+Fink	Fink
+hält	halten
 die	der
 Zahl	Zahl
 von	von
@@ -2713,7 +2844,9 @@ können	können
 .
 </p>
 <p>
-DerVorsitzendeerklärt	DerVorsitzendeerklären
+Der	der
+Vorsitzende	vorsitzend
+erklärt	erklären
 <g/>
 ,
 daß	daß
@@ -2743,7 +2876,8 @@ werden	werden
 soll	sollen
 <g/>
 .
-DieSonderbestimmung	DieSonderbestimmung
+Die	der
+Sonderbestimmung	Sonderbestimmung
 für	für
 Gemeinden	Gemeinde
 von	von
@@ -2757,7 +2891,9 @@ gestrichen	streichen
 .
 </p>
 <p>
-PräsidentSeitzführt	PräsidentSeitzführt
+Präsident	Präsident
+Seitz	Seitz
+führt	führen
 hierauf	hierauf
 aus	aus
 <g/>
@@ -2830,7 +2966,11 @@ deren	der
 Einfluß	Einfluß
 der	der
 fachlich	fachlich
-nichtVorgebildeteleicht	nichtVorgebildeteleicht
+nicht	nicht
+V	V
+orgebildet	orgebildet
+e	e
+leicht	leicht
 unterliegen	unterliegen
 kann	können
 <g/>
@@ -2871,7 +3011,8 @@ zustehen	zustehen
 .
 Prof.	Prof.
 Dr.	Dr.
-Seipelhält	Seipelhält
+Seipel	Seipel
+hält	halten
 diese	dieser
 Neuerung	Neuerung
 für	für
@@ -2883,7 +3024,7 @@ Minister	Minister
 und	und
 Landeshauptmann	Landeshauptmann
 seien	sein
-Volksbeauftragte	Volksbeauftragter
+Volksbeauftragte	Volksbeauftragte
 <g/>
 ,
 diese	dieser
@@ -2916,7 +3057,9 @@ ernannte	ernannt
 Landeshauptmänner	Landeshauptmann
 <g/>
 .
-AbgeordneterClessinfindet	AbgeordneterClessinfindet
+Abgeordneter	abgeordneter
+Clessin	Clessin
+findet	finden
 <g/>
 ,
 daß	daß
@@ -2978,7 +3121,8 @@ müßten	müssen
 </p>
 <p>
 Dr.	Dr.
-Weiskirchnerbefürchtet	Weiskirchnerbefürchten
+Weiskirchner	Weiskirchner
+befürchtet	befürchten
 <g/>
 ,
 daß	daß
@@ -2998,8 +3142,10 @@ wäre	sein
 ,
 weil	weil
 der	der
-Beamteauch	Beamteauch
-fürdie	fürdie
+Beamte	Beamter
+auch	auch
+für	für
+die	der
 nächste	nächster
 Wahl	Wahl
 die	der
@@ -3014,7 +3160,9 @@ müsse	müssen
 .
 </p>
 <p>
-DerVorsitzendelehnt	DerVorsitzendelehnen
+Der	der
+Vorsitzende	vorsitzend
+lehnt	lehnen
 den	der
 Gedanken	Gedanke
 der	der
@@ -3078,7 +3226,8 @@ wählen	wählen
 </p>
 <p>
 Dr.	Dr.
-Seipelmeint	Seipelmeint
+Seipel	Seipel
+meint	meinen
 <g/>
 ,
 daß	daß
@@ -3177,7 +3326,10 @@ bleibt	bleiben
 .
 In	in
 den	der
-Artikelndes5.	Artikelndes5.
+Artikel	Artikel
+n	n
+des	der
+5.	5.
 Hauptstückes	Hauptstück
 haben	haben
 die	der
@@ -3223,7 +3375,8 @@ Sekt	Sekt
 .
 Rat	Rat
 Dr.	Dr.
-Mannlicherdamit	Mannlicherdamit
+Mannlicher	Mannlicher
+damit	damit
 <g/>
 ,
 daß	daß
@@ -3277,7 +3430,8 @@ haben	haben
 <p>
 Prof.	Prof.
 Dr.	Dr.
-Kelsenbemerkt	Kelsenbemerkt
+Kelsen	Kelsen
+bemerkt	bemerken
 hiezu	hiezu
 <g/>
 ,
@@ -3334,7 +3488,8 @@ Sicherheitspolizei	Sicherheitspolizei
 </p>
 <p>
 Dr.	Dr.
-Bauererwähnt	Bauererwähnt
+Bauer	Bauer
+erwähnt	erwähnen
 auch	auch
 <g/>
 ,
@@ -3408,7 +3563,8 @@ Min	Min
 .	.
 Rat	Rat
 Dr.	Dr.
-Froehlichdies	Froehlichdie
+Froehlich	Froehlich
+dies	dieser
 für	für
 zu	zu
 starr	starr
@@ -3468,7 +3624,8 @@ seiner	sein
 Partei	Partei
 wäre	sein
 die	der
-Formulierungzu	Formulierungzu
+Formulierung	Formulierung
+zu	zu
 wählen	wählen
 <g/>
 :
@@ -3495,7 +3652,8 @@ ob	ob
 <g/>
 .
 Dr.	Dr.
-Dannebergerwähnt	Dannebergerwähnt
+Danneberg	Danneberg
+erwähnt	erwähnen
 hiebei	hiebei
 die	der
 Notwendigkeit	Notwendigkeit
@@ -3606,8 +3764,9 @@ Zustimmung	Zustimmung
 des	der
 Unterausschusses	Unterausschuß
 ersucht	ersuchen
-derVorsitzendeProf	derVorsitzendeProf
-.	.
+der	der
+Vorsitzende	vorsitzend
+Prof.	Prof.
 Dr.	Dr.
 Kelsen	Kelsen
 nach	nach
@@ -3629,7 +3788,8 @@ erstrecken	erstrecken
 </p>
 <p>
 Dr.	Dr.
-Dannebergwünscht	Dannebergwünscht
+Danneberg	Danneberg
+wünscht	wünschen
 in	in
 der	der
 Formulierung	Formulierung
@@ -3648,7 +3808,9 @@ anderes	anderer
 ersetzt	ersetzen
 <g/>
 .
-DerVorsitzendespricht	DerVorsitzendespricht
+Der	der
+Vorsitzende	vorsitzend
+spricht	sprechen
 sich	sich
 jedoch	jedoch
 dagegen	dagegen
@@ -3693,6 +3855,7 @@ an	an
 :
 </p>
 <p>
+	
 <g/>
 „
 Artikel	Artikel
@@ -3700,6 +3863,7 @@ Artikel	Artikel
 f.	f.
 </p>
 <p>
+	
 <g/>
 (
 1	1
@@ -3745,6 +3909,7 @@ ob	ob
 .
 </p>
 <p>
+	
 <g/>
 (
 2	2
@@ -3779,6 +3944,7 @@ Zuständigkeit	Zuständigkeit
 .
 </p>
 <p>
+	
 <g/>
 (
 3	3
@@ -3802,6 +3968,7 @@ gewährleistet	gewährleisten
 .
 </p>
 <p>
+	
 1.	1.
 <g/>
 )
@@ -3824,6 +3991,7 @@ Sicherheitspolizei	Sicherheitspolizei
 ;
 </p>
 <p>
+	
 2.	2.
 <g/>
 )
@@ -3834,6 +4002,7 @@ Rettungswesen	Rettungswesen
 ;
 </p>
 <p>
+	
 3.	3.
 <g/>
 )
@@ -3857,6 +4026,7 @@ Gemeinde	Gemeinde
 ;
 </p>
 <p>
+	
 4.	4.
 <g/>
 )
@@ -3866,6 +4036,7 @@ Straßenpolizei	Straßenpolizei
 ;
 </p>
 <p>
+	
 5.	5.
 <g/>
 )
@@ -3876,6 +4047,7 @@ Flurpolizei	Flurpolizei
 ;
 </p>
 <p>
+	
 6.	6.
 <g/>
 )
@@ -3886,6 +4058,7 @@ Lebensmittelpolizei	Lebensmittelpolizei
 ;
 </p>
 <p>
+	
 7.	7.
 <g/>
 )
@@ -3894,6 +4067,7 @@ Gesundheitspolizei	Gesundheitspolizei
 ;
 </p>
 <p>
+	
 8.	8.
 <g/>
 )
@@ -3908,7 +4082,8 @@ In	in
 Artikel	Artikel
 138	138
 werden	werden
-dieWorte	dieWort
+die	der
+Worte	Wort
 <g/>
 „
 des	der
@@ -3940,7 +4115,8 @@ Antrag	Antrag
 des	der
 Prof.	Prof.
 Dr.	Dr.
-Seipelanstatt	Seipelanstatt
+Seipel	Seipel
+anstatt	anstatt
 <g/>
 „
 Über	über
@@ -3969,7 +4145,8 @@ Artikeln	Artikel
 bemerkt	bemerken
 Prof.	Prof.
 Dr.	Dr.
-Kelsendaß	Kelsendaß
+Kelsen	Kelsen
+daß	daß
 eine	ein
 Reihe	Reihe
 von	von
@@ -3994,7 +4171,9 @@ Artikel	Artikel
 ein	ein
 Antrag	Antrag
 des	der
-AbgeordnetenLeuthnervorliege	AbgeordnetenLeuthnervorliege
+Abgeordneten	abgeordneter
+Leuthner	Leuthner
+vorliege	vorliegen
 <g/>
 ,
 dessen	dessen
@@ -4007,7 +4186,9 @@ notwendig	notwendig
 sei	sein
 <g/>
 .
-DerVorsitzendeerwähnt	DerVorsitzendeerwähnt
+Der	der
+Vorsitzende	vorsitzend
+erwähnt	erwähnen
 <g/>
 ,
 daß	daß
@@ -4045,10 +4226,12 @@ unterscheiden	unterscheiden
 dort	dort
 wo	wo
 der	der
-Verfassungsgerichtshofim	Verfassungsgerichtshofim
+Verfassungsgerichtshof	Verfassungsgerichtshof
+im	in
 Verlaufe	Verlauf
 eines	ein
-Verfahrensauf	Verfahrensauf
+Verfahrens	Verfahren
+auf	auf
 eine	ein
 andere	anderer
 Verordnung	Verordnung
@@ -4078,8 +4261,12 @@ einem	einer
 auch	auch
 hierüber	hierüber
 zu	zu
+entscheiden	entscheiden
 <g/>
-entscheiden.)Ganz
+.
+<g/>
+)
+Ganz	ganz
 anders	anders
 wäre	sein
 der	der
@@ -4113,11 +4300,15 @@ Abneigung	Abneigung
 Nachdem	nachdem
 er	er
 hierüber	hierüber
-einEinverständnisfestgestellt	einEinverständnisfestgestellt
+ein	ein
+Einverständnis	Einverständnis
+festgestellt	feststellen
 <g/>
 ,
 erwähnt	erwähnen
-derVorsitzendenoch	derVorsitzendenoch
+der	der
+Vorsitzende	vorsitzend
+noch	noch
 <g/>
 ,
 daß	daß
@@ -4161,8 +4352,12 @@ ist	sein
 auch	auch
 der	der
 Zusatz	Zusatz
+nachzutragen	nachtragen
 <g/>
-nachzutragen:„Das
+:
+<g/>
+„
+Das	der
 Bundesgesetz	Bundesgesetz
 über	über
 die	der

@@ -26,23 +26,28 @@ Anwesend	Anwesend
 <g/>
 :
 </p>
+	
 Dr.	Dr.
 Otto	Otto
 Bauer	Bauer
 als	als
-VorsitzenderSimon	VorsitzenderSimon
-AbramDr	AbramDr
-.	.
+Vorsitzender	vorsitzend
+Simon	Simon
+Abram	Abram
+Dr.	Dr.
 Josef	Josef
-AignerHeinrich	AignerHeinrich
-ClessinDr	ClessinDr
-.	.
+Aigner	Aigner
+Heinrich	Heinrich
+Clessin	Clessin
+Dr.	Dr.
 Robert	Robert
-DannebergJodok	DannebergJodok
-FinkDr	FinkDr
-.	.
+Danneberg	Danneberg
+Jodok	Jodok
+Fink	Fink
+Dr.	Dr.
 Ignaz	Ignaz
-SeipelStaatssekretär	SeipelStaatssekretär
+Seipel	Seipel
+Staatssekretär	Staatssekretär
 Prof.	Prof.
 Dr.	Dr.
 Michael	Michael
@@ -52,22 +57,26 @@ Von	von
 der	der
 Staatskanzlei	Staatskanzlei
 </p>
+	
 Ministerrat	Ministerrat
 Dr.	Dr.
 Georg	Georg
-FroehlichSektionsrat	FroehlichSektionsrat
+Froehlich	Froehlich
+Sektionsrat	Sektionsrat
 Dr.	Dr.
 Hugo	Hugo
-JäcklSektionsrat	JäcklSektionsrat
+Jäckl	Jäckl
+Sektionsrat	Sektionsrat
 Dr.	Dr.
 Egbert	Egbert
-MannlicherMinisterialvizesekretär	MannlicherMinisterialvizesekretär
+Mannlicher	Mannlicher
+Ministerialvizesekretär	Ministerialvizesekretär
 Dr.	Dr.
 Kurt	Kurt
 Frieberger	Frieberger
 als	als
-SchristführerProf	SchristführerProf
-.	.
+Schristführer	Schristführer
+Prof.	Prof.
 Dr.	Dr.
 Hans	Hans
 Kelsen	Kelsen
@@ -3917,13 +3926,14 @@ könnte	können
 Gegenüber	gegenüber
 einigen	einiger
 Vorschlägen	Vorschlag
-desVorsitzenden	desVorsitzenden
+des	der
+Vorsitzenden	vorsitzend
 <g/>
 ,
 daß	daß
 in	in
 reinen	rein
-Verwaltungsrechtssachen	Verwaltungsrechtssache
+Verwaltungsrechtssachen	Verwaltungsrechtssach
 der	der
 Instanzenzug	Instanzenzug
 durch	durch
@@ -4101,7 +4111,9 @@ Bundesinteressen	Bundesinteresse
 aufzustellen	aufstellen
 <g/>
 .
-DerVorsitzendemeint	DerVorsitzendemeint
+Der	der
+Vorsitzende	vorsitzend
+meint	meinen
 <g/>
 ,
 daß	daß
@@ -4158,7 +4170,7 @@ und	und
 hat	haben
 auch	auch
 in	in
-Ermessenssachen	Ermessenssach
+Ermessenssachen	Ermessenssache
 judiziert	judizieren
 <g/>
 .
@@ -4601,7 +4613,9 @@ heißt	heißen
 <g/>
 ,
 erklärt	erklären
-derVorsitzendedies	derVorsitzendedies
+der	der
+Vorsitzende	vorsitzend
+dies	dieser
 damit	damit
 <g/>
 ,
@@ -4638,7 +4652,9 @@ Bei	bei
 Artikel	Artikel
 151	151
 hebt	heben
-derVorsitzendehervor	derVorsitzendehervor
+der	der
+Vorsitzende	vorsitzend
+hervor	hervor
 <g/>
 ,
 daß	daß
@@ -4994,7 +5010,8 @@ Durchführung	Durchführung
 der	der
 Exekution	Exekution
 erklärt	erklären
-derVorsitzende	derVorsitzende
+der	der
+Vorsitzende	vorsitzend
 <g/>
 ,
 müsse	müssen
@@ -5529,7 +5546,9 @@ durch	durch
 .
 Auf	auf
 Antrag	Antrag
-desVorsitzendenführt	desVorsitzendenführt
+des	der
+Vorsitzenden	vorsitzend
+führt	führen
 der	der
 Unterausschuß	Unterausschuß
 auch	auch
@@ -5983,7 +6002,9 @@ werden	werden
 konnten	können
 <g/>
 .
-DerVorsitzendehält	DerVorsitzendehält
+Der	der
+Vorsitzende	vorsitzend
+hält	halten
 es	es
 für	für
 undurchführbar	undurchführbar
@@ -6043,7 +6064,9 @@ entfallen	entfallen
 könnten	können
 <g/>
 .
-DerVorsitzendeist	DerVorsitzendeist
+Der	der
+Vorsitzende	vorsitzend
+ist	sein
 jedoch	jedoch
 der	der
 Anschauung	Anschauung
@@ -6451,7 +6474,9 @@ Artikel	Artikel
 106	106
 auf	auf
 Antrag	Antrag
-desVorsitzendengekürzt	desVorsitzendengekürzt
+des	der
+Vorsitzenden	vorsitzend
+gekürzt	kürzen
 <g/>
 ,
 als	als
@@ -6655,7 +6680,8 @@ Verfassung	Verfassung
 wird	werden
 nach	nach
 Änsicht	Änsicht
-desVorsitzenden	desVorsitzenden
+des	der
+Vorsitzenden	vorsitzend
 <g/>
 ,
 da	da
@@ -6705,7 +6731,9 @@ werden	werden
 Dieses	dieser
 kann	können
 wie	wie
-derVorsitzendemeint	derVorsitzendemeint
+der	der
+Vorsitzende	vorsitzend
+meint	meinen
 <g/>
 ,
 bestimmen	bestimmen
@@ -6822,7 +6850,9 @@ Finanzen	Finanz
 .
 </p>
 <p>
-DerVorsitzendehält	DerVorsitzendehält
+Der	der
+Vorsitzende	vorsitzend
+hält	halten
 dies	dieser
 für	für
 überaus	überaus

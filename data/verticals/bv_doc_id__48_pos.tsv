@@ -28,21 +28,27 @@ Anwesend	Anwesend
 <g/>
 :
 </p>
+	
 Dr.	Dr.
 Otto	Otto
 Bauer	Bauer
 als	als
-VorsitzenderSimon	VorsitzenderSimon
-AbramDr	AbramDr
-.	.
+Vorsitzender	vorsitzend
+Simon	Simon
+Abram	Abram
+Dr.	Dr.
 Josef	Josef
-AignerHeinrich	AignerHeinrich
-ClessinLeopold	ClessinLeopold
-KunschakKarl	KunschakKarl
-LeuthnerDr	LeuthnerDr
-.	.
+Aigner	Aigner
+Heinrich	Heinrich
+Clessin	Clessin
+Leopold	Leopold
+Kunschak	Kunschak
+Karl	Karl
+Leuthner	Leuthner
+Dr.	Dr.
 Ignaz	Ignaz
-SeipelStaatssekretär	SeipelStaatssekretär
+Seipel	Seipel
+Staatssekretär	Staatssekretär
 Prof.	Prof.
 Dr.	Dr.
 Michael	Michael
@@ -54,19 +60,22 @@ Staatskanzlei	Staatskanzlei
 <g/>
 :
 </p>
+	
 Ministerialrat	Ministerialrat
 Dr.	Dr.
 Geord	Geord
-FroehlichSektionsrat	FroehlichSektionsrat
+Froehlich	Froehlich
+Sektionsrat	Sektionsrat
 Dr.	Dr.
 Egbert	Egbert
-MannlicherMinisterialvizesekretär	MannlicherMinisterialvizesekretär
+Mannlicher	Mannlicher
+Ministerialvizesekretär	Ministerialvizesekretär
 Dr.	Dr.
 Kurt	Kurt
 Frieberger	Frieberger
 als	als
-SchriftführerProf	SchriftführerProf
-.	.
+Schriftführer	Schriftführer
+Prof.	Prof.
 Dr.	Dr.
 Hans	Hans
 Kelsen	Kelsen
@@ -75,7 +84,9 @@ Experte	Experte
 des	der
 Verfassungsausschusses	Verfassungsausschuß
 <p>
-DerVorsitzendeeröffnet	DerVorsitzendeeröffnet
+Der	der
+Vorsitzende	vorsitzend
+eröffnet	eröffnen
 die	der
 Sitzung	Sitzung
 mit	mit
@@ -87,9 +98,12 @@ Regierung	Regierung
 bezüglich	bezüglich
 ausständiger	ausständig
 Ergänzungen	Ergänzung
-derArt	derArt
+der	der
+Art	Art
 .	.
-92und97	92und97
+92	92
+und	und
+97	97
 f.	f.
 <g/>
 ,
@@ -110,7 +124,7 @@ Rat	Rat
 Froehlich	Froehlich
 teilt	teilen
 hierauf	hierauf
-Wünsche	Wünsche
+Wünsche	Wunsch
 des	der
 Verwaltungsgerichtshofes	Verwaltungsgerichtshof
 über	über
@@ -204,8 +218,7 @@ zu	zu
 schützen	schützen
 u.	u.
 ä.	ä.
-<g/>
-m.
+m.	m.
 Auch	auch
 der	der
 2.	2.
@@ -301,7 +314,9 @@ und	und
 ihre	ihr
 Tragweite	Tragweite
 auch	auch
-vomVorsitzendenund	vomVorsitzendenund
+vom	von
+Vorsitzenden	vorsitzend
+und	und
 Abg	Abg
 .	.
 Dr.	Dr.
@@ -322,7 +337,8 @@ angeregten	angeregt
 Einschaltungen	Einschaltung
 in	in
 die	der
-Verfassungabgelehnt	Verfassungablehnen
+Verfassung	Verfassung
+abgelehnt	ablehnen
 <g/>
 .
 </p>
@@ -404,7 +420,9 @@ werden	werden
 <p>
 Auf	auf
 Einladung	Einladung
-desVorsitzendenmacht	desVorsitzendenmacht
+des	der
+Vorsitzenden	vorsitzend
+macht	machen
 hierauf	hierauf
 Min	Min
 .	.
@@ -439,9 +457,11 @@ vorgenommen	vornehmen
 :
 </p>
 <p>
-InArt	InArt
+In	in
+Art	Art
 .	.
-41.	41.
+4	4
+1.	1.
 Abs.	Abs.
 <g/>
 :
@@ -455,7 +475,10 @@ jedes	jeder
 Land	Land
 besteht	bestehen
 eine	ein
-Landesbürgerschaft.3.	Landesbürgerschaft.3.
+Landesbürgerschaft	Landesbürgerschaft
+<g/>
+.
+3.	3.
 Abs.	Abs.
 <g/>
 :
@@ -484,7 +507,8 @@ Erwerb	Erwerb
 )
 </p>
 <p>
-InArt	InArt
+In	in
+Art	Art
 .	.
 19	19
 <g/>
@@ -627,14 +651,16 @@ gibt	geben
 sodann	sodann
 auf	auf
 Einladung	Einladung
-desVorsitzendenProf	desVorsitzendenProf
-.	.
+des	der
+Vorsitzenden	vorsitzend
+Prof.	Prof.
 Dr.	Dr.
 Kelsen	Kelsen
 <g/>
 .
 </p>
 <p>
+	
 Art	Art
 .	.
 31	31
@@ -727,7 +753,9 @@ werden	werden
 .
 </p>
 <p>
-DerVorsitzendebemerkt	DerVorsitzendebemerkt
+Der	der
+Vorsitzende	vorsitzend
+bemerkt	bemerken
 gelegentlich	gelegentlich
 der	der
 anschließenden	anschließend
@@ -736,7 +764,8 @@ Besprechung	Besprechung
 ,
 daß	daß
 in	in
-dieÜbergangsbestimmungen	dieÜbergangsbestimmung
+die	der
+Übergangsbestimmungen	Übergangsbestimmung
 ein	ein
 Artikel	Artikel
 aufzunehmen	aufnehmen
@@ -1061,7 +1090,9 @@ der	der
 Sitz	Sitz
 der	der
 obersten	oberer
-BundesorganeWienist	BundesorganeWienist
+Bundesorgane	Bundesorgan
+Wien	Wien
+ist	sein
 <g/>
 ,
 zu	zu
@@ -1126,13 +1157,19 @@ unberücksichtigt	unberücksichtigt
 .
 </p>
 <p>
+	
 Art	Art
 .	.
-9wirdgestrichen	9wirdgestrichen
+9	9
+wird	werden
+gestrichen	streichen
 <g/>
 ,
 da	da
-Art.14fan	Art.14fan
+Art	Art
+.	.
+14f	14f
+an	an
 geeigneter	geeignet
 Stelle	Stelle
 die	der
@@ -1277,7 +1314,9 @@ hervor	hervor
 <g/>
 .
 Auch	auch
-derVorsitzendeempfiehlt	derVorsitzendeempfiehlt
+der	der
+Vorsitzende	vorsitzend
+empfiehlt	empfehlen
 die	der
 Wahl	Wahl
 des	der
@@ -1355,7 +1394,8 @@ sei	sein
 nach	nach
 dem	der
 Beispiele	Beispiel
-derSchweiz	derSchweiz
+der	der
+Schweiz	Schweiz
 <g/>
 ,
 in	in
@@ -1392,7 +1432,9 @@ zu	zu
 wählen	wählen
 <g/>
 .
-DerVorsitzendemeint	DerVorsitzendemeint
+Der	der
+Vorsitzende	vorsitzend
+meint	meinen
 jedoch	jedoch
 <g/>
 ,
@@ -1474,7 +1516,9 @@ werden	werden
 können	können
 <g/>
 .
-DerVorsitzendestellt	derVorsitzendestellt
+Der	der
+Vorsitzende	vorsitzend
+stellt	stellen
 fest	fest
 <g/>
 ,
@@ -1558,7 +1602,9 @@ ein	ein
 Organisationsgesetz	Organisationsgesetz
 <g/>
 .
-DerVorsitzendewarnt	DerVorsitzendewarnt
+Der	der
+Vorsitzende	vorsitzend
+warnt	warnen
 jedoch	jedoch
 vor	vor
 einer	ein
@@ -1608,8 +1654,11 @@ Absätzen	Absatz
 und	und
 7	7
 des	der
-Art.14	Art.14
-eabgeändert	eabgeändert
+Art	Art
+.	.
+14	14
+e	e
+abgeändert	abgeändern
 in	in
 <g/>
 „
@@ -1626,10 +1675,13 @@ Sicherheit	Sicherheit
 Zu	zu
 Abs.	Abs.
 4	4
-desArt	desArt
+des	der
+Art	Art
 .	.
-14ebemerkt	14ebemerkt
-derVorsitzende	derVorsitzende
+14e	14e
+bemerkt	bemerken
+der	der
+Vorsitzende	vorsitzend
 <g/>
 ,
 daß	daß
@@ -1687,8 +1739,11 @@ Kelsens	Kelsen
 den	der
 sehr	sehr
 langen	lang
-Art.14	Art.14
-ezu	ezu
+Art	Art
+.	.
+14	14
+e	e
+zu	zu
 teilen	teilen
 <g/>
 ,
@@ -1716,12 +1771,16 @@ als	als
 eigener	eigen
 Artikel	Artikel
 einstweilen	einstweilen
-mit14	mit14
-eebezeichnet	eebezeichnen
+mit	mit
+14	14
+ee	ee
+bezeichnet	bezeichnen
 <g/>
 ;
-in14	in14
-gwird	gwird
+in	in
+14	14
+g	g
+wird	werden
 die	der
 Ungleichartigkeit	Ungleichartigkeit
 der	der
@@ -1873,8 +1932,10 @@ folgt	folgen
 „
 <g/>
 (
+1	1
 <g/>
-1)Im
+)
+Im	in
 Vorsitz	Vorsitz
 des	der
 Bundesrates	Bundesrat
@@ -1917,8 +1978,12 @@ ein	ein
 3.	3.
 Abs.	Abs.
 folgenden	folgend
+Inhaltes	Inhalt
 <g/>
-Inhaltes:(3
+:
+<g/>
+(
+3	3
 <g/>
 )
 Der	der
@@ -2008,6 +2073,7 @@ anzugliedern	angliedern
 .
 </p>
 <p>
+	
 Hiezu	Hiezu
 bemerkt	bemerken
 der	der
@@ -2751,7 +2817,9 @@ erledigt	erledigen
 werden	werden
 <g/>
 .
-DerVorsitzendebegründet	DerVorsitzendebegründet
+Der	der
+Vorsitzende	vorsitzend
+begründet	begründen
 die	der
 Wichtigkeit	Wichtigkeit
 einer	ein
@@ -2832,7 +2900,9 @@ der	der
 Länder	Land
 <g/>
 .
-DerVorsitzendehält	DerVorsitzendehält
+Der	der
+Vorsitzende	Vorsitzender
+hält	halten
 dem	der
 entgegen	entgegen
 <g/>
@@ -2905,8 +2975,14 @@ Land	Land
 um	um
 Land	Land
 der	der
-pénétration	pénétration
-pacifique	pacifique
+p	p
+é	é
+n	n
+é	é
+tration	tration
+pacifi	pacifi
+q	q
+ue	ue
 eines	ein
 anderen	anderer
 Staates	Staat
@@ -2935,14 +3011,16 @@ auf	auf
 außenpolitische	außenpolitisch
 Dinge	Ding
 hat	haben
-Art.13	Art.13
-agenügend	agenügend
+Art	Art
+.	.
+13	13
+a	a
+genügend	genügend
 vorgesorgt	vorsorgen
 <g/>
 .
 Abg	Abg
-<g/>
-.
+.	--
 Clessin	Clessin
 hält	halten
 die	der
@@ -3446,7 +3524,9 @@ Partei	Partei
 <g/>
 ,
 worauf	worauf
-derVorsitzendedie	derVorsitzendedie
+der	der
+Vorsitzende	vorsitzend
+die	der
 der	der
 sozialdemokratischen	sozialdemokratisch
 Partei	Partei
@@ -3455,7 +3535,9 @@ erörtert	erörtern
 .
 </p>
 <p>
-DerVorsitzendebringt	DerVorsitzendebringt
+Der	der
+Vorsitzende	vorsitzend
+bringt	bringen
 sodann	sodann
 noch	noch
 einige	einiger

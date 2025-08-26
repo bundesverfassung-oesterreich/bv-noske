@@ -27,42 +27,54 @@ Anwesend	Anwesend
 <g/>
 :
 </p>
+	
 Dr.	Dr.
-OttoBauerals	OttoBaueral
+Otto	Otto
+Bauer	Bauer
+als	als
 Vorsitzender	vorsitzend
 <g/>
 ,
 Dr.	Dr.
-HeinrichClessinals	HeinrichClessinal
+Heinrich	Heinrich
+Clessin	Clessin
+als	als
 Berichterstatter	Berichterstatter
 <g/>
 ,
 Dr.	Dr.
-JosefAigner	JosefAigner
+Josef	Josef
+Aigner	Aigner
 <g/>
 ,
 Dr.	Dr.
-RobertDanneberg	RobertDanneberg
+Robert	Robert
+Danneberg	Danneberg
 <g/>
 ,
 Dr.	Dr.
-ArnoldEisler	ArnoldEisler
+Arnold	Arnold
+Eisler	Eisler
 <g/>
 ,
-MatthiasEldersch	MatthiasEldersch
+Matthias	Matthias
+Eldersch	Eldersch
 <g/>
 ,
-JodokFink	JodokFink
+Jodok	Jodok
+Fink	Fink
 <g/>
 ,
 Dr.	Dr.
-IgnazSeipel	IgnazSeipel
+Ignaz	Ignaz
+Seipel	Seipel
 <g/>
 .
 Staatssekretär	Staatssekretär
 Prof.	Prof.
 Dr.	Dr.
-MichaelMayr	MichaelMayr
+Michael	Michael
+Mayr	Mayr
 <g/>
 .
 <p>
@@ -72,34 +84,41 @@ Staatskanzlei	Staatskanzlei
 <g/>
 :
 </p>
+	
 Min	Min
 .	.
 Rat	Rat
 Dr.	Dr.
-GeorgFroehlich	GeorgFroehlich
+Georg	Georg
+Froehlich	Froehlich
 <g/>
 ,
 Sektionsrat	Sektionsrat
 Dr.	Dr.
-EgbertMannlicher	EgbertMannlicher
+Egbert	Egbert
+Mannlicher	Mannlicher
 <g/>
 ,
 Oberfinanzrat	Oberfinanzrat
 Dr.	Dr.
-KarlMoser	KarlMoser
+Karl	Karl
+Moser	Moser
 <g/>
 ,
 Min	Min
 .	.
 Vizesekretär	Vizesekretär
 Dr.	Dr.
-AdolfMerklals	AdolfMerklal
+Adolf	Adolf
+Merkl	Merkl
+als	als
 Schriftführer	Schriftführer
 <g/>
 .
 Prof.	Prof.
 Dr.	Dr.
-HansKelsen	HansKelsen
+Hans	Hans
+Kelsen	Kelsen
 <g/>
 ,
 als	als
@@ -142,9 +161,11 @@ zugezogen	zuziehen
 <g/>
 .
 <p>
+	
 Dr.	Dr.
 Otto	Otto
-Bauereröffnet	Bauereröffnen
+Bauer	Bauer
+eröffnet	eröffnen
 die	der
 Sitzung	Sitzung
 und	und
@@ -196,9 +217,10 @@ zu	zu
 äussern	äussern
 <g/>
 .
-SektionschefDr	SektionschefDr
-.	.
-Kaanlegt	Kaanlegt
+Sektionschef	Sektionschef
+Dr.	Dr.
+Kaan	Kaan
+legt	legen
 ausführlich	ausführlich
 die	der
 versicherungstechnischen	versicherungstechnisch
@@ -274,10 +296,13 @@ Versicherung	Versicherung
 .
 Auf	auf
 Befragen	befragen
-desVorsitzendengibt	desVorsitzendengibt
-SektionschefDr	SektionschefDr
-.	.
-Kaanbekannt	Kaanbekannt
+des	der
+Vorsitzenden	vorsitzend
+gibt	geben
+Sektionschef	Sektionschef
+Dr.	Dr.
+Kaan	Kaan
+bekannt	bekannt
 <g/>
 ,
 dass	dass
@@ -305,7 +330,8 @@ wurde	werden
 <g/>
 .
 Dr.	Dr.
-Seipelbemerkt	Seipelbemerkt
+Seipel	Seipel
+bemerkt	bemerken
 <g/>
 ,
 dass	dass
@@ -380,7 +406,9 @@ werden	werden
 könnten	können
 <g/>
 .
-DerVorsitzendebemerkt	derVorsitzendebemerkt
+Der	der
+Vorsitzende	vorsitzend
+bemerkt	bemerken
 <g/>
 ,
 dass	dass
@@ -438,9 +466,10 @@ werden	werden
 müsse	müssen
 <g/>
 .
-StaatssekretärDr	StaatssekretärDr
-.	.
-Mayrbemerkt	Mayrbemerkt
+Staatssekretär	Staatssekretär
+Dr.	Dr.
+Mayr	Mayr
+bemerkt	bemerken
 <g/>
 ,
 daß	daß
@@ -459,10 +488,13 @@ dürfte	dürfen
 .
 Auf	auf
 Befragen	befragen
-desVorsitzendengibt	desVorsitzendengibt
-SektionschefDr	SektionschefDr
-.	.
-Kaanbekannt	Kaanbekannt
+des	der
+Vorsitzenden	vorsitzend
+gibt	geben
+Sektionschef	Sektionschef
+Dr.	Dr.
+Kaan	Kaan
+bekannt	bekannt
 <g/>
 ,
 dass	dass
@@ -508,7 +540,9 @@ werden	werden
 .
 </p>
 <p>
-DerVorsitzendebringt	DerVorsitzendebringt
+Der	der
+Vorsitzende	vorsitzend
+bringt	bringen
 sodann	sodann
 den	der
 Punkt	Punkt
@@ -543,6 +577,7 @@ Minderheit	Minderheit
 .
 </p>
 <p>
+	
 <g/>
 [
 Hierauf	hierauf
@@ -558,16 +593,20 @@ Protokolle	Protokoll
 wiedergegebenen	wiedergegeben
 <g/>
 )
-AntragDris	AntragDris
+Antrag	Antrag
+Dris	Dris
 .	.
-Dannebergbezüglich	Dannebergbezüglich
+Danneberg	Danneberg
+bezüglich	bezüglich
 des	der
 Schulwesens	Schulwesen
 zur	zu
 Verhandlung	Verhandlung
 <g/>
 .
-DerBerichterstatterbemerkt	DerBerichterstatterbemerkt
+Der	der
+Berichterstatter	Berichterstatter
+bemerkt	bemerken
 <g/>
 ,
 dass	dass
@@ -583,7 +622,7 @@ A	A
 mit	mit
 dem	der
 Vorbehalte	Vorbehalt
-anschliesse	anschliesse
+anschliesse	anschliessen
 <g/>
 ,
 daß	daß
@@ -607,13 +646,14 @@ bereit	bereit
 ,
 den	der
 Vorschlag	Vorschlag
-B	--
+B	B
 anzunehmen	annehmen
 <g/>
 .
-StaatssekretärDr	StaatssekretärDr
-.	.
-Mayrgibt	Mayrgibt
+Staatssekretär	Staatssekretär
+Dr.	Dr.
+Mayr	Mayr
+gibt	geben
 zu	zu
 bedenken	bedenken
 <g/>
@@ -647,7 +687,8 @@ sei	sein
 <g/>
 .
 Dr.	Dr.
-Eislerverweist	Eislerverweist
+Eisler	Eisler
+verweist	verweisen
 auf	auf
 das	der
 lebhafte	lebhaft
@@ -677,9 +718,10 @@ in	in
 Obersteier	Obersteier
 <g/>
 .
-StaatssekretärDr	StaatssekretärDr
-.	.
-Mayrmacht	Mayrmacht
+Staatssekretär	Staatssekretär
+Dr.	Dr.
+Mayr	Mayr
+macht	machen
 aufmerksam	aufmerksam
 <g/>
 ,
@@ -728,7 +770,8 @@ könnte	können
 <g/>
 .
 Dr.	Dr.
-Seipelbemerkt	Seipelbemerkt
+Seipel	Seipel
+bemerkt	bemerken
 <g/>
 ,
 daß	daß
@@ -750,8 +793,10 @@ könnte	können
 .
 </p>
 <p>
+	
 Professor	Professor
-Kelsenmacht	Kelsenmacht
+Kelsen	Kelsen
+macht	machen
 aufmerksam	aufmerksam
 <g/>
 ,
@@ -782,7 +827,8 @@ werden	werden
 könnte	können
 <g/>
 .
-Elderschhält	Elderschhält
+Eldersch	Eldersch
+hält	halten
 nicht	nicht
 dafür	dafür
 <g/>
@@ -821,9 +867,11 @@ erfolgenden	erfolgend
 Abstimmung	Abstimmung
 wird	werden
 der	der
-AntragDris	AntragDris
+Antrag	Antrag
+Dris	Dris
 .	.
-Dannebergin	Dannebergin
+Danneberg	Danneberg
+in	in
 der	der
 Fassung	Fassung
 A	A
@@ -848,7 +896,8 @@ angenommen	annehmen
 <g/>
 .
 Der	der
-ZusatzantragDris	ZusatzantragDris
+Zusatzantrag	Zusatzantrag
+Dris	Dris
 .	.
 Clessin	Clessin
 <g/>
@@ -866,7 +915,9 @@ wird	werden
 abgelehnt	ablehnen
 <g/>
 .
-DerVorsitzendestellt	derVorsitzendestellt
+Der	der
+Vorsitzende	vorsitzend
+stellt	stellen
 fest	fest
 <g/>
 ,
@@ -889,7 +940,8 @@ sind	sein
 <g/>
 .
 Dr.	Dr.
-Seipelbehält	Seipelbehält
+Seipel	Seipel
+behält	behalten
 sich	sich
 ein	ein
 Minderheitsvotum	Minderheitsvotum
@@ -900,7 +952,9 @@ vor	vor
 ]
 </p>
 <p>
-DerVorsitzendeeröffnet	DerVorsitzendeeröffnet
+Der	der
+Vorsitzende	vorsitzend
+eröffnet	eröffnen
 nunmehr	nunmehr
 die	der
 Debatte	Debatte
@@ -929,7 +983,9 @@ und	und
 ein	ein
 Antrag	Antrag
 des	der
-AbgeordnetenElderschvorliegt	AbgeordnetenElderschvorliegt
+Abgeordneten	abgeordneter
+Eldersch	Eldersch
+vorliegt	vorliegen
 <g/>
 .
 Nach	nach
@@ -1214,7 +1270,9 @@ Landeshauptstädten	Landeshauptstadt
 </p>
 <p>
 Der	der
-AntragElderschlautet	AntragElderschlautet
+Antrag	Antrag
+Eldersch	Eldersch
+lautet	lauten
 <g/>
 :
 </p>
@@ -1337,13 +1395,16 @@ Wien	Wien
 <g/>
 .
 Dr.	Dr.
-Seipelspricht	Seipelspricht
+Seipel	Seipel
+spricht	sprechen
 sich	sich
 gegen	gegen
 die	der
 mit	mit
 dem	der
-AntrageElderschbeabsichtigte	AntrageElderschbeabsichtigte
+Antrage	Antrag
+Eldersch	Eldersch
+beabsichtigte	beabsichtigt
 Kommunalisierung	Kommunalisierung
 der	der
 Polizei	Polizei
@@ -1441,9 +1502,10 @@ entlastet	entlasten
 werde	werden
 <g/>
 .
-SektionsratDr	SektionsratDr
-.	.
-Mannlichermacht	Mannlichermacht
+Sektionsrat	Sektionsrat
+Dr.	Dr.
+Mannlicher	Mannlicher
+macht	machen
 darauf	darauf
 aufmerksam	aufmerksam
 <g/>
@@ -1480,8 +1542,14 @@ Daktyloskopie	Daktyloskopie
 <g/>
 ,
 Spionagedienst	Spionagedienst
-u.s.w.).Professor	u.s.w.).Professor
-Kelsenbemerkt	Kelsenbemerkt
+u.s.w.	u.s.w.
+<g/>
+)
+<g/>
+.
+Professor	Professor
+Kelsen	Kelsen
+bemerkt	bemerken
 <g/>
 ,
 dass	dass
@@ -1533,7 +1601,8 @@ nötig	nötig
 sei	sein
 <g/>
 .
-Elderscherklärt	Elderscherklärt
+Eldersch	Eldersch
+erklärt	erklären
 die	der
 zugunsten	zugunsten
 der	der
@@ -1569,7 +1638,9 @@ unannehmbar	unannehmbar
 sei	sein
 <g/>
 .
-DerVorsitzendewendet	DerVorsitzendewendet
+Der	der
+Vorsitzende	vorsitzend
+wendet	wenden
 sich	sich
 insbesondere	insbesondere
 auch	auch
@@ -1599,7 +1670,7 @@ aus	aus
 ,
 auch	auch
 über	über
-gewisse	gewisse
+gewisse	gewiß
 Länder	Land
 oder	oder
 Landesteile	Landesteil
@@ -1617,7 +1688,9 @@ Vorschlage	Vorschlag
 der	der
 Regierung	Regierung
 erklärt	erklären
-sichElderschvorbehaltlich	sichElderschvorbehaltlich
+sich	sich
+Eldersch	Eldersch
+vorbehaltlich	vorbehaltlich
 geringfügiger	geringfügig
 stilistischer	stilistisch
 Änderungen	Änderung
@@ -1626,13 +1699,15 @@ einverstanden	einverstanden
 <g/>
 .
 Nachdem	nachdem
-MinisterialratDr	MinisterialratDr
-.	.
-Froehlichund	Froehlichund
-SektionsratDr	SektionsratDr
-.	.
-Mannlicherauf	Mannlicherauf
-Befragen	Befragen
+Ministerialrat	Ministerialrat
+Dr.	Dr.
+Froehlich	Froehlich
+und	und
+Sektionsrat	Sektionsrat
+Dr.	Dr.
+Mannlicher	Mannlicher
+auf	auf
+Befragen	befragen
 die	der
 vorliegende	vorliegend
 Textierung	Textierung
@@ -1649,14 +1724,18 @@ haben	haben
 <g/>
 ,
 bringt	bringen
-derVorsitzendeden	derVorsitzendeden
+der	der
+Vorsitzende	vorsitzend
+den	der
 Verhandlungsgegenstand	Verhandlungsgegenstand
 zur	zu
 Abstimmung	Abstimmung
 <g/>
 .
 Der	der
-AntragElderschwird	AntragElderschwird
+Antrag	Antrag
+Eldersch	Eldersch
+wird	werden
 nach	nach
 geringfügigen	geringfügig
 stilistischen	stilistisch
@@ -1903,9 +1982,11 @@ angenommen	annehmen
 .
 Ein	ein
 weiterer	weit
-AntragDris	AntragDris
+Antrag	Antrag
+Dris	Dris
 .	.
-Eislerauf	Eislerauf
+Eisler	Eisler
+auf	auf
 Umstellung	Umstellung
 der	der
 Absätze	Absatz
@@ -1916,7 +1997,9 @@ wird	werden
 abgelehnt	ablehnen
 <g/>
 .
-DerVorsitzendestellt	DerVorsitzendestellt
+Der	der
+Vorsitzende	vorsitzend
+stellt	stellen
 fest	fest
 <g/>
 ,
@@ -1924,7 +2007,9 @@ dass	dass
 infolge	infolge
 Annahme	Annahme
 des	der
-AntragesElderschdie	AntragesElderschdie
+Antrages	Antrag
+Eldersch	Eldersch
+die	der
 von	von
 der	der
 Regierung	Regierung
@@ -1953,7 +2038,8 @@ Anregung	Anregung
 des	der
 Ministerialrates	Ministerialrat
 Dr.	Dr.
-Froehlichbeschlossen	Froehlichbeschlossen
+Froehlich	Froehlich
+beschlossen	beschließen
 <g/>
 ,
 die	der
@@ -1965,7 +2051,9 @@ Gendarmerie	Gendarmerie
 handelnden	handelnd
 Artikels,(dem	Artikels,(dem
 die	der
-FormulierungElderschals	FormulierungElderschal
+Formulierung	Formulierung
+Eldersch	Eldersch
+als	als
 letzter	letzter
 Absatz	Absatz
 angefügt	anfügen

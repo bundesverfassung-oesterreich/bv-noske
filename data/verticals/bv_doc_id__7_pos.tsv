@@ -1075,7 +1075,9 @@ ist	sein
 allen	aller
 Angehörigen	angehörige
 des	der
-Bundesstaates	Bundesstaat
+Bundes	Bund
+s	s
+taates	Taates
 innerhalb	innerhalb
 seiner	sein
 Grenzen	Grenze
@@ -1150,8 +1152,13 @@ die	der
 Zuständigkeit	Zuständigkeit
 des	der
 Bundes	Bund
+fallen	fallen
 <g/>
-fallen:1.)Die
+:
+1.	1.
+<g/>
+)
+Die	der
 auswärtigen	auswärtig
 Angelegenheiten	Angelegenheit
 mit	mit
@@ -1225,14 +1232,24 @@ lediglich	lediglich
 zur	zu
 Kenntnis	Kenntnis
 zu	zu
+bringen	bringen
 <g/>
-bringen.2.)Die
+.
+2.	2.
+<g/>
+)
+Die	der
 Entscheidung	Entscheidung
 über	über
 Krieg	Krieg
 und	und
+Frieden	Frieden
 <g/>
-Frieden.3.)Die
+.
+3.	3.
+<g/>
+)
+Die	der
 Gesetzgebung	Gesetzgebung
 über	über
 das	der
@@ -1273,7 +1290,12 @@ denSchranken	denSchranke
 des	der
 Art	Art
 .	.
-XI.4.)Das	XI.4.)Das
+XI	XI
+.	.
+4.	4.
+<g/>
+)
+Das	der
 Finanzwesen	Finanzwesen
 <g/>
 ,
@@ -1414,8 +1436,13 @@ durch	durch
 ein	ein
 eigenes	eigen
 Bundesgesetz	Bundesgesetz
+bestimmt	bestimmen
 <g/>
-bestimmt.5.)Die
+.
+5.	5.
+<g/>
+)
+Die	der
 Zivil-	Zivil-
 und	und
 Strafgesetzgebung	Strafgesetzgebung
@@ -1437,7 +1464,8 @@ dann	dann
 des	der
 Zivil-	Zivil-
 und	und
-Strafprozeßrechtesund	Strafprozeßrechtesund
+Strafprozeßrechtes	Strafprozeßrecht
+und	und
 des	der
 Polizeistrafrechtes	Polizeistrafrecht
 <g/>
@@ -1517,8 +1545,13 @@ der	der
 Richter	Richter
 und	und
 Verwaltungsbeamten	Verwaltungsbeamter
+zu	zu
 <g/>
-zu.6.)Das
+.
+6.	6.
+<g/>
+)
+Das	der
 Post-	Post
 <g/>
 ,
@@ -1542,8 +1575,13 @@ und	und
 die	der
 Verwaltung	Verwaltung
 der	der
+Bundesstraßen	Bundesstraße
 <g/>
-Bundesstraßen.7.)Die
+.
+7.	7.
+<g/>
+)
+Die	der
 Gesetzgebung	Gesetzgebung
 über	über
 das	der
@@ -1608,15 +1646,25 @@ damit	damit
 zusammenhängenden	zusammenhängend
 Unterstützungs	Unterstützung
 und	und
+Hilfskassen	Hilfskasse
 <g/>
-Hilfskassen.8.)Die
+.
+8.	8.
+<g/>
+)
+Die	der
 Gesetzgebung	Gesetzgebung
 über	über
 die	der
 Sozialisierung	Sozialisierung
 der	der
+Gütererzeugung	Gütererzeugung
 <g/>
-Gütererzeugung.9.)Die
+.
+9.	9.
+<g/>
+)
+Die	der
 Medizinalgesetzgebung	Medizinalgesetzgebung
 <g/>
 ,
@@ -1628,7 +1676,11 @@ Schutze	Schutz
 gegen	gegen
 Epidemien	Epidemie
 und	und
-Viehseuchen10.)Die	Viehseuchen10.)Die
+Viehseuchen	Viehseuche
+10.	10.
+<g/>
+)
+Die	der
 Gesetzgebung	Gesetzgebung
 über	über
 Staatsbürger-	Staatsbürger
@@ -1645,8 +1697,13 @@ Passwesen	Passwesen
 und	und
 über	über
 die	der
+Volkszählung	Volkszählung
 <g/>
-Volkszählung.11.)Die
+.
+11.	11.
+<g/>
+)
+Die	der
 Gesetzgebung	Gesetzgebung
 über	über
 die	der
@@ -1676,16 +1733,26 @@ den	der
 Schutz	Schutz
 des	der
 geistigen	geistig
+Eigentums	Eigentum
 <g/>
-Eigentums.12.)Die
+.
+12.	12.
+<g/>
+)
+Die	der
 Gesetzgebung	Gesetzgebung
 über	über
 die	der
 Mittelschulen	Mittelschule
 und	und
 die	der
+Universitäten	Universität
 <g/>
-Universitäten.13.)Die
+.
+13.	13.
+<g/>
+)
+Die	der
 Oberaufsicht	Oberaufsicht
 über	über
 die	der
@@ -1811,8 +1878,13 @@ Verfahren	Verfahren
 als	als
 beteiligte	beteiligt
 Parteien	Partei
+beizuziehen	beiziehen
 <g/>
-beizuziehen.14.)Die
+.
+14.	14.
+<g/>
+)
+Die	der
 Oberaufsicht	Oberaufsicht
 über	über
 die	der
@@ -2011,7 +2083,9 @@ XVII	XVII
 .
 </head>
 <p>
-Gesetzesbeschlüsse	Gesetzesbeschluß
+Gesetz	Gesetz
+es	es
+beschlüsse	beschlüsse
 der	der
 Landtage	Landtag
 oder	oder
@@ -2182,12 +2256,14 @@ XVIII	XVIII
 Der	der
 Bund	Bund
 wird	werden
-vertretena	vertretena
+vertreten	vertreten
+a	a
 <g/>
 )
 durch	durch
 die	der
-Bundesversammlungb	Bundesversammlungb
+Bundesversammlung	Bundesversammlung
+b	b
 <g/>
 )
 durch	durch
@@ -2197,8 +2273,13 @@ Ständehaus	Ständehaus
 .
 </p>
 <p>
+	
+a	a
 <g/>
-a).Die
+)
+<g/>
+.
+Die	der
 Bundesversammlung	Bundesversammlung
 besteht	bestehen
 aus	aus
@@ -2313,8 +2394,13 @@ voll	voll
 .
 </p>
 <p>
+	
+b	b
 <g/>
-b).Das
+)
+<g/>
+.
+Das	der
 Ständehaus	Ständehaus
 besteht	bestehen
 aus	aus
@@ -3192,7 +3278,11 @@ insbesondere	insbesondere
 folgende	folgend
 Befugnisse	Befugnis
 und	und
-Pflichten:1.er	Pflichten:1.er
+Pflichten	Pflicht
+<g/>
+:
+1.	1.
+er	er
 leitet	leiten
 die	der
 bundesstaatlichen	bundesstaatlich
@@ -3214,7 +3304,11 @@ XIV	XIV
 festgelegten	festgelegt
 Zuständigkeit	Zuständigkeit
 der	der
-Bundesgewalt;2.er	Bundesgewalt;2.er
+Bundesgewalt	Bundesgewalt
+<g/>
+;
+2.	2.
+er	er
 hat	haben
 die	der
 Beobachtung	Beobachtung
@@ -3229,7 +3323,11 @@ Beschlüsse	Beschluß
 des	der
 Bundes	Bund
 zu	zu
-überwachen;3.er	überwachen;3.er
+überwachen	überwachen
+<g/>
+;
+3.	3.
+er	er
 schlägt	schlagen
 der	der
 Bundesversammlung	Bundesversammlung
@@ -3272,12 +3370,20 @@ der	der
 Bundesglieder	Bundesglied
 an	an
 ihn	ihn
-gelangen.4.er	gelangen.4.er
+gelangen	gelangen
+<g/>
+.
+4.	4.
+er	er
 vollzieht	vollziehen
 die	der
 Bundesgesetze	Bundesgesetz
 und	und
-Beschlüsse;5.er	Beschlüsse;5.er
+Beschlüsse	Beschluß
+<g/>
+;
+5.	5.
+er	er
 wahrt	wahren
 die	der
 Interessen	Interesse
@@ -3313,7 +3419,11 @@ vertritt	vertreten
 den	der
 Staat	Staat
 im	in
-Völkerbunde.6.er	Völkerbunde.6.er
+Völkerbunde	Völkerbund
+<g/>
+.
+6.	6.
+er	er
 sorgt	sorgen
 für	für
 die	der
@@ -3336,7 +3446,9 @@ Maßgabe	Maßgabe
 des	der
 Art	Art
 .	.
-III.7.er	III.7.er
+III.	III.
+7.	7.
+er	er
 hat	haben
 die	der
 Aufsicht	Aufsicht
@@ -3349,10 +3461,16 @@ und	und
 Angestellten	angestellter
 der	der
 bundesstaatlichen	bundesstaatlich
-Verwaltung;8.er	Verwaltung;8.er
+Verwaltung	Verwaltung
+<g/>
+;
+8.	8.
+er	er
 erstattet	erstatten
 der	der
-Bundesversammlung	Bundesversammlung
+Bundesversam	Bundesversam
+m	m
+lung	lung
 bei	bei
 ihrer	ihr
 ordentlichen	ordentlich
@@ -3641,7 +3759,11 @@ Bestimmungen	Bestimmung
 dieser	dieser
 Bundesverfassung	Bundesverfassung
 ist	sein
-erforderlich1./ein	erforderlich1./ein
+erforderlich	erforderlich
+1.	1.
+<g/>
+/
+ein	ein
 mit	mit
 zwei	zwei
 Drittel	Drittel
@@ -3657,8 +3779,13 @@ Beschluß	Beschluß
 auf	auf
 Aenderung	Aenderung
 der	der
+Verfassung	Verfassung
 <g/>
-Verfassung;2./ein
+;
+2.	2.
+<g/>
+/
+ein	ein
 mit	mit
 wenigstens	wenigstens
 vier	vier
@@ -3667,8 +3794,13 @@ gefasster	gefasst
 gleichlautender	gleichlautend
 Beschluß	Beschluß
 des	der
+Ständehauses	Ständehaus
 <g/>
-Ständehauses;3./die
+;
+3.	3.
+<g/>
+/
+die	der
 Annahme	Annahme
 dieses	dieser
 Beschlusses	Beschluß

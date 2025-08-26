@@ -133,10 +133,13 @@ Artikel	Artikel
 1.	1.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Österreich
+)
+Österreich	Österreich
 ist	sein
 eine	ein
 demokratische	demokratisch
@@ -145,10 +148,13 @@ Republik	Republik
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Alle
+)
+Alle	aller
 öffentlichen	öffentlich
 Gewalten	Gewalt
 werden	werden
@@ -168,9 +174,13 @@ Artikel	Artikel
 2.	2.
 </head>
 <p>
+	
 <g/>
 (
-1)Österreich	1)Österreich
+1	1
+<g/>
+)
+Österreich	Österreich
 ist	sein
 ein	ein
 Bundesstaat	Bundesstaat
@@ -178,10 +188,13 @@ Bundesstaat	Bundesstaat
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Der
+)
+Der	der
 Bundesstaat	Bundesstaat
 wird	werden
 gebildet	bilden
@@ -216,10 +229,13 @@ Wien	Wien
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Das
+)
+Das	der
 Burgenland	Burgenland
 wird	werden
 als	als
@@ -248,10 +264,13 @@ Artikel	Artikel
 3.	3.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Das
+)
+Das	der
 Bundesgebiet	Bundesgebiet
 umfaßt	umfassen
 die	der
@@ -271,10 +290,13 @@ Bundes	Bund
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Eine
+)
+Eine	ein
 Änderung	Änderung
 des	der
 Bundesgebietes	Bundesgebiet
@@ -328,10 +350,13 @@ Artikel	Artikel
 a.	a.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Das
+)
+Das	der
 Bundesgebiet	Bundesgebiet
 bildet	bilden
 ein	ein
@@ -346,10 +371,13 @@ Zollgebiet	Zollgebiet
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Innerhalb
+)
+Innerhalb	innerhalb
 der	der
 Grenzen	Grenze
 des	der
@@ -386,10 +414,13 @@ Artikel	Artikel
 4.	4.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Für
+)
+Für	für
 jedes	jeder
 Land	Land
 besteht	bestehen
@@ -418,9 +449,13 @@ geregelt	regeln
 .
 </p>
 <p>
+	
 <g/>
 (
-2)Grundlegende	2)Grundlegende
+2	2
+<g/>
+)
+Grundlegende	Grundlegende
 Voraussetzung	Voraussetzung
 der	der
 Landesbürgerschaft	Landesbürgerschaft
@@ -436,10 +471,13 @@ Landes	Land
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Mit
+)
+Mit	mit
 der	der
 Landesbürgerschaft	Landesbürgerschaft
 wird	werden
@@ -450,10 +488,13 @@ erworben	erwerben
 .
 </p>
 <p>
+	
 <g/>
 (
+4	4
 <g/>
-4)Jeder
+)
+Jeder	jeder
 Bundesbürger	Bundesbürger
 hat	haben
 in	in
@@ -479,10 +520,13 @@ Artikel	Artikel
 a.	a.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Alle
+)
+Alle	aller
 Bundesbürger	Bundesbürger
 sind	sein
 vor	vor
@@ -516,10 +560,13 @@ geschlossen	schließen
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Den
+)
+Den	der
 öffentlichen	öffentlich
 Angestellten	angestellter
 und	und
@@ -654,7 +701,9 @@ Angelegenheiten	Angelegenheit
 :
 </p>
 <p>
-1.Bundesverfassung	1.Bundesverfassung
+	
+1.	1.
+Bundesverfassung	Bundesverfassung
 <g/>
 ,
 insbesondere	insbesondere
@@ -675,8 +724,12 @@ Bundesgebiet	Bundesgebiet
 erstrecken	erstrecken
 <g/>
 ;
+Verfassungsgerichtsbarkeit	Verfassungsgerichtsbarkeit
 <g/>
-Verfassungsgerichtsbarkeit;﻿2.auswärtige
+;
+<g/>
+﻿2.
+auswärtige	auswärtig
 Angelegenheiten	Angelegenheit
 mit	mit
 Einschluß	Einschluß
@@ -709,7 +762,11 @@ dem	der
 Auslande	Ausland
 <g/>
 ;
-Zollwesen;3.Regelung	Zollwesen;3.Regelung
+Zollwesen	Zollwesen
+<g/>
+;
+3.	3.
+Regelung	Regelung
 und	und
 Überwachung	Überwachung
 des	der
@@ -742,7 +799,11 @@ aus	aus
 dem	der
 Bundesgebiete	Bundesgebiet
 sowie	sowie
-Durchlieferung;4.Bundesfinanzen	Durchlieferung;4.Bundesfinanzen
+Durchlieferung	Durchlieferung
+<g/>
+;
+4.	4.
+Bundesfinanzen	Bundesfinanz
 <g/>
 ,
 insbesondere	insbesondere
@@ -797,7 +858,11 @@ zu	zu
 den	der
 Ausgaben	Ausgabe
 der	der
-Länder;5.Geld-	Länder;5.Geld-
+Länder	Land
+<g/>
+;
+5.	5.
+Geld-	Geld
 <g/>
 ,
 Kredit-	Kredit
@@ -815,7 +880,11 @@ Gewichts	Gewicht
 ,
 Normen-	Normen
 und	und
-Punzierungswesen;6.Zivil-	Punzierungswesen;6.Zivil-
+Punzierungswesen	Punzierungswesen
+<g/>
+;
+6.	6.
+Zivil-	Zivil
 und	und
 Strafrechtswesen	Strafrechtswesen
 einschließlich	einschließlich
@@ -876,7 +945,11 @@ der	der
 Rechtsanwälte	Rechtsanwalt
 und	und
 verwandter	verwandt
-Berufe;7.Angelgenheiten	Berufe;7.Angelgenheiten
+Berufe	Beruf
+<g/>
+;
+7.	7.
+Angelgenheiten	Angelgenheit
 des	der
 Gewerbes	Gewerbe
 und	und
@@ -903,7 +976,11 @@ Ziviltechnikerwesen	Ziviltechnikerwesen
 <g/>
 ;
 Handels-und	Handels-und
-Gewerbekammern;8.Verkehrswesen	Gewerbekammern;8.Verkehrswesen
+Gewerbekammern	Gewerbekammer
+<g/>
+;
+8.	8.
+Verkehrswesen	Verkehrswesen
 bezüglich	bezüglich
 der	der
 Eisenbahnen	Eisenbahn
@@ -942,7 +1019,11 @@ Post-	Post
 ,
 Telegraphen-	Telegraphen
 und	und
-Fernsprechwesen;9.Bergwesen	Fernsprechwesen;9.Bergwesen
+Fernsprechwesen	Fernsprechwesen
+<g/>
+;
+9.	9.
+Bergwesen	Bergwesen
 <g/>
 ;
 Ausführurg	Ausführurg
@@ -1004,7 +1085,11 @@ und	und
 Kraftmaschinenwesen	Kraftmaschinenwesen
 <g/>
 ;
-Vermessungswesen;10.Bodenreform	Vermessungswesen;10.Bodenreform
+Vermessungswesen	Vermessungswesen
+<g/>
+;
+10.	10.
+Bodenreform	Bodenreform
 <g/>
 (
 agrarische	agrarisch
@@ -1016,7 +1101,11 @@ usw.	usw.
 <g/>
 )
 und	und
-Bodenentschuldung;11.gesamtes	Bodenentschuldung;11.gesamtes
+Bodenentschuldung	Bodenentschuldung
+<g/>
+;
+11.	11.
+gesamtes	gesamt
 Arbeiterrecht	Arbeiterrecht
 sowie	sowie
 Arbeiter-	Arbeiter
@@ -1040,7 +1129,11 @@ handelt	handeln
 ;
 Sozial-	Sozial
 und	und
-Vertragsversicherungswesen;12.Gesundheits-	Vertragsversicherungswesen;12.Gesundheits-
+Vertragsversicherungswesen	Vertragsversicherungswesen
+<g/>
+;
+12.	12.
+Gesundheits-	Gesundheit
 und	und
 Veterinärwesen	Veterinärwesen
 <g/>
@@ -1070,7 +1163,11 @@ und	und
 Rettungswesens	Rettungswesen
 <g/>
 ;
-Nahrungsmittelkontrolle;13.gesamtes	Nahrungsmittelkontrolle;13.gesamtes
+Nahrungsmittelkontrolle	Nahrungsmittelkontrolle
+<g/>
+;
+13.	13.
+gesamtes	gesamt
 Schul-	Schul
 und	und
 Erziehungswesen	Erziehungswesen
@@ -1159,7 +1256,11 @@ den	der
 Ländern	Land
 autonom	autonom
 verwaltet	verwalten
-wurden;14.militärische	wurden;14.militärische
+wurden	werden
+<g/>
+;
+14.	14.
+militärische	militärisch
 Angelegenheiten	Angelegenheit
 <g/>
 ;
@@ -1205,7 +1306,11 @@ Versorgung	Versorgung
 der	der
 Bevölkerung	Bevölkerung
 mit	mit
-Bedarfsgegenständen;15.Einrichtung	Bedarfsgegenständen;15.Einrichtung
+Bedarfsgegenständen	Bedarfsgegenstand
+<g/>
+;
+15.	15.
+Einrichtung	Einrichtung
 der	der
 Bundesämter	Bundesamt
 und	und
@@ -1224,9 +1329,13 @@ Artikel	Artikel
 11.	11.
 </head>
 <p>
+	
 <g/>
 (
-1)Bundessache	1)Bundessache
+1	1
+<g/>
+)
+Bundessache	Bundessache
 ist	sein
 die	der
 Gesetzgebung	Gesetzgebung
@@ -1237,28 +1346,56 @@ die	der
 Vollziehung	Vollziehung
 in	in
 folgenden	folgend
-Angelegenheiten:1.Staatsbürgerschaft	Angelegenheiten:1.Staatsbürgerschaft
+Angelegenheiten	Angelegenheit
+<g/>
+:
+1.	1.
+Staatsbürgerschaft	Staatsbürgerschaft
 und	und
-Heimatrecht;2.Vereins-	Heimatrecht;2.Vereins-
+Heimatrecht	Heimatrecht
+<g/>
+;
+2.	2.
+Vereins-	Verein
 und	und
-Versammlungerecht;3.nicht	Versammlungerecht;3.nicht
+Versammlungerecht	Versammlungerecht
+<g/>
+;
+3.	3.
+nicht	nicht
 im	in
 Artikel	Artikel
 10	10
 angeführte	angeführt
 berufliche	beruflich
-Vertretungen;4.Personenstandsangelegenheiten	Vertretungen;4.Personenstandsangelegenheit
+Vertretungen	Vertretung
+<g/>
+;
+4.	4.
+Personenstandsangelegenheiten	Personenstandsangelegenheit
 einschließlich	einschließlich
 des	der
 Matrikenwesens	Matrikenwesen
 und	und
 der	der
-Namensänderung;5.Paßwesen	Namensänderung;5.Paßwesen
+Namensänderung	Namensänderung
+<g/>
+;
+5.	5.
+Paßwesen	Paßwesen
 und	und
-Fremdenpolizei;6.öffentliche	Fremdenpolizei;6.öffentliche
+Fremdenpolizei	Fremdenpolizei
+<g/>
+;
+6.	6.
+öffentliche	öffentlich
 Agentien	Agentie
 und	und
-Privatgeschäftsvermittlung;7.hinsichtlich	Privatgeschäftsvermittlung;7.hinsichtlich
+Privatgeschäftsvermittlung	Privatgeschäftsvermittlung
+<g/>
+;
+7.	7.
+hinsichtlich	hinsichtlich
 der	der
 öffentlichen	öffentlich
 Abgaben	Abgabe
@@ -1331,7 +1468,11 @@ Verhinderung	Verhinderung
 der	der
 Schädigung	Schädigung
 der	der
-Bundesfinanzen.8.Munitions-	Bundesfinanzen.8.Munitions-
+Bundesfinanzen	Bundesfinanz
+<g/>
+.
+8.	8.
+Munitions-	Munition
 <g/>
 ,
 Schieß-	Schieß
@@ -1354,15 +1495,27 @@ Waffenwesen	Waffenwesen
 betriebstechnische	betriebstechnisch
 Vorschriften	Vorschrift
 beim	bei
-Kraftfahrwesen;9.Elektrizitätswesen;10.Volkswohnungs-	Kraftfahrwesen;9.Elektrizitätswesen;10.Volkswohnungs-
+Kraftfahrwesen	Kraftfahrwesen
+<g/>
+;
+9.	9.
+Elektrizitätswesen	Elektrizitätswesen
+<g/>
+;
+10.	10.
+Volkswohnungs-	Volkswohnung
 und	und
 Volkspflegestättenwesen	Volkspflegestättenwesen
 <g/>
 ;
 Leichen-	Leichen
 und	und
+Bestattungswesen	Bestattungswesen
 <g/>
-Bestattungswesen;﻿11.Verwaltungs-
+;
+<g/>
+﻿11.
+Verwaltungs-	Verwaltung
 und	und
 Verwaltungsstrafverfahren	Verwaltungsstrafverfahren
 einschließlich	einschließlich
@@ -1386,10 +1539,13 @@ zusteht	zustehen
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Die
+)
+Die	der
 Durchführungsverordnungen	Durchführungsverordnung
 zu	zu
 den	der
@@ -1441,12 +1597,20 @@ die	der
 Vollziehung	Vollziehung
 in	in
 folgenden	folgend
-Angelegenheiten:1.Organisation	Angelegenheiten:1.Organisation
+Angelegenheiten	Angelegenheit
+<g/>
+:
+1.	1.
+Organisation	Organisation
 der	der
 Verwaltung	Verwaltung
 in	in
 den	der
-Ländern;2.Armenwesen	Ländern;2.Armenwesen
+Ländern	Land
+<g/>
+;
+2.	2.
+Armenwesen	Armenwesen
 <g/>
 ;
 Bevölkerungspolitik	Bevölkerungspolitik
@@ -1465,7 +1629,11 @@ und	und
 Pflegeanstaltenwesen	Pflegeanstaltenwesen
 einschließlich	einschließlich
 der	der
-Ambulatorien;3.Einrichtungen	Ambulatorien;3.Einrichtungen
+Ambulatorien	Ambulatorium
+<g/>
+;
+3.	3.
+Einrichtungen	Einrichtung
 zum	zu
 Schutze	Schutz
 der	der
@@ -1496,13 +1664,21 @@ einem	einer
 in	in
 ein	ein
 anderes	anderer
-Land;4.öffentliche	Land;4.öffentliche
+Land	Land
+<g/>
+;
+4.	4.
+öffentliche	öffentlich
 Einrichtungen	Einrichtung
 zur	zu
 außergerichtlichen	außergerichtlich
 Vermittlung	Vermittlung
 von	von
-Streitigkeiten;5.Arbeiterrecht	Streitigkeiten;5.Arbeiterrecht
+Streitigkeiten	Streitigkeit
+<g/>
+;
+5.	5.
+Arbeiterrecht	Arbeiterrecht
 sowie	sowie
 Arbeiter-	Arbeiter
 und	und
@@ -1519,7 +1695,11 @@ forstwirtschaftliche	forstwirtschaftlich
 Arbeiter	Arbeiter
 und	und
 Angestellte	angestellter
-handelt;6.Forstwesen	handelt;6.Forstwesen
+handelt	handeln
+<g/>
+;
+6.	6.
+Forstwesen	Forstwesen
 einschließlich	einschließlich
 des	der
 Triftwesens	Triftwesen
@@ -1534,9 +1714,17 @@ und	und
 Schädlinge	Schädling
 <g/>
 ;
-Wasserrecht;7.Regelung	Wasserrecht;7.Regelung
+Wasserrecht	Wasserrecht
+<g/>
+;
+7.	7.
+Regelung	Regelung
 des	der
-Bauwesens;8.Dienstrecht	Bauwesens;8.Dienstrecht
+Bauwesens	Bauwesen
+<g/>
+;
+8.	8.
+Dienstrecht	Dienstrecht
 der	der
 Organe	Organ
 der	der
@@ -1557,9 +1745,13 @@ Artikel	Artikel
 13.	13.
 </head>
 <p>
+	
 <g/>
 (
-1)Wenn	1)Wenn
+1	1
+<g/>
+)
+Wenn	wenn
 eine	ein
 Angelegenheit	Angelegenheit
 nicht	nicht
@@ -1589,10 +1781,13 @@ Länder	Land
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Insoweit
+)
+Insoweit	Insoweit
 der	der
 Bundesgesetzgebung	Bundesgesetzgebung
 bloß	bloß
@@ -1675,10 +1870,13 @@ Bund	Bund
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Soll
+)
+Soll	Soll
 ein	ein
 Akt	Akt
 der	der
@@ -1721,10 +1919,13 @@ Bund	Bund
 .
 </p>
 <p>
+	
 <g/>
 (
+4	4
 <g/>
-4)Die
+)
+Die	der
 auf	auf
 Grund	Grund
 der	der
@@ -1787,10 +1988,13 @@ können	können
 .
 </p>
 <p>
+	
 <g/>
 (
+5	5
 <g/>
-5)In
+)
+In	in
 Angelegenheiten	Angelegenheit
 <g/>
 ,
@@ -1831,10 +2035,13 @@ Artikel	Artikel
 a.	a.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Wenn
+)
+Wenn	wenn
 zur	zu
 Durchführung	Durchführung
 von	von
@@ -1888,10 +2095,13 @@ Bund	Bund
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Ebenso
+)
+Ebenso	ebenso
 hat	haben
 der	der
 Bund	Bund
@@ -1955,10 +2165,13 @@ Artikel	Artikel
 14.	14.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Durch
+)
+Durch	durch
 die	der
 Bestimmungen	Bestimmung
 der	der
@@ -2004,10 +2217,13 @@ berührt	berühren
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Der
+)
+Der	der
 Bund	Bund
 kann	können
 in	in
@@ -2035,10 +2251,13 @@ Artikel	Artikel
 a.	a.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 Organisation	Organisation
 der	der
 Gütererzeugung	Gütererzeugung
@@ -2069,9 +2288,13 @@ entwickeln	entwickeln
 .
 </p>
 <p>
+	
 <g/>
 (
-2)Wirtschaftliche	2)Wirtschaftliche
+2	2
+<g/>
+)
+Wirtschaftliche	Wirtschaftliche
 Selbstverwaltungskörper	Selbstverwaltungskörper
 und	und
 Berufsorganisation	Berufsorganisation
@@ -2101,10 +2324,13 @@ Artikel	Artikel
 b.	b.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Mit
+)
+Mit	mit
 der	der
 Leitung	Leitung
 der	der
@@ -2157,10 +2383,13 @@ Landesregierungen	Landesregierung
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Die
+)
+Die	der
 gesamte	gesamt
 Geschäftsführung	Geschäftsführung
 der	der
@@ -2181,10 +2410,13 @@ sind	sein
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Sie
+)
+Sie	sie
 können	können
 wegen	wegen
 ihrer	ihr
@@ -2288,10 +2520,13 @@ Artikel	Artikel
 d.	d.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Das
+)
+Das	der
 Dienstrecht	Dienstrecht
 <g/>
 –
@@ -2366,10 +2601,13 @@ haben	haben
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Die
+)
+Die	der
 Diensthoheit	Diensthoheit
 des	der
 Bundes	Bund
@@ -2401,10 +2639,13 @@ ausgeübt	ausüben
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Die
+)
+Die	der
 Bestellung	Bestellung
 und	und
 das	der
@@ -2439,10 +2680,13 @@ geregelt	regeln
 .
 </p>
 <p>
+	
 <g/>
 (
+4	4
 <g/>
-4)Die
+)
+Die	der
 Möglichkeit	Möglichkeit
 des	der
 Übertrittes	Übertritt
@@ -2522,9 +2766,13 @@ werden	werden
 .
 </p>
 <p>
+	
 <g/>
 (
-5)Amtstitel	5)Amtstitel
+5	5
+<g/>
+)
+Amtstitel	Amtstitel
 für	für
 die	der
 im	in
@@ -2554,10 +2802,13 @@ Artikel	Artikel
 e.	e.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Zur
+)
+Zur	zu
 Unterstützung	Unterstützung
 der	der
 mit	mit
@@ -2579,10 +2830,13 @@ Gendarmerie	Gendarmerie
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Jedes
+)
+Jedes	jeder
 Land	Land
 bildet	bilden
 einen	ein
@@ -2635,10 +2889,13 @@ zu	zu
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Zur
+)
+Zur	zu
 Verfügung	Verfügung
 über	über
 die	der
@@ -2671,10 +2928,13 @@ berufen	berufen
 .
 </p>
 <p>
+	
 <g/>
 (
+4	4
 <g/>
-4)Bei
+)
+Bei	bei
 Notstand	Notstand
 und	und
 Unruhen	Unruhe
@@ -2696,10 +2956,13 @@ anordnen	anordnen
 .
 </p>
 <p>
+	
 <g/>
 (
+5	5
 <g/>
-5)Die
+)
+Die	der
 Gerichte	Gericht
 und	und
 Staatsanwaltschaften	Staatsanwaltschaft
@@ -2724,10 +2987,13 @@ nehmen	nehmen
 .
 </p>
 <p>
+	
 <g/>
 (
+6	6
 <g/>
-6)Das
+)
+Das	der
 Nähere	Nähere
 über	über
 das	der
@@ -2882,10 +3148,13 @@ Artikel	Artikel
 g.	g.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Alle
+)
+Alle	aller
 mit	mit
 der	der
 Ausübung	Ausübung
@@ -2925,10 +3194,13 @@ haftbar	haftbar
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Der
+)
+Der	der
 Bund	Bund
 <g/>
 ,
@@ -2974,10 +3246,13 @@ kann	können
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Die
+)
+Die	der
 näheren	näh
 Bestimmungen	Bestimmung
 trifft	treffen
@@ -3042,10 +3317,13 @@ Artikel	Artikel
 16.	16.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Der
+)
+Der	der
 Sitz	Sitz
 des	der
 Nationalrates	Nationalrat
@@ -3057,10 +3335,13 @@ Wien	Wien
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Für
+)
+Für	für
 die	der
 Dauer	Dauer
 außerordentlicher	außerordentlich
@@ -3109,10 +3390,13 @@ Artikel	Artikel
 19.	19.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Der
+)
+Der	der
 Nationalrat	Nationalrat
 wird	werden
 vom	von
@@ -3162,10 +3446,13 @@ gewählt	wählen
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Der
+)
+Der	der
 Wahltag	Wahltag
 muß	müssen
 ein	ein
@@ -3180,9 +3467,13 @@ sein	sein
 .
 </p>
 <p>
+	
 <g/>
 (
-3)Wählbar	3)Wählbar
+3	3
+<g/>
+)
+Wählbar	Wählbar
 ist	sein
 jeder	jeder
 Wahlberechtigte	Wahlberechtigte
@@ -3206,10 +3497,13 @@ hat	haben
 .
 </p>
 <p>
+	
 <g/>
 (
+4	4
 <g/>
-4)Die
+)
+Die	der
 Ausschließung	Ausschließung
 vom	von
 Wahlrecht	Wahlrecht
@@ -3235,10 +3529,13 @@ Artikel	Artikel
 20.	20.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 Gesetzgebungsperiode	Gesetzgebungsperiode
 des	der
 Nationalrates	Nationalrat
@@ -3284,10 +3581,13 @@ kann	können
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Der
+)
+Der	der
 neugewählte	neugewählt
 Nationalrat	Nationalrat
 ist	sein
@@ -3304,10 +3604,13 @@ einzuberufen	einberufen
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Der
+)
+Der	der
 Nationalrat	Nationalrat
 kann	können
 nur	nur
@@ -3408,10 +3711,13 @@ Artikel	Artikel
 23.	23.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Der
+)
+Der	der
 Nationalrat	Nationalrat
 wählt	wählen
 aus	aus
@@ -3426,10 +3732,13 @@ Vizepräsidenten	Vizepräsident
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Die
+)
+Die	der
 Geschäftsführung	Geschäftsführung
 des	der
 Nationalrates	Nationalrat
@@ -3486,10 +3795,13 @@ Artikel	Artikel
 24.	24.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 Sitzungen	Sitzung
 des	der
 Nationalrates	Nationalrat
@@ -3499,10 +3811,13 @@ sind	sein
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Dem
+)
+Dem	der
 Hause	Haus
 steht	stehen
 das	der
@@ -3578,10 +3893,13 @@ Artikel	Artikel
 26.	26.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Im
+)
+Im	in
 Bundesrate	Bundesrat
 sind	sein
 die	der
@@ -3600,10 +3918,13 @@ vertreten	vertreten
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Das
+)
+Das	der
 Land	Land
 mit	mit
 der	der
@@ -3659,10 +3980,13 @@ Mitgliedern	Mitglied
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Für
+)
+Für	für
 jedes	jeder
 Mitglied	Mitglied
 wird	werden
@@ -3673,10 +3997,13 @@ bestellt	bestellen
 .
 </p>
 <p>
+	
 <g/>
 (
+4	4
 <g/>
-4)Die
+)
+Die	der
 Mitglieder	Mitglied
 des	der
 Bundesrates	Bundesrat
@@ -3756,10 +4083,13 @@ Los	Los
 .
 </p>
 <p>
+	
 <g/>
 (
+5	5
 <g/>
-5)In
+)
+In	in
 den	der
 Bundesrat	Bundesrat
 kann	können
@@ -3777,10 +4107,13 @@ ist	sein
 .
 </p>
 <p>
+	
 <g/>
 (
+6	6
 <g/>
-6)Nach
+)
+Nach	nach
 Ablauf	Ablauf
 der	der
 Gesetzgebungsperiode	Gesetzgebungsperiode
@@ -3818,10 +4151,13 @@ hat	haben
 .
 </p>
 <p>
+	
 <g/>
 (
+7	7
 <g/>
-7)Bei
+)
+Bei	bei
 der	der
 Ausübung	Ausübung
 dieses	dieser
@@ -3837,10 +4173,12 @@ gebunden	binden
 .
 </p>
 <p>
+	
 <g/>
 (
 <g/>
-8)Die
+8)
+Die	der
 Bestimmungen	Bestimmung
 dieses	dieser
 Artikels	Artikel
@@ -3882,10 +4220,13 @@ Artikel	Artikel
 27.	27.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Im
+)
+Im	in
 Vorsitze	Vorsitz
 des	der
 Bundesrates	Bundesrat
@@ -3900,10 +4241,13 @@ Reihenfolge	Reihenfolge
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Der
+)
+Der	der
 Bundesrat	Bundesrat
 wird	werden
 durch	durch
@@ -3926,10 +4270,13 @@ tragen	tragen
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Der
+)
+Der	der
 Bundesrat	Bundesrat
 wird	werden
 von	von
@@ -3970,10 +4317,13 @@ verlangt	verlangen
 .
 </p>
 <p>
+	
 <g/>
 (
+4	4
 <g/>
-4)Der
+)
+Der	der
 Bundesrat	Bundesrat
 gibt	geben
 sich	sich
@@ -4005,10 +4355,13 @@ Artikel	Artikel
 28.	28.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Der
+)
+Der	der
 Bundesrat	Bundesrat
 faßt	fassen
 seine	sein
@@ -4021,10 +4374,13 @@ Anwesenden	Anwesenden
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)die
+)
+die	der
 Sitzungen	Sitzung
 des	der
 Bundesrates	Bundesrat
@@ -4092,9 +4448,13 @@ Artikel	Artikel
 a.	a.
 </head>
 <p>
+	
 <g/>
 (
-1)Nationalrat	1)Nationalrat
+1	1
+<g/>
+)
+Nationalrat	Nationalrat
 und	und
 Bundesrat	Bundesrat
 treten	treten
@@ -4129,9 +4489,13 @@ zusammen	zusammen
 .
 </p>
 <p>
+	
 <g/>
 (
-2)Jede	2)Jede
+2	2
+<g/>
+)
+Jede	jeder
 der	der
 beiden	beide
 Körperschaften	Körperschaft
@@ -4148,10 +4512,13 @@ beraten	beraten
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Die
+)
+Die	der
 Einberufung	Einberufung
 der	der
 Bundesversammlung	Bundesversammlung
@@ -4188,9 +4555,13 @@ geführt	führen
 .
 </p>
 <p>
+	
 <g/>
 (
-4)Zu	4)Zu
+4	4
+<g/>
+)
+Zu	zu
 der	der
 Bundesversammlung	Bundesversammlung
 findet	finden
@@ -4204,10 +4575,13 @@ Anwendung	Anwendung
 .
 </p>
 <p>
+	
 <g/>
 (
+5	5
 <g/>
-5)Die
+)
+Die	der
 Bestimmungen	Bestimmung
 des	der
 Artikels	Artikel
@@ -4228,10 +4602,13 @@ Artikel	Artikel
 b.	b.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 Beschlüsse	Beschluß
 der	der
 Bundesversammlung	Bundesversammlung
@@ -4248,10 +4625,13 @@ gegengezeichnet	gengezeichnen
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Die
+)
+Die	der
 amtliche	amtlich
 Kundmachung	Kundmachung
 liegt	liegen
@@ -4275,9 +4655,13 @@ Artikel	Artikel
 30.	30.
 </head>
 <p>
+	
 <g/>
 (
-1)Gesetzesvorschläge	1)Gesetzesvorschlag
+1	1
+<g/>
+)
+Gesetzesvorschläge	Gesetzesvorschlag
 gelangen	gelangen
 an	an
 den	der
@@ -4309,10 +4693,13 @@ stellen	stellen
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Jeder
+)
+Jeder	jeder
 von	von
 300.000	300.000
 Stimmberechtigten	Stimmberechtigten
@@ -4361,10 +4748,13 @@ Artikel	Artikel
 31.	31.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Zu
+)
+Zu	zu
 einem	ein
 Beschlusse	Beschluss
 des	der
@@ -4390,10 +4780,13 @@ erforderlich	erforderlich
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Ein
+)
+Ein	ein
 Verfassungsgesetz	Verfassungsgesetz
 kann	können
 jedoch	jedoch
@@ -4529,10 +4922,13 @@ Artikel	Artikel
 34.	34.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)In
+)
+In	in
 der	der
 Volksabstimmung	Volksabstimmung
 entscheidet	entscheiden
@@ -4547,10 +4943,13 @@ Stimmen	Stimme
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Das
+)
+Das	der
 Ergebnis	Ergebnis
 der	der
 Volksabstimmung	Volksabstimmung
@@ -4586,10 +4985,13 @@ Artikel	Artikel
 37.	37.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Das
+)
+Das	der
 Verfahren	Verfahren
 für	für
 das	der
@@ -4605,9 +5007,13 @@ geregelt	regeln
 .
 </p>
 <p>
+	
 <g/>
 (
-2)Stimmberechtigt	2)Stimmberechtigt
+2	2
+<g/>
+)
+Stimmberechtigt	Stimmberechtigt
 ist	sein
 jeder	jeder
 zum	zu
@@ -4618,10 +5024,13 @@ Bundesbürger	Bundesbürger
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Der
+)
+Der	der
 Bundespräsident	Bundespräsident
 ordnet	ordnen
 die	der
@@ -4635,10 +5044,13 @@ Artikel	Artikel
 38.	38.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Jeder
+)
+Jeder	jeder
 Gesetzesbeschluß	Gesetzesbeschluß
 des	der
 Nationalrates	Nationalrat
@@ -4664,10 +5076,13 @@ hat	haben
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Ein
+)
+Ein	ein
 Gesetzesbeschluß	Gesetzesbeschluß
 kann	können
 <g/>
@@ -4707,10 +5122,13 @@ hat	haben
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Dieser
+)
+Dieser	dieser
 Einspruch	Einspruch
 muß	müssen
 im	in
@@ -4735,10 +5153,13 @@ werden	werden
 .
 </p>
 <p>
+	
 <g/>
 (
+4	4
 <g/>
-4)Wiederholt
+)
+Wiederholt	Wiederholt
 der	der
 Nationalrat	Nationalrat
 seinen	sein
@@ -4795,10 +5216,13 @@ kundzumachen	kundmachen
 .
 </p>
 <p>
+	
 <g/>
 (
+5	5
 <g/>
-5)Gegen
+)
+Gegen	gegen
 Beschlüsse	Beschluß
 des	der
 Nationalrates	Nationalrat
@@ -4890,10 +5314,13 @@ Artikel	Artikel
 40.	40.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Das
+)
+Das	der
 verfassungsgemäße	verfassungsgemäß
 Zustandekommen	zustandekommen
 der	der
@@ -4909,10 +5336,13 @@ beurkundet	beurkunden
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Die
+)
+Die	der
 Vorlage	Vorlage
 zur	zu
 Beurkundung	Beurkundung
@@ -4924,10 +5354,13 @@ Bundeskanzler	Bundeskanzler
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Die
+)
+Die	der
 Beukundung	Beukundung
 ist	sein
 vom	von
@@ -4996,10 +5429,13 @@ Artikel	Artikel
 42.	42.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 Kundmachung	Kundmachung
 der	der
 Bundesgesetze	Bundesgesetz
@@ -5084,10 +5520,13 @@ Bundesgebiet	Bundesgebiet
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Über
+)
+Über	über
 das	der
 Bundesgesetzblatt	Bundesgesetzblatt
 ergeht	ergehen
@@ -5119,10 +5558,13 @@ Artikel	Artikel
 a.	a.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Alle
+)
+Alle	aller
 politischen	politisch
 Staatsverträge	Staatsvertrag
 <g/>
@@ -5151,10 +5593,13 @@ Nationalrat	Nationalrat
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Auf
+)
+Auf	auf
 Beschlüsse	Beschluß
 des	der
 Nationalrates	Nationalrat
@@ -5305,10 +5750,13 @@ Artikel	Artikel
 43.	43.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 Mitglieder	Mitglied
 des	der
 Nationalrates	Nationalrat
@@ -5343,10 +5791,13 @@ werden	werden
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Kein
+)
+Kein	kein
 Mitglied	Mitglied
 des	der
 Nationalrates	Nationalrat
@@ -5387,10 +5838,13 @@ werden	werden
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Im
+)
+Im	in
 Falle	Fall
 der	der
 Ergreifung	Ergreifung
@@ -5413,10 +5867,13 @@ bekanntzugeben	bekanntzugeben
 .
 </p>
 <p>
+	
 <g/>
 (
+4	4
 <g/>
-4)Wenn
+)
+Wenn	wenn
 es	es
 der	der
 Nationalrat	Nationalrat
@@ -5441,10 +5898,13 @@ werden	werden
 .
 </p>
 <p>
+	
 <g/>
 (
+5	5
 <g/>
-5)Die
+)
+Die	der
 Immunität	Immunität
 der	der
 Organe	Organ
@@ -5507,10 +5967,13 @@ Artikel	Artikel
 45.	45.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Niemand
+)
+Niemand	niemand
 kann	können
 gleichzeitig	gleichzeitig
 dem	der
@@ -5523,10 +5986,13 @@ angehören	angehören
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)öffentliche
+)
+öffentliche	öffentlich
 Angestellte	angestellter
 und	und
 Funktionäre	Funktionär
@@ -5550,9 +6016,13 @@ Urlaubes	Urlaub
 .
 </p>
 <p>
+	
 <g/>
 (
-3)Wenn	3)Wenn
+3	3
+<g/>
+)
+Wenn	wenn
 sich	sich
 die	der
 im	in
@@ -5751,10 +6221,13 @@ Artikel	Artikel
 48.	48.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Der
+)
+Der	der
 Nationalrat	Nationalrat
 kann	können
 durch	durch
@@ -5765,10 +6238,13 @@ einsetzen	einsetzen
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Die
+)
+Die	der
 Gerichte	Gericht
 und	und
 alle	aller
@@ -5802,10 +6278,13 @@ vorzulegen	vorlegen
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Das
+)
+Das	der
 Verfahren	Verfahren
 der	der
 Untersuchungsausschüsse	Untersuchungsausschuß
@@ -5854,10 +6333,13 @@ Artikel	Artikel
 49.	49.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Der
+)
+Der	der
 Bundespräsident	Bundespräsident
 wird	werden
 von	von
@@ -5876,10 +6358,13 @@ gewählt	wählen
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Sein
+)
+Sein	sein
 Amt	Amt
 dauert	dauern
 vier	vier
@@ -5894,9 +6379,13 @@ zulässig	zulässig
 .
 </p>
 <p>
+	
 <g/>
 (
-3)zum	3)zum
+3	3
+<g/>
+)
+zum	zu
 Bundespräsidenten	Bundespräsident
 kann	können
 nur	nur
@@ -5928,9 +6417,13 @@ hat	haben
 .
 </p>
 <p>
+	
 <g/>
 (
-4)Ausgeschlossen	4)Ausgeschlossen
+4	4
+<g/>
+)
+Ausgeschlossen	Ausgeschlossen
 von	von
 der	der
 Wählbarkeit	Wählbarkeit
@@ -5945,9 +6438,13 @@ Häuser	Haus
 .
 </p>
 <p>
+	
 <g/>
 (
-5)Gewählt	5)Gewählt
+5	5
+<g/>
+)
+Gewählt	wählen
 ist	sein
 <g/>
 ,
@@ -6072,10 +6569,13 @@ Artikel	Artikel
 52.	52.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Eine
+)
+Eine	ein
 behördliche	behördlich
 Verfolgung	Verfolgung
 des	der
@@ -6093,10 +6593,13 @@ zugestimmt	zustimmen
 hat	haben
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Der
+)
+Der	der
 Antrag	Antrag
 auf	auf
 Verfolgung	Verfolgung
@@ -6153,10 +6656,13 @@ Artikel	Artikel
 53.	53.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Wenn
+)
+Wenn	wenn
 der	der
 Bundespräsident	Bundespräsident
 verhindert	verhindern
@@ -6193,10 +6699,13 @@ Bundeskanzler	Bundeskanzler
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Dieser
+)
+Dieser	dieser
 hat	haben
 im	in
 Falle	Fall
@@ -6221,10 +6730,13 @@ Artikel	Artikel
 54.	54.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Der
+)
+Der	der
 Bundespräsident	Bundespräsident
 vertritt	vertreten
 die	der
@@ -6265,9 +6777,13 @@ ab	ab
 .
 </p>
 <p>
+	
 <g/>
 (
-2)Weiter	2)Weiter
+2	2
+<g/>
+)
+Weiter	weiter
 stehen	stehen
 ihm	ihm
 <g/>
@@ -6287,7 +6803,8 @@ Befugnissen	Befugniss
 zu	zu
 <g/>
 :
-a.die	a.die
+a.	a.
+die	der
 Ernennung	Ernennung
 der	der
 Bundesangestellten	Bundesangestellter
@@ -6309,7 +6826,11 @@ Verleihung	Verleihung
 von	von
 Amtstiteln	Amtstitel
 an	an
-solche;b.die	solche;b.die
+solche	solcher
+<g/>
+;
+b.	b.
+die	der
 Schaffung	Schaffung
 von	von
 Amts-	Amt
@@ -6320,7 +6841,11 @@ Berufstiteln	Berufstitel
 die	der
 Verleihung	Verleihung
 der	der
-Berufstitel;c.die	Berufstitel;c.die
+Berufstitel	Berufstitel
+<g/>
+;
+c.	c.
+die	der
 Begnadigung	Begnadigung
 der	der
 von	von
@@ -6358,8 +6883,11 @@ die	der
 Abolition	Abolition
 von	von
 strafgerichtlichen	strafgerichtlich
+Verfahren	Verfahren
 <g/>
-Verfahren;d.die
+;
+d.	d.
+die	der
 Erklärung	Erklärung
 unehelicher	unehelich
 Kinder	Kind
@@ -6373,9 +6901,13 @@ Eltern	Eltern
 .
 </p>
 <p>
+	
 <g/>
 (
-3)Inwieweit	3)Inwieweit
+3	3
+<g/>
+)
+Inwieweit	inwieweit
 dem	der
 Bundespräsidenten	Bundespräsident
 außerdem	außerdem
@@ -6446,10 +6978,13 @@ Artikel	Artikel
 56.	56.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Alle
+)
+Alle	aller
 Akte	Akt
 des	der
 Bundespräsidenten	Bundespräsident
@@ -6502,10 +7037,13 @@ Gesetz	Gesetz
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Alle
+)
+Alle	aller
 Akte	Akt
 des	der
 Bundespräsidenten	Bundespräsident
@@ -6559,10 +7097,13 @@ Artikel	Artikel
 58.	58.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Mit
+)
+Mit	mit
 der	der
 Regierungsgewalt	Regierungsgewalt
 des	der
@@ -6608,10 +7149,13 @@ Bundeskanzlers	Bundeskanzler
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Der
+)
+Der	der
 Vizekanzler	Vizekanzler
 ist	sein
 zur	zu
@@ -6631,10 +7175,13 @@ Artikel	Artikel
 59.	59.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 Regierungsgewalt	Regierungsgewalt
 des	der
 Bundes	Bund
@@ -6653,10 +7200,13 @@ werden	werden
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Jede
+)
+Jede	jeder
 Behörde	Behörde
 kann	können
 im	in
@@ -6676,10 +7226,13 @@ Artikel	Artikel
 60.	60.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 Bundesregierung	Bundesregierung
 wird	werden
 vom	von
@@ -6716,10 +7269,13 @@ angehören	angehören
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Zur
+)
+Zur	zu
 Erstattung	Erstattung
 eines	ein
 Vorschlages	Vorschlag
@@ -6745,10 +7301,13 @@ berufen	berufen
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Der
+)
+Der	der
 Nationalrat	Nationalrat
 nimmt	nehmen
 die	der
@@ -6768,10 +7327,13 @@ vor	vor
 .
 </p>
 <p>
+	
 <g/>
 (
+4	4
 <g/>
-4)Ist
+)
+Ist	sein
 der	der
 Nationalrat	Nationalrat
 nicht	nicht
@@ -6794,9 +7356,13 @@ bestellt	bestellen
 .
 </p>
 <p>
+	
 <g/>
 (
-5)Auf	5)Auf
+5	5
+<g/>
+)
+Auf	auf
 die	der
 Bestellung	Bestellung
 einzelner	einzeln
@@ -6890,10 +7456,13 @@ Artikel	Artikel
 a.	a.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 Mitglieder	Mitglied
 der	der
 Bundesregierung	Bundesregierung
@@ -6909,10 +7478,13 @@ angelobt	anloben
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Die
+)
+Die	der
 Bestallungsurkunden	Bestallungsurkunde
 des	der
 Bundeskanzlers	Bundeskanzler
@@ -6945,10 +7517,13 @@ gegengezeichnet	gengezeichnen
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Diese
+)
+Diese	dieser
 Bestimmungen	Bestimmung
 finden	finden
 auch	auch
@@ -7016,9 +7591,13 @@ Artikel	Artikel
 62.	62.
 </head>
 <p>
+	
 <g/>
 (
-1)Versagt	1)Versagt
+1	1
+<g/>
+)
+Versagt	Versagt
 der	der
 Nationalrat	Nationalrat
 der	der
@@ -7050,10 +7629,13 @@ entheben	entheben
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Zu
+)
+Zu	zu
 einem	ein
 Beschlusse	Beschluss
 des	der
@@ -7120,10 +7702,13 @@ erfolgen	erfolgen
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Die
+)
+Die	der
 gesamte	gesamt
 Bundesregierung	Bundesregierung
 und	und
@@ -7180,10 +7765,13 @@ Artikel	Artikel
 64.	64.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Zur
+)
+Zur	zu
 Besorgung	Besorgung
 der	der
 Geschäfte	Geschäft
@@ -7202,10 +7790,13 @@ berufen	berufen
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Die
+)
+Die	der
 Zahl	Zahl
 der	der
 Bundesministerien	Bundesministerium
@@ -7224,10 +7815,13 @@ bestimmt	bestimmen
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Der
+)
+Der	der
 Bundeskanzler	Bundeskanzler
 und	und
 die	der
@@ -7267,10 +7861,13 @@ Artikel	Artikel
 66.	66.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)In
+)
+In	in
 besonderen	besonderer
 Fällen	Fall
 kann	können
@@ -7292,10 +7889,13 @@ erfolgen	erfolgen
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Den
+)
+Den	der
 Bundesministern	Bundesminister
 können	können
 zur	zu
@@ -7325,10 +7925,13 @@ Bundesminister	Bundesminister
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Der
+)
+Der	der
 Staatssekretär	Staatssekretär
 ist	sein
 dem	der
@@ -7386,10 +7989,13 @@ Artikel	Artikel
 69.	69.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Dem
+)
+Dem	der
 Bundesheer	Bundesheer
 liegt	liegen
 der	der
@@ -7403,10 +8009,13 @@ ob	ob
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Das
+)
+Das	der
 Bundesheer	Bundesheer
 ist	sein
 <g/>
@@ -7455,10 +8064,13 @@ Artikel	Artikel
 70.	70.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Über
+)
+Über	über
 das	der
 Heer	Heer
 verfügt	verfügen
@@ -7500,9 +8112,13 @@ betraut	betrauen
 .
 </p>
 <p>
+	
 <g/>
 (
-2)Inwieweit	2)Inwieweit
+2	2
+<g/>
+)
+Inwieweit	inwieweit
 auch	auch
 die	der
 Behörden	Behörde
@@ -7587,10 +8203,13 @@ Artikel	Artikel
 72.	72.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Alle
+)
+Alle	aller
 Gerichtsbarkeit	Gerichtsbarkeit
 geht	gehen
 vom	von
@@ -7600,10 +8219,13 @@ aus	aus
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Die
+)
+Die	der
 Urteile	Urteil
 und	und
 Erkenntnisse	Erkenntnis
@@ -7623,10 +8245,13 @@ Artikel	Artikel
 73.	73.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 Verfassung	Verfassung
 und	und
 Zuständigkeit	Zuständigkeit
@@ -7640,10 +8265,13 @@ festgestellt	feststellen
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Niemand
+)
+Niemand	niemand
 darf	dürfen
 seinem	sein
 ordentlichen	ordentlich
@@ -7654,9 +8282,13 @@ werden	werden
 .
 </p>
 <p>
+	
 <g/>
 (
-3)Ausnahmsgerichte	3)Ausnahmsgericht
+3	3
+<g/>
+)
+Ausnahmsgerichte	Ausnahmsgericht
 sind	sein
 nur	nur
 in	in
@@ -7732,10 +8364,13 @@ setzen	setzen
 .
 </p>
 <p>
+	
 <g/>
 (
+4	4
 <g/>
-4)Das
+)
+Das	der
 Verfahren	Verfahren
 wegen	wegen
 Verletzungen	Verletzung
@@ -7787,10 +8422,13 @@ Artikel	Artikel
 76.	76.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 Richter	Richter
 werden	werden
 <g/>
@@ -7839,10 +8477,13 @@ ernannt	ernennen
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Der
+)
+Der	der
 dem	der
 zuständigen	zuständig
 Bundesminister	Bundesminister
@@ -7904,10 +8545,13 @@ Artikel	Artikel
 77.	77.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 Richter	Richter
 sind	sein
 in	in
@@ -7920,10 +8564,13 @@ unabhängig	unabhängig
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)In
+)
+In	in
 Ausübung	Ausübung
 seines	sein
 richterlichen	richterlich
@@ -7968,10 +8615,13 @@ sind	sein
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Die
+)
+Die	der
 Geschäfte	Geschäft
 sind	sein
 unter	unter
@@ -8021,10 +8671,13 @@ Artikel	Artikel
 78.	78.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Im
+)
+Im	in
 Gerichtsverfassungsgesetze	Gerichtsverfassungsgesetz
 wird	werden
 eine	ein
@@ -8048,7 +8701,9 @@ sind	sein
 .
 </p>
 <p>
-2.Im	2.Im
+	
+2.	2.
+Im	in
 übrigen	übrig
 dürfen	dürfen
 Richter	Richter
@@ -8146,10 +8801,13 @@ können	können
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Die
+)
+Die	der
 zeitweise	zeitweis
 Enthebung	Enthebung
 der	der
@@ -8184,10 +8842,13 @@ Artikel	Artikel
 79.	79.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 Prüfung	Prüfung
 der	der
 Gültigkeit	Gültigkeit
@@ -8203,10 +8864,13 @@ zu	zu
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Hat
+)
+Hat	haben
 ein	ein
 Gericht	Gericht
 gegen	gegen
@@ -8248,10 +8912,13 @@ Artikel	Artikel
 80.	80.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 Verhandlungen	Verhandlung
 in	in
 Zivil-	Zivil
@@ -8275,10 +8942,13 @@ Gesetz	Gesetz
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Im
+)
+Im	in
 Strafverfahren	Strafverfahren
 gilt	gelten
 der	der
@@ -8291,10 +8961,13 @@ Artikel	Artikel
 81.	81.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Das
+)
+Das	der
 Volk	Volk
 hat	haben
 an	an
@@ -8305,10 +8978,13 @@ mitzuwirken	mitwirken
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Bei
+)
+Bei	bei
 den	der
 mit	mit
 schweren	schwer
@@ -8343,10 +9019,13 @@ Angeklagten	angeklagter
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Im
+)
+Im	in
 Strafverfahren	Strafverfahren
 wegen	wegen
 niederer	nieder
@@ -8405,10 +9084,13 @@ Artikel	Artikel
 84.	84.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 Justiz	Justiz
 ist	sein
 von	von
@@ -8422,10 +9104,13 @@ getrennt	trennen
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Wenn
+)
+Wenn	wenn
 eine	ein
 Verwaltungsbehörde	Verwaltungsbehörde
 über	über
@@ -8489,10 +9174,13 @@ Artikel	Artikel
 85.	85.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 gesetzgebende	gesetzgebend
 Gewalt	Gewalt
 der	der
@@ -8534,10 +9222,13 @@ werden	werden
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Die
+)
+Die	der
 Landtagswahlordnungen	Landtagswahlordnung
 dürfen	dürfen
 die	der
@@ -8570,10 +9261,13 @@ Artikel	Artikel
 86.	86.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 Mitglieder	Mitglied
 des	der
 Landtages	Landtag
@@ -8601,10 +9295,13 @@ finden	finden
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Die
+)
+Die	der
 Bestimmungen	Bestimmung
 der	der
 Artikel	Artikel
@@ -8629,10 +9326,13 @@ Artikel	Artikel
 87.	87.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Zu
+)
+Zu	zu
 einem	ein
 Landesgesetz	Landesgesetz
 ist	sein
@@ -8664,10 +9364,13 @@ erforderlich	erforderlich
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Insoweit
+)
+Insoweit	Insoweit
 ein	ein
 Landesgesetz	Landesgesetz
 bei	bei
@@ -8711,10 +9414,13 @@ Artikel	Artikel
 88.	88.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Alle
+)
+Alle	aller
 Gesetzesbeschlüsse	Gesetzesbeschluß
 der	der
 Landtage	Landtag
@@ -8742,10 +9448,13 @@ bekanntzugeben	bekanntgeben
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Wegen
+)
+Wegen	wegen
 Gefährdung	Gefährdung
 von	von
 Bundesinteressen	Bundesinteresse
@@ -8799,10 +9508,13 @@ wiederholt	wiederholen
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Vor
+)
+Vor	vor
 Ablauf	Ablauf
 der	der
 Einspruchsfrist	Einspruchsfrist
@@ -8826,10 +9538,13 @@ Artikel	Artikel
 89.	89.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 durch	durch
 Landesgesetz	Landesgesetz
 zu	zu
@@ -8855,10 +9570,13 @@ werden	werden
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Ein
+)
+Ein	ein
 Landesverfassungsgesetz	Landesverfassungsgesetz
 kann	können
 nur	nur
@@ -8889,10 +9607,13 @@ Artikel	Artikel
 90.	90.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Jeder
+)
+Jeder	jeder
 Landtag	Landtag
 kann	können
 auf	auf
@@ -8935,10 +9656,13 @@ sein	sein
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Im
+)
+Im	in
 Falle	Fall
 der	der
 Auflösung	Auflösung
@@ -8977,10 +9701,13 @@ Artikel	Artikel
 91.	91.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 vollziehende	vollziehend
 Gewalt	Gewalt
 jedes	jeder
@@ -8998,10 +9725,13 @@ ausgeübt	ausüben
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Die
+)
+Die	der
 Mitglieder	Mitglied
 der	der
 Landesregierung	Landesregierung
@@ -9031,10 +9761,13 @@ ist	sein
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Die
+)
+Die	der
 Landesregierung	Landesregierung
 besteht	bestehen
 aus	aus
@@ -9054,10 +9787,13 @@ Mitgliedern	Mitglied
 .
 </p>
 <p>
+	
 <g/>
 (
+4	4
 <g/>
-4)Der
+)
+Der	der
 Landeshauptmann	Landeshauptmann
 und	und
 seine	sein
@@ -9078,10 +9814,13 @@ Artikel	Artikel
 92.	92.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Im
+)
+Im	in
 Bereiche	Bereich
 der	der
 Länder	Land
@@ -9121,9 +9860,13 @@ ausgeübt	ausüben
 .
 </p>
 <p>
+	
 <g/>
 (
-2)Eigene	2)Eigene
+2	2
+<g/>
+)
+Eigene	eigen
 Bundesbehörden	Bundesbehörde
 können	können
 bis	bis
@@ -9174,10 +9917,13 @@ beauftragen	beauftragen
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Die
+)
+Die	der
 Errichtung	Errichtung
 von	von
 eigenen	eigen
@@ -9203,10 +9949,13 @@ erfolgen	erfolgen
 .
 </p>
 <p>
+	
 <g/>
 (
+4	4
 <g/>
-4)In
+)
+In	in
 den	der
 Angelegenheiten	Angelegenheit
 der	der
@@ -9259,10 +10008,13 @@ Artikel	Artikel
 93.	93.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Der
+)
+Der	der
 Landeshauptmann	Landeshauptmann
 oder	oder
 sein	sein
@@ -9301,10 +10053,13 @@ Wege	Weg
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Dem
+)
+Dem	der
 Landtage	Landtag
 sind	sein
 die	der
@@ -9449,9 +10204,13 @@ Artikel	Artikel
 b.	b.
 </head>
 <p>
+	
 <g/>
 (
-1)Verwaltungssprengel	1)Verwaltungssprengel
+1	1
+<g/>
+)
+Verwaltungssprengel	Verwaltungssprengel
 und	und
 Selbstverwaltungskörper	Selbstverwaltungskörper
 <g/>
@@ -9499,10 +10258,13 @@ Kreisgemeinden	Kreisgemeinde
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Die
+)
+Die	der
 Gemeinden	Gemeinde
 sind	sein
 den	der
@@ -9534,9 +10296,13 @@ Artikel	Artikel
 c.	c.
 </head>
 <p>
+	
 <g/>
 (
-1)Ortsgemeinden	1)Ortsgemeinde
+1	1
+<g/>
+)
+Ortsgemeinden	Ortsgemeinde
 mit	mit
 mehr	mehr
 als	als
@@ -9568,10 +10334,13 @@ zusammen	zusammen
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)In
+)
+In	in
 Ländern	Land
 in	in
 denen	der
@@ -9615,10 +10384,13 @@ Gemeindeverwaltung	Gemeindeverwaltung
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Die
+)
+Die	der
 bisherigen	bisherig
 Städte	Stadt
 mit	mit
@@ -9731,10 +10503,13 @@ Artikel	Artikel
 e.	e.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 Organe	Organ
 der	der
 Gemeinde	Gemeinde
@@ -9770,10 +10545,13 @@ Kreissamt	Kreissamt
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Die
+)
+Die	der
 Wahlen	Wahl
 in	in
 alle	aller
@@ -9878,10 +10656,13 @@ werden	werden
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Die
+)
+Die	der
 Landesgesetzgebung	Landesgesetzgebung
 kann	können
 vorschreiben	vorschreiben
@@ -10002,10 +10783,13 @@ zulässig	zulässig
 .
 </p>
 <p>
+	
 <g/>
 (
+4	4
 <g/>
-4)die
+)
+die	der
 Vertretungen	Vertretung
 können	können
 nach	nach
@@ -10058,10 +10842,13 @@ können	können
 .
 </p>
 <p>
+	
 <g/>
 (
+5	5
 <g/>
-5)Die
+)
+Die	der
 Leiter	Leiter
 der	der
 Bezirksämter	Bezirksamt
@@ -10201,10 +10988,13 @@ Artikel	Artikel
 98.	98.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Zur
+)
+Zur	zu
 Überprüfung	Überprüfung
 der	der
 Gebarung	Gebarung
@@ -10262,10 +11052,13 @@ werden	werden
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Der
+)
+Der	der
 Rechnungshof	Rechnungshof
 verfaßt	verfassen
 den	der
@@ -10280,10 +11073,13 @@ vor	vor
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Alle
+)
+Alle	aller
 Urkunden	Urkund
 über	über
 Staatsschulden	Staatsschuld
@@ -10334,10 +11130,13 @@ Artikel	Artikel
 99.	99.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Der
+)
+Der	der
 Rechnungshof	Rechnungshof
 untersteht	unterstehen
 unmittelbar	unmittelbar
@@ -10347,10 +11146,13 @@ Nationalrate	Nationalrate
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Der
+)
+Der	der
 Rechnungshof	Rechnungshof
 besteht	bestehen
 aus	aus
@@ -10366,10 +11168,13 @@ Hilfskräften	Hilfskraft
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Der
+)
+Der	der
 Präsident	Präsident
 des	der
 Rechnungshofes	Rechnungshof
@@ -10385,10 +11190,13 @@ gewählt	wählen
 .
 </p>
 <p>
+	
 <g/>
 (
+4	4
 <g/>
-4)Der
+)
+Der	der
 Präsident	Präsident
 des	der
 Rechnungshofes	Rechnungshof
@@ -10417,10 +11225,13 @@ Artikel	Artikel
 100.	100.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Der
+)
+Der	der
 Präsident	Präsident
 des	der
 Rechnungshofes	Rechnungshof
@@ -10438,10 +11249,13 @@ gleichgestellt	gleichstellen
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Er
+)
+Er	er
 kann	können
 durch	durch
 Beschluß	Beschluß
@@ -10457,10 +11271,13 @@ Artikel	Artikel
 101.	101.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Der
+)
+Der	der
 Präsident	Präsident
 wird	werden
 von	von
@@ -10476,10 +11293,13 @@ vertreten	vertreten
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Im
+)
+Im	in
 Falle	Fall
 der	der
 Stellvertretung	Stellvertretung
@@ -10500,10 +11320,13 @@ Artikel	Artikel
 102.	102.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 Beamten	Beamter
 des	der
 Rechnungshofes	Rechnungshof
@@ -10551,10 +11374,13 @@ ernennen	ernennen
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Die
+)
+Die	der
 Hilfskräfte	Hilfskraft
 ernennt	ernennen
 der	der
@@ -10740,10 +11566,13 @@ Artikel	Artikel
 138.	138.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Wegen
+)
+Wegen	wegen
 Rechtsverletzung	Rechtsverletzung
 durch	durch
 die	der
@@ -10769,10 +11598,13 @@ Verwaltungsgerichtshof	Verwaltungsgerichtshof
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Für
+)
+Für	für
 Angelegenheiten	Angelegenheit
 <g/>
 ,
@@ -10803,10 +11635,13 @@ Artikel	Artikel
 139.	139.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Der
+)
+Der	der
 Verwaltungsgerichtshof	Verwaltungsgerichtshof
 hat	haben
 in	in
@@ -10823,10 +11658,13 @@ erkennen	erkennen
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Doch
+)
+Doch	doch
 kann	können
 <g/>
 ,
@@ -10892,19 +11730,31 @@ Verwaltungsgerichtshofes	Verwaltungsgerichtshof
 sind	sein
 ausgeschlossen	ausschließen
 die	der
-Angelegenheiten:1.die	Angelegenheiten:1.die
+Angelegenheiten	Angelegenheit
+<g/>
+:
+1.	1.
+die	der
 zur	zu
 Kompetenz	Kompetenz
 des	der
 Verfassungsgerichtshofes	Verfassungsgerichtshof
-gehören;2.über	gehören;2.über
+gehören	gehören
+<g/>
+;
+2.	2.
+über	über
 die	der
 den	der
 ordentlichen	ordentlich
 Gerichten	Gericht
 die	der
 Entscheidung	Entscheidung
-zusteht;3.über	zusteht;3.über
+zusteht	zustehen
+<g/>
+;
+3.	3.
+über	über
 die	der
 eine	ein
 Kollegialbehörde	Kollegialbehörde
@@ -10920,7 +11770,11 @@ der	der
 wenigstens	wenigstens
 ein	ein
 Richter	Richter
-angehört.4.in	angehört.4.in
+angehört	angehören
+<g/>
+.
+4.	4.
+in	in
 denen	der
 und	und
 insoweit	insoweit
@@ -11004,10 +11858,13 @@ Artikel	Artikel
 143.	143.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Das
+)
+Das	der
 stattgebende	stattgebend
 Erkenntnis	Erkenntnis
 des	der
@@ -11024,10 +11881,13 @@ Verfügung	Verfügung
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Die
+)
+Die	der
 Verwaltungsbehörde	Verwaltungsbehörde
 ist	sein
 bei	bei
@@ -11048,10 +11908,13 @@ gebunden	binden
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Der
+)
+Der	der
 Verwaltungsgerichtshof	Verwaltungsgerichtshof
 kann	können
 in	in
@@ -11067,10 +11930,13 @@ Artikel	Artikel
 144.	144.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Der
+)
+Der	der
 Verwaltungsgerichtshof	Verwaltungsgerichtshof
 hat	haben
 seinen	sein
@@ -11083,10 +11949,13 @@ Wien	Wien
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Er
+)
+Er	er
 besteht	bestehen
 aus	aus
 einem	ein
@@ -11108,9 +11977,13 @@ Räten	Rat
 .
 </p>
 <p>
+	
 <g/>
 (
-3)Wenigstens	3)Wenigstens
+3	3
+<g/>
+)
+Wenigstens	wenigstens
 die	der
 Hälfte	Hälfte
 der	der
@@ -11249,7 +12122,8 @@ ferner	ferner
 Kompetenzkonflikte	Kompetenzkonflikt
 <g/>
 :
-a.zwischen	a.zwischen
+a.	a.
+zwischen	zwischen
 Gerichten	Gericht
 und	und
 Verwaltungsbehörden	Verwaltungsbehörde
@@ -11260,13 +12134,18 @@ der	der
 Länder	Land
 <g/>
 :
-b.zwischen	b.zwischen
+b.	b.
+zwischen	zwischen
 dem	der
 Verwaltungsgerichtshof	Verwaltungsgerichtshof
 und	und
 den	der
 ordentlichen	ordentlich
-Gerichten.c.zwischen	Gerichten.c.zwischen
+Gerichten	Gericht
+<g/>
+.
+c.	c.
+zwischen	zwischen
 Landesregierungen	Landesregierung
 untereinander	untereinander
 sowie	sowie
@@ -11284,10 +12163,13 @@ Artikel	Artikel
 149.	149.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Der
+)
+Der	der
 Verfassungsgerichtshof	Verfassungsgerichtshof
 entscheidet	entscheiden
 über	über
@@ -11332,10 +12214,13 @@ Landesregierung	Landesregierung
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Das
+)
+Das	der
 stattgebende	stattgebend
 Erkenntnis	Erkenntnis
 des	der
@@ -11365,10 +12250,13 @@ Artikel	Artikel
 150.	150.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Der
+)
+Der	der
 Verfassungsgerichtshof	Verfassungsgerichtshof
 entscheidet	entscheiden
 über	über
@@ -11393,10 +12281,13 @@ Landesregierung	Landesregierung
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Der
+)
+Der	der
 Antrag	Antrag
 kann	können
 jederzeit	jederzeit
@@ -11418,10 +12309,13 @@ bekanntzugeben	bekanntgeben
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Das
+)
+Das	der
 stattgebende	stattgebend
 Erkenntnis	Erkenntnis
 des	der
@@ -11453,10 +12347,13 @@ Bundesgesetzblatte	Bundesgesetzblatt
 .
 </p>
 <p>
+	
 <g/>
 (
+4	4
 <g/>
-4)Der
+)
+Der	der
 Verfassungsgerichtshof	Verfassungsgerichtshof
 ist	sein
 bei	bei
@@ -11519,10 +12416,13 @@ Artikel	Artikel
 152.	152.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Der
+)
+Der	der
 Verfassungsgerichtshof	Verfassungsgerichtshof
 entscheidet	entscheiden
 über	über
@@ -11530,8 +12430,13 @@ die	der
 Verantwortlichkeit	Verantwortlichkeit
 <g/>
 :
-a.des	a.des
-Bundespräsidenten;b.der	Bundespräsidenten;b.der
+a.	a.
+des	der
+Bundespräsidenten	Bundespräsident
+<g/>
+;
+b.	b.
+der	der
 Mitglieder	Mitglied
 der	der
 Bundesregierung	Bundesregierung
@@ -11542,8 +12447,11 @@ hinsichtlich	hinsichtlich
 der	der
 Verantwortlichkeit	Verantwortlichkeit
 gleichgestellten	gleichgestellt
+Organe	Organ
 <g/>
-Organe;c.der
+;
+c.	c.
+der	der
 Mitglieder	Mitglied
 der	der
 Landesregierungen	Landesregierung
@@ -11558,7 +12466,11 @@ Organe	Organ
 <g/>
 ,
 und	und
-zwar:1.wegen	zwar:1.wegen
+zwar	zwar
+<g/>
+:
+1.	1.
+wegen	wegen
 vorsätzlicher	vorsätzlich
 oder	oder
 grobfahrlässiger	grobfahrlässig
@@ -11572,7 +12484,11 @@ auf	auf
 einen	ein
 Antrag	Antrag
 der	der
-Bundesversammlung;2.wegen	Bundesversammlung;2.wegen
+Bundesversammlung	Bundesversammlung
+<g/>
+;
+2.	2.
+wegen	wegen
 vorsätzlicher	vorsätzlich
 oder	oder
 grobfahrlässiger	grobfahrlässig
@@ -11610,7 +12526,11 @@ auf	auf
 Antrag	Antrag
 des	der
 zuständigen	zuständig
-Landtages.3.über	Landtages.3.über
+Landtages	Landtag
+<g/>
+.
+3.	3.
+über	über
 die	der
 Verantwortlichkeit	Verantwortlichkeit
 des	der
@@ -11646,10 +12566,13 @@ Bundesregierung	Bundesregierung
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Das
+)
+Das	der
 verurteilende	verurteilend
 Erkenntnis	Erkenntnis
 des	der
@@ -11712,10 +12635,13 @@ Artikel	Artikel
 153.	153.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Der
+)
+Der	der
 Verfassungsgerichtshof	Verfassungsgerichtshof
 entscheidet	entscheiden
 über	über
@@ -11739,10 +12665,13 @@ Instanzenzuges	Instanzenzug
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Das
+)
+Das	der
 stattgebende	stattgebend
 Erkenntnis	Erkenntnis
 des	der
@@ -11800,10 +12729,13 @@ Artikel	Artikel
 155.	155.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Der
+)
+Der	der
 Verfassungsgerichtshof	Verfassungsgerichtshof
 hat	haben
 seinen	sein
@@ -11814,10 +12746,13 @@ Wien	Wien
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Er
+)
+Er	er
 besteht	bestehen
 aus	aus
 einem	ein
@@ -11837,10 +12772,13 @@ Ersatzmitgliedern	Ersatzmitglied
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Der
+)
+Der	der
 Präsident	Präsident
 <g/>
 ,
@@ -11876,10 +12814,13 @@ Artikel	Artikel
 156.	156.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Der
+)
+Der	der
 Präsident	Präsident
 des	der
 Verfassungsgerichtshofes	Verfassungsgerichtshof
@@ -11900,10 +12841,13 @@ Bundesministers	Bundesminister
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Das
+)
+Das	der
 Amt	Amt
 der	der
 Mitglieder	Mitglied
@@ -11975,10 +12919,13 @@ Artikel	Artikel
 x.	x.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Bis
+)
+Bis	bis
 zur	zu
 Errichtung	Errichtung
 der	der
@@ -12034,10 +12981,13 @@ wird	werden
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)In
+)
+In	in
 den	der
 Städten	Stadt
 mit	mit
@@ -12067,10 +13017,13 @@ werden	werden
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)In
+)
+In	in
 den	der
 Bereichen	Bereich
 der	der
@@ -12154,10 +13107,13 @@ Anwendung	Anwendung
 .
 </p>
 <p>
+	
 <g/>
 (
+4	4
 <g/>
-4)In
+)
+In	in
 die	der
 Bezirksvertretung	Bezirksvertretung
 sind	sein
@@ -12184,10 +13140,13 @@ sind	sein
 .
 </p>
 <p>
+	
 <g/>
 (
+5	5
 <g/>
-5)Die
+)
+Die	der
 näheren	näh
 Bestimmungen	Bestimmung
 der	der

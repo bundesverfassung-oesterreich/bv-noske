@@ -33,39 +33,49 @@ Anwesend	Anwesend
 <g/>
 :
 </p>
+	
 Dr.	Dr.
-OttoBauerals	OttoBaueral
+Otto	Otto
+Bauer	Bauer
+als	als
 Vorsitzender	vorsitzend
 <g/>
 ,
 Dr.	Dr.
-JosefAigner	JosefAigner
+Josef	Josef
+Aigner	Aigner
 <g/>
 ,
 Dr.	Dr.
-HeinrichClessin	HeinrichClessin
+Heinrich	Heinrich
+Clessin	Clessin
 <g/>
 ,
 Dr.	Dr.
-RobertDanneberg	RobertDanneberg
+Robert	Robert
+Danneberg	Danneberg
 <g/>
 ,
-JodokFink	JodokFink
+Jodok	Jodok
+Fink	Fink
 <g/>
 ,
 Prof.	Prof.
 Dr.	Dr.
-IgnazSeipel	IgnazSeipel
+Ignaz	Ignaz
+Seipel	Seipel
 <g/>
 .
 Präsident	Präsident
-KarlSeitz	KarlSeitz
+Karl	Karl
+Seitz	Seitz
 <g/>
 ,
 Staatssekretär	Staatssekretär
 Prof.	Prof.
 Dr.	Dr.
-MichaelMayr	MichaelMayr
+Michael	Michael
+Mayr	Mayr
 <g/>
 .
 <p>
@@ -75,23 +85,27 @@ Staatskanzlei	Staatskanzlei
 <g/>
 :
 </p>
+	
 Min	Min
 .	.
 Rat	Rat
 Dr.	Dr.
-GeordFröhlich	GeordFröhlich
+Geord	Geord
+Fröhlich	Fröhlich
 <g/>
 ,
 Sektionsrat	Sektionsrat
 Dr.	Dr.
-EgbertMannlicher	EgbertMannlicher
+Egbert	Egbert
+Mannlicher	Mannlicher
 <g/>
 ,
 Min	Min
 .	.
 Vizesekretär	Vizesekretär
 Dr.	Dr.
-AdolfMerkl	AdolfMerkl
+Adolf	Adolf
+Merkl	Merkl
 <g/>
 ,
 als	als
@@ -100,7 +114,9 @@ Schriftführer	Schriftführer
 .
 Universitätsprofessor	Universitätsprofessor
 Dr.	Dr.
-HansKelsenals	HansKelsenal
+Hans	Hans
+Kelsen	Kelsen
+als	als
 Experte	Experte
 des	der
 Verfassungsausschusses	Verfassungsausschuß
@@ -110,7 +126,9 @@ Min	Min
 .	.
 Rat	Rat
 Ing.	Ing.
-EmilGärtnerervom	EmilGärtnerervom
+Emil	Emil
+Gärtnerer	Gärtnerer
+vom	von
 WEWA	WEWA
 als	als
 Sachverständiger	Sachverständiger
@@ -151,7 +169,8 @@ Min	Min
 Rat	Rat
 .	.
 Dr.	Dr.
-Fröhlichwird	Fröhlichwird
+Fröhlich	Fröhlich
+wird	werden
 beschlossen	beschließen
 <g/>
 ,
@@ -273,7 +292,8 @@ sollten	sollen
 .
 Abgeordneter	abgeordneter
 Dr.	Dr.
-Clessinbemerkt	Clessinbemerkt
+Clessin	Clessin
+bemerkt	bemerken
 <g/>
 ,
 daß	daß
@@ -481,7 +501,7 @@ erste	erster
 Wort	Wort
 <g/>
 „
-Wenn	Wenn
+Wenn	wenn
 <g/>
 “
 durch	durch
@@ -562,7 +582,8 @@ Min	Min
 .	.
 Rates	Rat
 Dr.	Dr.
-Fröhlichfolgenden	Fröhlichfolgenden
+Fröhlich	Fröhlich
+folgenden	folgend
 Wortlaut	Wortlaut
 <g/>
 :
@@ -634,7 +655,8 @@ Min	Min
 .	.
 Rat-Dr	Rat-Dr
 .	.
-Fröhlichregt	Fröhlichregt
+Fröhlich	Fröhlich
+regt	regen
 an	an
 <g/>
 ,
@@ -679,7 +701,9 @@ Satzes	Satz
 Bedenken	Bedenken
 <g/>
 .
-ProfessorSeipelerinnert	ProfessorSeipelerinnert
+Professor	Professor
+Seipel	Seipel
+erinnert	erinnern
 daran	daran
 <g/>
 ,
@@ -745,7 +769,8 @@ Min	Min
 .	.
 Rat	Rat
 Dr.	Dr.
-Fröhlichfolgende	Fröhlichfolgende
+Fröhlich	Fröhlich
+folgende	folgend
 Formulierung	Formulierung
 an	an
 <g/>
@@ -828,7 +853,9 @@ regeln	regeln
 .
 <g/>
 “
-AbgeordneterDannebergbemerkt	AbgeordneterDannebergbemerkt
+Abgeordneter	abgeordneter
+Danneberg	Danneberg
+bemerkt	bemerken
 <g/>
 ,
 daß	daß
@@ -844,7 +871,9 @@ der	der
 Bundeskompetenz	Bundeskompetenz
 bedeute	bedeuten
 und	und
-AbgeordneterBauerstellt	AbgeordneterBauerstellt
+Abgeordneter	abgeordneter
+Bauer	Bauer
+stellt	stellen
 fest	fest
 <g/>
 ,
@@ -884,7 +913,8 @@ Min	Min
 .	.
 Rat	Rat
 Dr.	Dr.
-Fröhlichstellt	Fröhlichstellt
+Fröhlich	Fröhlich
+stellt	stellen
 fest	fest
 <g/>
 ,
@@ -984,13 +1014,15 @@ im	in
 Sinne	Sinn
 des	der
 von	von
-ProfessorSeipelaufgenommenen	ProfessorSeipelaufgenommenen
+Professor	Professor
+Seipel	Seipel
+aufgenommenen	aufgenommen
 Vorschlages	Vorschlag
 der	der
 Staatskanzlei	Staatskanzlei
 <g/>
 .
-Ueberdies	Ueberdies
+Ueberdies	Ueberdie
 wird	werden
 einvernehmlich	einvernehmlich
 festgestellt	feststellen
@@ -1025,12 +1057,13 @@ Min	Min
 .	.
 Rat	Rat
 Dr.	Dr.
-Fröhlichvor	Fröhlichvor
+Fröhlich	Fröhlich
+vor	vor
 <g/>
 ,
 zwischen	zwischen
 die	der
-Worte	Wort
+Worte	Worte
 <g/>
 „
 das	der
@@ -1134,7 +1167,8 @@ Min	Min
 Rat	Rat
 .	.
 Dr.	Dr.
-Fröhlichvorgeschlagen	Fröhlichvorgeschlagen
+Fröhlich	Fröhlich
+vorgeschlagen	vorschlagen
 veränderten	verändert
 Fassung	Fassung
 zum	zu
@@ -1268,7 +1302,7 @@ Artikel	Artikel
 )
 <g/>
 “
-Zum	Zu
+Zum	zu
 2.	2.
 Punkt	Punkt
 bemerkt	bemerken
@@ -1333,7 +1367,8 @@ Min	Min
 .	.
 Rates	Rat
 Dr.	Dr.
-Fröhlichdie	Fröhlichdie
+Fröhlich	Fröhlich
+die	der
 von	von
 ihm	ihm
 als	als
@@ -1367,7 +1402,8 @@ Min	Min
 .	.
 Rat	Rat
 Dr.	Dr.
-Fröhlichangeregte	Fröhlichangeregte
+Fröhlich	Fröhlich
+angeregte	angeregt
 Einschaltung	Einschaltung
 eines	ein
 2.	2.
@@ -1438,7 +1474,8 @@ Min	Min
 Rat	Rat
 .	.
 Dr.	Dr.
-Fröhlichbemerkt	Fröhlichbemerkt
+Fröhlich	Fröhlich
+bemerkt	bemerken
 hiezu	hiezu
 <g/>
 ,
@@ -1506,9 +1543,11 @@ erwünscht	erwünscht
 ,
 Professor	Professor
 Dr.	Dr.
-Seipelund	Seipelund
+Seipel	Seipel
+und	und
 Dr.	Dr.
-Clessinerklären	Clessinerklären
+Clessin	Clessin
+erklären	erklären
 ihn	ihn
 für	für
 überflüssig	überflüssig
@@ -1568,7 +1607,8 @@ a	a
 beantragt	beantragen
 Professor	Professor
 Dr.	Dr.
-Seipelunter	Seipelunter
+Seipel	Seipel
+unter	unter
 Hinweis	Hinweis
 auf	auf
 die	der
@@ -1603,7 +1643,9 @@ wird	werden
 auf	auf
 Vorschlag	Vorschlag
 des	der
-ProfessorsKelsenan	ProfessorsKelsenan
+Professors	Professor
+Kelsen	Kelsen
+an	an
 Stelle	Stelle
 des	der
 bisherigen	bisherig
@@ -1889,7 +1931,8 @@ einer	ein
 von	von
 Professor	Professor
 Dr.	Dr.
-Seipelbeantragten	Seipelbeantragt
+Seipel	Seipel
+beantragten	beantragt
 Modifikation	Modifikation
 in	in
 folgender	folgend
@@ -2002,7 +2045,8 @@ ee	ee
 beantragt	beantragen
 Professor	Professor
 Dr.	Dr.
-Seipelderen	Seipelderen
+Seipel	Seipel
+deren	der
 völlige	völlig
 Eliminierung	Eliminierung
 gegen	gegen
@@ -2016,7 +2060,8 @@ Gendarmerie	Gendarmerie
 in	in
 den	der
 Artikeln	Artikel
-10.	10.
+<g/>
+10.
 Der	der
 Vorsitzende	vorsitzend
 beantragt	beantragen
@@ -2073,7 +2118,9 @@ sowie	sowie
 die	der
 Aufnahme	Aufnahme
 der	der
-vomVorsitzendenbeantragten	vomVorsitzendenbeantragt
+vom	von
+Vorsitzenden	vorsitzend
+beantragten	beantragt
 Einschränkung	Einschränkung
 an	an
 einer	ein

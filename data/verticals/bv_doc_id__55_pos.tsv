@@ -125,15 +125,26 @@ Neutzler	Neutzler
 (
 soz	soz
 .	.
+dem	der
 <g/>
-dem.),Landesrat
+.
+<g/>
+)
+<g/>
+,
+Landesrat	Landesrat
 Dr.	Dr.
 Steinwender	Steinwender
 <g/>
 (
 gr	gr
 .	.
-d.),Landtagsabgeordneter	d.),Landtagsabgeordneter
+d.	d.
+<g/>
+)
+<g/>
+,
+Landtagsabgeordneter	Landtagsabgeordneter
 Dechant	Dechant
 Walcher	Walcher
 <g/>
@@ -155,64 +166,126 @@ Sever	Sever
 (
 soz	soz
 .	.
-dem.),Landeshauptmannstellvertreter	dem.),Landeshauptmannstellvertreter
+dem	dem
+<g/>
+.
+<g/>
+)
+<g/>
+,
+Landeshauptmannstellvertreter	Landeshauptmannstellvertreter
 Mayer	Mayer
 <g/>
 (
 chr	chr
 .	.
-foz.),Landeshauptmannstellvertreter	foz.),Landeshauptmannstellvertreter
+foz	foz
+.	.
+<g/>
+)
+<g/>
+,
+Landeshauptmannstellvertreter	Landeshauptmannstellvertreter
 Steiner	Steiner
 <g/>
 (
 chr	chr
 .	.
-soz.),Landeshauptmannstellvertreter	soz.),Landeshauptmannstellvertreter
+soz	soz
+.	.
+<g/>
+)
+<g/>
+,
+Landeshauptmannstellvertreter	Landeshauptmannstellvertreter
 Widholz	Widholz
 <g/>
 (
 soz	soz
 .	.
+dem	der
 <g/>
-dem.),Landesrat
+.
+<g/>
+)
+<g/>
+,
+Landesrat	Landesrat
 Müller	Müller
 <g/>
 (
 soz	soz
 .	.
+dem	der
 <g/>
-dem.),Landesrat
+.
+<g/>
+)
+<g/>
+,
+Landesrat	Landesrat
 Pölzer	Pölzer
 <g/>
 (
 foz	foz
 .	.
+dem	der
 <g/>
-dem.),Landesrat
+.
+<g/>
+)
+<g/>
+,
+Landesrat	Landesrat
 Zwetzbacher	Zwetzbacher
 <g/>
 (
 chr	chr
 .	.
-soz.),Landtagsabgeordneter	soz.),Landtagsabgeordneter
+soz	soz
+.	.
+<g/>
+)
+<g/>
+,
+Landtagsabgeordneter	Landtagsabgeordneter
 Mittermann	Mittermann
 <g/>
 (
 gr	gr
 .	.
-d.),Landtagsabgeordneter	d.),Landtagsabgeordneter
+d.	d.
+<g/>
+)
+<g/>
+,
+Landtagsabgeordneter	Landtagsabgeordneter
 Ofenböck	Ofenböck
 <g/>
 (
 joz	joz
 .	.
-dem.),Landtagsabgeordneter	dem.),Landtagsabgeordneter
+dem	der
+<g/>
+.
+<g/>
+)
+<g/>
+,
+Landtagsabgeordneter	Landtagsabgeordneter
 Segur	Segur
 <g/>
 (
 chr	chr
 .	.
-soz.),Landesamtsdirektorstellvertreter	soz.),Landesamtsdirektorstellvertreter
+soz	soz
+<g/>
+.
+<g/>
+)
+<g/>
+,
+Landesamtsdirektorstellvertreter	Landesamtsdirektorstellvertreter
 Dr.	Dr.
 Kaftner	Kaftner
 <g/>
@@ -238,26 +311,50 @@ Schlegel	Schlegel
 (
 chr	chr
 .	.
-soz.),Landeshauptmannstellvertreter	soz.),Landeshauptmannstellvertreter
+soz	soz
+.	.
+<g/>
+)
+<g/>
+,
+Landeshauptmannstellvertreter	Landeshauptmannstellvertreter
 Gruber	Gruber
 <g/>
 (
 soz	soz
 .	.
-dem.),Landeshauptmannstellvertreter	dem.),Landeshauptmannstellvertreter
+dem	der
+<g/>
+.
+<g/>
+)
+<g/>
+,
+Landeshauptmannstellvertreter	Landeshauptmannstellvertreter
 Langoth	Langoth
 <g/>
 (
 gr	gr
 .	.
-d.),Landesrat	d.),Landesrat
+d.	d.
+<g/>
+)
+<g/>
+,
+Landesrat	Landesrat
 Dr.	Dr.
 Schwinner	Schwinner
 <g/>
 (
 chr	chr
 .	.
-soz.),Landesamtsdirektor	soz.),Landesamtsdirektor
+soz	soz
+.	.
+<g/>
+)
+<g/>
+,
+Landesamtsdirektor	Landesamtsdirektor
 Attems	Attems
 <g/>
 ,
@@ -283,14 +380,26 @@ Rehrl	Rehrl
 (
 chr	chr
 .	.
-soz.),Landeshauptmannstellvertreter	soz.),Landeshauptmannstellvertreter
+soz	soz
+.	.
+<g/>
+)
+<g/>
+,
+Landeshauptmannstellvertreter	Landeshauptmannstellvertreter
 Breußler	Breußler
 <g/>
 (
 soz	soz
 .	.
+dem	der
 <g/>
-dem.),Landesrat
+.
+<g/>
+)
+<g/>
+,
+Landesrat	Landesrat
 Christoph	Christoph
 <g/>
 (
@@ -325,33 +434,63 @@ Rintelen	Rintelen
 (
 chr	chr
 .	.
-soz.),Landeshauptmannstellvertreter	soz.),Landeshauptmannstellvertreter
+soz	soz
+.	.
+<g/>
+)
+<g/>
+,
+Landeshauptmannstellvertreter	Landeshauptmannstellvertreter
 Vongratz	Vongratz
 <g/>
 (
 soz	soz
 .	.
+dem	der
 <g/>
-dem.),Landesrat
+.
+<g/>
+)
+<g/>
+,
+Landesrat	Landesrat
 Dr.	Dr.
 Klusemann	Klusemann
 <g/>
 (
 gr	gr
 .	.
-d.),Landesrat	d.),Landesrat
+d.	d.
+<g/>
+)
+<g/>
+,
+Landesrat	Landesrat
 Resel	Resel
 <g/>
 (
 soz	soz
 .	.
-dem.),Landtagsabgeordneter	dem.),Landtagsabgeordneter
+dem	der
+<g/>
+.
+<g/>
+)
+<g/>
+,
+Landtagsabgeordneter	Landtagsabgeordneter
 Gaß	Gaß
 <g/>
 (
 chr	chr
 .	.
-soz.),Hofrat	soz.),Hofrat
+soz	soz
+.	.
+<g/>
+)
+<g/>
+,
+Hofrat	Hofrat
 Fennh	Fennh
 <g/>
 .
@@ -369,15 +508,25 @@ Schumacher	Schumacher
 (
 chr	chr
 .	.
-soz.),Landeshauptmannstellvertreter	soz.),Landeshauptmannstellvertreter
+soz	soz
+.	.
+<g/>
+)
+<g/>
+,
+Landeshauptmannstellvertreter	Landeshauptmannstellvertreter
 Dr.	Dr.
 Schmidt	Schmidt
 <g/>
 (
 gr	gr
 .	.
+d.	d.
 <g/>
-d.),Mitglied
+)
+<g/>
+,
+Mitglied	Mitglied
 der	der
 Nationalversammlung	Nationalversammlung
 Abram	Abram
@@ -385,7 +534,14 @@ Abram	Abram
 (
 soz	soz
 .	.
-dem.),Landesamtsdirektor	dem.),Landesamtsdirektor
+dem	der
+<g/>
+.
+<g/>
+)
+<g/>
+,
+Landesamtsdirektor	Landesamtsdirektor
 Dr.	Dr.
 Pockels	Pockels
 <g/>
@@ -402,27 +558,50 @@ Ender	Ender
 (
 chr	chr
 .	.
-soz.),Landeshauptmannstellvertreter	soz.),Landeshauptmannstellvertreter
+soz	soz
+.	.
+<g/>
+)
+<g/>
+,
+Landeshauptmannstellvertreter	Landeshauptmannstellvertreter
 Preiß	Preiß
 <g/>
 (
 soz	soz
 .	.
+dem	der
 <g/>
-dem.),Landesrat
+.
+<g/>
+)
+<g/>
+,
+Landesrat	Landesrat
 Natter	Natter
 <g/>
 (
 gr	gr
 .	.
-d.),Landtagsabgeordneter	d.),Landtagsabgeordneter
+d.	d.
+<g/>
+)
+<g/>
+,
+Landtagsabgeordneter	Landtagsabgeordneter
 Dr.	Dr.
 Mittelberger	Mittelberger
 <g/>
 (
 chr	chr
 .	.
-soz.),Landesamtsdirektor	soz.),Landesamtsdirektor
+soz	soz
+.	.
+<g/>
+)
+<g/>
+,
+Landesamtsdirektor	Landesamtsdirektor
 Walderdorff	Walderdorff
 <g/>
 .
@@ -437,44 +616,79 @@ Emmerling	Emmerling
 (
 soz	soz
 .	.
+dem	dem
 <g/>
-dem.),Stadtrat
+.
+<g/>
+)
+<g/>
+,
+Stadtrat	Stadtrat
 Dr.	Dr.
 Speiser	Speiser
 <g/>
 (
 soz	soz
 .	.
+dem	der
 <g/>
-dem.),Gemeinderat
+.
+<g/>
+)
+<g/>
+,
+Gemeinderat	Gemeinderat
 Dr.	Dr.
 Danneberg	Danneberg
 <g/>
 (
 soz	soz
 .	.
+dem	der
 <g/>
-dem.),Gemeinderat
+.
+<g/>
+)
+<g/>
+,
+Gemeinderat	Gemeinderat
 Kunschak	Kunschak
 <g/>
 (
 chr	chr
 .	.
+soz	soz
+.	.
 <g/>
-soz.),Gemeinderat
+)
+<g/>
+,
+Gemeinderat	Gemeinderat
 Schmitz	Schmitz
 <g/>
 (
 chr	chr
 .	.
+soz	soz
+.	.
 <g/>
-soz.),Gemeinderat
+)
+<g/>
+,
+Gemeinderat	Gemeinderat
 Skaret	Skaret
 <g/>
 (
 soz	soz
 .	.
-dem.),Magistratsdirektor	dem.),Magistratsdirektor
+dem	der
+<g/>
+.
+<g/>
+)
+<g/>
+,
+Magistratsdirektor	Magistratsdirektor
 Dr.	Dr.
 Hartl	Hartl
 <g/>
@@ -863,6 +1077,7 @@ April	April
 1920.	1920.
 </head>
 <p>
+	
 Vorsitzender	vorsitzend
 <g/>
 :
@@ -870,13 +1085,14 @@ Der	der
 Herr	Herr
 Landeshauptmann	Landeshauptmann
 von	von
-SteiermarkDr	SteiermarkDr
-.	.
+Steiermark	Steiermark
+Dr.	Dr.
 Rintelen	Rintelen
 <g/>
 .
 </p>
 <p>
+	
 Eröffnung	Eröffnung
 der	der
 Sitzung	Sitzung
@@ -890,8 +1106,8 @@ nachmittags	nachmittags
 .
 </p>
 Herr	Herr
-LandeshauptmannDr	LandeshauptmannDr
-.	.
+Landeshauptmann	Landeshauptmann
+Dr.	Dr.
 Rintelen	Rintelen
 <g/>
 :
@@ -1139,7 +1355,8 @@ berichten	berichten
 Herr	Herr
 Landeshauptmann	Landeshauptmann
 von	von
-NiederösterreichSever	NiederösterreichSever
+Niederösterreich	Niederösterreich
+Sever	Sever
 <g/>
 :
 <p>
@@ -1711,8 +1928,8 @@ einzugehen	eingehen
 .
 </p>
 Herr	Herr
-VorsitzenderDr	VorsitzenderDr
-.	.
+Vorsitzender	vorsitzend
+Dr.	Dr.
 Rintelen	Rintelen
 <g/>
 :
@@ -1831,7 +2048,8 @@ Gruber	Gruber
 Herr	Herr
 Landeshauptmannstellvertreter	Landeshauptmannstellvertreter
 von	von
-OberösterreichGruber	OberösterreichGruber
+Oberösterreich	Oberösterreich
+Gruber	Gruber
 <g/>
 :
 <p>
@@ -3987,7 +4205,8 @@ Langoth	Langoth
 Herr	Herr
 Landeshauptmannstellvertreter	Landeshauptmannstellvertreter
 von	von
-OberösterreichLangoth	OberösterreichLangoth
+Oberösterreich	Oberösterreich
+Langoth	Langoth
 <g/>
 :
 <p>
@@ -5815,8 +6034,8 @@ Parteigenossen	Parteigenosse
 Der	der
 Herr	Herr
 Vorsitzende	vorsitzend
-HerrDr	HerrDr
-.	.
+Herr	Herr
+Dr.	Dr.
 Rintelen	Rintelen
 <g/>
 :
@@ -5834,8 +6053,8 @@ Ender	Ender
 Herr	Herr
 Landeshauptmann	Landeshauptmann
 von	von
-VorarlbergDr	VorarlbergDr
-.	.
+Vorarlberg	Vorarlberg
+Dr.	Dr.
 Ender	Ender
 <p>
 Meine	Meine
@@ -7916,8 +8135,8 @@ Christlichsozialen	Christlichsozialen
 )
 </p>
 Herr	Herr
-VorsitzenderDr	VorsitzenderDr
-.	.
+Vorsitzender	vorsitzend
+Dr.	Dr.
 Rintelen	Rintelen
 <g/>
 :
@@ -7934,8 +8153,8 @@ Wort	Wort
 Herr	Herr
 Staatssekretär	Staatssekretär
 a.	a.
-D.Dr	D.Dr
-.	.
+D.	D.
+Dr.	Dr.
 Steinwender	Steinwender
 <g/>
 (
@@ -9488,8 +9707,8 @@ ist	sein
 .
 </p>
 Herr	Herr
-VorsitzenderDr	VorsitzenderDr
-.	.
+Vorsitzender	vorsitzend
+Dr.	Dr.
 Rintelen	Rintelen
 <g/>
 :
@@ -9503,6 +9722,7 @@ Wort	Wort
 <g/>
 .
 </p>
+	
 Herr	Herr
 Kunschak	Kunschak
 <g/>
@@ -11566,8 +11786,8 @@ Parteigenossen	Parteigenosse
 )
 </p>
 Herr	Herr
-VorsitzenderDr	VorsitzenderDr
-.	.
+Vorsitzender	vorsitzend
+Dr.	Dr.
 Rintelen	Rintelen
 <g/>
 :
@@ -11582,8 +11802,8 @@ Danneberg	Danneberg
 .
 </p>
 Herr	Herr
-NationalratDr	NationalratDr
-.	.
+Nationalrat	Nationalrat
+Dr.	Dr.
 Danneberg	Danneberg
 <g/>
 (
@@ -18006,8 +18226,8 @@ Beifall	Beifall
 )
 </p>
 Herr	Herr
-VorsitzenderDr	VorsitzenderDr
-.	.
+Vorsitzender	vorsitzend
+Dr.	Dr.
 Rintelen	Rintelen
 <g/>
 :
@@ -18024,8 +18244,8 @@ Wort	Wort
 .
 </p>
 Herr	Herr
-StaatssekretärProf	StaatssekretärProf
-.	.
+Staatssekretär	Staatssekretär
+Prof.	Prof.
 Dr.	Dr.
 Mayr	Mayr
 <g/>
@@ -18718,8 +18938,8 @@ Beifall	Beifall
 )
 </p>
 Herr	Herr
-VorsitzenderDr	VorsitzenderDr
-.	.
+Vorsitzender	vorsitzend
+Dr.	Dr.
 Rintelen	Rintelen
 <g/>
 :
@@ -18947,11 +19167,28 @@ des	der
 Entwurfes	Entwurf
 zur	zu
 Besprechung	Besprechung
+gebracht	bringen
 <g/>
-gebracht:1.Kompetenz,2.Finanzen,3.Abschnitt
-IV.4.Grund-	IV.4.Grund-
+:
+1.	1.
+Kompetenz	Kompetenz
+<g/>
+,
+2.	2.
+Finanzen	Finanz
+<g/>
+,
+3.	3.
+Abschnitt	Abschnitt
+IV.	IV.
+4.	4.
+Grund-	Grund
 und	und
-Freiheitsrechte,5.Behandlung	Freiheitsrechte,5.Behandlung
+Freiheitsrechte	Freiheitsrecht
+<g/>
+,
+5.	5.
+Behandlung	Behandlung
 des	der
 Artikels	Artikel
 141.	141.
@@ -18972,10 +19209,12 @@ April	April
 .
 </head>
 <p>
+	
 Linz	Linz
 <g/>
 ,
-22.Bei	22.Bei
+22.	22.
+Bei	bei
 der	der
 heutigen	heutig
 Vormittagsberatung	Vormittagsberatung
@@ -21065,10 +21304,12 @@ nachmittags	nachmittags
 .
 </p>
 <p>
+	
 Linz	Linz
 <g/>
 ,
-22.Nachmittags	22.Nachmittags
+22.	22.
+Nachmittags	Nachmittags
 3	3
 Uhr	Uhr
 wurde	werden
@@ -21463,6 +21704,7 @@ April	April
 1920.	1920.
 </head>
 <p>
+	
 Vorsitzender	vorsitzend
 <g/>
 :
@@ -21476,6 +21718,7 @@ Christoph	Christoph
 .
 </p>
 <p>
+	
 Eröffnung	Eröffnung
 der	der
 Sitzung	Sitzung
@@ -21488,7 +21731,8 @@ nachmittags	nachmittags
 .
 </p>
 Herr	Herr
-LandesratChristoph	LandesratChristoph
+Landesrat	Landesrat
+Christoph	Christoph
 <g/>
 (
 Salzburg	Salzburg
@@ -21510,8 +21754,8 @@ einzuleiten	einleiten
 .
 </p>
 Herr	Herr
-StaatssekretärDr	StaatssekretärDr
-.	.
+Staatssekretär	Staatssekretär
+Dr.	Dr.
 Mayr	Mayr
 <g/>
 :
@@ -21568,7 +21812,8 @@ beschäftigt	beschäftigen
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandesratChristoph	LandesratChristoph
+Landesrat	Landesrat
+Christoph	Christoph
 <g/>
 (
 Salzburg	Salzburg
@@ -21594,8 +21839,8 @@ Wort	Wort
 .
 </p>
 Herr	Herr
-LandeshauptmannDr	LandeshauptmannDr
-.	.
+Landeshauptmann	Landeshauptmann
+Dr.	Dr.
 Ender	Ender
 <g/>
 (
@@ -23812,7 +24057,8 @@ haben	haben
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandesratChristoph	LandesratChristoph
+Landesrat	Landesrat
+Christoph	Christoph
 <g/>
 (
 Salzburg	Salzburg
@@ -23829,8 +24075,8 @@ Steinwender	Steinwender
 .
 </p>
 Herr	Herr
-LandesratDr	LandesratDr
-.	.
+Landesrat	Landesrat
+Dr.	Dr.
 Steinwender	Steinwender
 <g/>
 (
@@ -25984,7 +26230,8 @@ Zwischenrufe	Zwischenruf
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandesratChristoph	LandesratChristoph
+Landesrat	Landesrat
+Christoph	Christoph
 <g/>
 (
 Salzburg	Salzburg
@@ -26010,8 +26257,8 @@ halten	halten
 Herr	Herr
 Staatssekretär	Staatssekretär
 a.	a.
-D.Dr	D.Dr
-.	.
+D.	D.
+Dr.	Dr.
 Steinwenden	Steinwenden
 <g/>
 (
@@ -26492,7 +26739,8 @@ Optimist	Optimist
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandesratChristoph	LandesratChristoph
+Landesrat	Landesrat
+Christoph	Christoph
 <g/>
 :
 <p>
@@ -26506,7 +26754,8 @@ Wort	Wort
 .
 </p>
 Herr	Herr
-VizebürgermeisterEmerling	VizebürgermeisterEmerling
+Vizebürgermeister	Vizebürgermeister
+Emerling	Emerling
 <g/>
 :
 <p>
@@ -30008,7 +30257,8 @@ Auskünfte	Auskunft
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandesratChristoph	LandesratChristoph
+Landesrat	Landesrat
+Christoph	Christoph
 <g/>
 (
 Salzburg	Salzburg
@@ -30025,7 +30275,8 @@ Wort	Wort
 .
 </p>
 Herr	Herr
-LandtagsabgeordneterSegur	LandtagsabgeordneterSegur
+Landtagsabgeordneter	Landtagsabgeordneter
+Segur	Segur
 <g/>
 (
 Niederösterreich	Niederösterreich
@@ -30529,7 +30780,8 @@ haben	haben
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandesratChristoph	LandesratChristoph
+Landesrat	Landesrat
+Christoph	Christoph
 <g/>
 (
 Salzburg	Salzburg
@@ -30547,7 +30799,8 @@ Müller	Müller
 .
 </p>
 Herr	Herr
-LandesratMüller	LandesratMüller
+Landesrat	Landesrat
+Müller	Müller
 <g/>
 (
 Niederösterreich	Niederösterreich
@@ -31928,7 +32181,8 @@ können	können
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandesratChristoph	LandesratChristoph
+Landesrat	Landesrat
+Christoph	Christoph
 <g/>
 :
 <p>
@@ -31943,8 +32197,8 @@ Wort	Wort
 .
 </p>
 Herr	Herr
-LandeshauptmannDr	LandeshauptmannDr
-.	.
+Landeshauptmann	Landeshauptmann
+Dr.	Dr.
 Rintelen	Rintelen
 <g/>
 (
@@ -32363,7 +32617,8 @@ Beifall	Beifall
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandesratChristoph	LandesratChristoph
+Landesrat	Landesrat
+Christoph	Christoph
 <g/>
 :
 <p>
@@ -32379,8 +32634,8 @@ Steinwender	Steinwender
 Herr	Herr
 Staatssekretär	Staatssekretär
 a.	a.
-D.Dr	D.Dr
-.	.
+D.	D.
+Dr.	Dr.
 Steinwender	Steinwender
 <g/>
 :
@@ -32946,7 +33201,8 @@ haben	haben
 </p>
 Vorsitzender	vorsitzend
 Herr	Herr
-LandesratChristoph	LandesratChristoph
+Landesrat	Landesrat
+Christoph	Christoph
 <g/>
 (
 Salzburg	Salzburg
@@ -33016,7 +33272,8 @@ wünscht	wünschen
 .
 </p>
 Herr	Herr
-MinisterialratGrünwald	MinisterialratGrünwald
+Ministerialrat	Ministerialrat
+Grünwald	Grünwald
 <g/>
 :
 <p>
@@ -39180,7 +39437,8 @@ fühle	fühlen
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandesratChristoph	LandesratChristoph
+Landesrat	Landesrat
+Christoph	Christoph
 <g/>
 (
 Salzburg	Salzburg
@@ -39198,8 +39456,8 @@ Wort	Wort
 .
 </p>
 Herr	Herr
-StaatssekretärDr	StaatssekretärDr
-.	.
+Staatssekretär	Staatssekretär
+Dr.	Dr.
 Mayr	Mayr
 <g/>
 :
@@ -39372,7 +39630,8 @@ ist	sein
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandesratChristoph	LandesratChristoph
+Landesrat	Landesrat
+Christoph	Christoph
 <g/>
 (
 Salzburg	Salzburg
@@ -39402,7 +39661,8 @@ Wort	Wort
 .
 </p>
 Herr	Herr
-NationalratAbram	NationalratAbram
+Nationalrat	Nationalrat
+Abram	Abram
 <g/>
 (
 Tirol	Tirol
@@ -40044,7 +40304,8 @@ sagen	sagen
 </p>
 Vorsitzender	vorsitzend
 Herr	Herr
-LandesratChristoph	LandesratChristoph
+Landesrat	Landesrat
+Christoph	Christoph
 <g/>
 :
 <p>
@@ -40266,19 +40527,21 @@ April	April
 1920	1920
 </head>
 <p>
+	
 Vorsitzender	vorsitzend
 <g/>
 :
 Herr	Herr
 Landeshauptmann	Landeshauptmann
 von	von
-SteiermarkDr	SteiermarkDr
-.	.
+Steiermark	Steiermark
+Dr.	Dr.
 Rintelen	Rintelen
 <g/>
 .
 </p>
 <p>
+	
 Eröffnung	Eröffnung
 der	der
 Sitzung	Sitzung
@@ -40293,7 +40556,8 @@ vormittags	vormittags
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 :
@@ -40365,8 +40629,8 @@ Wort	Wort
 .
 </p>
 Herr	Herr
-StaatssekretärDr	StaatssekretärDr
-.	.
+Staatssekretär	Staatssekretär
+Dr.	Dr.
 Mayr	Mayr
 <g/>
 :
@@ -40425,7 +40689,8 @@ liest	lesen
 <p>
 <g/>
 „
-1.Die	1.Die
+1.	1.
+Die	der
 gesetzgebende	gesetzgebend
 Gewalt	Gewalt
 der	der
@@ -40472,7 +40737,8 @@ Herr	Herr
 Vorsitzender	vorsitzend
 Landeshauptmann	Landeshauptmann
 von	von
-SteiermarkDoktor	SteiermarkDoktor
+Steiermark	Steiermark
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 (
@@ -40491,8 +40757,8 @@ Absatz	Absatz
 ?
 </p>
 Herr	Herr
-GemeinderatDr	GemeinderatDr
-.	.
+Gemeinderat	Gemeinderat
+Dr.	Dr.
 Danneberg	Danneberg
 <g/>
 (
@@ -40529,8 +40795,8 @@ vorwärts	vorwärts
 .
 </p>
 Herr	Herr
-StaatssekretärDr	StaatssekretärDr
-.	.
+Staatssekretär	Staatssekretär
+Dr.	Dr.
 Mayr	Mayr
 <g/>
 :
@@ -40562,8 +40828,8 @@ verlesen	verlesen
 .
 </p>
 Herr	Herr
-GemeinderatDr	GemeinderatDr
-.	.
+Gemeinderat	Gemeinderat
+Dr.	Dr.
 Danneberg	Danneberg
 <g/>
 (
@@ -40608,7 +40874,8 @@ Herr	Herr
 Vorsitzender	vorsitzend
 Landeshauptmann	Landeshauptmann
 von	von
-SteiermarkDoktor	SteiermarkDoktor
+Steiermark	Steiermark
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 :
@@ -40647,7 +40914,8 @@ bemerken	bemerken
 ?
 </p>
 Herr	Herr
-LandtagsabgeordneterOfenböck	LandtagsabgeordneterOfenböck
+Landtagsabgeordneter	Landtagsabgeordneter
+Ofenböck	Ofenböck
 <g/>
 (
 Niederösterreich	Niederösterreich
@@ -40776,7 +41044,8 @@ lautet	lauten
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 (
@@ -40794,8 +41063,8 @@ bemerken	bemerken
 ?
 </p>
 Herr	Herr
-StaatssekretärDr	StaatssekretärDr
-.	.
+Staatssekretär	Staatssekretär
+Dr.	Dr.
 Mayr	Mayr
 <g/>
 :
@@ -40842,7 +41111,8 @@ einzuwenden	einwenden
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 :
@@ -40929,7 +41199,8 @@ Wort	Wort
 .
 </p>
 Herr	Herr
-LandesratChristoph	LandesratChristoph
+Landesrat	Landesrat
+Christoph	Christoph
 <g/>
 (
 Salzburg	Salzburg
@@ -41014,7 +41285,8 @@ nicht	nicht
 auch	auch
 eine	ein
 Verfassungsgrundlage	Verfassungsgrundlage
-fest﻿gelegt	fest﻿gelegt
+fest﻿	fest﻿
+gelegt	legen
 würde	werden
 <g/>
 ,
@@ -41701,7 +41973,8 @@ Beifall	Beifall
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 (
@@ -41719,7 +41992,8 @@ Sever	Sever
 .
 </p>
 Herr	Herr
-LandeshauptmannSever	LandeshauptmannSever
+Landeshauptmann	Landeshauptmann
+Sever	Sever
 <g/>
 (
 Niederösterreich	Niederösterreich
@@ -42162,7 +42436,8 @@ sagen	sagen
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 :
@@ -42189,7 +42464,8 @@ erbeten	erbeten
 .
 </p>
 Herr	Herr
-LandeshauptmannstellvertreterHerr	LandeshauptmannstellvertreterHerr
+Landeshauptmannstellvertreter	Landeshauptmannstellvertreter
+Herr	Herr
 Langoth	Langoth
 <g/>
 (
@@ -42559,7 +42835,8 @@ geleistet	leisten
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 :
@@ -42698,7 +42975,8 @@ Wort	Wort
 .
 </p>
 Herr	Herr
-LandesratPölzer	LandesratPölzer
+Landesrat	Landesrat
+Pölzer	Pölzer
 <g/>
 (
 Niederösterreich	Niederösterreich
@@ -42992,8 +43270,8 @@ nehmen	nehmen
 .
 </p>
 Herr	Herr
-VorsitzenderDr	VorsitzenderDr
-.	.
+Vorsitzender	vorsitzend
+Dr.	Dr.
 Rintelen	Rintelen
 <g/>
 :
@@ -43008,7 +43286,8 @@ Wort	Wort
 .
 </p>
 Herr	Herr
-DelegierterOfenböck	DelegierterOfenböck
+Delegierter	delegierterr
+Ofenböck	Ofenböck
 <g/>
 (
 Landtagsabgeordneter	Landtagsabgeordneter
@@ -43141,7 +43420,8 @@ ausgeschlossen	ausschließen
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 (
@@ -43164,8 +43444,8 @@ bemerken	bemerken
 ?
 </p>
 Herr	Herr
-StaatssekretärDr	StaatssekretärDr
-.	.
+Staatssekretär	Staatssekretär
+Dr.	Dr.
 Mayr	Mayr
 <g/>
 :
@@ -43611,8 +43891,8 @@ Kenntnis	Kenntnis
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDr	LandeshauptmannDr
-.	.
+Landeshauptmann	Landeshauptmann
+Dr.	Dr.
 Rintelen	Rintelen
 <g/>
 (
@@ -43668,7 +43948,8 @@ Wort	Wort
 .
 </p>
 Herr	Herr
-GemeinderatSchmitz	GemeinderatSchmitz
+Gemeinderat	Gemeinderat
+Schmitz	Schmitz
 <g/>
 (
 Wien	Wien
@@ -43854,8 +44135,8 @@ können	können
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDr	LandeshauptmannDr
-.	.
+Landeshauptmann	Landeshauptmann
+Dr.	Dr.
 Rintelen	Rintelen
 <g/>
 (
@@ -43898,7 +44179,8 @@ Wort	Wort
 .
 </p>
 Herr	Herr
-GemeinderatSchmitz	GemeinderatSchmitz
+Gemeinderat	Gemeinderat
+Schmitz	Schmitz
 <g/>
 (
 Wien	Wien
@@ -44061,7 +44343,8 @@ wird	werden
 Herr	Herr
 Vorsitzender	vorsitzend
 Landeshauptmann	Landeshauptmann
-DoktorRintelen	DoktorRintelen
+Doktor	Doktor
+Rintelen	Rintelen
 <g/>
 (
 Steiermark	Steiermark
@@ -44086,8 +44369,8 @@ Wort	Wort
 </p>
 Herr	Herr
 Staatssekretär	Staatssekretär
-ProfessorDr	ProfessorDr
-.	.
+Professor	Professor
+Dr.	Dr.
 Mayr	Mayr
 <g/>
 :
@@ -44114,8 +44397,8 @@ Staatskanzlei	Staatskanzlei
 .
 </p>
 Herr	Herr
-SektionsratDr	SektionsratDr
-.	.
+Sektionsrat	Sektionsrat
+Dr.	Dr.
 Fröhlich	Fröhlich
 <g/>
 (
@@ -44360,7 +44643,8 @@ verfehlt	verfehlen
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 (
@@ -44386,7 +44670,8 @@ Wort	Wort
 .
 </p>
 Herr	Herr
-LandesratChristoph	LandesratChristoph
+Landesrat	Landesrat
+Christoph	Christoph
 <g/>
 (
 Salzburg	Salzburg
@@ -44627,7 +44912,8 @@ hat	haben
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 (
@@ -44644,7 +44930,8 @@ Wort	Wort
 .
 </p>
 Herr	Herr
-GemeinderatSchmitz	GemeinderatSchmitz
+Gemeinderat	Gemeinderat
+Schmitz	Schmitz
 <g/>
 (
 Wien	Wien
@@ -44732,7 +45019,8 @@ Antrag	Antrag
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 (
@@ -44753,7 +45041,8 @@ Schmitz	Schmitz
 .
 </p>
 Herr	Herr
-GemeinderatSchmitz	GemeinderatSchmitz
+Gemeinderat	Gemeinderat
+Schmitz	Schmitz
 <g/>
 (
 Wien	Wien
@@ -44877,7 +45166,8 @@ Verlautbarung	Verlautbarung
 Herr	Herr
 Vorsitzender	vorsitzend
 Landeshauptmann	Landeshauptmann
-DokterRintelen	DokterRintelen
+Dokter	Dokter
+Rintelen	Rintelen
 <g/>
 (
 Steiermark	Steiermark
@@ -44902,8 +45192,8 @@ Wort	Wort
 .
 </p>
 Herr	Herr
-StaatssekretärDr	StaatssekretärDr
-.	.
+Staatssekretär	Staatssekretär
+Dr.	Dr.
 Mayr	Mayr
 <g/>
 :
@@ -44947,8 +45237,8 @@ Staatsamtes	Staatsamt
 für	für
 Land-	Land
 und	und
-ForftwirtschaftDr	ForftwirtschaftDr
-.	.
+Forftwirtschaft	Forftwirtschaft
+Dr.	Dr.
 Alter	Alter
 <g/>
 :
@@ -45233,7 +45523,8 @@ kann	können
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 :
@@ -45256,8 +45547,8 @@ sagen	sagen
 .
 </p>
 Herr	Herr
-SektionsratDr	SektionsratDr
-.	.
+Sektionsrat	Sektionsrat
+Dr.	Dr.
 Fröhlich	Fröhlich
 <g/>
 :
@@ -45400,7 +45691,8 @@ halten	halten
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 :
@@ -45439,7 +45731,8 @@ Schmitz	Schmitz
 .
 </p>
 Herr	Herr
-GemeinderatSchmitz	GemeinderatSchmitz
+Gemeinderat	Gemeinderat
+Schmitz	Schmitz
 <g/>
 (
 Wien	Wien
@@ -45555,7 +45848,8 @@ Wochen	Woche
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 :
@@ -45571,8 +45865,8 @@ gemeldet	melden
 .
 </p>
 Herr	Herr
-StaatssekretärDr	StaatssekretärDr
-.	.
+Staatssekretär	Staatssekretär
+Dr.	Dr.
 Mayr	Mayr
 <g/>
 :
@@ -45599,7 +45893,8 @@ erfüllen	erfüllen
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 :
@@ -45615,7 +45910,8 @@ Schlegel	Schlegel
 .
 </p>
 Herr	Herr
-LandeshauptmannstellvertreterDoktor	LandeshauptmannstellvertreterDoktor
+Landeshauptmannstellvertreter	Landeshauptmannstellvertreter
+Doktor	Doktor
 Schlegel	Schlegel
 <g/>
 (
@@ -46345,7 +46641,8 @@ werden	werden
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 :
@@ -46359,7 +46656,8 @@ Wort	Wort
 ?
 </p>
 Herr	Herr
-LandesratChristoph	LandesratChristoph
+Landesrat	Landesrat
+Christoph	Christoph
 <g/>
 (
 Salzburg	Salzburg
@@ -46408,7 +46706,8 @@ könnte	können
 .
 </p>
 Vorsitzender	vorsitzend
-LandeshauptmannDokter	LandeshauptmannDokter
+Landeshauptmann	Landeshauptmann
+Dokter	Dokter
 Rintelen	Rintelen
 <g/>
 :
@@ -46425,8 +46724,8 @@ Schlußwort	Schlußwort
 .
 </p>
 Herr	Herr
-StaatssekretärDr	StaatssekretärDr
-.	.
+Staatssekretär	Staatssekretär
+Dr.	Dr.
 Mayr	Mayr
 <g/>
 :
@@ -46450,7 +46749,8 @@ aufnehmen	aufnehmen
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDokter	LandeshauptmannDokter
+Landeshauptmann	Landeshauptmann
+Dokter	Dokter
 Rintelen	Rintelen
 <g/>
 :
@@ -46475,7 +46775,8 @@ Schmidt	Schmidt
 .
 </p>
 Herr	Herr
-LandeshauptmannstellvertreterDoktor	LandeshauptmannstellvertreterDoktor
+Landeshauptmannstellvertreter	Landeshauptmannstellvertreter
+Doktor	Doktor
 Schmidt	Schmidt
 <g/>
 (
@@ -46981,7 +47282,9 @@ liest	lesen
 ):
 </p>
 <p>
-1.Zur	1.Zur
+	
+1.	1.
+Zur	zu
 Leitung	Leitung
 des	der
 gesamten	gesamt
@@ -47027,7 +47330,11 @@ ihm	ihm
 unterstellten	unterstellt
 Dienstzweigen	Dienstzweig
 zu	zu
-sorgen.2.Zur	sorgen.2.Zur
+sorgen	sorgen
+<g/>
+.
+2.	2.
+Zur	zu
 Leitung	Leitung
 des	der
 gesamten	gesamt
@@ -47065,7 +47372,11 @@ Zweigen	Zweig
 der	der
 Landesbaudirektion	Landesbaudirektion
 zu	zu
-sorgen.3.In	sorgen.3.In
+sorgen	sorgen
+<g/>
+.
+3.	3.
+In	in
 dem	der
 der	der
 Landesregierung	Landesregierung
@@ -47097,7 +47408,11 @@ des	der
 Landeshauptmannes	Landeshauptmann
 und	und
 des	der
-Landeshauptmannstellvertreters.4.Bis	Landeshauptmannstellvertreters.4.Bi
+Landeshauptmannstellvertreters	Landeshauptmannstellvertreter
+<g/>
+.
+4.	4.
+Bis	bis
 zur	zu
 Beeidigung	Beeidigung
 des	der
@@ -47134,7 +47449,11 @@ des	der
 Landeshauptmannes	Landeshauptmann
 und	und
 seines	sein
-Stellvertreters.5.Zur	Stellvertreters.5.Zur
+Stellvertreters	Stellvertreter
+<g/>
+.
+5.	5.
+Zur	zu
 Vertretung	Vertretung
 des	der
 Landesamtsdirektors	Landesamtsdirektor
@@ -47161,7 +47480,8 @@ Anwendung	Anwendung
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 (
@@ -47182,8 +47502,8 @@ Wort	Wort
 </p>
 Der	der
 Staatssekretär	Staatssekretär
-ProfessorDr	ProfessorDr
-.	.
+Professor	Professor
+Dr.	Dr.
 Mayr	Mayr
 <p>
 Zu	zu
@@ -47321,7 +47641,8 @@ kann	können
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 (
@@ -47340,7 +47661,8 @@ Wort	Wort
 .
 </p>
 Herr	Herr
-LandeshauptmannstellvertreterDoktor	LandeshauptmannstellvertreterDoktor
+Landeshauptmannstellvertreter	Landeshauptmannstellvertreter
+Doktor	Doktor
 Schlegel	Schlegel
 <g/>
 :
@@ -47532,7 +47854,8 @@ trägt	tragen
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 (
@@ -47549,7 +47872,8 @@ Wort	Wort
 <g/>
 .
 </p>
-HerrDoktor	HerrDoktor
+Herr	Herr
+Doktor	Doktor
 Rehrl	Rehrl
 <g/>
 (
@@ -47673,7 +47997,8 @@ Fachmannes	Fachmann
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 (
@@ -47692,7 +48017,8 @@ Wort	Wort
 .
 </p>
 Herr	Herr
-StaatssekretärDoktor	StaatssekretärDoktor
+Staatssekretär	Staatssekretär
+Doktor	Doktor
 Mayr	Mayr
 <g/>
 (
@@ -47734,7 +48060,8 @@ vorzubereiten	vorbereiten
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 (
@@ -47752,7 +48079,8 @@ Artikel	Artikel
 92.	92.
 </p>
 Herr	Herr
-LandesratChristoph	LandesratChristoph
+Landesrat	Landesrat
+Christoph	Christoph
 <g/>
 (
 Salzburg	Salzburg
@@ -47833,8 +48161,8 @@ wird	werden
 .
 </p>
 Herr	Herr
-StaatssekretärDr	StaatssekretärDr
-.	.
+Staatssekretär	Staatssekretär
+Dr.	Dr.
 Mayr	Mayr
 <g/>
 :
@@ -47849,7 +48177,8 @@ Kenntnis	Kenntnis
 </p>
 Herr	Herr
 Vorsizender	Vorsizender
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 (
@@ -47869,7 +48198,8 @@ Schmitz	Schmitz
 .
 </p>
 Herr	Herr
-GemeinderatSchmitz	GemeinderatSchmitz
+Gemeinderat	Gemeinderat
+Schmitz	Schmitz
 <g/>
 (
 Wien	Wien
@@ -48022,7 +48352,8 @@ streichen	streichen
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 (
@@ -48048,7 +48379,8 @@ Wort	Wort
 .
 </p>
 Herr	Herr
-LandeshauptmannstellvertreterLangoth	LandeshauptmannstellvertreterLangoth
+Landeshauptmannstellvertreter	Landeshauptmannstellvertreter
+Langoth	Langoth
 <g/>
 :
 <p>
@@ -48239,7 +48571,8 @@ sollen	sollen
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 :
@@ -48254,7 +48587,8 @@ Wort	Wort
 .
 </p>
 Herr	Herr
-GemeinderatSchmitz	GemeinderatSchmitz
+Gemeinderat	Gemeinderat
+Schmitz	Schmitz
 <g/>
 (
 Wien	Wien
@@ -48369,7 +48703,8 @@ herein	herein
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 :
@@ -48386,7 +48721,8 @@ Rehrl	Rehrl
 .
 </p>
 Herr	Herr
-LandeshauptmannstellvertreterDoktor	LandeshauptmannstellvertreterDoktor
+Landeshauptmannstellvertreter	Landeshauptmannstellvertreter
+Doktor	Doktor
 Rehl	Rehl
 <g/>
 (
@@ -48404,7 +48740,8 @@ Aufklärung	Aufklärung
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 :
@@ -48420,7 +48757,8 @@ Langoth	Langoth
 .
 </p>
 Herr	Herr
-LandeshauptmannstellvertreterLangoth	LandeshauptmannstellvertreterLangoth
+Landeshauptmannstellvertreter	Landeshauptmannstellvertreter
+Langoth	Langoth
 <g/>
 (
 Oberösterreich	Oberösterreich
@@ -48499,7 +48837,8 @@ werde	werden
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 :
@@ -48515,8 +48854,8 @@ Wort	Wort
 .
 </p>
 Herr	Herr
-StaatssekretärDr	StaatssekretärDr
-.	.
+Staatssekretär	Staatssekretär
+Dr.	Dr.
 Mayr	Mayr
 <g/>
 :
@@ -48625,7 +48964,8 @@ soll	sollen
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 :
@@ -48656,7 +48996,8 @@ Schmitz	Schmitz
 .
 </p>
 Herr	Herr
-GemeinderatSchmitz	GemeinderatSchmitz
+Gemeinderat	Gemeinderat
+Schmitz	Schmitz
 <g/>
 (
 Wien	Wien
@@ -48760,7 +49101,8 @@ Organ	Organ
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 :
@@ -48799,7 +49141,8 @@ Schmitz	Schmitz
 .
 </p>
 Herr	Herr
-GemeinderatSchmitz	GemeinderatSchmitz
+Gemeinderat	Gemeinderat
+Schmitz	Schmitz
 <g/>
 (
 Wien	Wien
@@ -48879,7 +49222,8 @@ notwendig	notwendig
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 :
@@ -48894,7 +49238,8 @@ Pongratz	Pongratz
 .
 </p>
 Herr	Herr
-LandeshauptmannstellvertreterPongratz	LandeshauptmannstellvertreterPongratz
+Landeshauptmannstellvertreter	Landeshauptmannstellvertreter
+Pongratz	Pongratz
 <g/>
 (
 Steiermarf	Steiermarf
@@ -49087,7 +49432,8 @@ wird	werden
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 :
@@ -49110,7 +49456,8 @@ Wort	Wort
 .
 </p>
 Herr	Herr
-LandeshauptmannftellvertreterDelegierter	LandeshauptmannftellvertreterDelegierter
+Landeshauptmannftellvertreter	Landeshauptmannftellvertreter
+Delegierter	delegierterr
 Rehrl	Rehrl
 <g/>
 (
@@ -49303,7 +49650,8 @@ vollständig	vollständig
 .
 </p>
 Herr	Herr
-GemeinderatSchmitz	GemeinderatSchmitz
+Gemeinderat	Gemeinderat
+Schmitz	Schmitz
 <g/>
 (
 Wien	Wien
@@ -49342,7 +49690,8 @@ erscheint	erscheinen
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 :
@@ -49357,7 +49706,8 @@ Pölzer	Pölzer
 .
 </p>
 Herr	Herr
-LandesratPölzer	LandesratPölzer
+Landesrat	Landesrat
+Pölzer	Pölzer
 <g/>
 (
 Niederösterreich	Niederösterreich
@@ -49600,8 +49950,8 @@ wurde	werden
 .
 </p>
 Herr	Herr
-StaatssekreärDr	StaatssekreärDr
-.	.
+Staatssekreär	Staatssekreär
+Dr.	Dr.
 Mayr	Mayr
 <g/>
 :
@@ -49696,7 +50046,8 @@ erhalten	erhalten
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 (
@@ -49714,7 +50065,8 @@ Wort	Wort
 .
 </p>
 Herr	Herr
-LandesverweserstellvertreterNeutzler	LandesverweserstellvertreterNeutzler
+Landesverweserstellvertreter	Landesverweserstellvertreter
+Neutzler	Neutzler
 <g/>
 (
 Kärnten	Kärnten
@@ -49781,7 +50133,8 @@ werden	werden
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 (
@@ -49799,8 +50152,8 @@ bemerken	bemerken
 ?
 </p>
 Herr	Herr
-LandeshauptmannstellvertreterDr	LandeshauptmannstellvertreterDr
-.	.
+Landeshauptmannstellvertreter	Landeshauptmannstellvertreter
+Dr.	Dr.
 Rehrl	Rehrl
 <g/>
 (
@@ -49909,7 +50262,8 @@ erledigt	erledigen
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 (
@@ -49927,7 +50281,8 @@ Christoph	Christoph
 .
 </p>
 Herr	Herr
-LandesratChristoph	LandesratChristoph
+Landesrat	Landesrat
+Christoph	Christoph
 <g/>
 (
 Salzburg	Salzburg
@@ -50051,7 +50406,8 @@ werde	werden
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 (
@@ -50070,8 +50426,8 @@ Wort	Wort
 .
 </p>
 Herr	Herr
-StaatssekretärDr	StaatssekretärDr
-.	.
+Staatssekretär	Staatssekretär
+Dr.	Dr.
 Mayr	Mayr
 <g/>
 :
@@ -50130,8 +50486,8 @@ nehmen	nehmen
 .
 </p>
 Herr	Herr
-VorsitzenderDr	VorsitzenderDr
-.	.
+Vorsitzender	vorsitzend
+Dr.	Dr.
 Rintelen	Rintelen
 <g/>
 (
@@ -50185,8 +50541,8 @@ Danneberg	Danneberg
 .
 </p>
 Herr	Herr
-GemeinderatDr	GemeinderatDr
-.	.
+Gemeinderat	Gemeinderat
+Dr.	Dr.
 Danneberg	Danneberg
 <g/>
 (
@@ -52331,10 +52687,13 @@ Artikel	Artikel
 106.	106.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Der
+)
+Der	der
 Adel	Adel
 <g/>
 ,
@@ -52392,10 +52751,13 @@ werden	werden
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Kein
+)
+Kein	kein
 Bundesangehöriger	Bundesangehöriger
 darf	dürfen
 von	von
@@ -52468,10 +52830,13 @@ Artikel	Artikel
 109.	109.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 Auswanderungsfreiheit	Auswanderungsfreiheit
 darf	dürfen
 unbeschadet	unbeschadet
@@ -52520,8 +52885,10 @@ weiter	weiter
 „
 <g/>
 (
+2	2
 <g/>
-2)Der
+)
+Der	der
 Verlust	Verlust
 der	der
 Staatsbürgerschaft	Staatsbürgerschaft
@@ -52539,10 +52906,13 @@ Artikel	Artikel
 110.	110.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Jeder
+)
+Jeder	jeder
 Bundesangehörige	Bundesangehörige
 kann	können
 in	in
@@ -52566,10 +52936,13 @@ bestimmt	bestimmen
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Jeder
+)
+Jeder	jeder
 Bundesangehörige	Bundesangehörige
 kann	können
 gemäß	gemäß
@@ -52604,10 +52977,13 @@ Artikel	Artikel
 111.	111.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 Freiheit	Freiheit
 der	der
 Person	Person
@@ -52634,10 +53010,13 @@ werden	werden
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Personen
+)
+Personen	Person
 <g/>
 ,
 denen	der
@@ -52696,10 +53075,13 @@ Artikel	Artikel
 112.	112.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Das
+)
+Das	der
 Asylrecht	Asylrecht
 für	für
 Delikte	Delikt
@@ -52726,10 +53108,13 @@ gewährleistet	gewährleisten
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Das
+)
+Das	der
 Recht	Recht
 der	der
 Auslieferung	Auslieferung
@@ -52810,10 +53195,13 @@ Artikel	Artikel
 115.	115.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 Freiheit	Freiheit
 der	der
 Meinungsäußerung	Meinungsäußerung
@@ -52827,10 +53215,13 @@ beschränkt	beschränken
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Die
+)
+Die	der
 Preßfreiheit	Preßfreiheit
 ist	sein
 gewährleistet	gewährleisten
@@ -52880,10 +53271,13 @@ werden	werden
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Jede
+)
+Jede	jeder
 Zensur	Zensur
 ist	sein
 aufgehoben	aufheben
@@ -52918,10 +53312,13 @@ Artikel	Artikel
 116.	116.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 Ehe	Ehe
 ist	sein
 ein	ein
@@ -52931,10 +53328,13 @@ Vertrag	Vertrag
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Sie
+)
+Sie	sie
 kann	können
 nur	nur
 vor	vor
@@ -52968,10 +53368,13 @@ Artikel	Artikel
 117.	117.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Der
+)
+Der	der
 Eheschließung	Eheschließung
 kann	können
 aus	aus
@@ -52992,10 +53395,13 @@ werden	werden
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Die
+)
+Die	der
 Möglichkeit	Möglichkeit
 einer	ein
 Trennung	Trennung
@@ -53064,10 +53470,13 @@ Artikel	Artikel
 118.	118.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Den
+)
+Den	der
 unehelichen	unehelich
 Kindern	Kind
 sind	sein
@@ -53101,10 +53510,13 @@ Artikel	Artikel
 119.	119.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Alle
+)
+Alle	aller
 Bundesangehörigen	Bundesangehöriger
 haben	haben
 das	der
@@ -53142,10 +53554,13 @@ ausgeschlossen	ausschließen
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Für
+)
+Für	für
 Vereinigungen	Vereinigung
 <g/>
 ,
@@ -53179,10 +53594,13 @@ Artikel	Artikel
 120.	120.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Alle
+)
+Alle	aller
 Staatsbürger	Staatsbürger
 haben	haben
 das	der
@@ -53212,9 +53630,13 @@ werden	werden
 .
 </p>
 <p>
+	
 <g/>
 (
-2)Versammlungen	2)Versammlung
+2	2
+<g/>
+)
+Versammlungen	Versammlung
 unter	unter
 freiem	frei
 Himmel	Himmel
@@ -53242,10 +53664,13 @@ Artikel	Artikel
 121.	121.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 volle	voll
 Glaubens-	Glauben
 und	und
@@ -53265,10 +53690,13 @@ gewährleistet	gewährleisten
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Einschränkungen
+)
+Einschränkungen	Einschränkung
 sind	sein
 nur	nur
 durch	durch
@@ -53283,10 +53711,13 @@ Artikel	Artikel
 122.	122.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Der
+)
+Der	der
 Genuß	Genuß
 der	der
 bürgerlichen	bürgerlich
@@ -53322,10 +53753,13 @@ geschehen	geschehen
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Niemand
+)
+Niemand	niemand
 ist	sein
 verpflichtet	verpflichten
 <g/>
@@ -53374,10 +53808,13 @@ erfordert	erfordern
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)In
+)
+In	in
 diesem	dieser
 Sinne	Sinn
 ist	sein
@@ -53393,10 +53830,13 @@ regeln	regeln
 .
 </p>
 <p>
+	
 <g/>
 (
+4	4
 <g/>
-4)Niemand
+)
+Niemand	niemand
 darf	dürfen
 zu	zu
 einer	ein
@@ -53438,10 +53878,13 @@ Artikel	Artikel
 123.	123.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Staat
+)
+Staat	Staat
 und	und
 Kirche	Kirche
 werden	werden
@@ -53450,10 +53893,13 @@ getrennt	trennen
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Die
+)
+Die	der
 Freiheit	Freiheit
 der	der
 Vereinigung	Vereinigung
@@ -53477,10 +53923,13 @@ Beschränkungen	Beschränkung
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Jede
+)
+Jede	jeder
 Religionsgesellschaft	Religionsgesellschaft
 ordnet	ordnen
 und	und
@@ -53510,10 +53959,13 @@ Gemeinden	Gemeinde
 .
 </p>
 <p>
+	
 <g/>
 (
+4	4
 <g/>
-4)Die
+)
+Die	der
 Rechtsfähigkeit	Rechtsfähigkeit
 der	der
 Religionsgesellschaften	Religionsgesellschaft
@@ -53627,10 +54079,13 @@ Artikel	Artikel
 127.	127.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 Kunst	Kunst
 <g/>
 ,
@@ -53658,10 +54113,13 @@ teil	teil
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Die
+)
+Die	der
 Denkmäler	Denkmal
 der	der
 Kunst	Kunst
@@ -53730,10 +54188,13 @@ Artikel	Artikel
 129.	129.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)In
+)
+In	in
 allen	aller
 Schulen	Schule
 ist	sein
@@ -53752,10 +54213,13 @@ erstreben	erstreben
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Beim
+)
+Beim	bei
 Unterricht	Unterricht
 in	in
 öffentlichen	öffentlich
@@ -53777,9 +54241,13 @@ werden	werden
 .
 </p>
 <p>
+	
 <g/>
 (
-3)Staatsbürgerkunde	3)Staatsbürgerkunde
+3	3
+<g/>
+)
+Staatsbürgerkunde	Staatsbürgerkunde
 und	und
 Arbeitsunterricht	Arbeitsunterricht
 sind	sein
@@ -53865,10 +54333,13 @@ Artikel	Artikel
 131.	131.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Von
+)
+Von	von
 Staatswegen	Staatsweg
 wird	werden
 weder	weder
@@ -53913,10 +54384,13 @@ teilzunehmen	teilnehmen
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Die
+)
+Die	der
 Teilnahme	Teilnahme
 der	der
 Schüler	Schüler
@@ -53978,10 +54452,13 @@ Artikel	Artikel
 133.	133.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Alle
+)
+Alle	aller
 Bundesangehörigen	Bundesangehöriger
 haben	haben
 ein	ein
@@ -53997,10 +54474,13 @@ Sprache	Sprache
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Keinem
+)
+Keinem	Keinem
 Bundesangehörigen	Bundesangehörigen
 werden	werden
 im	in
@@ -54038,10 +54518,13 @@ auferlegt	auferlegen
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Durch
+)
+Durch	durch
 Gesetz	Gesetz
 wird	werden
 vorgesorgt	vorsorgen
@@ -54194,10 +54677,13 @@ Artikel	Artikel
 136.	136.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Das
+)
+Das	der
 Eigentum	Eigentum
 ist	sein
 von	von
@@ -54215,10 +54701,13 @@ werden	werden
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Die
+)
+Die	der
 Zwecke	Zweck
 <g/>
 ,
@@ -54245,10 +54734,13 @@ geregelt	regeln
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)In
+)
+In	in
 welchen	welcher
 Fällen	Fall
 auf	auf
@@ -54319,10 +54811,13 @@ Artikel	Artikel
 138.	138.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Wer
+)
+Wer	wer
 durch	durch
 schuldhaft	schuldhaft
 rechtswidrige	rechtswidrig
@@ -54357,10 +54852,13 @@ wurde	werden
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Die
+)
+Die	der
 nähere	näh
 Regelung	Regelung
 erfolgt	erfolgen
@@ -54393,10 +54891,13 @@ Artikel	Artikel
 139.	139.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 Arbeitskraft	Arbeitskraft
 steht	stehen
 unter	unter
@@ -54409,10 +54910,13 @@ Bundes	Bund
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Der
+)
+Der	der
 Sonntag	Sonntag
 und	und
 die	der
@@ -54430,10 +54934,13 @@ geschützt	schützen
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Die
+)
+Die	der
 in	in
 den	der
 geltenden	geltend
@@ -54494,10 +55001,13 @@ auszudehnen	ausdehnen
 .
 </p>
 <p>
+	
 <g/>
 (
+4	4
 <g/>
-4)Der
+)
+Der	der
 Bund	Bund
 schafft	schaffen
 ein	ein
@@ -54890,7 +55400,8 @@ Weise	Weise
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 :
@@ -54921,7 +55432,8 @@ Minuten	Minute
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 (
@@ -54942,7 +55454,8 @@ Langoth	Langoth
 .
 </p>
 Herr	Herr
-LandeshauptmannstellvertreterLangoth	LandeshauptmannstellvertreterLangoth
+Landeshauptmannstellvertreter	Landeshauptmannstellvertreter
+Langoth	Langoth
 <g/>
 (
 Oberösterreich	Oberösterreich
@@ -55199,7 +55712,8 @@ haben	haben
 .
 </p>
 Herr	Herr
-AbgeordneterKunschak	AbgeordneterKunschak
+Abgeordneter	Abgeordnete
+Kunschak	Kunschak
 <g/>
 (
 Wien	Wien
@@ -55907,7 +56421,8 @@ Rufe	Ruf
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 (
@@ -55926,8 +56441,8 @@ Wort	Wort
 .
 </p>
 Herr	Herr
-StadtratDr	StadtratDr
-.	.
+Stadtrat	Stadtrat
+Dr.	Dr.
 Speiser	Speiser
 <g/>
 (
@@ -56847,10 +57362,13 @@ Artikel	Artikel
 116.	116.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 Ehe	Ehe
 ist	sein
 ein	ein
@@ -56860,10 +57378,13 @@ Vertrag	Vertrag
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Sie
+)
+Sie	sie
 kann	können
 nur	nur
 vor	vor
@@ -57018,10 +57539,13 @@ Artikel	Artikel
 119.	119.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Alle
+)
+Alle	aller
 Bundesangehörigen	Bundesangehöriger
 haben	haben
 das	der
@@ -57059,10 +57583,13 @@ ausgeschlossen	ausschließen
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Für
+)
+Für	für
 Vereinigungen	Vereinigung
 <g/>
 ,
@@ -57079,10 +57606,13 @@ Bestimmungen	Bestimmung
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)über
+)
+über	über
 die	der
 Rechtsfähigkeit	Rechtsfähigkeit
 von	von
@@ -57101,10 +57631,13 @@ Artikel	Artikel
 120.	120.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Alle
+)
+Alle	aller
 Staatsbürger	Staatsbürger
 haben	haben
 das	der
@@ -57134,9 +57667,13 @@ werden	werden
 .
 </p>
 <p>
+	
 <g/>
 (
-2)Versammlungen	2)Versammlung
+2	2
+<g/>
+)
+Versammlungen	Versammlung
 unter	unter
 freiem	frei
 Himmel	Himmel
@@ -57164,10 +57701,13 @@ Artikel	Artikel
 121.	121.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 volle	voll
 Glaubens-	Glauben
 und	und
@@ -57189,10 +57729,13 @@ gewährleistet	gewährleisten
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Einschränkungen
+)
+Einschränkungen	Einschränkung
 sind	sein
 nur	nur
 durch	durch
@@ -57207,10 +57750,13 @@ Artikel	Artikel
 122.	122.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Der
+)
+Der	der
 Genuß	Genuß
 der	der
 bürgerlichen	bürgerlich
@@ -57246,10 +57792,13 @@ geschehen	geschehen
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Niemand
+)
+Niemand	niemand
 ist	sein
 verpflichtet	verpflichten
 <g/>
@@ -57298,10 +57847,13 @@ erfordert	erfordern
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)In
+)
+In	in
 diesem	dieser
 Sinne	Sinn
 ist	sein
@@ -57317,10 +57869,13 @@ regeln	regeln
 .
 </p>
 <p>
+	
 <g/>
 (
+4	4
 <g/>
-4)Niemand
+)
+Niemand	niemand
 darf	dürfen
 zu	zu
 einer	ein
@@ -57362,10 +57917,13 @@ Artikel	Artikel
 123.	123.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Staat
+)
+Staat	Staat
 und	und
 Kirche	Kirche
 werden	werden
@@ -57374,10 +57932,13 @@ getrennt	trennen
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Die
+)
+Die	der
 Freiheit	Freiheit
 der	der
 Vereinigung	Vereinigung
@@ -57401,10 +57962,13 @@ Beschränkungen	Beschränkung
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Jede
+)
+Jede	jeder
 Religionsgesellschaft	Religionsgesellschaft
 ordnet	ordnen
 und	und
@@ -57434,10 +57998,13 @@ Gemeinden	Gemeinde
 .
 </p>
 <p>
+	
 <g/>
 (
+4	4
 <g/>
-4)Die
+)
+Die	der
 Rechtsfähigkeit	Rechtsfähigkeit
 der	der
 Religionsgesellchaften	Religionsgesellchaft
@@ -57551,10 +58118,13 @@ Artikel	Artikel
 127.	127.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 Kunst	Kunst
 <g/>
 ,
@@ -57582,10 +58152,13 @@ teil	teil
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Die
+)
+Die	der
 Denkmäler	Denkmal
 der	der
 Kunst	Kunst
@@ -57654,10 +58227,13 @@ Artikel	Artikel
 129.	129.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)In
+)
+In	in
 allen	aller
 Schulen	Schule
 ist	sein
@@ -57676,10 +58252,13 @@ erstreben	erstreben
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Beim
+)
+Beim	bei
 Unterricht	Unterricht
 in	in
 öffentlichen	öffentlich
@@ -57701,9 +58280,13 @@ werden	werden
 .
 </p>
 <p>
+	
 <g/>
 (
-3)Staatsbürgerkunde	3)Staatsbürgerkunde
+3	3
+<g/>
+)
+Staatsbürgerkunde	Staatsbürgerkunde
 und	und
 Arbeitsunterricht	Arbeitsunterricht
 sind	sein
@@ -57789,10 +58372,13 @@ Artikel	Artikel
 131.	131.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Von
+)
+Von	von
 Staats	Staat
 wegen	wegen
 wird	werden
@@ -57838,10 +58424,13 @@ teilzunehmen	teilnehmen
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Die
+)
+Die	der
 Teilnahme	Teilnahme
 der	der
 Schüler	Schüler
@@ -57903,10 +58492,13 @@ Artikel	Artikel
 133.	133.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Alle
+)
+Alle	aller
 Bundesangehörigen	Bundesangehöriger
 haben	haben
 ein	ein
@@ -57922,10 +58514,13 @@ Sprache	Sprache
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)keinem
+)
+keinem	kein
 Bundesangehörigen	Bundesangehöriger
 werden	werden
 im	in
@@ -57963,10 +58558,13 @@ auferlegt	auferlegen
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Durch
+)
+Durch	durch
 Gesetz	Gesetz
 wird	werden
 vorgesorgt	vorsorgen
@@ -58119,10 +58717,13 @@ Artikel	Artikel
 136.	136.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Das
+)
+Das	der
 Eigentum	Eigentum
 ist	sein
 von	von
@@ -58140,10 +58741,13 @@ werden	werden
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Die
+)
+Die	der
 Zwecke	Zweck
 <g/>
 ,
@@ -58170,10 +58774,13 @@ geregelt	regeln
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)In
+)
+In	in
 welchen	welcher
 Fällen	Fall
 auf	auf
@@ -58215,10 +58822,13 @@ Artikel	Artikel
 138.	138.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Wer
+)
+Wer	wer
 durch	durch
 schuldhaft	schuldhaft
 rechtswidrige	rechtswidrig
@@ -58253,10 +58863,13 @@ wurde	werden
 .
 </p>
 <p>
+	
 <g/>
 (
+2	2
 <g/>
-2)Die
+)
+Die	der
 nähere	näh
 Regelung	Regelung
 erfolgt	erfolgen
@@ -58289,10 +58902,13 @@ Artikel	Artikel
 139.	139.
 </head>
 <p>
+	
 <g/>
 (
+1	1
 <g/>
-1)Die
+)
+Die	der
 Arbeitskraft	Arbeitskraft
 steht	stehen
 unter	unter
@@ -58305,10 +58921,13 @@ Bundes	Bund
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Der
+)
+Der	der
 Sonntag	Sonntag
 und	und
 die	der
@@ -58326,10 +58945,13 @@ geschützt	schützen
 .
 </p>
 <p>
+	
 <g/>
 (
+3	3
 <g/>
-3)Die
+)
+Die	der
 in	in
 den	der
 geltenden	geltend
@@ -58387,10 +59009,13 @@ auszudehnen	ausdehnen
 .
 </p>
 <p>
+	
 <g/>
 (
+4	4
 <g/>
-4)Der
+)
+Der	der
 Bund	Bund
 schafft	schaffen
 ein	ein
@@ -58678,7 +59303,8 @@ müssen	müssen
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 :
@@ -58694,8 +59320,8 @@ Mayr	Mayr
 .
 </p>
 Herr	Herr
-StaatssekretärDr	StaatssekretärDr
-.	.
+Staatssekretär	Staatssekretär
+Dr.	Dr.
 Mayr	Mayr
 <g/>
 :
@@ -59537,7 +60163,8 @@ haben	haben
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 :
@@ -59615,7 +60242,8 @@ Innsbruck	Innsbruck
 .
 </p>
 Herr	Herr
-LandeshauptmannstellvertreterDoktor	LandeshauptmannstellvertreterDoktor
+Landeshauptmannstellvertreter	Landeshauptmannstellvertreter
+Doktor	Doktor
 Schumacher	Schumacher
 <g/>
 (
@@ -59935,7 +60563,8 @@ entscheidet	entscheiden
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDokter	LandeshauptmannDokter
+Landeshauptmann	Landeshauptmann
+Dokter	Dokter
 Rintelen	Rintelen
 <g/>
 (
@@ -59958,7 +60587,8 @@ Wort	Wort
 .
 </p>
 Herr	Herr
-LandeshauptmannstellvertreterPreußler	LandeshauptmannstellvertreterPreußler
+Landeshauptmannstellvertreter	Landeshauptmannstellvertreter
+Preußler	Preußler
 <g/>
 (
 Salzburg	Salzburg
@@ -60073,8 +60703,8 @@ war	sein
 “
 </p>
 Herr	Herr
-VorsitzenderDr	VorsitzenderDr
-.	.
+Vorsitzender	vorsitzend
+Dr.	Dr.
 Rintelen	Rintelen
 <g/>
 (
@@ -60136,7 +60766,8 @@ Wort	Wort
 .
 </p>
 Herr	Herr
-AbgeordneterKunschak	AbgeordneterKunschak
+Abgeordneter	Abgeordnete
+Kunschak	Kunschak
 <g/>
 (
 Wien	Wien
@@ -60349,7 +60980,8 @@ geben	geben
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 (
@@ -60367,7 +60999,8 @@ Wort	Wort
 .
 </p>
 Herr	Herr
-LandeshauptmannstellvertreterDoktor	LandeshauptmannstellvertreterDoktor
+Landeshauptmannstellvertreter	Landeshauptmannstellvertreter
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 (
@@ -60400,7 +61033,8 @@ sind	sein
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 (
@@ -60417,8 +61051,8 @@ Wort	Wort
 <g/>
 .
 </p>
-HerrDr	HerrDr
-.	.
+Herr	Herr
+Dr.	Dr.
 Danneberg	Danneberg
 <g/>
 (
@@ -61122,7 +61756,8 @@ an	an
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 :
@@ -61137,7 +61772,8 @@ Wort	Wort
 .
 </p>
 Herr	Herr
-AbgeordneterKunschak	AbgeordneterKunschak
+Abgeordneter	Abgeordnete
+Kunschak	Kunschak
 <g/>
 (
 Wien	Wien
@@ -61519,7 +62155,8 @@ abgeben	abgeben
 </p>
 Herr	Herr
 Vorsitzender	vorsitzend
-LandeshauptmannDoktor	LandeshauptmannDoktor
+Landeshauptmann	Landeshauptmann
+Doktor	Doktor
 Rintelen	Rintelen
 <g/>
 :
@@ -61590,7 +62227,8 @@ möglich	möglich
 ?
 </p>
 Herr	Herr
-AbgeordneterKunschak	AbgeordneterKunschak
+Abgeordneter	Abgeordnete
+Kunschak	Kunschak
 <g/>
 (
 Wien	Wien
@@ -61615,8 +62253,8 @@ bringt	bringen
 .
 </p>
 Herr	Herr
-GemeinderatDr	GemeinderatDr
-.	.
+Gemeinderat	Gemeinderat
+Dr.	Dr.
 Danneberg	Danneberg
 <g/>
 (
@@ -61666,7 +62304,8 @@ Länder	Land
 .
 </p>
 Herr	Herr
-AbgeordneterKunschak	AbgeordneterKunschak
+Abgeordneter	Abgeordnete
+Kunschak	Kunschak
 <g/>
 (
 Wien	Wien
@@ -61716,8 +62355,8 @@ will	wollen
 .
 </p>
 Herr	Herr
-LandeshauptmannDr	LandeshauptmannDr
-.	.
+Landeshauptmann	Landeshauptmann
+Dr.	Dr.
 Rintelen	Rintelen
 <g/>
 :

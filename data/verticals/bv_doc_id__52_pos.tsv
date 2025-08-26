@@ -27,30 +27,51 @@ Anwesend	Anwesend
 <g/>
 :
 </p>
+	
 Dr.	Dr.
-OttoBauerals	OttoBauerals
-VorsitzenderDr	VorsitzenderDr
-.	.
-JosefAignerDr	JosefAignerDr
-.	.
-HeinrichClessin	HeinrichClessin
+Otto	Otto
+Bauer	Bauer
+als	als
+Vorsitzender	vorsitzend
+Dr.	Dr.
+Josef	Josef
+Aigner	Aigner
+Dr.	Dr.
+Heinrich	Heinrich
+Clessin	Clessin
 <g/>
 ,
 Dr.	Dr.
-RobertDannebergJodokFinkLeopoldKunschakProf	RobertDannebergJodokFinkLeopoldKunschakProf
-.	.
+Robert	Robert
+Danneberg	Danneberg
+Jodok	Jodok
+Fink	Fink
+Leopold	Leopold
+Kunschak	Kunschak
+Prof.	Prof.
 Dr.	Dr.
-IgnazSeipelPräsident	IgnazSeipelPräsident
-KarlSeitzStaatssekretär	KarlSeitzStaatssekretär
+Ignaz	Ignaz
+Seipel	Seipel
+Präsident	Präsident
+Karl	Karl
+Seitz	Seitz
+Staatssekretär	Staatssekretär
 Professor	Professor
 Dr.	Dr.
-MichaelMayrUnterstaatssekretär	MichaelMayrUnterstaatssekretär
-OttoGlöckelUnterstaatssekretär	OttoGlöckelUnterstaatssekretär
+Michael	Michael
+Mayr	Mayr
+Unterstaatssekretär	Unterstaatssekretär
+Otto	Otto
+Glöckel	Glöckel
+Unterstaatssekretär	Unterstaatssekretär
 Dr.	Dr.
-WilhelmEllenbogenUnterstaatssekretär	WilhelmEllenbogenUnterstaatssekretär
+Wilhelm	Wilhelm
+Ellenbogen	Ellenbogen
+Unterstaatssekretär	Unterstaatssekretär
 Professor	Professor
 Dr.	Dr.
-JuliusTandler	JuliusTandler
+Julius	Julius
+Tandler	Tandler
 <p>
 Von	von
 der	der
@@ -58,19 +79,28 @@ Staatskanzlei	Staatskanzlei
 <g/>
 :
 </p>
+	
 Ministerialrat	Ministerialrat
 Dr.	Dr.
-GeorgFroehlichSektionsrat	GeorgFroehlichSektionsrat
+Georg	Georg
+Froehlich	Froehlich
+Sektionsrat	Sektionsrat
 Dr.	Dr.
-EgbertMannlicherMin	EgbertMannlicherMin
+Egbert	Egbert
+Mannlicher	Mannlicher
+Min	Min
 .	.
 Vizesekretär	Vizesekretär
 Dr.	Dr.
-AdolfMerklMin	AdolfMerklMin
+Adolf	Adolf
+Merkl	Merkl
+Min	Min
 .	.
 Vizesekretär	Vizesekretär
 Dr.	Dr.
-KurtFriebergerals	KurtFriebergeral
+Kurt	Kurt
+Frieberger	Frieberger
+als	als
 Schriftführer	Schriftführer
 <p>
 Vom	von
@@ -87,21 +117,27 @@ Bauten	Bau
 <g/>
 :
 </p>
+	
 Min	Min
 .	.
 Rat	Rat
 Ingenieur	Ingenieur
-EmilGaertnerProf	EmilGaertnerProf
-.	.
+Emil	Emil
+Gaertner	Gaertner
+Prof.	Prof.
 Dr.	Dr.
-HansKelsenals	HansKelsenal
+Hans	Hans
+Kelsen	Kelsen
+als	als
 Experte	Experte
 des	der
 Verfassungsausschusses	Verfassungsausschuß
 <g/>
 .
 <p>
-DerVorsitzendeerlangt	derVorsitzendeerlangt
+Der	der
+Vorsitzende	vorsitzend
+erlangt	erlangen
 die	der
 Zustimmung	Zustimmung
 des	der
@@ -135,7 +171,8 @@ dem	der
 Unterstaatssekretär	Unterstaatssekretär
 Prof.	Prof.
 Dr.	Dr.
-Tandlerdas	Tandlerdas
+Tandler	Tandler
+das	der
 Wort	Wort
 <g/>
 .
@@ -272,7 +309,9 @@ gewählt	wählen
 .
 </p>
 <p>
-DerVorsitzendebevorzugt	DerVorsitzendebevorzugt
+Der	der
+Vorsitzende	vorsitzend
+bevorzugt	bevorzugen
 gegenüber	gegenüber
 dem	der
 Vorschlag	Vorschlag
@@ -290,7 +329,9 @@ daß	daß
 eine	ein
 Vereinbarung	Vereinbarung
 der	der
-Parteiendem	Parteiendem
+Partei	Partei
+en	en
+dem	der
 Bunde	Bund
 die	der
 sanitäre	sanitär
@@ -319,7 +360,8 @@ habe	haben
 .
 Prof.	Prof.
 Dr.	Dr.
-Seipelsieht	Seipelsieht
+Seipel	Seipel
+sieht	sehen
 keine	kein
 Veranlassung	Veranlassung
 <g/>
@@ -332,7 +374,9 @@ vorzunehmen	vornehmen
 .
 Auf	auf
 Vorschlag	Vorschlag
-desVorsitzendenwird	desVorsitzendenwird
+des	der
+Vorsitzenden	vorsitzend
+wird	werden
 der	der
 Vorschlag	Vorschlag
 der	der
@@ -348,6 +392,7 @@ angenommen	annehmen
 :
 </p>
 <p>
+	
 Art	Art
 .	.
 10	10
@@ -492,19 +537,22 @@ Landeshauptmannstellvertreters	Landeshauptmannstellvertreter
 von	von
 Steiermark	Steiermark
 Dr.	Dr.
-Ahrerund	Ahrerund
+Ahrer	Ahrer
+und	und
 seines	sein
 Sanitätsreferenten	Sanitätsreferent
 mit	mit
 Unterstaatssekretär	Unterstaatssekretär
 Dr.	Dr.
-Tandlerstellen	Tandlerstellen
+Tandler	Tandler
+stellen	stellen
 Präsident	Präsident
 Seitz	Seitz
 und	und
 Prof.	Prof.
 Dr.	Dr.
-Seipelübereinstimmend	Seipelübereinstimmend
+Seipel	Seipel
+übereinstimmend	übereinstimmend
 fest	fest
 <g/>
 ,
@@ -580,10 +628,14 @@ Heilquellen	Heilquelle
 .
 </p>
 <p>
-DerVorsitzendeerteilt	DerVorsitzendeerteiln
+Der	der
+Vorsitzende	vorsitzend
+erteilt	erteilen
 hierauf	hierauf
 dem	der
-UnterstaatssekretärGlöckeldas	UnterstaatssekretärGlöckeldas
+Unterstaatssekretär	Unterstaatssekretär
+Glöckel	Glöckel
+das	der
 Wort	Wort
 zur	zu
 Erstattung	Erstattung
@@ -737,7 +789,8 @@ bestimmt	bestimmen
 <p>
 Ergänzend	Ergänzend
 bemerkt	bemerken
-derVorsitzende	derVorsitzende
+der	der
+Vorsitzende	vorsitzend
 <g/>
 ,
 daß	daß
@@ -776,7 +829,8 @@ nach	nach
 Erklärung	Erklärung
 Prof.	Prof.
 Dr.	Dr.
-Seipelsvon	Seipelsvon
+Seipels	Seipels
+von	von
 den	der
 Vereinbarungen	Vereinbarung
 ab	ab
@@ -787,7 +841,8 @@ ab	ab
 Staatssekretär	Staatssekretär
 Prof.	Prof.
 Dr.	Dr.
-Mayrstellt	Mayrstellt
+Mayr	Mayr
+stellt	stellen
 ausdrücklich	ausdrücklich
 fest	fest
 <g/>
@@ -795,7 +850,9 @@ fest	fest
 daß	daß
 der	der
 vom	von
-UnterstaatssekretärGlöckelverlesene	UnterstaatssekretärGlöckelverlesene
+Unterstaatssekretär	Unterstaatssekretär
+Glöckel	Glöckel
+verlesene	verlesen
 Entwurf	Entwurf
 nicht	nicht
 von	von
@@ -808,7 +865,8 @@ stammt	stammen
 <p>
 Prof.	Prof.
 Dr.	Dr.
-Seipelbezeichnet	Seipelbezeichnen
+Seipel	Seipel
+bezeichnet	bezeichnen
 es	es
 als	als
 Ansicht	Ansicht
@@ -905,7 +963,8 @@ Unterausschusses	Unterausschuß
 Abg	Abg
 <g/>
 .
-Clessinweist	Clessinweist
+Clessin	Clessin
+weist	weisen
 auf	auf
 das	der
 scheinbare	scheinbar
@@ -988,7 +1047,9 @@ zu	zu
 nehmen	nehmen
 <g/>
 .
-PräsidentSeitzerinnert	PräsidentSeitzerinnert
+Präsident	Präsident
+Seitz	Seitz
+erinnert	erinnern
 an	an
 die	der
 Parteisitzungen	Parteisitzung
@@ -1070,7 +1131,7 @@ sein	sein
 ,
 während	während
 die	der
-Christlichsozialen	Christlichsozialer
+Christlichsozialen	Christlichsozialen
 der	der
 Anschauung	Anschauung
 sind	sein
@@ -1087,7 +1148,8 @@ auch	auch
 weiterhin	weiterhin
 dem	der
 Lande	Land
-zugehörensollen	zugehörensollen
+zugehören	zugehören
+sollen	sollen
 <g/>
 .
 Diese	dieser
@@ -1186,7 +1248,9 @@ entstehen	entstehen
 .
 </p>
 <p>
-AbgeordneterClessinist	AbgeordneterClessinist
+Abgeordneter	abgeordneter
+Clessin	Clessin
+ist	sein
 der	der
 Anschauung	Anschauung
 <g/>
@@ -1232,7 +1296,8 @@ fortbestehen	fortbestehen
 <p>
 Prof.	Prof.
 Dr.	Dr.
-Seipelerklärt	Seipelerklären
+Seipel	Seipel
+erklärt	erklären
 insbesondere	insbesondere
 <g/>
 ,
@@ -1273,9 +1338,12 @@ ist	sein
 </p>
 <p>
 Dr.	Dr.
-Bauerübergibt	Bauerübergeben
+Bauer	Bauer
+übergibt	übergeben
 hierauf	hierauf
-denVorsitzProfessor	denVorsitzProfessor
+den	der
+Vorsitz	Vorsitz
+Professor	Professor
 Dr.	Dr.
 Seipel	Seipel
 <g/>
@@ -1347,7 +1415,9 @@ vorzubehalten	vorbehalten
 ,
 wird	werden
 vom	von
-PräsidentenSeitzmit	PräsidentenSeitzmit
+Präsidenten	Präsident
+Seitz	Seitz
+mit	mit
 dem	der
 Hinweisabgelehnt	Hinweisabgelehnt
 <g/>
@@ -1428,7 +1498,8 @@ genügend	genügend
 .
 Prof.	Prof.
 Dr.	Dr.
-Kelsengibt	Kelsengibt
+Kelsen	Kelsen
+gibt	geben
 zu	zu
 bedenken	bedenken
 <g/>
@@ -1483,7 +1554,8 @@ Nach	nach
 Ansicht	Ansicht
 Prof.	Prof.
 Dr.	Dr.
-Seipelshätte	Seipelshätte
+Seipels	Seipel
+hätte	haben
 es	es
 in	in
 Art	Art
@@ -1573,7 +1645,8 @@ darf	dürfen
 .
 Hiezu	Hiezu
 bemerkt	bemerken
-PräsidentSeitz	PräsidentSeitz
+Präsident	Präsident
+Seitz	Seitz
 <g/>
 ,
 daß	daß
@@ -1615,7 +1688,8 @@ werden	werden
 .
 Prof.	Prof.
 Dr.	Dr.
-Seipelmeint	Seipelmeint
+Seipel	Seipel
+meint	meinen
 fortfahrend	fortfahrend
 <g/>
 ,
@@ -1729,7 +1803,8 @@ Min	Min
 .	.
 Rat	Rat
 Ing.	Ing.
-Gaertnereine	Gaertnereine
+Gaertner	Gaertner
+eine	ein
 Formulierung	Formulierung
 des	der
 Wasserkraft-	Wasserkraft
@@ -1744,7 +1819,8 @@ nach	nach
 Anschauung	Anschauung
 Prof.	Prof.
 Dr.	Dr.
-Kelsensnicht	Kelsensnicht
+Kelsens	Kelsen
+nicht	nicht
 den	der
 Parteivereinbarungen	Parteivereinbarung
 entspricht	entsprechen
@@ -1752,11 +1828,12 @@ entspricht	entsprechen
 .
 Professor	Professor
 Dr.	Dr.
-Seipelverliest	Seipelverliest
+Seipel	Seipel
+verliest	verleesen
 die	der
 Formulierung	Formulierung
 der	der
-Sachverständigen	Sachverständigen
+Sachverständigen	Sachverständige
 seiner	sein
 Partei	Partei
 <g/>
@@ -1842,7 +1919,9 @@ ziehen	ziehen
 .
 Min	Min
 .	.
-RatGaertnerfindet	RatGaertnerfindet
+Rat	Rat
+Gaertner	Gaertner
+findet	finden
 über	über
 Befragen	befragen
 die	der
@@ -2026,7 +2105,8 @@ zugesteht	zugestehen
 <p>
 Prof.	Prof.
 Dr.	Dr.
-Seipelwünscht	Seipelwünscht
+Seipel	Seipel
+wünscht	wünschen
 die	der
 Debatte	Debatte
 über	über
@@ -2053,7 +2133,8 @@ technischen	technisch
 Lesung	Lesung
 Prof.	Prof.
 Dr.	Dr.
-Kelsendas	Kelsenda
+Kelsen	Kelsen
+das	der
 Wort	Wort
 <g/>
 .
@@ -2107,6 +2188,7 @@ vorzuschlagen	vorschlagen
 :
 </p>
 <p>
+	
 <g/>
 „
 Gesetz	Gesetz
@@ -2151,7 +2233,8 @@ notwendig	notwendig
 Die	der
 vorgeschlagene	vorgeschlagen
 Fassung	Fassung
-wirdangenommen	werdangenommenen
+wird	werden
+angenommen	annehmen
 <g/>
 .
 </p>
@@ -2191,8 +2274,13 @@ Art	Art
 .	.
 1	1
 bis	bis
+6	6
 <g/>
-6);B.
+)
+<g/>
+;
+B	B
+.	.
 Verteilung	Verteilung
 der	der
 Zuständigkeit	Zuständigkeit
@@ -2203,7 +2291,13 @@ Art	Art
 7	7
 bis	bis
 14	14
-a);C.	a);C.
+a	a
+<g/>
+)
+<g/>
+;
+C	C
+.	.
 Organe	Organ
 <g/>
 “
@@ -2318,7 +2412,9 @@ aus	aus
 .
 </p>
 <p>
-Ferneristin	Ferneristin
+Ferner	ferner
+ist	sein
+in	in
 Art	Art
 .	.
 2	2
@@ -2361,7 +2457,8 @@ Abs.	Abs.
 schlägt	schlagen
 Prof.	Prof.
 Dr.	Dr.
-Kelsendie	Kelsendie
+Kelsen	Kelsen
+die	der
 Streichung	Streichung
 des	der
 zweiten	zweiter
@@ -2392,7 +2489,9 @@ sei	sein
 Der	der
 Unterausschuß	Unterausschuß
 beschließt	beschließen
-dieStreichungund	dieStreichungund
+die	der
+Streichung	Streichung
+und	und
 formuliert	formulieren
 auf	auf
 Antrag	Antrag
@@ -2490,10 +2589,12 @@ bringen	bringen
 sowohl	sowohl
 Prof.	Prof.
 Dr.	Dr.
-Kelsenals	Kelsenal
+Kelsen	Kelsen
+als	als
 auch	auch
 Dr.	Dr.
-Dannebergmehrfache	Dannebergmehrfache
+Danneberg	Danneberg
+mehrfache	mehrfach
 Abänderungsvorschläge	Abänderungsvorschlag
 vor	vor
 <g/>
@@ -2604,7 +2705,9 @@ werden	werden
 .
 </p>
 <p>
-PräsidentSeitzmeint	PräsidentSeitzmeint
+Präsident	Präsident
+Seitz	Seitz
+meint	meinen
 jedoch	jedoch
 <g/>
 ,
@@ -2744,7 +2847,8 @@ a	a
 teilt	teilen
 Prof.	Prof.
 Dr.	Dr.
-Kelseneinen	Kelseneinen
+Kelsen	Kelsen
+einen	ein
 Vorschlag	Vorschlag
 des	der
 Staatsamtes	Staatsamt
@@ -2787,7 +2891,9 @@ verlieren	verlieren
 .
 </p>
 <p>
-PräsidentSeitzfindet	PräsidentSeitzfindet
+Präsident	Präsident
+Seitz	Seitz
+findet	finden
 dies	dieser
 nicht	nicht
 gerechtfertigt	rechtfertigen
@@ -2817,9 +2923,11 @@ können	können
 Min	Min
 .	.
 Rat	Rat
-.	.
+<g/>
+.
 Dr.	Dr.
-Froehlichmeint	Froehlichmeint
+Froehlich	Froehlich
+meint	meinen
 <g/>
 ,
 daß	daß
@@ -2870,7 +2978,8 @@ abzuändern	abändern
 </p>
 <p>
 Prof.	Prof.
-Kelsenhält	Kelsenhält
+Kelsen	Kelsen
+hält	halten
 den	der
 Abänderungsvorschlag	Abänderungsvorschlag
 nicht	nicht
@@ -2897,7 +3006,9 @@ annimmt	annehmen
 <g/>
 .
 Auf	auf
-Vorschlagdes	Vorschlagd
+Vor	vor
+schlag	Schlag
+des	der
 Redners	Redner
 <g/>
 ,
@@ -2941,9 +3052,11 @@ genügt	genügen
 .
 </p>
 <p>
-InArt	InArt
+In	in
+Art	Art
 .	.
-6wird	6wird
+6	6
+wird	werden
 beschlossen	beschließen
 <g/>
 ,
@@ -3100,7 +3213,8 @@ Ausland	Ausland
 <p>
 Prof.	Prof.
 Dr.	Dr.
-Seipelgreift	Seipelgreift
+Seipel	Seipel
+greift	greifen
 nun	nun
 auf	auf
 die	der
@@ -3168,7 +3282,9 @@ sein	sein
 .
 </p>
 <p>
-DasPaßwesenwird	DasPaßwesenwird
+Das	der
+Paßwesen	Paßwesen
+wird	werden
 aus	aus
 diesem	dieser
 Punkte	Punkt
@@ -3198,7 +3314,8 @@ auf	auf
 Antrag	Antrag
 Prof.	Prof.
 Dr.	Dr.
-Kelsensvom	Kelsensvom
+Kelsens	Kelsen
+vom	von
 Unterausschuß	Unterausschuß
 wie	wie
 folgt	folgen
@@ -3356,7 +3473,8 @@ des	der
 Vorschlages	Vorschlag
 Prof.	Prof.
 Dr.	Dr.
-Kelsensangenommen	Kelsensangenommen
+Kelsens	Kelsen
+angenommen	annehmen
 <g/>
 :
 </p>
@@ -3477,7 +3595,8 @@ Fassung	Fassung
 „
 Bau	Bau
 und	und
-Instandhaltungderjenigen	Instandhaltungderjenigen
+Instandhaltung	Instandhaltung
+derjenigen	derjenige
 Wasserstraßen	Wasserstraße
 usw.	usw.
 <g/>
@@ -3541,7 +3660,9 @@ und	und
 auf	auf
 Antrag	Antrag
 des	der
-PräsidentenSeitzdie	PräsidentenSeitzdie
+Präsidenten	Präsident
+Seitz	Seitz
+die	der
 Aenderung	Aenderung
 des	der
 Titels	Titel

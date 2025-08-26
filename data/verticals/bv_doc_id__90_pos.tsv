@@ -57,9 +57,11 @@ Bundesverfassungsgesetz	Bundesverfassungsgesetz
 <g/>
 .
 Mit	mit
-MehrheitsbeschlußEinleitungArt	MehrheitsbeschlußEinleitungArt
+MehrheitsbeschlußEinleitung	MehrheitsbeschlußEinleitung
+Art	Art
 .	.
-10angenommen	10angenommen
+10	10
+angenommen	annehmen
 <g/>
 .
 </p>
@@ -112,17 +114,23 @@ Justizpflege	Justizpflege
 ,
 7	7
 ,	,
-8Beschlossen	8Beschlossen
+8	8
+Beschlossen	Beschließen
 In	in
-al.9	al.9
+al.	al.
+9	9
 <g/>
 „
 Ausführung	Ausführung
 des	der
 <g/>
 “
+gestrichen	streichen
 <g/>
-gestrichen,„die
+,
+<g/>
+„
+die	der
 <g/>
 “
 in	in
@@ -138,7 +146,8 @@ Vor	vor
 Dampfkessel	Dampfkessel
 <g/>
 “
-einzuschaltenein	einschaltenein
+einzuschalten	einschalten
+ein	ein
 Zusatzantrag	Zusatzantrag
 Dr.	Dr.
 Seipel	Seipel
@@ -518,7 +527,8 @@ beschlossen	beschließen
 .
 Minoritätsvotum	Minoritätsvotum
 der	der
-Christlichsozialenim	Christlichsozialenim
+Christlichsozialen	Christlichsozialer
+im	in
 Unterausschuss	Unterausschuss
 <g/>
 .
@@ -551,13 +561,18 @@ angemeldet	anmelden
 .
 Titel	Titel
 u.	u.
-Eingangbeschlossen	Eingangbeschlossen
+Eingang	Eingang
+beschlossen	beschließen
 <g/>
 .
 </p>
 <p>
-Gesetzbetreffend	Gesetzbetreffend
-denÜbergangzur	denÜbergangzur
+	
+Gesetz	Gesetz
+betreffend	betreffend
+den	der
+Übergang	Übergang
+zur	zu
 bundesstaatl	Bundesstaatl
 <g/>
 .
@@ -666,7 +681,8 @@ Vertretungen	Vertretung
 </p>
 <p>
 §	§
-5AbänderungsantragundAbsatz	5AbänderungsantragundAbsatz
+5	5
+AbänderungsantragundAbsatz	AbänderungsantragundAbsatz
 2	2
 angenommen	annehmen
 </p>
@@ -817,7 +833,11 @@ angenommen	annehmen
 </p>
 <p>
 §	§
-14,15angenommen	14,15angenommen
+14	14
+<g/>
+,
+15	15
+angenommen	annehmen
 </p>
 <p>
 §	§
@@ -862,8 +882,12 @@ mit	mit
 Gesetzantrag	Gesetzantrag
 dStaatsamtsfür	dStaatsamtsfür
 Justiz	Justiz
+angenommen	annehmen
 <g/>
-angenommen,"womit
+,
+<g/>
+"
+womit	womit
 <g/>
 "
 bis	bis
@@ -876,10 +900,13 @@ gestrichen	streichen
 </p>
 <p>
 §	§
-18,1	18,1
+18	18
 <g/>
 ,
-2mit	2mit
+1	1
+,	--
+2	2
+mit	mit
 Streichung	Streichung
 der	der
 Worte	Wort
@@ -917,7 +944,8 @@ angenommen	annehmen
 <g/>
 ,
 1	1
-angenommenstatt	annehmenstatt
+angenommen	annehmen
+statt	statt
 <g/>
 ,
 2	2
@@ -943,7 +971,8 @@ der	der
 21.	21.
 Zug	Zug
 nach	nach
-demZusammentritt	demZusammentritt
+dem	der
+Zusammentritt	Zusammentritt
 des	der
 Nationalrates	Nationalrat
 <g/>
@@ -1043,8 +1072,10 @@ abgelehnt	ablehnen
 </p>
 <p>
 §	§
-30.Z.	30.Z.
-1diebisherigen	1diebisherig
+30.	30.
+Z.	Z.
+1	1
+diebisherigen	diebisherig
 Landesregierungen	Landesregierung
 sind	sein
 die	der
@@ -1083,11 +1114,14 @@ Grund	Grund
 nach	nach
 dem	der
 Verhältnis	Verhältnis
-derihrerBürgerzahl	derihrerBürgerzahl
+der	der
+ihrer	ihr
+Bürgerzahl	Bürgerzahl
 aufgeteilt	aufteilen
 <g/>
 …
-.Absatz	.Absatz
+<g/>
+.Absatz
 2	2
 werden	werden
 sinngemäß	sinngemäß
@@ -1338,9 +1372,13 @@ Auf	auf
 dem	der
 Gebiete	Gebiet
 des	der
-Schul-,Erziehungsu	Schul-,Erziehungsu
-.	.
-Volksbildungswesens	Volksbildungswesen
+Schul-	Schul
+<g/>
+,
+Erziehungs	Erziehung
+u.	u.
+Volksbildungs	Volksbildung
+wesens	wesen
 wird	werden
 der	der
 Wirkungsbereich	Wirkungsbereich
@@ -1350,7 +1388,8 @@ und	und
 der	der
 Länder	Land
 durch	durch
-einbesonderes	einbesonderes
+ein	ein
+besonderes	besonderer
 Bundes-Verfassungsgesetz	Bundes-Verfassungsgesetz
 geregelt.§	geregelt.§
 24.	24.
@@ -1382,8 +1421,12 @@ einer	ein
 Bundesregierung	Bundesregierung
 gemäß	gemäß
 Artikel	Artikel
-60istdie	60istdie
-Staatsregierungdieerste	Staatsregierungdieerste
+60	60
+ist	sein
+die	der
+Staatsregierung	Staatsregierung
+die	der
+erste	erster
 Bundesregierung	Bundesregierung
 <g/>
 .
@@ -1395,8 +1438,10 @@ Beilage	Beilage
 13.	13.
 <g/>
 (
+2	2
 <g/>
-2)Personen
+)
+Personen	Person
 <g/>
 ,
 die	der
@@ -1407,10 +1452,12 @@ sind	sein
 ,
 ohne	ohne
 in	in
-einerGemeinde	einerGemeinde
+einer	ein
+Gemeinde	Gemeinde
 der	der
 Republik	Republik
-heimatberechtigtzu	heimatberechtigtzu
+heimatberechtigt	heimatberechtigt
+zu	zu
 sein	sein
 <g/>
 ,
@@ -1508,8 +1555,10 @@ Vermögen	Vermögen
 ist	sein
 Vermögen	Vermögen
 des	der
+Bundes	Bund
 <g/>
-Bundes;die
+;
+die	der
 endgültige	endgültig
 Auseinandersetzung	Auseinandersetzung
 über	über
@@ -1533,7 +1582,8 @@ Ländern	Land
 geregelt	regeln
 <g/>
 .
-Die	der
+D	D
+ie	ie
 Auseinandersetzung	Auseinandersetzung
 über	über
 dasjenige	dasjenige
@@ -1797,7 +1847,10 @@ Aemter	Aemter
 der	der
 bisherigen	bisherig
 autonomen	autonom
-VerwaltungderLänderwerden	VerwaltungderLänderwerden
+Verwaltung	Verwaltung
+der	der
+Länder	Land
+werden	werden
 Behörden	Behörde
 <g/>
 (
@@ -1912,8 +1965,11 @@ treten	treten
 Art	Art
 .	.
 924./IX	924./IX
-Dieallgemeinen	Dieallgemeiner
-technischenMassnahmenfür	technischenMassnahmenfür
+Die	der
+allgemeinen	allgemein
+technischen	technisch
+Massnahmen	Massnahme
+für	für
 diezweckmässige	diezweckmässig
 Nutzbarmachung	Nutzbarmachung
 der	der
@@ -1949,16 +2005,22 @@ Gebiete	Gebiet
 <g/>
 ,
 sowie	sowie
-dasStarkstromlegerechtsoweit	dasStarkstromlegerechtsoweit
+das	der
+Starkstrom	Starkstrom
+legerecht	legerecht
+soweit	soweit
 sich	sich
 die	der
 Leitungsanlage	Leitungsanlage
 auf	auf
 2	2
 oder	oder
-mehrere	mehrere
+me	me
+h	h
+rere	rer
 Länder	Land
-erstreckt.§	erstreckt.§
+erstreckt	erstrecken
+.§	.§
 8.	8.
 </p>
 <p>
@@ -2037,7 +2099,10 @@ Art	Art
 .	.
 10.	10.
 Punkt	Punkt
-12:Ernährungswesen	12:Ernährungswesen
+12	12
+<g/>
+:
+Ernährungswesen	Ernährungswesen
 einschl	einschl
 .	.
 Nahrungsmittelkontrolle	Nahrungsmittelkontrolle
@@ -2086,7 +2151,11 @@ Art	Art
 .	.
 12.	12.
 Punkt	Punkt
-7:VolkspflegestättenMutterschafts-	7:VolkspflegestättenMutterschafts-
+7	7
+<g/>
+:
+Volkspflegestätten	Volkspflegestätte
+Mutterschafts-	Mutterschafts
 Säuglings-	Säuglings
 und	und
 Jugendfürsorge	Jugendfürsorge
@@ -2105,7 +2174,7 @@ Kurortwesen	Kurortwesen
 Heilquellen	Heilquelle
 <g/>
 ,
-Leichen-	Leiche
+Leichen-	Leichen
 und	und
 Bestattungswesen	Bestattungswesen
 <g/>
@@ -2258,7 +2327,9 @@ Allgemeine	Allgemeine
 technische	technisch
 Maßnahmen	Maßnahme
 für	für
-diezweckmäßigeNutzbarmachung	diezweckmäßigeNutzbarmachung
+die	der
+zweckmäßige	zweckmäßig
+Nutzbarmachung	Nutzbarmachung
 der	der
 Wasserkräfte	Wasserkraft
 <g/>
@@ -2281,7 +2352,9 @@ Einrichtungen	Einrichtung
 <g/>
 ,
 ferner	ferner
-Sicherheitsmaßnahmenauf	Sicherheitsmaßnahmenauf
+Sicherheits	Sicherheits
+maßnahmen	maßnahme
+auf	auf
 diesem	dieser
 Gebiete	Gebiet
 <g/>
@@ -2464,15 +2537,18 @@ Geschäfte.§
 <p>
 <g/>
 (
+2	2
 <g/>
-2)Personen
+)
+Personen	Person
 <g/>
 ,
-dieineiner	dieineiner
+die	der
+ineiner	ineiner
 Gemeinde	Gemeinde
 der	der
 Republik	Republik
-heimatberechtigt	heimatberechtigt
+heimatberechtigt	heimatberechtigen
 <g/>
 ,
 werden	werden
@@ -2751,7 +2827,9 @@ Aemter	Aemter
 der	der
 bisherigen	bisherig
 autonomen	autonom
-VerwaltungderLänderwerden	VerwaltungderLänderwerden
+Verwaltung	Verwaltung
+der	der
+Länderwerden	Länderwerden
 Behörden	Behörde
 <g/>
 (

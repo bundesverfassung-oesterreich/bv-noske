@@ -27,38 +27,49 @@ Anwesend	Anwesend
 <g/>
 :
 </p>
+	
 Dr.	Dr.
-IgnazSeipelals	IgnazSeipelals
+Ignaz	Ignaz
+Seipel	Seipel
+als	als
 Vorsitzender	vorsitzend
 <g/>
 .
 Dr.	Dr.
-HeinrichClessinals	HeinrichClessinal
+Heinrich	Heinrich
+Clessin	Clessin
+als	als
 Berichterstatter	Berichterstatter
 <g/>
 .
 Dr.	Dr.
-JosefAigner	JosefAigner
+Josef	Josef
+Aigner	Aigner
 <g/>
 ,
 Dr.	Dr.
-RobertDanneberg	RobertDanneberg
+Robert	Robert
+Danneberg	Danneberg
 <g/>
 ,
 Dr.	Dr.
-ArnoldEisler	ArnoldEisler
+Arnold	Arnold
+Eisler	Eisler
 <g/>
 ,
-MatthiasEldersch	MatthiasEldersch
+Matthias	Matthias
+Eldersch	Eldersch
 <g/>
 ,
-JodokFink	JodokFink
+Jodok	Jodok
+Fink	Fink
 <g/>
 .
 Staatssekretär	Staatssekretär
 Prof.	Prof.
 Dr.	Dr.
-MichaelMayr	MichaelMayr
+Michael	Michael
+Mayr	Mayr
 <g/>
 .
 <p>
@@ -68,11 +79,13 @@ Staatskanzlei	Staatskanzlei
 <g/>
 :
 </p>
+	
 Min	Min
 .	.
 Rat	Rat
 Dr.	Dr.
-GeorgFroehlich	GeorgFroehlich
+Georg	Georg
+Froehlich	Froehlich
 <g/>
 ,
 Sekt	Sekt
@@ -80,25 +93,30 @@ Sekt	Sekt
 .
 Rat	Rat
 Dr.	Dr.
-EgbertMannlicher	EgbertMannlicher
+Egbert	Egbert
+Mannlicher	Mannlicher
 <g/>
 ,
 Oberfinanzrat	Oberfinanzrat
 Dr.	Dr.
-KarlMoser	KarlMoser
+Karl	Karl
+Moser	Moser
 <g/>
 ,
 Min	Min
 .	.
 Vizesekretär	Vizesekretär
 Dr.	Dr.
-AdolfMerklals	AdolfMerklal
+Adolf	Adolf
+Merkl	Merkl
+als	als
 Schriftführer	Schriftführer
 <g/>
 .
 Prof.	Prof.
 Dr.	Dr.
-HansKelsen	HansKelsen
+Hans	Hans
+Kelsen	Kelsen
 <g/>
 ,
 als	als
@@ -108,7 +126,9 @@ Verfassungsausschusses	Verfassungsausschuß
 <g/>
 .
 <p>
-DerVorsitzendestellt	DerVorsitzendestellt
+Der	der
+Vorsitzende	vorsitzend
+stellt	stellen
 einleitend	einleitend
 fest	fest
 <g/>
@@ -139,9 +159,10 @@ noch	noch
 ausstehe	ausstehen
 <g/>
 .
-StaatssekretärDr	StaatssekretärDr
-.	.
-Mayrteilt	Mayrteilt
+Staatssekretär	Staatssekretär
+Dr.	Dr.
+Mayr	Mayr
+teilt	teilen
 mit	mit
 <g/>
 ,
@@ -183,7 +204,8 @@ verteilt	verteilen
 <g/>
 .
 Dr.	Dr.
-Dannebergbeantragt	Dannebergbeantragen
+Danneberg	Danneberg
+beantragt	beantragen
 <g/>
 ,
 den	der
@@ -209,7 +231,9 @@ Angenommen	Annehmen
 <p>
 Hierauf	hierauf
 leitet	leiten
-derBerichterstatterdie	derBerichterstatterdie
+der	der
+Berichterstatter	Berichterstatter
+die	der
 Debatte	Debatte
 zu	zu
 Pkt.	Pkt.
@@ -221,7 +245,8 @@ Art	Art
 ein	ein
 <g/>
 .
-Finkbeantragt	Finkbeantragt
+Fink	Fink
+beantragt	beantragen
 <g/>
 ,
 den	der
@@ -269,7 +294,9 @@ Vertragsversicherungswesen	Vertragsversicherungswesen
 “
 </p>
 <p>
-Elderschbeantragt	Elderschbeantragt
+	
+Eldersch	Eldersch
+beantragt	beantragen
 <g/>
 ,
 die	der
@@ -325,7 +352,8 @@ sein	sein
 müsse	müssen
 <g/>
 .
-Finkhält	Finkhält
+Fink	Fink
+hält	halten
 hingegen	hingegen
 eine	ein
 länderweise	länderweise
@@ -364,7 +392,11 @@ lege	legen
 Auf	auf
 eine	ein
 Anfrage	Anfrage
-desVorsitzendengibtElderschdie	desVorsitzendengibtElderschdie
+des	der
+Vorsitzenden	vorsitzend
+gibt	geben
+Eldersch	Eldersch
+die	der
 Erklärung	Erklärung
 ab	ab
 <g/>
@@ -399,9 +431,10 @@ aussprechen	aussprechen
 müsse	müssen
 <g/>
 .
-StaatssekretarDr	StaatssekretarDr
-.	.
-Mayrverweist	Mayrverweist
+Staatssekretar	Staatssekretar
+Dr.	Dr.
+Mayr	Mayr
+verweist	verweisen
 darauf	darauf
 <g/>
 ,
@@ -474,7 +507,9 @@ Ländern	Land
 übertrage	übertragen
 <g/>
 .
-DerBerichterstattergibt	DerBerichterstattergibt
+Der	der
+Berichterstatter	Berichterstatter
+gibt	geben
 der	der
 Meinung	Meinung
 Ausdruck	Ausdruck
@@ -524,9 +559,10 @@ Pkt.	Pkt.
 beschlossen	beschließen
 <g/>
 .
-StaatssekretärDr	StaatssekretärDr
-.	.
-Mayrerklärt	Mayrerklärt
+Staatssekretär	Staatssekretär
+Dr.	Dr.
+Mayr	Mayr
+erklärt	erklären
 <g/>
 ,
 die	der
@@ -547,7 +583,9 @@ einzuladen	einladen
 .
 </p>
 <p>
-DerBerichterstatterleitet	DerBerichterstatterleitet
+Der	der
+Berichterstatter	Berichterstatter
+leitet	leiten
 nunmehr	nunmehr
 die	der
 Debatte	Debatte
@@ -561,7 +599,10 @@ Art	Art
 ein	ein
 <g/>
 .
-ElderschundDannebergbeantragten	ElderschundDannebergbeantragten
+Eldersch	Eldersch
+und	und
+Danneberg	Danneberg
+beantragten	beantragen
 an	an
 die	der
 Stelle	Stelle
@@ -727,8 +768,12 @@ Art	Art
 "
 nach	nach
 Punkt	Punkt
+8	8
 <g/>
-8:„das
+:
+<g/>
+„
+das	der
 Privatschulwesen	Privatschulwesen
 und	und
 der	der
@@ -786,7 +831,9 @@ Stiftungswesen	Stiftungswesen
 “
 </p>
 <p>
-Finkersucht	Finkersucht
+	
+Fink	Fink
+ersucht	ersuchen
 um	um
 Vervielfältigung	Vervielfältigung
 dieser	dieser
@@ -829,7 +876,9 @@ Angenommen	Angenommen
 .
 </p>
 <p>
-Elderschmacht	Elderschmacht
+	
+Eldersch	Eldersch
+macht	machen
 in	in
 diesem	dieser
 Zusammenhange	Zusammenhang
@@ -878,9 +927,10 @@ zu	zu
 beantragen	beantragen
 <g/>
 .
-StaatssekretärDr	StaatssekretärDr
-.	.
-Mayrbemerkt	Mayrbemerkt
+Staatssekretär	Staatssekretär
+Dr.	Dr.
+Mayr	Mayr
+bemerkt	bemerken
 <g/>
 ,
 daß	daß
@@ -908,8 +958,10 @@ ziehen	ziehen
 <g/>
 ,
 daß	daß
-einezentrale	einezentral
-Behandlungdes	Behandlungd
+eine	ein
+zentrale	zentral
+Behandlung	Behandlung
+des	der
 Kultuswesens	Kultuswesen
 schon	schon
 wegen	wegen
@@ -934,7 +986,7 @@ für	für
 die	der
 Beibehaltung	Beibehaltung
 des	der
-Passus	Passus
+Passus	Passu
 über	über
 den	der
 Kultus	Kultus
@@ -946,7 +998,9 @@ gegenwärtige	gegenwärtig
 Rechtslage	Rechtslage
 <g/>
 ,
-wogegenElderschbemerkt	wogegenElderschbemerkt
+wogegen	wogegen
+Eldersch	Eldersch
+bemerkt	bemerken
 <g/>
 ,
 daß	daß
@@ -1040,9 +1094,11 @@ erhoben	erheben
 <g/>
 .
 Min.-Rat	Min.-Rat
-.	.
+<g/>
+.
 Dr.	Dr.
-Froehlichmacht	Froehlichmacht
+Froehlich	Froehlich
+macht	machen
 aufmerksam	aufmerksam
 <g/>
 ,
@@ -1094,8 +1150,10 @@ einzureihen	einreihen
 .
 </p>
 <p>
-DerBerichterstatter	DerBerichterstatter
-eröffnet	eröffnen
+Der	der
+Berichterstatter	Berichterstatter
+erö	erö
+ffnet	ffnen
 die	der
 Debatte	Debatte
 über	über
@@ -1127,16 +1185,18 @@ Sekt	Sekt
 <g/>
 .
 Rat	Rat
-.	.
+.	--
 Dr.	Dr.
-Mannlichermacht	Mannlichermacht
+Mannlicher	Mannlicher
+macht	machen
 auf	auf
 Einladung	Einladung
 des	der
 Herrn	Herr
-StaatssekretärsDr	StaatssekretärsDr
-.	.
-Mayrdie	Mayrdie
+Staatssekretärs	Staatssekretär
+Dr.	Dr.
+Mayr	Mayr
+die	der
 Mitteilung	Mitteilung
 <g/>
 ,
@@ -1277,15 +1337,22 @@ gefaßt	fassen
 .
 </p>
 <p>
-DerBerichterstattereröffnet	DerBerichterstattereröffnet
+Der	der
+Berichterstatter	Berichterstatter
+eröffnet	eröffnen
 auf	auf
 Ersuchen	ersuchen
-desVorsitzendendie	desVorsitzendendie
+des	der
+Vorsitzenden	vorsitzend
+die	der
 Debatte	Debatte
 über	über
 den	der
 Artikel	Artikel
-11.Finkbeantragt	11.Finkbeantragt
+<g/>
+11.
+Fink	Fink
+beantragt	beantragen
 Beibehaltung	Beibehaltung
 des	der
 Einganges	Eingang
@@ -1309,14 +1376,18 @@ Standpunkte	Standpunkt
 stünden	stehen
 <g/>
 ,
-daßsiedie	daßsiedie
+daß	daß
+sie	sie
+die	der
 Kompetenzen	Kompetenz
 dem	der
 Bunde	Bund
 übertragen	übertragen
 <g/>
 .
-DerVorsitzendeerinnert	DerVorsitzendeerinnert
+Der	der
+Vorsitzende	vorsitzend
+erinnert	erinnern
 daran	daran
 <g/>
 ,
@@ -1338,10 +1409,10 @@ stellt	stellen
 jedoch	jedoch
 nach	nach
 neuerlicher	neuerlich
-StellungnahmeFink	StellungnahmeFink
-<g/>
-’
-sfest	sfest
+Stellungnahme	Stellungnahme
+Fink	Fink
+’s	’s
+fest	fest
 <g/>
 ,
 daß	daß
@@ -1359,7 +1430,8 @@ beharre	beharren
 <g/>
 .
 Dr.	Dr.
-Danneberglehnt	Danneberglehnt
+Danneberg	Danneberg
+lehnt	lehnen
 eine	ein
 deratige	deratig
 Formulierung	Formulierung
@@ -1484,7 +1556,8 @@ Heimatrecht	Heimatrecht
 <g/>
 )
 konstatiert	konstatieren
-derBerichterstatter	derBerichterstatter
+der	der
+Berichterstatter	Berichterstatter
 <g/>
 ,
 daß	daß
@@ -1551,8 +1624,10 @@ Art	Art
 soll	sollen
 nach	nach
 einem	ein
-AntrageDris	AntrageDris
-Dannebergfolgendermaßen	Dannebergfolgendermaßen
+Antrage	Antrag
+Dris	Dris
+Danneberg	Danneberg
+folgendermaßen	folgendermaßen
 lauten	lauten
 <g/>
 :
@@ -1565,10 +1640,14 @@ Artikel	Artikel
 10	10
 angeführten	angeführt
 beruflichen	beruflich
+Vertretungen	Vertretung
 <g/>
-Vertretungen“.Dr
-.	.
-Aignererklärt	Aignererklären
+“
+<g/>
+.
+Dr.	Dr.
+Aigner	Aigner
+erklärt	erklären
 sich	sich
 mit	mit
 dieser	dieser
@@ -1601,14 +1680,18 @@ Gebiete	Gebiet
 <g/>
 .
 Der	der
-AntragDris	AntragDris
-Dannebergwird	Dannebergwird
+Antrag	Antrag
+Dris	Dris
+Danneberg	Danneberg
+wird	werden
 angenommen	annehmen
 <g/>
 ,
 der	der
-AntragDris	AntragDris
-Aignerabgelehnt	Aignerabgelehnt
+Antrag	Antrag
+Dris	Dris
+Aigner	Aigner
+abgelehnt	ablehnen
 und	und
 letzterer	letzterer
 Antrag	Antrag
@@ -1623,7 +1706,9 @@ Zu	zu
 Punkt	Punkt
 4	4
 stellt	stellen
-derBerichterstatterfest	derBerichterstatterfest
+der	der
+Berichterstatter	Berichterstatter
+fest	fest
 <g/>
 ,
 daß	daß
@@ -1763,9 +1848,10 @@ Zu	zu
 Punkt	Punkt
 9	9
 beantragt	beantragen
-StaatssekretärDr	StaatssekretärDr
-.	.
-Mayrden	Mayrden
+Staatssekretär	Staatssekretär
+Dr.	Dr.
+Mayr	Mayr
+den	der
 einschränkenden	einschränkend
 Zusatz	Zusatz
 <g/>
@@ -1853,7 +1939,9 @@ Elektrizitätswesens	Elektrizitätswesen
 <g/>
 “
 beantragt	beantragen
-derBerichterstatterBeibehaltung	derBerichterstatterBeibehaltung
+der	der
+Berichterstatter	Berichterstatter
+Beibehaltung	Beibehaltung
 als	als
 Punkt	Punkt
 10	10
@@ -1891,7 +1979,9 @@ Zu	zu
 Punkt	Punkt
 11	11
 beantragt	beantragen
-derBerichterstatterBeibehaltung	derBerichterstatterBeibehaltung
+der	der
+Berichterstatter	Berichterstatter
+Beibehaltung	Beibehaltung
 des	der
 <g/>
 "
@@ -1973,9 +2063,10 @@ des	der
 Art	Art
 .	.
 11	11
-beantragtDr	beantragtDr
-.	.
-Dannebergdie	Dannebergdie
+beantragt	beantragen
+Dr.	Dr.
+Danneberg	Danneberg
+die	der
 Formulierung	Formulierung
 gemäß	gemäß
 dem	der
@@ -2037,9 +2128,10 @@ Zu	zu
 Absatz	Absatz
 3	3
 beantragt	beantragen
-StaatssekretärDr	StaatssekretärDr
-.	.
-Mayrdie	Mayrdie
+Staatssekretär	Staatssekretär
+Dr.	Dr.
+Mayr	Mayr
+die	der
 Aufnahme	Aufnahme
 dieser	dieser
 Bestimmung	Bestimmung
@@ -2058,9 +2150,10 @@ Antrag	Antrag
 wird	werden
 mit	mit
 der	der
-vonDr	vonDr
-.	.
-Dannebergbeantragten	Dannebergbeantragt
+von	von
+Dr.	Dr.
+Danneberg	Danneberg
+beantragten	beantragt
 Modifikation	Modifikation
 angenommen	annehmen
 <g/>
@@ -2083,11 +2176,12 @@ Art	Art
 12	12
 angereiht	anreihen
 werden	werden
-<g/>
-sol1.
+sol1.	sol1.
 </p>
 <p>
-DerBerichterstattereröffnet	DerBerichterstattereröffnet
+Der	der
+Berichterstatter	Berichterstatter
+eröffnet	eröffnen
 die	der
 Debatte	Debatte
 über	über
@@ -2157,9 +2251,10 @@ dieser	dieser
 Bestimmung	Bestimmung
 <g/>
 .
-StaatssekretärDr	StaatssekretärDr
-.	.
-Mayrbemerkt	Mayrbemerkt
+Staatssekretär	Staatssekretär
+Dr.	Dr.
+Mayr	Mayr
+bemerkt	bemerken
 <g/>
 ,
 daß	daß
@@ -2182,17 +2277,20 @@ von	von
 Sekt	Sekt
 <g/>
 .
-RatDr	RatDr
-.	.
-Mannlicherund	Mannlicherund
-ProfessorDr	ProfessorDr
-.	.
-Kelsenausgeführt	Kelsenausgeführt
+Rat	Rat
+Dr.	Dr.
+Mannlicher	Mannlicher
+und	und
+Professor	Professor
+Dr.	Dr.
+Kelsen	Kelsen
+ausgeführt	ausführen
 <g/>
 .
-SektionsratDr	SektionsratDr
-.	.
-Mannlicherverweist	Mannlicherverweist
+Sektionsrat	Sektionsrat
+Dr.	Dr.
+Mannlicher	Mannlicher
+verweist	verweisen
 darauf	darauf
 <g/>
 ,
@@ -2203,7 +2301,8 @@ materiellen	materiell
 Verwaltungsgesetze	Verwaltungsgesetz
 mit	mit
 einem	ein
-bestimmtengegebenen	bestimmtengegeben
+bestimmten	bestimmt
+gegebenen	gegeben
 Behördenorganismus	Behördenorganismus
 rechnen	rechnen
 <g/>
@@ -2219,7 +2318,8 @@ könnte	können
 <g/>
 .
 Professor	Professor
-Kelsenbetont	Kelsenbetont
+Kelsen	Kelsen
+betont	betonen
 <g/>
 ,
 daß	daß
@@ -2264,7 +2364,9 @@ werden	werden
 könnte	können
 <g/>
 .
-DerBerichterstatterbeantragt	DerBerichterstatterbeantragt
+Der	der
+Berichterstatter	Berichterstatter
+beantragt	beantragen
 in	in
 diesem	dieser
 Zusammenhang	Zusammenhang
@@ -2290,9 +2392,9 @@ diesen	dieser
 Antrag	Antrag
 nach	nach
 der	der
-FeststellungFink	FeststellungFink
-<g/>
-’s
+Feststellung	Feststellung
+Fink	Fink
+’s	’s
 <g/>
 ,
 daß	daß
@@ -2402,14 +2504,17 @@ erhoben	erheben
 <g/>
 .
 Professor	Professor
-Kelsengibt	Kelsengibt
+Kelsen	Kelsen
+gibt	geben
 in	in
 diesem	dieser
 Zusammenhang	Zusammenhang
 auf	auf
 eine	ein
-AnfrageDris	AnfrageDris
-Dannebergdie	Dannebergdie
+Anfrage	Anfrage
+Dris	Dris
+Danneberg	Danneberg
+die	der
 Aufklärung	Aufklärung
 <g/>
 ,
@@ -2432,7 +2537,9 @@ Ausführungsgesetz	Ausführungsgesetz
 in	in
 der	der
 betreffenden	betreffend
-Materieausschließenkann	Materieausschließenkann
+Materie	Materie
+ausschließen	ausschließen
+kann	können
 <g/>
 ,
 indem	indem
@@ -2566,7 +2673,9 @@ Minoritätsvotum	Minoritätsvotum
 angemeldet	anmelden
 <g/>
 .
-DerBerichterstatterbeantragt	DerBerichterstatterbeantragt
+Der	der
+Berichterstatter	Berichterstatter
+beantragt	beantragen
 ferner	ferner
 zu	zu
 Punkt	Punkt
@@ -2611,8 +2720,10 @@ Angenommen	Annehmen
 .
 Gemäß	Gemäß
 einem	ein
-AntrageDris	AntrageDris
-Dannebergwird	Dannebergwird
+Antrage	Antrag
+Dris	Dris
+Danneberg	Danneberg
+wird	werden
 ferner	ferner
 im	in
 Punkt	Punkt
@@ -2622,7 +2733,7 @@ Ausnahme	Ausnahme
 der	der
 Forst-	Forst
 und	und
-Weideservituten	Weideservitut
+Weideservituten	Weideservitute
 gestrichen	streichen
 <g/>
 .
@@ -2636,7 +2747,9 @@ Minoritäsvotum	Minoritäsvotum
 .
 </p>
 <p>
-DerBerichterstatterbeantragt	DerBerichterstatterbeantragt
+Der	der
+Berichterstatter	Berichterstatter
+beantragt	beantragen
 die	der
 Grundsätze	Grundsatz
 des	der
@@ -2676,8 +2789,10 @@ sei	sein
 <g/>
 .
 Der	der
-AntragDris	AntragDris
-Clessinwird	Clessinwird
+Antrag	Antrag
+Dris	Dris
+Clessin	Clessin
+wird	werden
 angenommen	annehmen
 <g/>
 .

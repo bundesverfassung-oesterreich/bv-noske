@@ -25,17 +25,32 @@ Anwesend	Anwesend
 <g/>
 :
 </p>
+	
 Dr.	Dr.
-OttoBauerals	OttoBaueral
-VorsitzenderHeinrichClessinals	VorsitzenderHeinrichClessinals
-BerichterstatterJodokFinkAbramDr	BerichterstatterJodokFinkAbramDr
-.	.
-RobertDannebergKarlLeuthnerDr	RobertDannebergKarlLeuthnerDr
-.	.
-IgnazSeipelStaatssekretär	IgnazSeipelStaatssekretär
+Otto	Otto
+Bauer	Bauer
+als	als
+Vorsitzender	vorsitzend
+Heinrich	Heinrich
+Clessin	Clessin
+als	als
+Berichterstatter	Berichterstatter
+Jodok	Jodok
+Fink	Fink
+Abram	Abram
+Dr.	Dr.
+Robert	Robert
+Danneberg	Danneberg
+Karl	Karl
+Leuthner	Leuthner
+Dr.	Dr.
+Ignaz	Ignaz
+Seipel	Seipel
+Staatssekretär	Staatssekretär
 Prof.	Prof.
 Dr.	Dr.
-MichaelMayr	MichaelMayr
+Michael	Michael
+Mayr	Mayr
 <g/>
 .
 <p>
@@ -45,17 +60,26 @@ Staatskanzlei	Staatskanzlei
 <g/>
 :
 </p>
+	
 Ministerialrat	Ministerialrat
 Dr.	Dr.
-GeorgFroehlichSektionsrat	GeorgFroehlichSektionsrat
+Georg	Georg
+Froehlich	Froehlich
+Sektionsrat	Sektionsrat
 Dr.	Dr.
-EgbertMannlicherMinisterialvizesekretär	EgbertMannlicherMinisterialvizesekretär
+Egbert	Egbert
+Mannlicher	Mannlicher
+Ministerialvizesekretär	Ministerialvizesekretär
 Dr.	Dr.
-KurtFriebergerals	KurtFriebergeral
-SchriftführerProf	SchriftführerProf
-.	.
+Kurt	Kurt
+Frieberger	Frieberger
+als	als
+Schriftführer	Schriftführer
+Prof.	Prof.
 Dr.	Dr.
-HansKelsenals	HansKelsenal
+Hans	Hans
+Kelsen	Kelsen
+als	als
 Experte	Experte
 des	der
 Verfassungsausschusses	Verfassungsausschuß
@@ -67,7 +91,9 @@ Eröffnung	Eröffnung
 der	der
 Sitzung	Sitzung
 stellt	stellen
-BerichterstatterClessinfest	BerichterstatterClessinfest
+Berichterstatter	Berichterstatter
+Clessin	Clessin
+fest	fest
 <g/>
 ,
 daß	daß
@@ -117,7 +143,9 @@ Kraftmaschinenwesen	Kraftmaschinenwesen
 Hierauf	hierauf
 eröffnet	eröffnen
 Dr.	Dr.
-OttoBauerdie	OttoBauerdie
+Otto	Otto
+Bauer	Bauer
+die	der
 Beratung	Beratung
 über	über
 den	der
@@ -131,7 +159,8 @@ Vorentwurfes	Vorentwurf
 <g/>
 .
 Dr.	Dr.
-Dannebergbeantragt	Dannebergbeantragen
+Danneberg	Danneberg
+beantragt	beantragen
 nach	nach
 Annahme	Annahme
 des	der
@@ -181,7 +210,9 @@ Bund	Bund
 "
 </p>
 <p>
-ProfessorKelsenerklärt	ProfessorKelsenerklärt
+Professor	Professor
+Kelsen	Kelsen
+erklärt	erklären
 die	der
 Aufnahme	Aufnahme
 dieser	dieser
@@ -240,7 +271,8 @@ treffen	treffen
 </p>
 <p>
 Dr.	Dr.
-Seipelrichtet	Seipelrichtet
+Seipel	Seipel
+richtet	richten
 an	an
 die	der
 Vertreter	Vertreter
@@ -310,7 +342,8 @@ usw.
 </p>
 <p>
 Dr.	Dr.
-Bauerfindet	Bauerfindet
+Bauer	Bauer
+findet	finden
 <g/>
 ,
 daß	daß
@@ -336,7 +369,9 @@ novellieren	novellieren
 .
 </p>
 <p>
-Kelsenerklärt	Kelsenerklären
+	
+Kelsen	Kelsen
+erklärt	erklären
 <g/>
 ,
 daß	daß
@@ -398,6 +433,7 @@ werden	werden
 :
 </p>
 <p>
+	
 <g/>
 „
 Soferne	Soferne
@@ -477,7 +513,9 @@ Absätze	Absatz
 und	und
 4	4
 behält	behalten
-derVorsitzendefür	derVorsitzendefür
+der	der
+Vorsitzende	vorsitzend
+für	für
 das	der
 nächste	nächster
 Mal	Mal
@@ -492,7 +530,8 @@ Abs.	Abs.
 in	in
 den	der
 Dr.	Dr.
-Dannebergeine	Dannebergeine
+Danneberg	Danneberg
+eine	ein
 Fristbestimmung	Fristbestimmung
 aufzunehmen	aufnehmen
 wünscht	wünschen
@@ -524,6 +563,7 @@ angenommen	annehmen
 :
 </p>
 <p>
+	
 <g/>
 „
 Das	der
@@ -585,7 +625,9 @@ Bundessache	Bundessache
 </p>
 <p>
 Bei	bei
-Verlesung	Verlesung
+Verl	Verl
+e	e
+sung	sung
 des	der
 Abs.	Abs.
 5	5
@@ -647,12 +689,15 @@ der	der
 folgenden	folgend
 Wechselrede	Wechselrede
 findet	finden
-derVorsitzendenach	derVorsitzendenach
+der	der
+Vorsitzende	vorsitzend
+nach	nach
 einer	ein
 Erläuterung	Erläuterung
 Prof.	Prof.
 Dr.	Dr.
-Kelsens	Kelsen
+Kelsen	Kelsen
+s	
 <g/>
 ,
 dass	dass
@@ -664,14 +709,18 @@ gewählt	wählen
 seien	sein
 <g/>
 .
-DerBerichterstatterfindet	DerBerichterstatterfindet
+Der	der
+Berichterstatter	Berichterstatter
+findet	finden
 die	der
 Auf	auf
-zählung	zählung
+zählung	Zählung
 bedenklich	bedenklich
 <g/>
 .
-AbgeordneterFinkerblickt	AbgeordneterFinkerblickt
+Abgeordneter	abgeordneter
+Fink	Fink
+erblickt	erblicken
 in	in
 dieser	dieser
 </p>
@@ -703,7 +752,8 @@ müßte	müssen
 <p>
 Staatssekretär	Staatssekretär
 Dr.	Dr.
-Mayrerklärt	Mayrerklärt
+Mayr	Mayr
+erklärt	erklären
 <g/>
 ,
 keinen	kein
@@ -717,7 +767,8 @@ zu	zu
 legen	legen
 und	und
 Dr.	Dr.
-Seipelschlägt	Seipelschlägt
+Seipel	Seipel
+schlägt	schlagen
 vor	vor
 <g/>
 ,
@@ -742,11 +793,13 @@ aufnimmt	aufnehmen
 .
 </p>
 <p>
+	
 Der	der
 Schlußsatz	Schlußsatz
 des	der
 Abs.	Abs.
-5ist	5ist
+5	5
+ist	sein
 sohin	sohin
 von	von
 <g/>
@@ -795,7 +848,9 @@ Landesrecht	Landesrecht
 “
 </p>
 <p>
-ProfessorKelsenfindet	ProfessorKelsenfindet
+Professor	Professor
+Kelsen	Kelsen
+findet	finden
 die	der
 Worte	Wort
 <g/>
@@ -814,7 +869,9 @@ hält	halten
 es	es
 ebenso	ebenso
 wie	wie
-derBerichterstatterfür	derBerichterstatterfür
+der	der
+Berichterstatter	Berichterstatter
+für	für
 besser	gut
 <g/>
 ,
@@ -826,7 +883,9 @@ wegzulassen	weglassen
 .
 </p>
 <p>
-DerVorsitzendeverweist	DerVorsitzendeverweist
+Der	der
+Vorsitzende	vorsitzend
+verweist	verweisen
 auf	auf
 mögliche	möglich
 Schwierigkeiten	Schwierigkeit
@@ -882,7 +941,9 @@ gewesen	sein
 .
 </p>
 <p>
-Kelsenerwähnt	Kelsenerwähnt
+	
+Kelsen	Kelsen
+erwähnt	erwähnen
 <g/>
 ,
 daß	daß
@@ -946,7 +1007,9 @@ sei	sein
 .
 </p>
 <p>
-DerVorsitzendelehnt	DerVorsitzendelehnen
+Der	der
+Vorsitzende	vorsitzend
+lehnt	lehnen
 die	der
 Streichung	Streichung
 ab	ab
@@ -1021,7 +1084,8 @@ vorgeht	vorgehen
 </p>
 <p>
 Dr.	Dr.
-Seipellehnt	Seipellehnt
+Seipel	Seipel
+lehnt	lehnen
 die	der
 Aufnahme	Aufnahme
 eines	ein
@@ -1035,7 +1099,9 @@ ab	ab
 <g/>
 ,
 während	während
-AbgeordneterAbrameinen	AbgeordneterAbrameinen
+Abgeordneter	abgeordneter
+Abram	Abram
+einen	ein
 solchen	solcher
 Fingerzeig	Fingerzeig
 für	für
@@ -1048,7 +1114,8 @@ erachtet	erachten
 ,
 Professor	Professor
 Dr.	Dr.
-Kelsenhält	Kelsenhält
+Kelsen	Kelsen
+hält	halten
 eine	ein
 Abgrenzung	Abgrenzung
 ohne	ohne
@@ -1069,7 +1136,8 @@ dieser	dieser
 Absatz	Absatz
 zunächst	zunächst
 zurückgestellt	zurückstellen
-unddie	unddie
+und	und
+die	der
 Einreihung	Einreihung
 eines	ein
 entsprechenden	entsprechend
@@ -1113,10 +1181,12 @@ Seipel	Seipel
 ,
 Ministerialrat	Ministerialrat
 Dr.	Dr.
-Froehlichund	Froehlichund
+Froehlich	Froehlich
+und	und
 Professor	Professor
 Dr.	Dr.
-Kelsenbeteiligen	Kelsenbeteiligen
+Kelsen	Kelsen
+beteiligen	beteiligen
 <g/>
 ,
 wird	werden
@@ -1127,10 +1197,12 @@ Berichterstatters	Berichterstatter
 die	der
 Abstimmung	Abstimmung
 über	über
-Absatz2	Absatz2
+Absatz	Absatz
+2	2
 des	der
 Artikels	Artikel
-11reassumiert	11reassumieren
+11	11
+reassumiert	reassumieren
 <g/>
 ;
 während	während
@@ -1144,7 +1216,8 @@ und	und
 ein	ein
 Minoritätsvotum	Minoritätsvotum
 Dr.	Dr.
-Dannebergsangemeldet	Dannebergsangemeldet
+Dannebergs	Danneberg
+angemeldet	anmelden
 war	sein
 <g/>
 ,
@@ -1156,6 +1229,7 @@ der	der
 Fassung	Fassung
 </p>
 <p>
+	
 <g/>
 „
 Die	der
@@ -1216,6 +1290,7 @@ angenommen	annehmen
 :
 </p>
 <p>
+	
 <g/>
 „
 In	in
@@ -1299,13 +1374,16 @@ sei	sein
 ,
 während	während
 Dr.	Dr.
-Dannebergfür	Dannebergfür
+Danneberg	Danneberg
+für	für
 die	der
 Beibehaltung	Beibehaltung
 ist	sein
 <g/>
 .
-AuchProfessorKelsenfindet	AuchProfessorKelsenfindet
+AuchProfessor	AuchProfessor
+Kelsen	Kelsen
+findet	finden
 im	in
 Fall	Fall
 der	der
@@ -1378,22 +1456,25 @@ Debatte	Debatte
 an	an
 der	der
 sich	sich
-derVorsitzende	derVorsitzende
+der	der
+Vorsitzende	vorsitzend
 <g/>
 ,
 Dr.	Dr.
-Seipelund	Seipelund
+Seipel	Seipel
+und	und
 Sekt	Sekt
 <g/>
 .
 Rat	Rat
 Dr.	Dr.
-Mannlicherbeteiligen	Mannlicherbeteiligen
+Mannlicher	Mannlicher
+beteiligen	beteiligen
 <g/>
 ,
 wird	werden
-derAbs	derAbs
-.	.
+der	der
+Abs.	Abs.
 2	2
 des	der
 Art	Art
@@ -1406,25 +1487,35 @@ weil	weil
 der	der
 Inhalt	Inhalt
 sowohl	sowohl
-vonchristlichsozialerals	vonchristlichsozialerals
-auchsozialdemokratischerSeite	auchsozialdemokratischerSeite
+von	von
+christlichsozialer	christlichsozial
+als	als
+auch	auch
+sozialdemokratischer	sozialdemokratisch
+Seite	Seite
 als	als
 selbstverständlich	selbstverständlich
 erklärt	erklären
 werden	werden
 <g/>
 ,
-der3.	der3.
+der	der
+3.	3.
 Absatz	Absatz
-wirdangenommen	werdangenommenen
+wird	werden
+angenommen	annehmen
 <g/>
 .
 </p>
 <p>
-DerVorsitzendeerteilt	DerVorsitzendeerteiln
+Der	der
+Vorsitzende	vorsitzend
+erteilt	erteilen
 hierauf	hierauf
 dem	der
-BerichterstatterFinkdas	BerichterstatterFinkdas
+Berichterstatter	Berichterstatter
+Fink	Fink
+das	der
 Wort	Wort
 zur	zu
 Besprechung	Besprechung
@@ -1441,7 +1532,9 @@ Bundes	Bund
 handelt	handeln
 <g/>
 .
-AbgeordneterFinkerklärt	AbgeordneterFinkerklärt
+Abgeordneter	abgeordneter
+Fink	Fink
+erklärt	erklären
 <g/>
 ,
 dass	dass
@@ -1475,7 +1568,8 @@ vorhandenen	vorhanden
 Unterschiede	Unterschied
 hebt	heben
 Dr.	Dr.
-Dannebergbesonders	Dannebergbesonders
+Danneberg	Danneberg
+besonders	besonders
 hervor	hervor
 <g/>
 ,
@@ -1564,7 +1658,8 @@ Kammer	Kammer
 Abg	Abg
 <g/>
 .
-Clessinbringt	Clessinbringt
+Clessin	Clessin
+bringt	bringen
 den	der
 großdeutschen	großdeutsch
 Standpunkt	Standpunkt
@@ -1669,7 +1764,9 @@ worden	werden
 .
 Ihm	ihm
 entgegnet	entgegnen
-AbgeordneterAbrammit	AbgeordneterAbrammit
+Abgeordneter	abgeordneter
+Abram	Abram
+mit	mit
 dem	der
 Hinweis	Hinweis
 auf	auf
@@ -1700,7 +1797,9 @@ Leuthner	Leuthner
 <g/>
 ,
 dem	der
-derVorsitzendebeipflichtet	derVorsitzendebeipflichtet
+der	der
+Vorsitzende	vorsitzend
+beipflichtet	beipflichten
 <g/>
 ,
 der	der
@@ -1725,7 +1824,8 @@ längeren	lang
 Auseinandersetzung	Auseinandersetzung
 mit	mit
 Dr.	Dr.
-Seipelfeststellt	Seipelfeststellt
+Seipel	Seipel
+feststellt	feststellen
 <g/>
 ,
 dass	dass
@@ -1735,14 +1835,17 @@ Entwurfe	Entwurf
 Nr.	Nr.
 888	888
 der	der
-Beil.prinzipiell	Beil.prinzipiell
+Beil	Beil
+.	.
+prinzipiell	prinzipiell
 jeder	jeder
 Gesetzesbeschluss	Gesetzesbeschluss
 die	der
 Zustimmung	Zustimmung
 des	der
 Bundesrates	Bundesrat
-erhalten	erhalten
+er	er
+halten	halten
 muß	müssen
 <g/>
 (
@@ -1765,7 +1868,8 @@ Antrages	Antrag
 des	der
 Abg	Abg
 .	.
-Abramdiese	Abramdieser
+Abram	Abram
+diese	dieser
 Zustimmung	Zustimmung
 befristet	befristen
 werden	werden
@@ -1773,7 +1877,8 @@ müsse	müssen
 <g/>
 .
 Der	der
-Ausschußstimmt	Ausschußstimmt
+Ausschuß	Ausschuß
+stimmt	stimmen
 dahin	dahin
 überein	überein
 <g/>
@@ -1831,7 +1936,8 @@ Bundestagsbeschlusses	Bundestagsbeschluß
 abgelehnt	ablehnen
 <g/>
 ,
-die	der
+d	d
+ie	ie
 einfache	einfach
 Mehrheit	Mehrheit
 genügt	genügen
@@ -1858,7 +1964,8 @@ erzielen	erzielen
 ;
 Abg	Abg
 .	.
-Finkwill	Finkwill
+Fink	Fink
+will	wollen
 für	für
 Staatsverträge	Staatsvertrag
 eine	ein
@@ -1904,7 +2011,8 @@ Froehlich	Froehlich
 <g/>
 ,
 Sekt	Sekt
-.	.
+<g/>
+.
 Rat	Rat
 Dr.	Dr.
 Mannlicher	Mannlicher
@@ -1915,9 +2023,11 @@ Danneberg	Danneberg
 <g/>
 ,
 Prof.	Prof.
-Kelsenund	Kelsenund
+Kelsen	Kelsen
+und	und
 Dr.	Dr.
-Seipelbeteiligen	Seipelbeteiligen
+Seipel	Seipel
+beteiligen	beteiligen
 <g/>
 ,
 werden	werden
@@ -1930,10 +2040,13 @@ abgelehnt	ablehnen
 und	und
 von	von
 Dr.	Dr.
-SeipelalsMinoritäsvotum	SeipelalsMinoritäsvotum
+Seipel	Seipel
+als	als
+Minoritäsvotum	Minoritäsvotum
 der	der
 Christlichsozialen	Christlichsozialen
-Parteiangemeldet	Parteiangemeldet
+Partei	Partei
+angemeldet	anmelden
 <g/>
 .
 Absatz	Absatz
@@ -1943,7 +2056,8 @@ gleichfalls	gleichfalls
 abgelehnt	ablehnen
 <g/>
 ,
-hingegen	hingegen
+h	h
+ingegen	ingegen
 wird	werden
 der	der
 Absatz	Absatz
@@ -1961,6 +2075,7 @@ Beilage	Beilage
 )
 </p>
 <p>
+	
 <g/>
 „
 Die	der
@@ -2006,7 +2121,8 @@ Ueber	Ueber
 Antrag	Antrag
 Drs	Drs
 .	.
-Dannebergsind	Dannebergsind
+Danneberg	Danneberg
+sind	sein
 auch	auch
 die	der
 Bezeichnungen	Bezeichnung
@@ -2037,7 +2153,9 @@ angenommen	annehmen
 .
 </p>
 <p>
-DerVorsitzendewendet	DerVorsitzendewenden
+Der	der
+Vorsitzende	vorsitzend
+wendet	wenden
 sich	sich
 hierauf	hierauf
 an	an
@@ -2067,7 +2185,8 @@ formulieren	formulieren
 ;
 Ministerialrat	Ministerialrat
 Dr.	Dr.
-Froehlichwird	Froehlichwird
+Froehlich	Froehlich
+wird	werden
 als	als
 Grundlage	Grundlage
 die	der
@@ -2088,12 +2207,14 @@ verwerten	verwerten
 <p>
 Hierauf	hierauf
 wird	werden
-um6	um6
+um	um
+6	6
 Uhr	Uhr
 abends	abends
 die	der
 Sitzung	Sitzung
-geschlossenund	geschlossenund
+geschlossen	schließen
+und	und
 die	der
 nächste	nächster
 Beratung	Beratung

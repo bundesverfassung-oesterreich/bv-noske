@@ -1174,8 +1174,13 @@ die	der
 Zuständigkeit	Zuständigkeit
 des	der
 Bundes	Bund
+fallen	fallen
 <g/>
-fallen:1)die
+:
+1	1
+<g/>
+)
+die	der
 auswärtigen	auswärtig
 Angelegenheiten	Angelegenheit
 mit	mit
@@ -1251,14 +1256,24 @@ lediglich	lediglich
 zur	zu
 Kenntnis	Kenntnis
 zu	zu
+bringen	bringen
 <g/>
-bringen.2)Die
+.
+2	2
+<g/>
+)
+Die	der
 Entscheidung	Entscheidung
 über	über
 Krieg	Krieg
 und	und
+Frieden	Frieden
 <g/>
-Frieden.3)Die
+.
+3	3
+<g/>
+)
+Die	der
 Gesetzgebung	Gesetzgebung
 über	über
 das	der
@@ -1295,7 +1310,12 @@ den	der
 Schranken	Schranke
 des	der
 Artikels	Artikel
-XI.4)Das	XI.4)Das
+XI	XI
+.	.
+4	4
+<g/>
+)
+Das	der
 Finanzwesen	Finanzwesen
 <g/>
 ,
@@ -1433,8 +1453,13 @@ durch	durch
 ein	ein
 eigenes	eigen
 Bundesgesetz	Bundesgesetz
+bestimmt	bestimmen
 <g/>
-bestimmt.5)Die
+.
+5	5
+<g/>
+)
+Die	der
 Zivil-	Zivil-
 und	und
 Strafgesetzgebung	Strafgesetzgebung
@@ -1556,15 +1581,26 @@ kollegialer	kollegial
 Beratung	Beratung
 <g/>
 .
+1	1
 <g/>
-1)6)Das
+)
+6	6
+<g/>
+)
+Das	der
 Post-	Post
 <g/>
 ,
 Telegraphen-	Telegraphen
 <g/>
 ,
-Telephon-,Eisenbahn-,Schiffahrts-	Telephon-,Eisenbahn-,Schiffahrts
+Telephon-	Telephon
+<g/>
+,
+Eisenbahn-	Eisenbahn
+<g/>
+,
+Schiffahrts-	Schiffahrt
 und	und
 Luftschiffahrtswesen	Luftschiffahrtswesen
 <g/>
@@ -1578,12 +1614,19 @@ und	und
 die	der
 Verwaltung	Verwaltung
 der	der
+Bundesstraßen	Bundesstraße
 <g/>
-Bundesstraßen.7)Die
+.
+7	7
+<g/>
+)
+Die	der
 Gesetzgebung	Gesetzgebung
 über	über
 das	der
-Kredit-und	Kredit-und
+Kredit	Kredit
+-	
+und	und
 Bankwesen	Bankwesen
 mit	mit
 Ausnahme	Ausnahme
@@ -1642,8 +1685,12 @@ damit	damit
 zusammenhängenden	zusammenhängend
 Unterstützungs-	Unterstützung
 und	und
+Hilfskassen	Hilfskasse
 <g/>
-Hilfskassen.8)Die
+.
+<g/>
+8)
+Die	der
 Medizinalgesetzgebung	Medizinalgesetzgebung
 <g/>
 ,
@@ -1655,7 +1702,13 @@ Schutze	Schutz
 gegen	gegen
 Epidemien	Epidemie
 und	und
-Viehseuchen.9)Die	Viehseuchen.9)Die
+Viehseuchen	Viehseuche
+<g/>
+.
+9	9
+<g/>
+)
+Die	der
 Gesetzgebung	Gesetzgebung
 über	über
 Staatsbürger-	Staatsbürger
@@ -1670,8 +1723,13 @@ Paßwesen	Paßwesen
 und	und
 über	über
 die	der
+Volkszählung	Volkszählung
 <g/>
-Volkszählung.10)Die
+.
+10	10
+<g/>
+)
+Die	der
 Gesetzgebung	Gesetzgebung
 über	über
 die	der
@@ -1701,16 +1759,26 @@ den	der
 Schutz	Schutz
 des	der
 geistigen	geistig
+Eigentums	Eigentum
 <g/>
-Eigentums,11)Die
+,
+11	11
+<g/>
+)
+Die	der
 Gesetzgebung	Gesetzgebung
 über	über
 die	der
 Universitäten	Universität
 <g/>
 .
+2	2
 <g/>
-2)12)Die
+)
+12	12
+<g/>
+)
+Die	der
 Regelung	Regelung
 der	der
 Nutzbarmachung	Nutzbarmachung
@@ -1804,8 +1872,13 @@ Verfahren	Verfahren
 als	als
 beteiligte	beteiligt
 Parteien	Partei
+beizuziehen	beiziehen
 <g/>
-beizuziehen.13./Die
+.
+13.	13.
+<g/>
+/
+Die	der
 Oberaufsicht	Oberaufsicht
 über	über
 die	der
@@ -2225,7 +2298,8 @@ a	a
 )
 durch	durch
 die	der
-Bundesversammlungb	Bundesversammlungb
+Bundesversammlung	Bundesversammlung
+b	--
 <g/>
 )
 durch	durch
@@ -2344,8 +2418,10 @@ und	und
 darüber	darüber
 zählen	zählen
 für	für
+voll	voll
 <g/>
-voll.b
+.
+b	b
 <g/>
 )
 Das	der
@@ -3400,8 +3476,13 @@ insbesondere	insbesondere
 folgende	folgend
 Befugnisse	Befugnis
 und	und
+Pflichten	Pflicht
 <g/>
-Pflichten:1.)Er
+:
+1.	1.
+<g/>
+)
+Er	er
 leitet	leiten
 die	der
 bundesstaatlichen	bundesstaatlich
@@ -3422,8 +3503,13 @@ XIV	XIV
 festgelegten	festgelegt
 Zuständigkeit	Zuständigkeit
 der	der
+Bundesgewalt	Bundesgewalt
 <g/>
-Bundesgewalt.2.)Er
+.
+2.	2.
+<g/>
+)
+Er	er
 hat	haben
 die	der
 Beobachtung	Beobachtung
@@ -3438,8 +3524,13 @@ Beschlüsse	Beschluß
 des	der
 Bundes	Bund
 zu	zu
+überwachen	überwachen
 <g/>
-überwachen,3.)er
+,
+3.	3.
+<g/>
+)
+er	er
 schlägt	schlagen
 der	der
 Bundesversammlung	Bundesversammlung
@@ -3481,14 +3572,22 @@ der	der
 Bundesglieder	Bundesglied
 an	an
 ihn	ihn
+gelangen	gelangen
 <g/>
-gelangen,4.)er
+,
+4.	4.
+<g/>
+)
+er	er
 vollzieht	vollziehen
 die	der
 Bundesgesetze	Bundesgesetz
 und	und
+Beschlüsse	Beschluß
+5.	5.
 <g/>
-Beschlüsse5.)er
+)
+er	er
 wahrt	wahrn
 die	der
 Interessen	Interesse
@@ -3567,8 +3666,13 @@ deren	der
 Landesregierungen	Landesregierung
 sie	sie
 unmittelbar	unmittelbar
+verkehren	verkehren
 <g/>
-verkehren;6.)er
+;
+6.	6.
+<g/>
+)
+er	er
 sorgt	sorgen
 für	für
 die	der
@@ -3590,7 +3694,11 @@ nach	nach
 Massgabe	Massgabe
 des	der
 Artikels	Artikel
-III.7.)er	III.7.)er
+III.	III.
+7.	7.
+<g/>
+)
+er	er
 hat	haben
 die	der
 Aufsicht	Aufsicht
@@ -3603,8 +3711,13 @@ und	und
 Angestellten	angestellter
 der	der
 bundesstaatlichen	bundesstaatlich
+Verwaltung	Verwaltung
 <g/>
-Verwaltung,8.)er
+,
+8.	8.
+<g/>
+)
+er	er
 erstattet	erstatten
 der	der
 Bundesversammlung	Bundesversammlung
@@ -3984,8 +4097,13 @@ Bestimmungen	Bestimmung
 dieser	dieser
 Bundesverfassung	Bundesverfassung
 ist	sein
+erforderlich	erforderlich
 <g/>
-erforderlich:1.)Ein
+:
+1.	1.
+<g/>
+)
+Ein	ein
 mit	mit
 2	2
 <g/>
@@ -4003,8 +4121,13 @@ Beschluß	Beschluß
 auf	auf
 Aenderung	Aenderung
 der	der
+Verfassung	Verfassung
 <g/>
-Verfassung,2.)ein
+,
+2.	2.
+<g/>
+)
+ein	ein
 mit	mit
 wenigstens	wenigstens
 4	4
@@ -4013,8 +4136,13 @@ gefasster	gefasst
 gleichlautender	gleichlautend
 Beschluss	Beschluss
 des	der
+Länderhauses	Länderhaus
 <g/>
-Länderhauses,3.)die
+,
+3.	3.
+<g/>
+)
+die	der
 Annahme	Annahme
 dieses	dieser
 Beschlusses	Beschluß

@@ -27,26 +27,42 @@ Anwesend	Anwesend
 <g/>
 :
 </p>
+	
 Abgeordneter	abgeordneter
 Dr.	Dr.
-OttoBauerals	OttoBauerals
-VorsitzenderEinem	VorsitzenderEinem
+Otto	Otto
+Bauer	Bauer
+als	als
+Vorsitzender	vorsitzend
+Einem	ein
 Teil	Teil
 der	der
 Verhandlungen	Verhandlung
 wohnte	wohnen
 der	der
 Präsident	Präsident
-KarlSeitzbei	KarlSeitzbei
+Karl	Karl
+Seitz	Seitz
+bei	bei
 <g/>
 .
 Abgeordneter	abgeordneter
-SimonAbramHeinrichClessinDr	SimonAbramHeinrichClessinDr
-.	.
-RobertDannebergJodokFinkKarlLeuthnerStaatssekretär	RobertDannebergJodokFinkKarlLeuthnerStaatssekretär
+Simon	Simon
+Abram	Abram
+Heinrich	Heinrich
+Clessin	Clessin
+Dr.	Dr.
+Robert	Robert
+Danneberg	Danneberg
+Jodok	Jodok
+Fink	Fink
+Karl	Karl
+Leuthner	Leuthner
+Staatssekretär	Staatssekretär
 Prof.	Prof.
 Dr.	Dr.
-MichaelMayr	MichaelMayr
+Michael	Michael
+Mayr	Mayr
 <g/>
 .
 <p>
@@ -56,11 +72,13 @@ Staatskanzlei	Staatskanzlei
 <g/>
 :
 </p>
+	
 Min	Min
 .	.
 Rat	Rat
 Dr.	Dr.
-GeorgFroehlich	GeorgFroehlich
+Georg	Georg
+Froehlich	Froehlich
 <g/>
 ,
 Sekt	Sekt
@@ -68,7 +86,8 @@ Sekt	Sekt
 .
 Rat	Rat
 Dr.	Dr.
-HugoJäckl	HugoJäckl
+Hugo	Hugo
+Jäckl	Jäckl
 <g/>
 ,
 Sekt	Sekt
@@ -76,7 +95,8 @@ Sekt	Sekt
 .
 Rat	Rat
 Dr.	Dr.
-EgbertMannlicher	EgbertMannlicher
+Egbert	Egbert
+Mannlicher	Mannlicher
 <g/>
 .
 Min	Min
@@ -84,20 +104,26 @@ Min	Min
 V.Sekr	V.Sekr
 .	.
 Dr.	Dr.
-KurtFriebergerals	KurtFriebergeral
+Kurt	Kurt
+Frieberger	Frieberger
+als	als
 Schriftführer	Schriftführer
 <g/>
 .
 Prof.	Prof.
 Dr.	Dr.
-HansKelsenals	HansKelsenal
+Hans	Hans
+Kelsen	Kelsen
+als	als
 Experte	Experte
 des	der
 Verfassungsausschusses	Verfassungsausschuß
 <g/>
 .
 <p>
-DerVorsitzendeverliest	DerVorsitzendeverliest
+Der	der
+Vorsitzende	vorsitzend
+verliest	verleesen
 die	der
 von	von
 der	der
@@ -114,6 +140,7 @@ Art	Art
 13	13
 </p>
 <p>
+	
 <g/>
 (
 1	1
@@ -149,6 +176,7 @@ Länder	Land
 .
 </p>
 <p>
+	
 <g/>
 (
 2	2
@@ -237,6 +265,7 @@ Bund	Bund
 .
 </p>
 <p>
+	
 <g/>
 (
 3	3
@@ -285,6 +314,7 @@ Bund	Bund
 .
 </p>
 <p>
+	
 <g/>
 (
 4	4
@@ -327,7 +357,8 @@ ein	ein
 Akt	Akt
 der	der
 vollziehenden	vollziehend
-Gewalt	Gewalt
+Ge	Ge
+walt	Walt
 eines	ein
 Landes	Land
 Rückwirkungen	Rückwirkung
@@ -408,11 +439,14 @@ Artikel	Artikel
 wird	werden
 in	in
 dieser	dieser
-Fassungangenommen	Fassungangenommen
+Fassung	Fassung
+angenommen	annehmen
 <g/>
 ,
 obwohl	obwohl
-derVorsitzendeden	derVorsitzendeden
+der	der
+Vorsitzende	vorsitzend
+den	der
 Asicht	Asicht
 Ausdruck	Ausdruck
 gibt	geben
@@ -434,7 +468,8 @@ teilen	teilen
 auf	auf
 Befürwortung	Befürwortung
 Dr.	Dr.
-Seipelsentscheidet	Seipelsentscheidet
+Seipels	Seipel
+entscheidet	entscheiden
 sich	sich
 der	der
 Unterausschuss	Unterausschuss
@@ -478,7 +513,10 @@ Art	Art
 des	der
 Antrags	Antrag
 Dr.	Dr.
-Mayr(888	Mayr(888
+Mayr	Mayr
+<g/>
+(
+888	888
 d.	d.
 B.	B.
 <g/>
@@ -513,8 +551,8 @@ der	der
 Staatskanzlei	Staatskanzlei
 formulierten	formuliert
 Artikel	Artikel
-wirdAbs	wirdAbs
-.	.
+wird	werden
+Abs.	Abs.
 1	1
 unverändert	unverändert
 angenommen	annehmen
@@ -527,14 +565,16 @@ ebenfalls	ebenfalls
 ,
 nur	nur
 wird	werden
-überAntrag	überAntrag
+über	über
+Antrag	Antrag
 des	der
 Abg	Abg
 <g/>
 .
-Finknach	Finknach
+Fink	Fink
+nach	nach
 dem	der
-Worte	Worte
+Worte	Wort
 <g/>
 „
 innerhalb	innerhalb
@@ -566,14 +606,18 @@ Beschlüsse	Beschluß
 <g/>
 ,
 während	während
-dieAbsätze	dieAbsatz
+die	der
+Absätze	Absatz
 3	3
 und	und
-5des	5des
+5	5
+des	der
 Entwurfes	Entwurf
 in	in
 geänderter	geändert
-Formangenommenwerden	Formangenommenwerden
+Form	Form
+angenommen	annehmen
+werden	werden
 <g/>
 .
 </p>
@@ -586,6 +630,7 @@ nunmehr	nunmehr
 :
 </p>
 <p>
+	
 <g/>
 „
 <g/>
@@ -630,6 +675,7 @@ hat	haben
 .
 </p>
 <p>
+	
 <g/>
 (
 2	2
@@ -660,6 +706,7 @@ sein	sein
 .
 </p>
 <p>
+	
 <g/>
 (
 3	3
@@ -760,7 +807,9 @@ Nationalrates	Nationalrat
 Hiebei	Hiebei
 erklärt	erklären
 es	es
-derVorsitzendeals	derVorsitzendeals
+der	der
+Vorsitzende	vorsitzend
+als	als
 unzweifelhaft	unzweifelhaft
 <g/>
 ,
@@ -792,9 +841,11 @@ Bundesrates	Bundesrat
 Die	der
 Fassung	Fassung
 Dr.	Dr.
-Mayrserklärt	Mayrserklärt
+Mayrs	Mayrs
+erklärt	erklären
 Dr.	Dr.
-Dannebergals	Dannebergal
+Danneberg	Danneberg
+als	als
 unannehmbar	unannehmbar
 vom	von
 Standpunkte	Standpunkt
@@ -834,8 +885,10 @@ Seipel	Seipel
 <g/>
 .
 Abg	Abg
-.	.
-Clessinmeint	Clessinmeint
+<g/>
+.
+Clessin	Clessin
+meint	meinen
 dem	der
 sozialdemokratischen	sozialdemokratisch
 Standpunkt	Standpunkt
@@ -843,7 +896,7 @@ bei	bei
 Wahrung	Wahrung
 des	der
 föderalistischen	föderalistisch
-Grundgedankens	Grundgedanke
+Grundgedankens	Grundgedanken
 entgegenzukommen	entgegenkommen
 <g/>
 ,
@@ -891,7 +944,8 @@ besitzen	besitzen
 </p>
 <p>
 Dr.	Dr.
-Dannebergsieht	Dannebergsieht
+Danneberg	Danneberg
+sieht	sehen
 in	in
 diesem	dieser
 Antrag	Antrag
@@ -1068,7 +1122,8 @@ bleiben	bleiben
 </p>
 <p>
 Dr.	Dr.
-Seipelmeint	Seipelmeint
+Seipel	Seipel
+meint	meinen
 <g/>
 ,
 daß	daß
@@ -1179,7 +1234,9 @@ zurückzustellen	zurückstellen
 Wien	Wien
 und	und
 Niederösterreich	Niederösterreich
-wärenwiebei	wärenwiebei
+wären	sein
+wie	wie
+bei	bei
 der	der
 Vermögensabgabe	Vermögensabgabe
 als	als
@@ -1203,7 +1260,8 @@ vorzubehalten	vorbehalten
 <p>
 Prof.	Prof.
 Dr.	Dr.
-Kelsenschlägt	Kelsenschlägt
+Kelsen	Kelsen
+schlägt	schlagen
 vor	vor
 <g/>
 ,
@@ -1245,8 +1303,10 @@ müßte	müssen
 <g/>
 .
 Abg	Abg
-.	.
-Finkmeint	Finkmeint
+<g/>
+.
+Fink	Fink
+meint	meinen
 <g/>
 ,
 daß	daß
@@ -1264,7 +1324,9 @@ variieren	variieren
 müßten	müssen
 <g/>
 .
-DerVorsitzendegibt	derVorsitzendegibt
+Der	der
+Vorsitzende	vorsitzend
+gibt	geben
 dies	dieser
 zu	zu
 und	und
@@ -1322,7 +1384,8 @@ wie	wie
 Abg	Abg
 <g/>
 .
-Clessinerwähnt	Clessinerwähnt
+Clessin	Clessin
+erwähnt	erwähnen
 <g/>
 ,
 auf	auf
@@ -1358,7 +1421,8 @@ Niederösterreich	Niederösterreich
 <p>
 Nachdem	nachdem
 Dr.	Dr.
-Seipelerklärt	Seipelerklären
+Seipel	Seipel
+erklärt	erklären
 <g/>
 ,
 daß	daß
@@ -1380,7 +1444,9 @@ vorbehalte	vorbehalten
 <g/>
 ,
 stellt	stellen
-derVorsitzendefest	derVorsitzendefest
+der	der
+Vorsitzende	vorsitzend
+fest	fest
 <g/>
 :
 </p>
@@ -1463,19 +1529,23 @@ Stellungnahme	Stellungnahme
 des	der
 Staatsekretärs	Staatsekretär
 Dr.	Dr.
-Mayrund	Mayrund
+Mayr	Mayr
+und	und
 der	der
 Abgeordneten	abgeordneter
 Dr.	Dr.
 Danneberg	Danneberg
 <g/>
 ,
-Finkund	Finkund
+Fink	Fink
+und	und
 Dr.	Dr.
-Seipelführt	Seipelführt
+Seipel	Seipel
+führt	führen
 Prof.	Prof.
 Dr.	Dr.
-Kelsenfolgende	Kelsenfolgende
+Kelsen	Kelsen
+folgende	folgend
 Gründe	Grund
 für	für
 die	der
@@ -1564,7 +1634,8 @@ mitwirken	mitwirken
 Während	während
 Abg	Abg
 .	.
-Clessindie	Clessindie
+Clessin	Clessin
+die	der
 Absicht	Absicht
 Salzburgs	Salzburg
 erörtert	erörtern
@@ -1598,7 +1669,9 @@ müßten	müssen
 <g/>
 ,
 sieht	sehen
-derVorsitzendedenWert	derVorsitzendedenWert
+der	der
+Vorsitzende	vorsitzend
+denWert	denWert
 des	der
 Bundesrates	Bundesrat
 vor	vor
@@ -1606,7 +1679,9 @@ allem	alle
 darin	darin
 <g/>
 ,
-daßdortselbstdie	daßdortselbstdie
+daß	daß
+dortselbst	dortselbst
+die	der
 an	an
 der	der
 Entstehung	Entstehung
@@ -1651,7 +1726,9 @@ werden	werden
 <g/>
 ,
 wird	werden
-daraufschließlich	daraufschließlich
+darau	darau
+f	f
+schließlich	schließlich
 abgelehnt	ablehnen
 und	und
 Abs.	Abs.
@@ -1670,7 +1747,8 @@ nach	nach
 einem	ein
 Zusatzantrage	Zusatzantrag
 Dr.	Dr.
-Dannebergsin	Dannebergsin
+Dannebergs	Danneberg
+in	in
 folgender	folgend
 Fassung	Fassung
 angenommen	annehmen
@@ -1737,7 +1815,8 @@ meldet	melden
 Abg	Abg
 .	.
 Dr.	Dr.
-Seipelein	Seipelein
+Seipel	Seipel
+ein	ein
 Minoritätsvotum	Minoritätsvotum
 an	an
 <g/>
@@ -1767,10 +1846,13 @@ sich	sich
 Abg	Abg
 .	.
 Dr.	Dr.
-Dannebergausspricht	Dannebergausspricht
+Danneberg	Danneberg
+ausspricht	aussprechen
 <g/>
 .
-DerVorsitzendehält	DerVorsitzendehält
+Der	der
+Vorsitzende	vorsitzend
+hält	halten
 jedoch	jedoch
 eine	ein
 derartige	derartig
@@ -1796,7 +1878,8 @@ bedeutungslos	bedeutungslos
 Während	während
 Prof.	Prof.
 Dr.	Dr.
-Kelsenbefürchtet	Kelsenbefürchten
+Kelsen	Kelsen
+befürchtet	befürchten
 <g/>
 ,
 daß	daß
@@ -1813,7 +1896,8 @@ könnte	können
 ,
 verweist	verweisen
 Dr.	Dr.
-Seipelauf	Seipelauf
+Seipel	Seipel
+auf	auf
 die	der
 Leichtigkeit	Leichtigkeit
 <g/>
@@ -1851,7 +1935,9 @@ geboten	bieten
 <g/>
 .
 Während	während
-derVorsitzendenoch	derVorsitzendenoch
+der	der
+Vorsitzende	vorsitzend
+noch	noch
 ausdrücklich	ausdrücklich
 feststellt	feststellen
 <g/>
@@ -1869,7 +1955,8 @@ wurde	werden
 möchte	möchten
 sie	sie
 Dr.	Dr.
-Seipelhier	Seipelhier
+Seipel	Seipel
+hier	hier
 dennoch	dennoch
 erhalten	erhalten
 wissen	wissen
@@ -1877,7 +1964,8 @@ und	und
 Abg	Abg
 <g/>
 .
-Clessinbehält	Clessinbehält
+Clessin	Clessin
+behält	behalten
 sich	sich
 die	der
 Stellung	Stellung
@@ -1970,7 +2058,9 @@ wird	werden
 über	über
 Antrag	Antrag
 des	der
-AbgeordnetenClessinfolgender	AbgeordnetenClessinfolgender
+Abgeordneten	abgeordneter
+Clessin	Clessin
+folgender	folgend
 Beschluss	Beschluss
 gefaßt	fassen
 <g/>
@@ -2147,7 +2237,8 @@ wobei	wobei
 Abg	Abg
 .	.
 Dr.	Dr.
-DannebergBericht	DannebergBericht
+Danneberg	Danneberg
+Bericht	Bericht
 erstattet	erstatten
 <g/>
 .
@@ -2230,7 +2321,8 @@ Experimente	Experiment
 .
 Abg	Abg
 .	.
-Clessinist	Clessinist
+Clessin	Clessin
+ist	sein
 der	der
 Anschauung	Anschauung
 <g/>
@@ -2265,7 +2357,9 @@ besitzt	besitzen
 .
 </p>
 <p>
-DerVorsitzendeweist	DerVorsitzendeweist
+Der	der
+Vorsitzende	vorsitzend
+weist	weisen
 daraufhin	daraufhin
 <g/>
 ,
@@ -2379,11 +2473,13 @@ ziehen	ziehen
 <p>
 Staatssekretär	Staatssekretär
 Dr.	Dr.
-Mayrund	Mayrund
+Mayr	Mayr
+und	und
 Abg	Abg
 .	.
 Dr.	Dr.
-Seipelfinden	Seipelfinden
+Seipel	Seipel
+finden	finden
 allerdings	allerdings
 den	der
 gegenwärtigen	gegenwärtig
@@ -2494,7 +2590,8 @@ Wahlen	Wahl
 Abg	Abg
 <g/>
 .
-Leuthnerhält	Leuthnerhält
+Leuthner	Leuthner
+hält	halten
 eine	ein
 besondere	besonderer
 Wahl	Wahl
@@ -2529,7 +2626,9 @@ Abstimmung	Abstimmung
 dafür	dafür
 <g/>
 ,
-dass	dass
+d	d
+<g/>
+ass
 ein	ein
 besonderer	besonderer
 Bundespräsident	Bundespräsident
@@ -2540,7 +2639,9 @@ soll	sollen
 .
 </p>
 <p>
-DerVorsitzendewarnt	DerVorsitzendewarnt
+Der	der
+Vorsitzende	vorsitzend
+warnt	warnen
 nochmals	nochmals
 vor	vor
 Einführung	Einführung
@@ -2618,7 +2719,8 @@ des	der
 Abg	Abg
 <g/>
 .
-Finkzuerst	Finkzuerst
+Fink	Fink
+zuerst	zuerst
 der	der
 Wirkungskreis	Wirkungskreis
 des	der
@@ -2631,7 +2733,8 @@ besprochen	besprechen
 Abg	Abg
 .	.
 Dr.	Dr.
-Dannebergreferiert	Dannebergreferieren
+Danneberg	Danneberg
+referiert	referieren
 hierauf	hierauf
 über	über
 die	der
@@ -2785,7 +2888,9 @@ wären	sein
 .
 </p>
 <p>
-PräsidentSeitzstellt	PräsidentSeitzstellt
+Präsident	Präsident
+Seitz	Seitz
+stellt	stellen
 hier	hier
 bereits	bereits
 einen	ein
@@ -2933,7 +3038,8 @@ ernannt	ernennen
 <p>
 Staatssekretär	Staatssekretär
 Dr.	Dr.
-Mayrfände	Mayrfände
+Mayr	Mayr
+fände	fenden
 es	es
 gut	gut
 <g/>
@@ -2952,7 +3058,9 @@ Erörterung	Erörterung
 des	der
 Begnadigungsrechtes	Begnadigungsrecht
 hebt	heben
-PräsidentSeitzdie	PräsidentSeitzdie
+Präsident	Präsident
+Seitz	Seitz
+die	der
 Notwendigkeit	Notwendigkeit
 hervor	hervor
 <g/>
@@ -2974,7 +3082,8 @@ Min	Min
 .	.
 Rat	Rat
 Dr.	Dr.
-Froehlichfindet	Froehlichfindet
+Froehlich	Froehlich
+findet	finden
 dieses	dieser
 Recht	Recht
 durch	durch
@@ -3011,7 +3120,8 @@ regeln	regeln
 .
 Auch	auch
 Prof.	Prof.
-Kelsenist	Kelsenist
+Kelsen	Kelsen
+ist	sein
 der	der
 Anschauung	Anschauung
 <g/>
@@ -3093,7 +3203,9 @@ aus	aus
 .
 </p>
 <p>
-PräsidentSeitzmacht	PräsidentSeitzmacht
+Präsident	Präsident
+Seitz	Seitz
+macht	machen
 auch	auch
 auf	auf
 die	der
@@ -3132,7 +3244,8 @@ Min	Min
 .	.
 Rat	Rat
 Dr.	Dr.
-Froehlichmeint	Froehlichmeint
+Froehlich	Froehlich
+meint	meinen
 <g/>
 ,
 dass	dass
@@ -3284,12 +3397,16 @@ Absatz	Absatz
 über	über
 Antrag	Antrag
 des	der
-AbgeordnetenFinkgestrichen	AbgeordnetenFinkgestrichen
+Abgeordneten	abgeordneter
+Fink	Fink
+gestrichen	streichen
 <g/>
 .
 </p>
 <p>
-PräsidentSeitzerwähnt	PräsidentSeitzerwähnt
+Präsident	Präsident
+Seitz	Seitz
+erwähnt	erwähnen
 <g/>
 ,
 dass	dass
@@ -3433,7 +3550,8 @@ Rede	Rede
 ist	sein
 <g/>
 .
-Darausist	darausist
+Daraus	daraus
+ist	sein
 zu	zu
 folgern	folgern
 versucht	versuchen
@@ -3453,7 +3571,10 @@ sei	sein
 .
 </p>
 <p>
-Indenaltösterreichischen	Indenaltösterreichischen
+In	in
+den	der
+alt	alt
+österreichischen	österreichisch
 Gesetzen	Gesetz
 ist	sein
 unter	unter
@@ -3492,7 +3613,8 @@ ab	ab
 auf	auf
 Grund	Grund
 des	der
-ErmächtigungsgesetzesVerordnungen	ErmächtigungsgesetzesVerordnungen
+Ermächtigungsgesetzes	Ermächtigungsgesetz
+Verordnungen	Verordnung
 <g/>
 (
 Vollzugsanweisungen	Vollzugsanweisung
@@ -3504,7 +3626,9 @@ erlassen	erlassen
 .
 </p>
 <p>
-PräsidentSeitzmisst	PräsidentSeitzmisst
+Präsident	Präsident
+Seitz	Seitz
+misst	missen
 dem	der
 besondere	besonderer
 Bedeutung	Bedeutung
@@ -3608,7 +3732,8 @@ findet	finden
 ,
 dass	dass
 mit	mit
-denWorten	denWorten
+den	der
+Worten	Wort
 <g/>
 „
 oder	oder
@@ -3742,10 +3867,15 @@ Mayr	Mayr
 <g/>
 ,
 die	der
-AbgeordnetenFinkundSeipelsowie	AbgeordnetenFinkundSeipelsowie
+Abgeordneten	abgeordneter
+Fink	Fink
+und	und
+Seipel	Seipel
+sowie	sowie
 Prof.	Prof.
 Dr.	Dr.
-Kelsenbeteiligen	Kelsenbeteiligen
+Kelsen	Kelsen
+beteiligen	beteiligen
 <g/>
 ,
 den	der
@@ -3762,7 +3892,8 @@ Gesamtvolke	Gesamtvolke
 gewählte	gewählt
 Körperschaft	Körperschaft
 nicht	nicht
-Bundestag	Bundestag
+Bundes	Bunde
+tag	Tag
 <g/>
 ,
 sondern	sondern
@@ -3898,7 +4029,8 @@ wobei	wobei
 Abg	Abg
 .	.
 Dr.	Dr.
-Seipeldarauf	Seipeldarauf
+Seipel	Seipel
+darauf	darauf
 aufmerksam	aufmerksam
 macht	machen
 <g/>
@@ -3993,7 +4125,8 @@ wie	wie
 Abg	Abg
 .	.
 Dr.	Dr.
-Seipelbetont	Seipelbetont
+Seipel	Seipel
+betont	betonen
 <g/>
 ,
 die	der
@@ -4038,7 +4171,8 @@ erwähnen	erwähnen
 erklärt	erklären
 Abg	Abg
 .	.
-Finkals	Finkal
+Fink	Fink
+als	als
 unnötig	unnötig
 <g/>
 ,
@@ -4388,7 +4522,8 @@ bleibt	bleiben
 über	über
 Antrag	Antrag
 Dr.	Dr.
-Dannebergsoffen	Dannebergsoffen
+Dannebergs	Danneberg
+offen	offen
 <g/>
 ;
 über	über
@@ -4441,7 +4576,8 @@ zum	zu
 Bundespräsidenten	Bundespräsident
 wird	werden
 Dr.	Dr.
-Dannebergvorlegen	Dannebergvorlegen
+Danneberg	Danneberg
+vorlegen	vorlegen
 <g/>
 .
 </p>
@@ -4510,7 +4646,8 @@ Da	da
 Abg	Abg
 .	.
 Dr.	Dr.
-Eislerdas	Eislerda
+Eisler	Eisler
+das	der
 Referat	Referat
 über	über
 die	der
@@ -4536,7 +4673,8 @@ des	der
 Vorsitzenden	vorsitzend
 Abg	Abg
 .	.
-Abrammit	Abrammit
+Abram	Abram
+mit	mit
 dem	der
 Referate	Referat
 für	für

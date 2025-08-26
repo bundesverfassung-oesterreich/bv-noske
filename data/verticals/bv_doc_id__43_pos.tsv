@@ -26,20 +26,25 @@ Anwesend	Anwesend
 <g/>
 :
 </p>
+	
 Dr.	Dr.
 Otto	Otto
 Bauer	Bauer
 als	als
-VorsitzenderDr	VorsitzenderDr
-.	.
+Vorsitzender	vorsitzend
+Dr.	Dr.
 Josef	Josef
-AignerHeinrich	AignerHeinrich
-ClessinJodok	ClessinJodok
-FinkKarl	FinkKarl
-LeuthnerDr	LeuthnerDr
-.	.
+Aigner	Aigner
+Heinrich	Heinrich
+Clessin	Clessin
+Jodok	Jodok
+Fink	Fink
+Karl	Karl
+Leuthner	Leuthner
+Dr.	Dr.
 Ignaz	Ignaz
-SeipelStaatssekretär	SeipelStaatssekretär
+Seipel	Seipel
+Staatssekretär	Staatssekretär
 Dr.	Dr.
 Michael	Michael
 Keyr	Keyr
@@ -50,19 +55,22 @@ Staatskanzlei	Staatskanzlei
 <g/>
 :
 </p>
+	
 Sektionsrat	Sektionsrat
 Dr.	Dr.
 Hugo	Hugo
-JäcklSektionsrat	JäcklSektionsrat
+Jäckl	Jäckl
+Sektionsrat	Sektionsrat
 Dr.	Dr.
 Egbert	Egbert
-MennlicherMinisterialvizesekretär	MennlicherMinisterialvizesekretär
+Mennlicher	Mennlicher
+Ministerialvizesekretär	Ministerialvizesekretär
 Dr.	Dr.
 Kurt	Kurt
 Frieberger	Frieberger
 als	als
-SchriftführerProf	SchriftführerProf
-.	.
+Schriftführer	Schriftführer
+Prof.	Prof.
 Dr.	Dr.
 Hans	Hans
 Kelsen	Kelsen
@@ -2947,7 +2955,9 @@ anzulasten	anlasten
 wäre	sein
 <g/>
 .
-DerVorsitzendeist	DerVorsitzendeist
+Der	der
+Vorsitzende	vorsitzend
+ist	sein
 der	der
 Meinung	Meinung
 <g/>
@@ -3068,8 +3078,10 @@ Artikel	Artikel
 <p>
 <g/>
 (
+1	1
 <g/>
-1)Der
+)
+Der	der
 Landeshauptmann	Landeshauptmann
 oder	oder
 sein	sein
@@ -3114,8 +3126,10 @@ Wege	Weg
 <p>
 <g/>
 (
+2	2
 <g/>
-2)Dem
+)
+Dem	der
 Landtage	Landtag
 sind	sein
 die	der
@@ -3193,7 +3207,8 @@ des	der
 folgenden	folgend
 Artikels	Artikel
 meint	meinen
-derVorsitzende	derVorsitzende
+der	der
+Vorsitzende	vorsitzend
 <g/>
 ,
 daß	daß
@@ -3309,7 +3324,9 @@ des	der
 Artikels	Artikel
 96	96
 hebt	heben
-derVorsitzendedie	derVorsitzendedie
+der	der
+Vorsitzende	vorsitzend
+die	der
 Möglichkeit	Möglichkeit
 außerordentlicher	außerordentlich
 Konsequenzen	Konsequenz
@@ -3370,7 +3387,9 @@ gewiesen	wiesen
 wären	sein
 <g/>
 .
-DerVorsitzendefindet	DerVorsitzendefindet
+Der	der
+Vorsitzende	vorsitzend
+findet	finden
 die	der
 Bestimmungen	Bestimmung
 des	der
@@ -3435,10 +3454,11 @@ wird	werden
 seinen	sein
 und	und
 des	der
-StaatssekretärsDr	StaatssekretärsDr
-.	.
+Staatssekretärs	Staatssekretär
+Dr.	Dr.
 Mayr	Mayr
-AntragArtikel	AntragArtikel
+Antrag	Antrag
+Artikel	Artikel
 96	96
 gestrichen	streichen
 <g/>
@@ -3449,7 +3469,9 @@ Bei	bei
 Artikel	Artikel
 97	97
 erinnert	erinnern
-derVorsitzendean	derVorsitzendean
+der	der
+Vorsitzende	vorsitzend
+an	an
 die	der
 historische	historisch
 Bedeutung	Bedeutung
@@ -3528,10 +3550,12 @@ werden	werden
 “
 <g/>
 .
-DieserAntrag	DieserAntrag
+Dieser	dieser
+Antrag	Antrag
 wird	werden
 jedoch	jedoch
-abgelehntund	abgelehntund
+abgelehnt	ablehnen
+und	und
 Art	Art
 .	.
 97	97
@@ -3550,6 +3574,7 @@ Artikel	Artikel
 97.	97.
 </head>
 <p>
+	
 Vereinbarungen	Vereinbarung
 der	der
 Länder	Land
@@ -3821,7 +3846,9 @@ Landes	Land
 <g/>
 .
 DerBewohner	DerBewohner
-desWaldviertelsund	desWaldviertelsund
+des	der
+Waldviertels	Waldviertel
+und	und
 der	der
 einer	ein
 Südbahngemeinde	Südbahngemeinde
@@ -4093,8 +4120,9 @@ Völkerbund	Völkerbund
 .
 </p>
 <p>
-<g/>
-DerVorsitzendemacht
+Der	der
+Vorsitzende	vorsitzend
+macht	machen
 auf	auf
 die	der
 Schwierigkeit	Schwierigkeit
@@ -4229,8 +4257,10 @@ Art	Art
 <p>
 <g/>
 (
+1	1
 <g/>
-1)Das
+)
+Das	der
 Bundesgebiet	Bundesgebiet
 umfaßt	umfassen
 die	der
@@ -4252,8 +4282,10 @@ Bundes	Bund
 <p>
 <g/>
 (
+2	2
 <g/>
-2)Eine
+)
+Eine	ein
 Änderung	Änderung
 des	der
 Bundesgebietes	Bundesgebiet
@@ -4350,13 +4382,17 @@ Nationalrates	Nationalrat
 verhandelt	verhandeln
 <g/>
 .
-DerVorsitzendebemerkt	DerVorsitzendebemerkt
+Der	der
+Vorsitzende	vorsitzend
+bemerkt	bemerken
 <g/>
 ,
 daß	daß
 seine	sein
 Partei	Partei
-kurzeLegislaturperiodenfür	kurzeLegislaturperiodenfür
+kurze	kurz
+Legislaturperioden	Legislaturperiode
+für	für
 ein	ein
 unbedingtes	unbedingt
 Erfordernis	Erfordernis
@@ -4405,7 +4441,7 @@ Ausdruck	Ausdruck
 als	als
 Volksabstimmungenund	Volksabstimmungenund
 sind	sein
-geeignet	eignen
+geeignet	geeignet
 <g/>
 ,
 den	der
@@ -4501,7 +4537,9 @@ beizustimmen	beistimmen
 .
 Der	der
 Antrag	Antrag
-desVorsitzendenmit	desVorsitzendenmit
+des	der
+Vorsitzenden	vorsitzend
+mit	mit
 jeder	jeder
 Neuwahl	Neuwahl
 des	der
@@ -4530,12 +4568,14 @@ beschließt	beschließen
 <g/>
 ,
 auch	auch
-dieFunktionsdauer	dieFunktionsdauer
+die	der
+Funktionsdauer	Funktionsdauer
 des	der
 Präsidenten	Präsident
 mit	mit
 4	4
-Jahrenfestzusetzen	Jahrenfestzusetzen
+Jahren	Jahr
+festzusetzen	festsetzen
 <g/>
 .
 Nach	nach

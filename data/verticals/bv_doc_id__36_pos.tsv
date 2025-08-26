@@ -23,12 +23,15 @@ Vormittag	Vormittag
 .
 </p>
 <p>
+	
 Anwesend	Anwesend
 <g/>
 :
 </p>
+	
 Dr.	Dr.
-OttoBauer	OttoBauer
+Otto	Otto
+Bauer	Bauer
 <g/>
 ,
 als	als
@@ -36,10 +39,12 @@ Vorsitzender	vorsitzend
 <g/>
 ,
 Dr.	Dr.
-JosefAigner	JosefAigner
+Josef	Josef
+Aigner	Aigner
 <g/>
 ,
-HeinrichClessin	HeinrichClessin
+Heinrich	Heinrich
+Clessin	Clessin
 <g/>
 ,
 als	als
@@ -47,26 +52,34 @@ Berichterstatter	Berichterstatter
 <g/>
 ,
 Dr.	Dr.
-RobertDanneberg	RobertDanneberg
+Robert	Robert
+Danneberg	Danneberg
 <g/>
 ,
-MathiasEldersch	MathiasEldersch
+Mathias	Mathias
+Eldersch	Eldersch
 <g/>
 ,
-JodokFink	JodokFink
+Jodok	Jodok
+Fin	Fin
+k	k
 <g/>
 ,
 Dr.	Dr.
-IgnazSeipelStaatssekretär	IgnazSeipelStaatssekretär
+Ignaz	Ignaz
+Seipel	Seipel
+Staatssekretär	Staatssekretär
 Prof.	Prof.
 Dr.	Dr.
-MichaelMayr	MichaelMayr
+Michael	Michael
+Mayr	Mayr
 <g/>
 .
 Prof.	Prof.
 Dr.	Dr.
 Hans	Hans
-Kelsenals	Kelsenals
+Kelsen	Kelsen
+als	als
 Experte	Experte
 des	der
 Verfassungsauschusses	Verfassungsauschuß
@@ -79,40 +92,49 @@ Staatskanzlei	Staatskanzlei
 <g/>
 :
 </p>
+	
 Min	Min
 .	.
 Rat	Rat
 Dr.	Dr.
-GeorgFroehlich	GeorgFroehlich
+Georg	Georg
+Froehlich	Froehlich
 <g/>
 ,
 Sektionsrat	Sektionsrat
 Dr.	Dr.
-EgbertMannlicher	EgbertMannlicher
+Egbert	Egbert
+Mannlicher	Mannlicher
 <g/>
 ,
 Oberfinanzrat	Oberfinanzrat
 Dr.	Dr.
-KarlMoser	KarlMoser
+Karl	Karl
+Moser	Moser
 <g/>
 ,
 Min	Min
 .	.
 Vizesekretär	Vizesekretär
 Dr.	Dr.
-KurtFrieberger	KurtFrieberger
+Kurt	Kurt
+Frieberger	Frieberger
 <g/>
 ,
 als	als
 Schriftführer	Schriftführer
 <p>
-DerVorsitzendeerteilt	DerVorsitzendeerteiln
+Der	der
+Vorsitzende	vorsitzend
+erteilt	erteilen
 nach	nach
 Eröffnung	Eröffnung
 der	der
 Sitzung	Sitzung
 dem	der
-BerichterstatterClessindas	BerichterstatterClessindas
+Berichterstatter	Berichterstatter
+Clessin	Clessin
+das	der
 Wort	Wort
 <g/>
 ,
@@ -145,41 +167,60 @@ gewinnen	gewinnen
 Zur	zu
 Beratung	Beratung
 liegen	liegen
+vor	vor
 <g/>
-vor:1.)der
+:
+1.	1.
+<g/>
+)
+der	der
 Entwurf	Entwurf
 <g/>
 ,
-dergemeinsamvomStaatskanzler	dergemeinsamvomStaatskanzler
+der	der
+gemeinsam	gemeinsam
+vom	von
+Staatskanzler	Staatskanzler
 Dr.	Dr.
 Renner	Renner
 und	und
 Staatssekretär	Staatssekretär
 Dr.	Dr.
-Mayrverfaßt	Mayrverfaßt
+Mayr	Mayr
+verfaßt	verfassen
 wurde	werden
 <g/>
 (
 Renner-Mayr	Renner-Mayr
+Entwurf	Entwurf
 <g/>
-Entwurf);2.)der
+)
+<g/>
+;
+2.	2.
+<g/>
+)
+der	der
 Entwurf	Entwurf
 <g/>
 ,
 der	der
 auf	auf
 Grund	Grund
-derLinzer	derLinzer
-Verhandlungenin	Verhandlungenin
+der	der
+Linzer	Linzer
+Verhandlungen	Verhandlung
+in	in
 Form	Form
 einer	ein
 Gegenüberstellung	Gegenüberstellung
 der	der
 Entwürfe	Entwürfe
 des	der
-StaatssekretärsDr	StaatssekretärsDr
-.	.
-Mayrund	Mayrund
+Staatssekretärs	Staatssekretär
+Dr.	Dr.
+Mayr	Mayr
+und	und
 der	der
 <g/>
 soz.-dem
@@ -192,11 +233,22 @@ Danneberg	Danneberg
 <g/>
 )
 abgefaßt	abfassen
+ist	sein
 <g/>
-ist;3.)der
+;
+3.	3.
+<g/>
+)
+der	der
 Entwurf	Entwurf
-dergroßdeutschenVereinigung	dergroßdeutschenVereinigung
-und4.)der	und4.)der
+der	der
+großdeutschen	großdeutsch
+Vereinigung	Vereinigung
+und	und
+4.	4.
+<g/>
+)
+der	der
 Entwurf	Entwurf
 des	der
 Dr.	Dr.
@@ -268,9 +320,13 @@ Angelegenheiten	Angelegenheit
 in	in
 denen	der
 die	der
-Gesetzgebungunddie	Gesetzgebungunddie
+Gesetzgebung	Gesetzgebung
+und	und
+die	der
 Vollziehung	Vollziehung
-demBundzustehen	demBundzustehen
+dem	der
+Bund	Bund
+zustehen	zustehen
 <g/>
 ,
 B	B
@@ -281,10 +337,16 @@ Angelegenheiten	Angelegenheit
 ,
 in	in
 denen	der
-dieGesetzgebung	dieGesetzgebung
+die	der
+Gesetzgebung	Gesetzgebung
 dem	der
-Bundeund	Bundeund
-dieVollziehungdenLändernzusteht	dieVollziehungdenLändernzusteht
+Bunde	Bund
+und	und
+die	der
+Vollziehung	Vollziehung
+den	der
+Ländern	Land
+zusteht	zustehen
 <g/>
 ,
 C	C
@@ -295,10 +357,12 @@ Angelegenheiten	Angelegenheit
 ,
 in	in
 denen	der
-demBunde	demBund
+dem	der
+Bunde	Bund
 nur	nur
 die	der
-grundsätzlicheGesetzgebung	grundsätzlicheGesetzgebung
+grundsätzliche	grundsätzlich
+Gesetzgebung	Gesetzgebung
 <g/>
 ,
 den	der
@@ -311,7 +375,8 @@ Ausführungsgesetze	Ausführungsgesetz
 und	und
 die	der
 Vollziehung	Vollziehung
-zustehen	zustehen
+zusteh	zusteh
+en	en
 <g/>
 .
 </p>
@@ -382,7 +447,9 @@ Generaldebatte	Generaldebatte
 <g/>
 ,
 die	der
-derVorsitzendedaraufhin	derVorsitzendedaraufhin
+der	der
+Vorsitzende	vorsitzend
+daraufhin	daraufhin
 eröffnet	eröffnen
 <g/>
 ,
@@ -398,7 +465,9 @@ die	der
 Länder	Land
 nach	nach
 langwierigen	langwierig
-VerhandlungenderSystematik	VerhandlungenderSystematik
+Verhandlungen	Verhandlung
+der	der
+Systematik	Systematik
 seines	sein
 Entwurfes	Entwurf
 <g/>
@@ -414,7 +483,7 @@ nach	nach
 dem	der
 Entwurf	Entwurf
 Dr.	Dr.
-Dannebergs	Dannebergs
+Dannebergs	Danneberg
 ergänzt	ergänzen
 wurde	werden
 <g/>
@@ -450,7 +519,7 @@ Beamten	Beamter
 der	der
 Verfassungs-	Verfassung
 und	und
-Verwaltungsabteilungerfolgt	Verwaltungsabteilungerfolgen
+Verwaltungsabteilungerfolgt	Verwaltungsabteilungerfolgt
 <g/>
 ,
 wobei	wobei
@@ -461,7 +530,9 @@ wurde	werden
 unter	unter
 Heranziehung	Heranziehung
 zuständiger	zuständig
-Fachleute	Fachleute
+Fach	Fach
+l	l
+eute	eute
 ein	ein
 haltbares	haltbar
 und	und
@@ -510,9 +581,13 @@ der	der
 Kompetenzen	Kompetenz
 bereits	bereits
 den	der
-Wirkungskreisjedes	Wirkungskreisjedes
-einzelnenkünftigen	einzelnenkünftig
-Bundesministeriumsfestlegen	Bundesministeriumsfestlegen
+Wirkungskreis	Wirkungskreis
+jedes	jeder
+einzelnen	einzeln
+künftigen	künftig
+Bundesministeri	Bundesministeri
+ums	um
+festlegen	festlegen
 wollte	wollen
 <g/>
 ,
@@ -553,7 +628,8 @@ besteht	bestehen
 ,
 in	in
 der	der
-Verfassungden	Verfassungden
+Verfassung	Verfassung
+den	der
 Wirkungskreis	Wirkungskreis
 der	der
 Ministerien	Ministerium
@@ -563,7 +639,9 @@ zu	zu
 bringen	bringen
 <g/>
 ,
-derdochvielfachen	derdochvielfach
+der	der
+doch	doch
+vielfachen	vielfach
 Aenderungen	Aenderung
 unterliegt	unterliegen
 <g/>
@@ -726,9 +804,10 @@ lassen	lassen
 .
 </p>
 <p>
-AuchDr	auchDr
-.	.
-Seipelbeantragt	Seipelbeantragn
+Auch	auch
+Dr.	Dr.
+Seipel	Seipel
+beantragt	beantragen
 <g/>
 ,
 sich	sich
@@ -736,7 +815,7 @@ mit	mit
 der	der
 Systematik	Systematik
 der	der
-letzteren	letzterer
+letzteren	letzter
 Entwürfe	Entwürfe
 einverstanden	einverstanden
 zu	zu
@@ -744,7 +823,9 @@ erklären	erklären
 <g/>
 ,
 worauf	worauf
-derBerichterstatterdie	derBerichterstatterdie
+der	der
+Berichterstatter	Berichterstatter
+die	der
 Notwendigkeit	Notwendigkeit
 einer	ein
 Rahmengesetzgebung	Rahmengesetzgebung
@@ -758,8 +839,10 @@ er	er
 mit	mit
 Beispielen	Beispiel
 aus	aus
-früherer	früh
-Zeitbelegt	Zeitbelegen
+früher	früh
+er	er
+Zeit	Zeit
+belegt	belegen
 <g/>
 .
 </p>
@@ -773,7 +856,8 @@ Min	Min
 .	.
 Rat	Rat
 Dr.	Dr.
-Froehlichdarauf	Froehlichdarauf
+Froehlich	Froehlich
+darauf	darauf
 <g/>
 ,
 daß	daß
@@ -801,7 +885,9 @@ wären	sein
 <g/>
 ,
 daß	daß
-aberandererseitsauch	aberandererseitsauch
+aber	aber
+andererseits	andererseits
+auch	auch
 Angelegenheiten	Angelegenheit
 in	in
 der	der
@@ -827,16 +913,19 @@ Verwaltungsgerichtsbarkeit	Verwaltungsgerichtsbarkeit
 <p>
 Prof.	Prof.
 Dr.	Dr.
-Kelsenfügt	Kelsenfügt
+Kelsen	Kelsen
+fügt	fügen
 hinzu	hinzu
 <g/>
 ,
 daß	daß
 zwardie	zwardie
 Linzer	Linzer
-Entwürfewie	Entwürfewie
+Entwürfe	Entwürfe
+wie	wie
 alle	aller
-übrigenmangelhaft	übrigenmangelhaft
+übrigen	übrig
+mangelhaft	mangelhaft
 und	und
 reformbedürftig	reformbedürftig
 seien	sein
@@ -865,7 +954,9 @@ nicht	nicht
 durchführen	durchführen
 lasse	lassen
 und	und
-Unstimmigkeitenim	Unstimmigkeitenim
+Unstimmigkeit	Unstimmigkeit
+en	en
+im	in
 Gefolge	Gefolge
 habe	haben
 <g/>
@@ -902,16 +993,20 @@ Der	der
 Vorsitzende	vorsitzend
 bringt	bringen
 hierauf	hierauf
-denAntrag	denAntrag
+den	der
+Antrag	Antrag
 Dr.	Dr.
-Seipelzur	Seipelzur
+Seipel	Seipel
+zur	zu
 Abstimmung	Abstimmung
 <g/>
 ,
 daß	daß
 die	der
 Dreiteilung	Dreiteilung
-beizubehalten	beibehalten
+beizu	beizu
+be	be
+halten	halten
 sei	sein
 <g/>
 ,
@@ -975,7 +1070,9 @@ der	der
 großdeutsche	großdeutsch
 Entwurf	Entwurf
 wird	werden
-sichunschwer	sichunschwer
+sich	sich
+un	un
+schwer	schwer
 mitbehandeln	mitbehandeln
 lassen	lassen
 <g/>
@@ -986,7 +1083,8 @@ Entwurf	Entwurf
 als	als
 Grundlage	Grundlage
 der	der
-Verhandlungzu	Verhandlungzu
+Verhandlung	Verhandlung
+zu	zu
 nehmen	nehmen
 <g/>
 ,
@@ -1000,7 +1098,8 @@ wird	werden
 im	in
 Art	Art
 .	.
-10nur	10nur
+10	10
+nur	nur
 teilweise	teilweise
 behandelte	behandelt
 Dinge	Ding
@@ -1010,10 +1109,24 @@ Art	Art
 .	.
 11	11
 zu	zu
+behandeln	behandeln
 <g/>
-behandeln.(Angenommen).Der
-Vorsitzendeleitet	Vorsitzendeleiten
-hieraufdieEinzelberatungen	hieraufdieEinzelberatung
+.
+<g/>
+(
+Angenommen	Angenommen
+<g/>
+)
+<g/>
+.
+D	D
+er	er
+Vorsitzende	vorsitzend
+leitet	leiten
+hierauf	hierauf
+die	der
+Einzel	Einzel
+beratungen	Beratung
 ein	ein
 und	und
 das	der
@@ -1046,8 +1159,12 @@ und	und
 Vollziehung	Vollziehung
 in	in
 folgenden	folgend
+Angelegenheiten	Angelegenheit
 <g/>
-Angelegenheiten“.Im
+“
+<g/>
+.
+Im	in
 Folgenden	Folgenden
 haben	haben
 dann	dann
@@ -1073,11 +1190,16 @@ Wort	Wort
 Ausland	Ausland
 <g/>
 "
+einzufügen	einfügen
 <g/>
-einzufügen:„insbesondere
+:
+<g/>
+„
+insbesondere	insbesondere
 der	der
 Abschluß	Abschluß
-allerStaatsverträge	allerStaatsverträge
+aller	aller
+Staatsverträge	Staatsvertrag
 <g/>
 “
 <g/>
@@ -1087,9 +1209,10 @@ zwar	zwar
 nach	nach
 Anschauung	Anschauung
 des	der
-StaatssekretärsDr	StaatssekretärsDr
-.	.
-Mayrnicht	Mayrnicht
+Staatssekretärs	Staatssekretär
+Dr.	Dr.
+Mayr	Mayr
+nicht	nicht
 notwendig	notwendig
 sei	sein
 <g/>
@@ -1103,14 +1226,16 @@ des	der
 Staatsamtes	Staatsamt
 für	für
 Aeußeres	Aeußere
-entgegenkomme	entgegenkommen
+entgegenkomm	entgegenkomm
+e	e
 <g/>
 .
 Nachdem	nachdem
 auch	auch
 Prof.	Prof.
 Dr.	Dr.
-Kelsendiesen	Kelsendies
+Kelsen	Kelsen
+diesen	dieser
 Vorschlag	Vorschlag
 unterstützt	unterstützen
 <g/>
@@ -1130,7 +1255,8 @@ zeige	zeigen
 <g/>
 ,
 wird	werden
-derAntrag	derAntrag
+der	der
+Antrag	Antrag
 angenommen	annehmen
 <g/>
 .
@@ -1155,9 +1281,10 @@ sei	sein
 <g/>
 ,
 wobei	wobei
-StaatssekretärDr	StaatssekretärDr
-.	.
-Mayrauf	Mayrauf
+Staatssekretär	Staatssekretär
+Dr.	Dr.
+Mayr	Mayr
+auf	auf
 die	der
 Schwierigkeit	Schwierigkeit
 hinweist	hinweisen
@@ -1196,7 +1323,9 @@ solches	solcher
 Gesetz	Gesetz
 zu	zu
 beschließen	beschließen
-hätten	haben
+h	h
+ätt	ätt
+en	en
 <g/>
 ,
 nicht	nicht
@@ -1218,7 +1347,8 @@ können	können
 .
 Prof.	Prof.
 Dr.	Dr.
-Kelsengibt	Kelsengibt
+Kelsen	Kelsen
+gibt	geben
 zu	zu
 bedenken	bedenken
 <g/>
@@ -1237,11 +1367,17 @@ auch	auch
 kein	kein
 Instrument	Instrument
 dafür	dafür
-haben;schonaus	haben;schonaus
+haben	haben
+<g/>
+;
+schon	schon
+aus	aus
 politischen	politisch
-Gründenwürde	Gründenwürde
+Gründen	Grund
+würde	werden
 es	es
-sichnicht	sichnicht
+sich	sich
+nicht	nicht
 empfehlen	empfehlen
 <g/>
 ,
@@ -1257,10 +1393,10 @@ stellen	stellen
 <g/>
 .
 Auch	auch
-StaatssekretärDr	StaatssekretärDr
-<g/>
-.
-Mayrmöchte	Mayrmöchte
+Staatssekretär	Staatssekretär
+Dr.	Dr.
+Mayr	Mayr
+möchte	möchten
 nur	nur
 das	der
 unbedingt	unbedingt
@@ -1270,6 +1406,7 @@ aufnehmen	aufnehmen
 .
 </p>
 <p>
+	
 Punkt	Punkt
 2	2
 wird	werden
@@ -1280,7 +1417,8 @@ Fassung	Fassung
 angenommen	annehmen
 <g/>
 ,
-nurwird	nurwird
+nur	nur
+wird	werden
 über	über
 Antrag	Antrag
 desVorsitzenden	desVorsitzender
@@ -1304,9 +1442,10 @@ gesetzt	setzen
 .
 </p>
 <p>
-BeiPkt	BeiPkt
-.	.
-3entwickelt	3entwickeln
+Bei	bei
+Pkt.	Pkt.
+3	3
+entwickelt	entwickeln
 sich	sich
 über	über
 die	der
@@ -1325,14 +1464,16 @@ Min	Min
 .	.
 Rat	Rat
 Dr.	Dr.
-Froehlichund	Froehlichund
+Froehlich	Froehlich
+und	und
 Sekt	Sekt
 <g/>
 .
 Rat	Rat
 .	.
 Dr.	Dr.
-Mannlicherden	Mannlicherden
+Mannlicher	Mannlicher
+den	der
 Wert	Wert
 der	der
 Führung	Führung
@@ -1358,7 +1499,10 @@ begründen	begründen
 <g/>
 ,
 Dr.	Dr.
-DannebergundM.Elderschaber	DannebergundM.Elderschaber
+Danneberg	Danneberg
+und	und
+M.Eldersch	M.Eldersch
+aber	aber
 der	der
 Anschauung	Anschauung
 sind	sein
@@ -1418,9 +1562,10 @@ gebunden	binden
 werden	werden
 <g/>
 .
-StaatssekretärDr	StaatssekretärDr
-.	.
-Mayrerklärt	Mayrerklärt
+Staatssekretär	Staatssekretär
+Dr.	Dr.
+Mayr	Mayr
+erklärt	erklären
 <g/>
 ,
 er	er
@@ -1442,9 +1587,10 @@ Bürgerlisten	Bürgerliste
 spreche	sprechen
 <g/>
 ,
-währendDr	währendDr
-.	.
-Seipelgegen	Seipelgegen
+während	während
+Dr.	Dr.
+Seipel	Seipel
+gegen	gegen
 eine	ein
 Streichung	Streichung
 des	der
@@ -1467,7 +1613,9 @@ sei	sein
 <p>
 Da	da
 auch	auch
-derVorsitzendeden	derVorsitzendeden
+der	der
+Vorsitzende	vorsitzend
+den	der
 Beisatz	Beisatz
 nicht	nicht
 für	für
@@ -1483,7 +1631,11 @@ Wahlangelegenheitenund	Wahlangelegenheitenund
 Volksabstimmungen	Volksabstimmung
 Bundessache	Bundessache
 sei	sein
-unddaherdieBundesregierungdie	unddaherdieBundesregierungdie
+und	und
+daher	daher
+die	der
+Bundesregierung	Bundesregierung
+die	der
 Anlegung	Anlegung
 einer	ein
 Bürgerliste	Bürgerliste
@@ -1491,16 +1643,20 @@ verfügen	verfügen
 könne	können
 <g/>
 ,
-wirdPunkt	wirdPunkt
+wird	werden
+Punkt	Punkt
 3	3
 in	in
 der	der
 Fassung	Fassung
 des	der
-Entwurfesangenommen	Entwurfesangenommen
+Entwurfes	Entwurf
+angenommen	annehmen
 <g/>
 ,
-jedochentfälltder	jedochentfälltder
+jedoch	jedoch
+entfällt	entfallen
+der	der
 Nachsatz	Nachsatz
 <g/>
 „
@@ -1519,8 +1675,10 @@ Bürgerliste	Bürgerliste
 <p>
 Am	an
 Beginne	Beginn
-desPunktes	desPunkt
-4hat	4hat
+des	der
+Punktes	Punkt
+4	4
+hat	haben
 im	in
 Gegensatz	Gegensatz
 zur	zu
@@ -1528,7 +1686,8 @@ sonstigen	sonstig
 Streichung	Streichung
 der	der
 bestimmte	bestimmt
-Artikelvor	Artikelvor
+Artikel	Artikel
+vor	vor
 dem	der
 Worte	Wort
 <g/>
@@ -1546,7 +1705,9 @@ des	der
 übrigen	übrig
 Wortlautes	Wortlaut
 verweist	verweisen
-derVorsitzendeauf	derVorsitzendeauf
+der	der
+Vorsitzende	vorsitzend
+auf	auf
 den	der
 Renner	Renner
 <g/>
@@ -1595,9 +1756,11 @@ Bunde	Bund
 <g/>
 ,
 den	der
-Ländernund	Ländernund
+Ländern	Land
+und	und
 den	der
-Gemeindenzustehen	Gemeindenzustehen
+Gemeinden	Gemeinde
+zustehen	zustehen
 <g/>
 ;
 Regelung	Regelung
@@ -1624,17 +1787,25 @@ zu	zu
 den	der
 Ausgaben	Ausgabe
 der	der
-Länderund	Länderund
+Länder	Land
+und	und
+Gemeinden	Gemeinde
 <g/>
-Gemeinden.")Dr
-.	.
-Dannebergschließt	Dannebergschließt
+.
+<g/>
+"
+<g/>
+)
+Dr.	Dr.
+Danneberg	Danneberg
+schließt	schließen
 sich	sich
 der	der
 Anschauung	Anschauung
 Dr.	Dr.
 Renner	Renner
-’s	’s
+<g/>
+’s
 an	an
 <g/>
 ,
@@ -1702,7 +1873,8 @@ wäre	sein
 .
 Prof.	Prof.
 Dr.	Dr.
-Kelsenmeint	Kelsenmeint
+Kelsen	Kelsen
+meint	meinen
 in	in
 verfassungstechnischer	verfassungstechnisch
 Hinsicht	Hinsicht
@@ -1740,7 +1912,9 @@ gegenübergestellt	gegenüberstellen
 Dem	der
 gegenüber	gegenüber
 verweist	verweisen
-derVorsitzendeauf	derVorsitzendeauf
+der	der
+Vorsitzende	vorsitzend
+auf	auf
 die	der
 stete	stet
 Forderung	Forderung
@@ -1816,9 +1990,10 @@ behandeln	behandeln
 .
 </p>
 <p>
-StaatssekretärDr	StaatssekretärDr
-.	.
-Mayrwürde	Mayrwürde
+Staatssekretär	Staatssekretär
+Dr.	Dr.
+Mayr	Mayr
+würde	werden
 es	es
 für	für
 praktischer	praktisch
@@ -1926,7 +2101,9 @@ verfügt	verfügen
 .
 </p>
 <p>
-DerVorsitzendewiderspricht	DerVorsitzendewiderspricht
+Der	der
+Vorsitzende	vorsitzend
+widerspricht	widersprechen
 dieser	dieser
 Auffassung	Auffassung
 <g/>
@@ -1962,7 +2139,9 @@ dem	der
 Bunde	Bund
 das	der
 Recht	Recht
-gewahrt	wahren
+gew	gew
+a	a
+hrt	hrt
 werden	werden
 <g/>
 ,
@@ -2009,7 +2188,8 @@ gewährt	gewähren
 <g/>
 .
 M.	M.
-Elderschfügt	Elderschfügt
+Eldersch	Eldersch
+fügt	fügen
 hinzu	hinzu
 <g/>
 ,
@@ -2033,9 +2213,10 @@ müssen	müssen
 </p>
 <p>
 Nachdem	nachdem
-StaatssekretärDr	StaatssekretärDr
-.	.
-Mayrerwähnt	Mayrerwähnt
+Staatssekretär	Staatssekretär
+Dr.	Dr.
+Mayr	Mayr
+erwähnt	erwähnen
 <g/>
 ,
 daß	daß
@@ -2056,7 +2237,9 @@ nehmen	nehmen
 müssen	müssen
 <g/>
 ,
-derVorsitzendedie	derVorsitzendedie
+der	der
+Vorsitzende	vorsitzend
+die	der
 Frage	Frage
 meritorisch	meritorisch
 derzeit	derzeit
@@ -2065,29 +2248,35 @@ unlösbar	unlösbar
 bezeichnet	bezeichnen
 und	und
 die	der
-vomStaatssekretär	vomStaatssekretär
+vom	von
+Staatssekretär	Staatssekretär
 Dr.	Dr.
-Mayrangekündigte	Mayrangekündigte
+Mayr	Mayr
+angekündigte	angekündigt
 Vorlage	Vorlage
 geeigneten	geeignet
 Studienmaterials	Studienmaterial
 begrüßt	begrüßen
 <g/>
 ,
-beantragtDr	beantragtDr
-.	.
-Seipelim	Seipelim
+beantragt	beantragen
+Dr.	Dr.
+Seipel	Seipel
+im	in
 Sinne	Sinn
 einer	ein
-AnregungFinks	AnregungFink
+AnregungFin	AnregungFin
+ks	ks
 den	der
-AntragDr	AntragDr
-.	.
-Dannebergszu	Dannebergszu
+Antrag	Antrag
+Dr.	Dr.
+Dannebergs	Danneberg
+zu	zu
 vertragen	vertragen
 <g/>
 ,
-welcherAntrag	welcherAntrag
+welcher	welcher
+Antrag	Antrag
 angenommen	annehmen
 wird	werden
 <g/>
@@ -2095,19 +2284,23 @@ wird	werden
 Im	in
 übrigen	übrig
 wird	werden
-derPkt	derPkt
-<g/>
-.
-4imWortlaut	4imWortlaut
+der	der
+Pkt.	Pkt.
+4	4
+im	in
+Wortlaut	Wortlaut
 angenommen	annehmen
 <g/>
 .
-Ebensoauch	Ebensoauch
+Ebenso	ebenso
+auch	auch
 Pkt.	Pkt.
 <g/>
 5,nachdem
-einAntrag	einAntrag
-Clessinsauf	Clessinsauf
+ein	ein
+Antrag	Antrag
+Clessins	Clessin
+auf	auf
 Einschaltung	Einschaltung
 der	der
 Worte	Wort
@@ -2139,10 +2332,12 @@ Debatte	Debatte
 an	an
 der	der
 sich	sich
-derVorsitzende	derVorsitzende
+der	der
+Vorsitzende	vorsitzend
 <g/>
 ,
-Fink	Fink
+Fin	Fin
+k	k
 <g/>
 ,
 Dr.	Dr.
@@ -2156,10 +2351,12 @@ Eldersch	Eldersch
 S.	S.
 R.	R.
 Dr.	Dr.
-MannlicherundProf	MannlicherundProf
-.	.
+Mannlicher	Mannlicher
+und	und
+Prof.	Prof.
 Dr.	Dr.
-Kelsenbeteiligten	Kelsenbeteiligten
+Kelsen	Kelsen
+beteiligten	beteiligen
 <g/>
 ,
 abgelehnt	ablehnen
@@ -2167,13 +2364,18 @@ wird	werden
 <g/>
 .
 Insbesondere	insbesondere
-diebeidenletzteren	diebeidenletzterer
+die	der
+beiden	beide
+letzteren	letzterer
 machen	machen
 dagegen	dagegen
 geltend	geltend
 <g/>
 ,
-daßdie	daßdie
+da	da
+<g/>
+ß
+die	der
 Stellung	Stellung
 der	der
 Länder	Land
@@ -2185,9 +2387,11 @@ Bundes	Bund
 <g/>
 ,
 soweit	soweit
-sieTräger	sieTräger
+sie	sie
+Träger	Träger
 von	von
-Privatrechtensind	Privatrechtensind
+Privatrechten	Privatrecht
+sind	sein
 <g/>
 ,
 durch	durch
@@ -2248,19 +2452,23 @@ müssen	müssen
 .
 </p>
 <p>
+	
 Pkt.	Pkt.
-<g/>
-6wird
-imWortlaut	imWortlaut
-angenommendesgleichenPkt	angenommendesgleichenPkt
-.	.
+6	6
+wird	werden
+im	in
+Wortlaut	Wortlaut
+angenommen	annehmen
+desgleichen	desgleichen
+Pkt.	Pkt.
 7	7
 <g/>
 ,
 in	in
-denDr	denDr
-.	.
-Dannebergdas	Dannebergdas
+den	der
+Dr.	Dr.
+Danneberg	Danneberg
+das	der
 Kraftfahrwesen	Kraftfahrwesen
 aufgenommen	aufnehmen
 sehen	sehen
@@ -2293,7 +2501,9 @@ sei	sein
 <g/>
 ;
 so	so
-habeauch	habeauchn
+ha	ha
+be	be
+auch	auch
 die	der
 Schweiz	Schweiz
 eine	ein
@@ -2314,7 +2524,11 @@ den	der
 Hauptlinien	Hauptlinie
 der	der
 Reichsstraßen	Reichsstraße
-werdegeschehen	werdegeschehenn
+w	w
+e	e
+rd	rd
+e	e
+geschehen	geschehen
 müssen	müssen
 <g/>
 .
@@ -2347,8 +2561,10 @@ den	der
 Straßen	Straße
 <g/>
 ,
-weshalbdas	weshalbdas
-Kraftfahrwesenim	Kraftfahrwesenim
+weshalb	weshalb
+das	der
+Kraftfahrwesen	Kraftfahrwesen
+im	in
 Einvernehmen	Einvernehmen
 mit	mit
 dem	der
@@ -2365,7 +2581,9 @@ wurde	werden
 </p>
 <p>
 Wesentliche	Wesentliche
-Abänderungenbetreffen	Abänderungenbetreff
+Abänderungen	Abänderung
+be	be
+treffen	treffen
 den	der
 Pkt.	Pkt.
 8	8
@@ -2374,7 +2592,8 @@ Art	Art
 .	.
 10.	10.
 Hiezu	Hiezu
-bemerktStaatssekretär	bemerktStaatssekretär
+bemerkt	bemerken
+Staatssekretär	Staatssekretär
 Dr.	Dr.
 Mayr	Mayr
 <g/>
@@ -2421,11 +2640,13 @@ hat	haben
 sich	sich
 die	der
 sozialdemokratische	sozialdemokratisch
-Parteian	Parteian
+Partei	Partei
+an	an
 der	der
 Fassung	Fassung
 dieser	dieser
-Beschlüssenicht	Beschlüssenicht
+Beschlüsse	Beschluß
+nicht	nicht
 beteiligt	beteiligen
 <g/>
 .
@@ -2441,22 +2662,31 @@ an	an
 der	der
 sich	sich
 außer	außer
-demStaatssekretär	demStaatssekretär
+dem	der
+Staatssekretär	Staatssekretär
 <g/>
 ,
-demVorsitzendenund	demVorsitzendenund
-demBerichterstatterauch	demBerichterstatterauch
+dem	der
+Vorsitzenden	vorsitzend
+und	und
+dem	der
+Berichterstatter	Berichterstatter
+auch	auch
 die	der
-KomitéemitgliederEldersch	KomitéemitgliederEldersch
+Komitéemitglieder	Komitéemitglieder
+Eldersch	Eldersch
 <g/>
 ,
-Fink	Fink
+Fin	Fin
+k	k
 <g/>
 ,
 Dr.	Dr.
-SeipelundDr	SeipelundDr
-.	.
-Aignerbeteiligen	Aignerbeteiligen
+Seipel	Seipel
+und	und
+Dr.	Dr.
+Aigner	Aigner
+beteiligen	beteiligen
 <g/>
 ,
 wird	werden
@@ -2497,7 +2727,8 @@ aber	aber
 dadurch	dadurch
 eine	ein
 einheitliche	einheitlich
-undsystematische	undsystematisch
+und	und
+systematische	systematisch
 Verwertung	Verwertung
 sämtlicher	sämtlich
 Wasserkräfte	Wasserkraft
@@ -2660,7 +2891,9 @@ Wasserrechtswesen	Wasserrechtswesen
 “
 sowie	sowie
 der	der
-AntragElderschauf	AntragElderschauf
+Antrag	Antrag
+Eldersch	Eldersch
+auf	auf
 Aufnahme	Aufnahme
 der	der
 Worte	Wort

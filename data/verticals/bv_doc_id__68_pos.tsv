@@ -6,6 +6,7 @@ einer	ein
 Verfassung	Verfassung
 </head>
 <p>
+	
 unter	unter
 Mitwirkung	Mitwirkung
 von	von
@@ -489,7 +490,9 @@ in	in
 den	der
 übertragenen	übertragen
 Angelegenheiten	Angelegenheit
-entweder1.die	entweder1.die
+entweder	entweder
+1.	1.
+die	der
 ausschließliche	ausschließlich
 Gesetzgebung	Gesetzgebung
 und	und
@@ -501,7 +504,9 @@ ausschließlicher	ausschließlich
 Wirkungskreis	Wirkungskreis
 <g/>
 )
-oder2.nur	oder2.nur
+oder	oder
+2.	2.
+nur	nur
 die	der
 Gesetzgebung	Gesetzgebung
 und	und
@@ -526,7 +531,9 @@ grundlegender	grundlegend
 Wirkungskreis	Wirkungskreis
 <g/>
 )
-oder3.nur	oder3.nur
+oder	oder
+3.	3.
+nur	nur
 die	der
 gesetzliche	gesetzlich
 Festlegung	Festlegung
@@ -719,7 +726,11 @@ und	und
 Verwaltung	Verwaltung
 über	über
 folgende	folgend
-Angelegenheiten:1.Die	Angelegenheiten:1.Die
+Angelegenheiten	Angelegenheit
+<g/>
+:
+1.	1.
+Die	der
 Bundesverfassung	Bundesverfassung
 <g/>
 ,
@@ -732,7 +743,11 @@ Bundesgesetze	Bundesgesetz
 die	der
 Organisation	Organisation
 der	der
-Bundesbehörden.2.Die	Bundesbehörden.2.Die
+Bundesbehörden	Bundesbehörde
+<g/>
+.
+2.	2.
+Die	der
 Beziehungen	Beziehung
 zum	zu
 Ausland	Ausland
@@ -773,7 +788,11 @@ Verkehrs	Verkehr
 zwischen	zwischen
 den	der
 einzelnen	einzeln
-Bundesländern.3.Das	Bundesländern.3.Das
+Bundesländern	Bundesland
+<g/>
+.
+3.	3.
+Das	der
 Bundesheer	Bundesheer
 und	und
 die	der
@@ -786,7 +805,11 @@ Verkehr	Verkehr
 mit	mit
 Schießpulver	Schießpulver
 und	und
-Sprengstoffen.4.Die	Sprengstoffen.4.Die
+Sprengstoffen	Sprengstoff
+<g/>
+.
+4.	4.
+Die	der
 Erhebung	Erhebung
 der	der
 Anklage	Anklage
@@ -805,7 +828,11 @@ Bundesregierung	Bundesregierung
 wegen	wegen
 Verletzung	Verletzung
 der	der
-Verfassung.5.Die	Verfassung.5.Die
+Verfassung	Verfassung
+<g/>
+.
+5.	5.
+Die	der
 Regelung	Regelung
 der	der
 Ein-	Ein
@@ -832,7 +859,11 @@ Statistik	Statistik
 des	der
 Gesundheits-	Gesundheit
 und	und
-Veterinärwesens.6.Das	Veterinärwesens.6.Das
+Veterinärwesens	Veterinärwesen
+<g/>
+.
+6.	6.
+Das	der
 Münzwesen	Münzwesen
 <g/>
 ,
@@ -852,7 +883,11 @@ Länderbanken	Länderbank
 Agrarbanken	Agrarbank
 und	und
 gewerblichen	gewerblich
-Kreditanstalten.7.Maße	Kreditanstalten.7.Maße
+Kreditanstalten	Kreditanstalt
+<g/>
+.
+7.	7.
+Maße	Maß
 und	und
 Gewichte	Gewicht
 <g/>
@@ -869,7 +904,11 @@ Patente	Patent
 Urheberrechte	Urheberrecht
 <g/>
 ,
-Punzierungswesen.8.Das	Punzierungswesen.8.Das
+Punzierungswesen	Punzierungswesen
+<g/>
+.
+8.	8.
+Das	der
 Bundesverkehrswesen	Bundesverkehrswesen
 <g/>
 :
@@ -907,7 +946,11 @@ Kraftfahrzeuge	Kraftfahrzeug
 Bundesbahnen	Bundesbahn
 <g/>
 ,
-Bundesstraßen.9.Bergbauangelegenheiten	Bundesstraßen.9.Bergbauangelegenheiten
+Bundesstraßen	Bundesstraße
+<g/>
+.
+9.	9.
+Bergbauangelegenheiten	Bergbauangelegenheit
 <g/>
 ,
 Energiewirtschaft	Energiewirtschaft
@@ -924,13 +967,21 @@ und	und
 Regelung	Regelung
 der	der
 technischen	technisch
-Gebrauchsformen.10.Das	Gebrauchsformen.10.Das
+Gebrauchsformen	Gebrauchsform
+<g/>
+.
+10.	10.
+Das	der
 Volks-	Volk
 <g/>
 ,
 Mittel-	Mittel
 und	und
-Hochschulwesen.11.Das	Hochschulwesen.11.Das
+Hochschulwesen	Hochschulwesen
+<g/>
+.
+11.	11.
+Das	der
 Bundesfinanzwesen	Bundesfinanzwesen
 <g/>
 :
@@ -1019,8 +1070,11 @@ daß	daß
 Doppelbesteuerung	Doppelbesteuerung
 zu	zu
 vermeiden	vermeiden
+ist	sein
 <g/>
-ist.12.Das
+.
+12.	12.
+Das	der
 bürgerliche	bürgerlich
 Recht	Recht
 <g/>
@@ -1040,7 +1094,11 @@ Gefällsstrafrecht	Gefällsstrafrecht
 ,
 das	der
 gerichtliche	gerichtlich
-Verfahren.13.Arbeitsrecht	Verfahren.13.Arbeitsrecht
+Verfahren	Verfahren
+<g/>
+.
+13.	13.
+Arbeitsrecht	Arbeitsrecht
 <g/>
 ,
 Arbeitsschutz	Arbeitsschutz
@@ -1058,7 +1116,13 @@ Sozialversicherung	Sozialversicherung
 (
 Art	Art
 .	.
-36).14.Preßrecht	36).14.Preßrecht
+36	36
+<g/>
+)
+<g/>
+.
+14.	14.
+Preßrecht	Preßrecht
 <g/>
 .
 </p>
@@ -1083,7 +1147,11 @@ grundlegenden	grundlegend
 Wirkungskreis	Wirkungskreis
 des	der
 Bundes	Bund
-gehören:1.Die	gehören:1.Die
+gehören	gehören
+<g/>
+:
+1.	1.
+Die	der
 Organisation	Organisation
 der	der
 Behörde	Behörde
@@ -1105,12 +1173,20 @@ der	der
 Rechte	Recht
 der	der
 öffentlichen	öffentlich
-Angestellten.2.Das	Angestellten.2.Das
+Angestellten	angestellter
+<g/>
+.
+2.	2.
+Das	der
 Versicherungswesen	Versicherungswesen
 mit	mit
 Ausnahme	Ausnahme
 der	der
-Sozialversicherung.3.Das	Sozialversicherung.3.Das
+Sozialversicherung	Sozialversicherung
+<g/>
+.
+3.	3.
+Das	der
 Fürsorgewesen	Fürsorgewesen
 <g/>
 ,
@@ -1134,9 +1210,17 @@ Mutterschaft	Mutterschaft
 ,
 Säuglings-	Säuglings
 und	und
-Jugendfürsorge.4.Volkswohnungs-	Jugendfürsorge.4.Volkswohnungs-
+Jugendfürsorge	Jugendfürsorge
+<g/>
+.
+4.	4.
+Volkswohnungs-	Volkswohnungs
 und	und
-Heimstättenwesen.5.Das	Heimstättenwesen.5.Das
+Heimstättenwesen	Heimstättenwesen
+<g/>
+.
+5.	5.
+Das	der
 Handel-	Handel
 und	und
 Gewerbewesen	Gewerbewesen
@@ -1151,7 +1235,11 @@ Börsenwesens	Börsenwesen
 Bekämpfung	Bekämpfung
 des	der
 unlauteren	unlauter
-Wettbewerbes.6.Die	Wettbewerbes.6.Die
+Wettbewerbes	Wettbewerb
+<g/>
+.
+6.	6.
+Die	der
 Gesetzgebung	Gesetzgebung
 über	über
 Berufsverbände	Berufsverband
@@ -1159,7 +1247,11 @@ Berufsverbände	Berufsverband
 ,
 Planwirtschaft	Planwirtschaft
 und	und
-Enteignung.7.Der	Enteignung.7.Der
+Enteignung	Enteignung
+<g/>
+.
+7.	7.
+Der	der
 Verkehr	Verkehr
 mit	mit
 Nahrungs-	Nahrung
@@ -1168,18 +1260,38 @@ Genußmitteln	Genußmittel
 sowie	sowie
 mit	mit
 notwendigen	notwendig
-Bedarfsgegenständen.8.Das	Bedarfsgegenständen.8.Das
+Bedarfsgegenständen	Bedarfsgegenstand
+<g/>
+.
+8.	8.
+Das	der
 Vereins-	Verein
 und	und
-Versammlungsrecht.9.Die	Versammlungsrecht.9.Die
+Versammlungsrecht	Versammlungsrecht
+<g/>
+.
+9.	9.
+Die	der
 Regelung	Regelung
 der	der
-Religionsgesellschaften.10.Personalstandsangelegenheiten	Religionsgesellschaften.10.Personalstandsangelegenheit
+Religionsgesellschaften	Religionsgesellschaft
+<g/>
+.
+10.	10.
+Personalstandsangelegenheiten	Personalstandsangelegenheit
 <g/>
 ,
 einschließlich	einschließlich
 der	der
-Matrikenführung.11.Vermessungswesen.12.Bestattungswesen	Matrikenführung.11.Vermessungswesen.12.Bestattungswesen
+Matrikenführung	Matrikenführung
+<g/>
+.
+11.	11.
+Vermessungswesen	Vermessungswesen
+<g/>
+.
+12.	12.
+Bestattungswesen	Bestattungswesen
 <g/>
 .
 </p>
@@ -1201,16 +1313,36 @@ grundsätzlichen	grundsätzlich
 Wirkungskreis	Wirkungskreis
 des	der
 Bundes	Bund
-gehört:1.Das	gehört:1.Das
+gehört	gehören
+<g/>
+:
+1.	1.
+Das	der
 Heimatrecht	Heimatrecht
 und	und
 das	der
-Landesbürgerrecht.2.Das	Landesbürgerrecht.2.Das
-Forstwesen.3.Das	Forstwesen.3.Das
-Agrarwesen.4.Das	Agrarwesen.4.Das
+Landesbürgerrecht	Landesbürgerrecht
+<g/>
+.
+2.	2.
+Das	der
+Forstwesen	Forstwesen
+<g/>
+.
+3.	3.
+Das	der
+Agrarwesen	Agrarwesen
+<g/>
+.
+4.	4.
+Das	der
 Fach-	Fach
 und	und
-Fortbildungsschulwesen.5.Das	Fortbildungsschulwesen.5.Das
+Fortbildungsschulwesen	Fortbildungsschulwesen
+<g/>
+.
+5.	5.
+Das	der
 Bankwesen	Bankwesen
 <g/>
 ,
@@ -1221,9 +1353,21 @@ in	in
 den	der
 ausschließlichen	ausschließlich
 Wirkungskreis	Wirkungskreis
-fällt.6.Das	fällt.6.Das
-Bauwesen.7.Das	Bauwesen.7.Das
-Ernährungswesen.8.Das	Ernährungswesen.8.Das
+fällt	fallen
+<g/>
+.
+6.	6.
+Das	der
+Bauwesen	Bauwesen
+<g/>
+.
+7.	7.
+Das	der
+Ernährungswesen	Ernährungswesen
+<g/>
+.
+8.	8.
+Das	der
 Wasserrechtwesen	Wasserrechtwesen
 <g/>
 .
@@ -4234,7 +4378,9 @@ Bundespräsidenten	Bundespräsident
 .
 </head>
 <p>
-1.Er	1.Er
+	
+1.	1.
+Er	er
 vertritt	vertreten
 den	der
 Bund	Bund
@@ -4270,7 +4416,9 @@ Frieden	Frieden
 ;
 </p>
 <p>
-2.er	2.er
+	
+2.	2.
+er	er
 hat	haben
 den	der
 Oberbefehl	Oberbefehl
@@ -4281,7 +4429,9 @@ Heer	Heer
 ;
 </p>
 <p>
-3.er	3.er
+	
+3.	3.
+er	er
 ernennt	ernennen
 die	der
 Offiziere	Offizier
@@ -4299,7 +4449,9 @@ Regierung	Regierung
 ;
 </p>
 <p>
-4.er	4.er
+	
+4.	4.
+er	er
 ernennt	ernennen
 über	über
 Vorschlag	Vorschlag
@@ -4331,7 +4483,9 @@ Stellvertreter	Stellvertreter
 ;
 </p>
 <p>
-5.er	5.er
+	
+5.	5.
+er	er
 genehmigt	genehmigen
 und	und
 veröffentlicht	veröffentlichen
@@ -4391,7 +4545,9 @@ Gesetzes	Gesetz
 ;
 </p>
 <p>
-6.er	6.er
+	
+6.	6.
+er	er
 ordnet	ordnen
 die	der
 Wahlen	Wahl
@@ -4434,7 +4590,9 @@ Bundestages	Bundestag
 ;
 </p>
 <p>
-7.er	7.er
+	
+7.	7.
+er	er
 übt	üben
 das	der
 dem	der
@@ -4451,7 +4609,9 @@ aus	aus
 ;
 </p>
 <p>
-8.er	8.er
+	
+8.	8.
+er	er
 hat	haben
 das	der
 Recht	Recht
@@ -4463,7 +4623,9 @@ Einzelfällen	Einzelfall
 ;
 </p>
 <p>
-9.er	9.er
+	
+9.	9.
+er	er
 verfügt	verfügen
 mit	mit
 Zustimmung	Zustimmung
@@ -4859,7 +5021,9 @@ Bundesrates	Bundesrat
 .
 </head>
 <p>
-1.Über	1.Über
+	
+1.	1.
+Über	über
 Verlangen	verlangen
 des	der
 Bundesrates	Bundesrat
@@ -4881,7 +5045,9 @@ erscheinen	erscheinen
 .
 </p>
 <p>
-2.Regierungsvorlagen	2.Regierungsvorlage
+	
+2.	2.
+Regierungsvorlagen	Regierungsvorlage
 können	können
 nur	nur
 mit	mit
@@ -4894,7 +5060,9 @@ werden	werden
 .
 </p>
 <p>
-3.Beschlüsse	3.Beschlüsse
+	
+3.	3.
+Beschlüsse	Beschluß
 des	der
 Bundestages	Bundestag
 sind	sein
@@ -4925,7 +5093,9 @@ verweigert	verweigern
 .
 </p>
 <p>
-4.Die	4.Die
+	
+4.	4.
+Die	der
 Verhängung	Verhängung
 des	der
 Ausnahmszustandes	Ausnahmszustand
@@ -4938,7 +5108,9 @@ Bundesrates	Bundesrat
 .
 </p>
 <p>
-5.Die	5.Die
+	
+5.	5.
+Die	der
 Auflösung	Auflösung
 des	der
 Bundestages	Bundestag
@@ -5766,6 +5938,7 @@ Art	Art
 57	57
 </head>
 <head>
+	
 Immunität	Immunität
 der	der
 Berichte	Bericht
@@ -5810,7 +5983,11 @@ Bundestages	Bundestag
 <p>
 Dem	der
 Bundestage	Bundestag
-obliegt:1.Die	obliegt:1.Die
+obliegt	obliegen
+<g/>
+:
+1.	1.
+Die	der
 Mitwirkung	Mitwirkung
 bei	bei
 der	der
@@ -5838,7 +6015,11 @@ Form	Form
 von	von
 Gesetzen	Gesetz
 zu	zu
-erfolgen.2.Die	erfolgen.2.Die
+erfolgen	erfolgen
+<g/>
+.
+2.	2.
+Die	der
 Erstattung	Erstattung
 des	der
 Vorschlages	Vorschlag
@@ -5850,9 +6031,17 @@ unter	unter
 Namhaftmachung	Namhaftmachung
 von	von
 3	3
-Bewerbern.3.Ablehnung	Bewerbern.3.Ablehnung
+Bewerbern	Bewerber
+<g/>
+.
+3.	3.
+Ablehnung	Ablehnung
 der	der
-Bundesminister.4.Das	Bundesminister.4.Das
+Bundesminister	Bundesminister
+<g/>
+.
+4.	4.
+Das	der
 Recht	Recht
 <g/>
 ,
@@ -5892,7 +6081,11 @@ Untersuchungsgerichtes	Untersuchungsgericht
 nach	nach
 der	der
 St.-P.-O.	St.-P.-O.
-zukommen.5.Das	zukommen.5.Das
+zukommen	zukommen
+<g/>
+.
+5.	5.
+Das	der
 Recht	Recht
 <g/>
 ,
@@ -6102,15 +6295,27 @@ Dem	der
 Volksentscheid	Volksentscheid
 ist	sein
 zu	zu
-unterziehen:1.Die	unterziehen:1.Die
+unterziehen	unterziehen
+<g/>
+:
+1.	1.
+Die	der
 Änderung	Änderung
 oder	oder
 Aufhebung	Aufhebung
 der	der
-Verfassung;2.der	Verfassung;2.der
+Verfassung	Verfassung
+<g/>
+;
+2.	2.
+der	der
 Abschluß	Abschluß
 der	der
-Friedensverträge;3.die	Friedensverträge;3.die
+Friedensverträge	Friedensvertrag
+<g/>
+;
+3.	3.
+die	der
 Absetzung	Absetzung
 des	der
 Bundespräsidenten	Bundespräsident
@@ -6958,7 +7163,12 @@ Gericht	Gericht
 ,
 Hoch-	Hoch
 und	und
-Mittelschule.)V.	Mittelschule.)V.
+Mittelschule	Mittelschule
+<g/>
+.
+<g/>
+)
+V.	V.
 Hauptteil	Hauptteil
 <g/>
 .
@@ -6973,6 +7183,7 @@ Art	Art
 73.	73.
 </head>
 <head>
+	
 Wirtschaftliche	Wirtschaftliche
 Organisation	Organisation
 <g/>
@@ -7114,14 +7325,22 @@ Wirkungskreis	Wirkungskreis
 der	der
 Bezirkswirtschaftskammer	Bezirkswirtschaftskammer
 ist	sein
-folgender:1.Beratung	folgender:1.Beratung
+folgender	folgend
+<g/>
+:
+1.	1.
+Beratung	Beratung
 aller	aller
 wirtschaftlichen	wirtschaftlich
 und	und
 sozialpolitischen	sozialpolitisch
 Angelegenheiten	Angelegenheit
 des	der
-Bezirkes;2.Erstattung	Bezirkes;2.Erstattung
+Bezirkes	Bezirk
+<g/>
+;
+2.	2.
+Erstattung	Erstattung
 von	von
 Gutachten	Gutachten
 und	und
@@ -7131,13 +7350,21 @@ Fällen	Fall
 der	der
 Sozialisierung	Sozialisierung
 und	und
-Planwirtschaft;3.Entscheidung	Planwirtschaft;3.Entscheidung
+Planwirtschaft	Planwirtschaft
+<g/>
+;
+3.	3.
+Entscheidung	Entscheidung
 über	über
 Beschwerden	Beschwerde
 gegen	gegen
 Beschlüsse	Beschluß
 der	der
-Betriebsräte;4.die	Betriebsräte;4.die
+Betriebsräte	Betriebsrat
+<g/>
+;
+4.	4.
+die	der
 Durchführung	Durchführung
 der	der
 Geschäfte	Geschäft
@@ -7154,7 +7381,11 @@ Schlichtung	Schlichtung
 von	von
 Arbeit-	Arbeit
 und	und
-Lohnstreitigkeiten;5.die	Lohnstreitigkeiten;5.die
+Lohnstreitigkeiten	Lohnstreitigkeit
+<g/>
+;
+5.	5.
+die	der
 Entsendung	Entsendung
 von	von
 Laieräten	Laierät
@@ -7227,7 +7458,11 @@ Zum	zu
 Wirkungskreis	Wirkungskreis
 der	der
 Landeswirtschaftskammer	Landeswirtschaftskammer
-gehören:1.Die	gehören:1.Die
+gehören	gehören
+<g/>
+:
+1.	1.
+Die	der
 Vorberatung	Vorberatung
 aller	aller
 sozialpolitischen	sozialpolitisch
@@ -7271,7 +7506,11 @@ weiter	weiter
 an	an
 das	der
 Gutachten	Gutachten
-gebunden.2.Die	gebunden.2.Die
+gebunden	binden
+<g/>
+.
+2.	2.
+Die	der
 Antragstellung	Antragstellung
 auf	auf
 Erlassung	Erlassung
@@ -7291,14 +7530,22 @@ durch	durch
 ein	ein
 Mitglied	Mitglied
 der	der
-Landeswirtschaftskammer.3.Die	Landeswirtschaftskammer.3.Die
+Landeswirtschaftskammer	Landeswirtschaftskammer
+<g/>
+.
+3.	3.
+Die	der
 Entscheidung	Entscheidung
 über	über
 Beschwerden	Beschwerde
 gegen	gegen
 Verfügungen	Verfügung
 der	der
-Bezirkswirtschaftskammern.4.Die	Bezirkswirtschaftskammern.4.Die
+Bezirkswirtschaftskammern	Bezirkswirtschaftskammer
+<g/>
+.
+4.	4.
+Die	der
 Entsendung	Entsendung
 von	von
 Beiräten	Beirat
@@ -7374,7 +7621,11 @@ Zum	zu
 Wirkungskreis	Wirkungskreis
 der	der
 Reichswirtschaftskammer	Reichswirtschaftskammer
-gehören:1.Die	gehören:1.Die
+gehören	gehören
+<g/>
+:
+1.	1.
+Die	der
 Vorberatung	Vorberatung
 aller	aller
 sozialpolitischen	sozialpolitisch
@@ -7431,7 +7682,11 @@ weiter	weiter
 an	an
 das	der
 Gutachten	Gutachten
-gebunden.2.Die	gebunden.2.Die
+gebunden	binden
+<g/>
+.
+2.	2.
+Die	der
 Antragstellung	Antragstellung
 auf	auf
 Erlassung	Erlassung
@@ -7451,7 +7706,11 @@ durch	durch
 ein	ein
 Mitglied	Mitglied
 der	der
-Reichswirtschaftskammer.3.Die	Reichswirtschaftskammer.3.Die
+Reichswirtschaftskammer	Reichswirtschaftskammer
+<g/>
+.
+3.	3.
+Die	der
 Entscheidung	Entscheidung
 über	über
 Beschwerden	Beschwerde
@@ -7460,7 +7719,11 @@ Verfügungen	Verfügung
 und	und
 Entscheidungen	Entscheidung
 der	der
-Landeswirtschaftskammer.4.Die	Landeswirtschaftskammer.4.Die
+Landeswirtschaftskammer	Landeswirtschaftskammer
+<g/>
+.
+4.	4.
+Die	der
 Entsendung	Entsendung
 von	von
 Laieräten	Laierät
@@ -8807,7 +9070,9 @@ Das	der
 Bundesverfassungsgericht	Bundesverfassungsgericht
 hat	haben
 zu	zu
-entscheiden1.Über	entscheiden1.Über
+entscheiden	entscheiden
+1.	1.
+Über	über
 Kompetenzkonflikte	Kompetenzkonflikt
 zwischen	zwischen
 den	der
@@ -8820,7 +9085,11 @@ Verwaltungsbehörden	Verwaltungsbehörde
 ,
 bezw	bezw
 .	.
-Verwaltungsgerichten.2.Über	Verwaltungsgerichten.2.Über
+Verwaltungsgerichten	Verwaltungsgericht
+<g/>
+.
+2.	2.
+Über	über
 Kompetenzkonflikte	Kompetenzkonflikt
 zwischen	zwischen
 der	der
@@ -8831,7 +9100,11 @@ Landesregierung	Landesregierung
 oder	oder
 zwischen	zwischen
 Landesregierungen	Landesregierung
-untereinander.3.Über	untereinander.3.Über
+untereinander	untereinander
+<g/>
+.
+3.	3.
+Über	über
 die	der
 Frage	Frage
 <g/>
@@ -8844,7 +9117,11 @@ Bundes-	Bunde
 oder	oder
 Landesverordnungen	Landesverordnung
 gesetzwidrig	gesetzwidrig
-sind.4.Über	sind.4.Über
+sind	sein
+<g/>
+.
+4.	4.
+Über	über
 die	der
 Anfechtung	Anfechtung
 von	von
@@ -8857,7 +9134,11 @@ des	der
 Mandatsverlustes	Mandatsverlust
 bei	bei
 öffentlichen	öffentlich
-Vertretungskörpern.5.Über	Vertretungskörpern.5.Über
+Vertretungskörpern	Vertretungskörper
+<g/>
+.
+5.	5.
+Über	über
 die	der
 Anklage	Anklage
 gegen	gegen
@@ -9095,7 +9376,11 @@ Zum	zu
 Wirkungskreis	Wirkungskreis
 des	der
 Rechnungshofes	Rechnungshof
-gehört:1.Die	gehört:1.Die
+gehört	gehören
+<g/>
+:
+1.	1.
+Die	der
 Gegenzeichnung	Gegenzeichnung
 aller	aller
 Urkunden	Urkund
@@ -9124,7 +9409,9 @@ und	und
 rechnungsmäßigen	rechnungsmäßig
 Richtigkeit	Richtigkeit
 der	der
-Gebarung2.Die	Gebarung2.Die
+Gebarung	Gebarung
+2.	2.
+Die	der
 Abfassung	Abfassung
 des	der
 Bundesrechnungsabschlusses	Bundesrechnungsabschluss

@@ -139,8 +139,10 @@ Präsenzenzliste	Präsenzenzliste
 <g/>
 (
 Beilage	Beilage
+1.	1.
 <g/>
-1.)Gegen
+)
+Gegen	gegen
 11	11
 Uhr	Uhr
 30	30
@@ -149,7 +151,8 @@ v.m	v.m
 .	.
 Abg	Abg
 .	--
-Clessinbeantragt	Clessinbeantragen
+Clessin	Clessin
+beantragt	beantragen
 vor	vor
 Eingang	Eingang
 in	in
@@ -168,8 +171,7 @@ Dinghofer	Dinghofer
 u.	u.
 Genossen	Genosse
 betrffd	betrffd
-<g/>
-.
+.	.
 die	der
 Durchführung	Durchführung
 einer	ein
@@ -219,7 +221,8 @@ der	der
 Großdeutschen	Großdeutschen
 Mitglieder	Mitglied
 des	der
-Ausschussesabgelehnt	Ausschussesabgelehnt
+Ausschusses	Ausschuß
+abgelehnt	ablehnen
 <g/>
 .
 </p>
@@ -232,17 +235,20 @@ die	der
 Tagsordnung	Tagsordnung
 eingegangen	eingehen
 u.	u.
-erstattetAbg	erstattetAbg
+erstattet	erstatten
+Abg	Abg
 .	.
 Dr.	Dr.
-Seipelals	Seipelal
+Seipel	Seipel
+als	als
 Referent	Referent
 des	der
 Unterauschusses	Unterauschuß
 den	der
 Bericht	Bericht
 über	über
-denEntwurf	denEntwurf
+den	der
+Entwurf	Entwurf
 eines	ein
 Gesetzes	Gesetz
 <g/>
@@ -269,12 +275,15 @@ Beratungen	Beratung
 am	an
 15.	15.
 September	September
-1920.	1920.
+1920	1920
+<g/>
+.
 Abg	Abg
 <g/>
 .
 Seipel	Seipel
-beantragtdas	beantragtdas
+beantragt	beantragen
+das	der
 Eingehen	eingehen
 in	in
 die	der
@@ -291,11 +300,12 @@ Worte	Wort
 meldet	melden
 <g/>
 .
-Angenommen	Angenommen
+Angenommen	Annehmen
 <g/>
 .
 </p>
 <p>
+	
 Es	es
 wird	werden
 in	in
@@ -306,6 +316,7 @@ eingegangen	eingehen
 .
 </p>
 <p>
+	
 Artikel	Artikel
 1	1
 wird	werden
@@ -314,9 +325,11 @@ beschlossen	beschließen
 .
 </p>
 <p>
+	
 Zum	zu
 Artikel	Artikel
-2sprechen	2sprechen
+2	2
+sprechen	sprechen
 Abg	Abg
 .	.
 Dr.	Dr.
@@ -327,7 +340,9 @@ Abg	Abg
 .	.
 	
 Dr.	Dr.
-SchönbauerAbs.1	SchönbauerAbs.1
+Schönbauer	Schönbauer
+Abs.	Abs.
+1	1
 u.	u.
 2	2
 des	der
@@ -356,6 +371,7 @@ beschlossen	beschließen
 .
 </p>
 <p>
+	
 Artikel	Artikel
 3	3
 wird	werden
@@ -379,15 +395,16 @@ Fink	Fink
 <g/>
 .
 Abg	Abg
-.	.
-Austerlitzbeantragt	Austerlitzbeantragn
+<g/>
+.
+Austerlitz	Austerlitz
+beantragt	beantragen
 in	in
 Abs.	Abs.
 2	2
 ds	ds
 .	.
-<g/>
-Art.=
+Art.=	Art.=
 identisch	identisch
 mit	mit
 vorherigem	vorherig
@@ -434,6 +451,7 @@ streichen	streichen
 .
 </p>
 <p>
+	
 Abs.	Abs.
 1	1
 u.	u.
@@ -447,18 +465,21 @@ beschlossen	beschließen
 .
 </p>
 <p>
+	
 Art	Art
 .	.
 3b	3b
 beschlossen	beschließen
 </p>
 <p>
+	
 Art	Art
 .	.
 4	4
 beschlossen	beschließen
 </p>
 <p>
+	
 Art	Art
 .	.
 4a	4a
@@ -469,6 +490,7 @@ beschlossen	beschließen
 .
 </p>
 <p>
+	
 Als	als
 Überschrift	Überschrift
 für	für
@@ -501,6 +523,7 @@ beschlossen	beschließen
 .
 </p>
 <p>
+	
 Art	Art
 .	.
 6a	6a
@@ -532,6 +555,7 @@ verschoben	verschieben
 .
 </p>
 <p>
+	
 Über	über
 formalen	formal
 Antrag	Antrag
@@ -571,7 +595,8 @@ berichtet	berichten
 zunächst	zunächst
 über	über
 den	der
-MinoritätsantragFink	MinoritätsantragFink
+Minoritätsantrag	Minoritätsantrag
+Fink	Fink
 u.	u.
 Genossen	Genosse
 zu	zu
@@ -593,7 +618,8 @@ abgelehnt	ablehnen
 .
 Abg	Abg
 .	--
-Dannebergberichtet	Dannebergberichten
+Danneberg	Danneberg
+berichtet	berichten
 über	über
 den	der
 Minoritätsantrag	Minoritätsantrag
@@ -601,7 +627,9 @@ der	der
 Sozialdemokraten	Sozialdemokrat
 zu	zu
 Artikel	Artikel
-3.Dieser	3.Dieser
+<g/>
+3.
+Dieser	dieser
 Minoritätsantrag	Minoritätsantrag
 Danneberg	Danneberg
 und	und
@@ -620,12 +648,16 @@ Blge	Blge
 )
 <g/>
 .
-Abg	Abg
-.	.
+A	a
+bg	bg
+<g/>
+.
 Dr	Dr
-Seipelberichtet	Seipelberichten
+Seipel	Seipel
+berichtet	berichten
 über	über
-Artikel12a	Artikel12a
+Artikel	Artikel
+12a	12a
 <g/>
 .
 Artikel	Artikel
@@ -636,6 +668,7 @@ beschlossen	beschließen
 .
 </p>
 <p>
+	
 Artikel	Artikel
 13	13
 beschlossen	beschließen
@@ -643,6 +676,7 @@ beschlossen	beschließen
 .
 </p>
 <p>
+	
 Artikel	Artikel
 13a	13a
 beschlossen	beschließen
@@ -650,6 +684,7 @@ beschlossen	beschließen
 .
 </p>
 <p>
+	
 Artikel	Artikel
 14	14
 beschlossen	beschließen
@@ -661,7 +696,8 @@ Beratung	Beratung
 Artikel	Artikel
 14a	14a
 wird	werden
-aufgeschobenÜberschrift	aufgeschobenÜberschrift
+aufgeschoben	aufgeschoben
+Überschrift	Überschrift
 <g/>
 „
 Organe	Organ
@@ -673,6 +709,7 @@ aus	aus
 .
 </p>
 <p>
+	
 Artikel	Artikel
 14b	14b
 <g/>
@@ -687,6 +724,7 @@ beschlossen	beschließen
 .
 </p>
 <p>
+	
 Artikel	Artikel
 14f	14f
 u.	u.
@@ -698,6 +736,7 @@ beschlossen	beschließen
 .
 </p>
 <p>
+	
 Die	der
 Matrie	Matrie
 der	der
@@ -715,6 +754,7 @@ verhandelt	verhandeln
 .
 </p>
 <p>
+	
 Überschrift	Überschrift
 beschlossen	beschließen
 <g/>
@@ -735,12 +775,16 @@ beschlossen	beschließen
 .
 </p>
 <p>
-ZuArtikel	ZuArtikel
-20.	20.
-beantragtAbg	beantragtAbg
+Zu	zu
+Artikel	Artikel
+20	20
+.	.
+beantragt	beantragen
+Abg	Abg
 <g/>
 .
-Danneberges	Danneberge
+Danneberg	Danneberg
+es	es
 sei	sein
 in	in
 zweiter	zweiter
@@ -799,7 +843,10 @@ beschlossen	beschließen
 Abg	Abg
 <g/>
 .
-Dannebergstellt	Dannebergstellen
+Dan	Dan
+n	n
+eberg	eberg
+stellt	stellen
 zu	zu
 Artikel	Artikel
 26	26
@@ -826,24 +873,38 @@ streichen	streichen
 u.	u.
 den	der
 Satz	Satz
-hinzuzufügen:"auf	hinzuzufügen:"auf
+hinzuzufügen	hinzufügen
+<g/>
+:
+<g/>
+"
+auf	auf
 die	der
-Bürgerzahl	Bürgerzahl
+Bürger	Bürger
+zahl	Zahl
 des	der
 kleinsten	klein
 Landes	Land
 fällt	fallen
 je	je
 ein	ein
+Vertreter	Vertreter
 <g/>
-Vertreter."ferner
+.
+<g/>
+"
+ferner	ferner
 den	der
 Abs	Abs
 3	3
 zu	zu
-streichen.gefallen	streichen.gefallen
+streichen	streichen
+<g/>
+.
+gefallen	fallen
 </p>
 <p>
+	
 Artikel	Artikel
 26	26
 in	in
@@ -857,6 +918,7 @@ beschlossen	beschließen
 .
 </p>
 <p>
+	
 Artikel	Artikel
 27	27
 u	u
@@ -1012,6 +1074,7 @@ werden	werden
 beschlossen	beschließen
 </p>
 <p>
+	
 Überschrift	Überschrift
 <g/>
 "
@@ -1046,7 +1109,8 @@ beschlossen	beschließen
 Gerichtsbarkeit	Gerichtsbarkeit
 <g/>
 "
-sowieArtikel	sowieArtikel
+sowie	sowie
+Artikel	Artikel
 72–84	72–84
 werden	werden
 beschlossen	beschließen
@@ -1058,12 +1122,14 @@ Min	Min
 Sek	Sek
 .	.
 Dr.	Dr.
-Suchomelschlägt	Suchomelschlägt
+Suchomel	Suchomel
+schlägt	schlagen
 vor	vor
 <g/>
 ,
 in	in
-Artikel76	Artikel76
+Artikel	Artikel
+76	76
 <g/>
 ,
 Art	Art
@@ -1086,9 +1152,9 @@ Gerichtsverfassungsgesetze	Gerichtsverfassungsgesetz
 als	als
 überflüssig	überflüssig
 zu	zu
-streichenAbg	streichenAbg
-<g/>
-.
+streichen	streichen
+Abg	Abg
+.	--
 Dr	Dr
 Seipel	Seipel
 nimmt	nehmen
@@ -1104,6 +1170,7 @@ angenommen	annehmen
 .
 </p>
 <p>
+	
 Überschríft	Überschríft
 samt	samt
 Untertitel	Untertitel
@@ -1117,6 +1184,7 @@ beschlossen	beschließen
 .
 </p>
 <p>
+	
 Artikel	Artikel
 85–91	85–91
 sind	sein
@@ -1125,6 +1193,7 @@ beschlossen	beschließen
 .
 </p>
 <p>
+	
 Artikel	Artikel
 92	92
 wird	werden
@@ -1143,14 +1212,17 @@ Absatz	Absatz
 2	2
 des	der
 Aktes	Akt
-2dem	2dem
-Berichterstatternoch	Berichterstatternoch
+2	2
+dem	der
+Berichterstatter	Berichterstatter
+noch	noch
 vorbehalten	vorbehalten
 bleibt	bleiben
 <g/>
 .
 </p>
 <p>
+	
 Artikel	Artikel
 92a	92a
 <g/>
@@ -1170,6 +1242,7 @@ beschlossen	beschließen
 .
 </p>
 <p>
+	
 Überschrift	Überschrift
 des	der
 nächsten	nächster
@@ -1187,6 +1260,7 @@ beschlossen	beschließen
 .
 </p>
 <p>
+	
 Artikel	Artikel
 97	97
 <g/>
@@ -1204,6 +1278,7 @@ beschlossen	beschließen
 .
 </p>
 <p>
+	
 Überschrift	Überschrift
 C	C
 <g/>
@@ -1217,12 +1292,14 @@ wird	werden
 beschlossen	beschließen
 </p>
 <p>
+	
 Artikel	Artikel
 97a–97f	97a–97f
 werden	werden
 beschlossen	beschließen
 </p>
 <p>
+	
 Art	Art
 .	.
 97.e	97.e
@@ -1256,6 +1333,7 @@ Vertreter	Vertreter
 .
 </p>
 <p>
+	
 Abg	Abg
 <g/>
 .
@@ -1342,11 +1420,13 @@ Abs.	Abs.
 ressümiert	ressümieren
 </p>
 <p>
+	
 Eventualantrag	Eventualantrag
 Fink	Fink
 beschlossen	beschließen
 </p>
 <p>
+	
 Überschrift	Überschrift
 u.	u.
 Untertitel	Untertitel
@@ -1358,6 +1438,7 @@ werden	werden
 beschlossen	beschließen
 </p>
 <p>
+	
 Abg	Abg
 <g/>
 .
@@ -1368,11 +1449,15 @@ beantragt	beantragen
 daß	daß
 Artikel	Artikel
 103a	103a
-entfalle.gefallen	entfalle.gefallenn
+entfalle	entfallen
+<g/>
+.
+gefallen	fallen
 <g/>
 .
 </p>
 <p>
+	
 Artikel	Artikel
 98–107	98–107
 sind	sein
@@ -1381,6 +1466,7 @@ beschlossen	beschließen
 .
 </p>
 <p>
+	
 Überschrift	Überschrift
 des	der
 VI	VI
@@ -1394,6 +1480,7 @@ beschlossen	beschließen
 .
 </p>
 <p>
+	
 Es	es
 wird	werden
 nochmals	nochmals
@@ -1456,7 +1543,8 @@ vor	vor
 <g/>
 ,
 hier	hier
-dieWorte	dieWort
+die	der
+Worte	Wort
 <g/>
 "
 zur	zu
@@ -1486,19 +1574,28 @@ die	der
 Reassumierung	Reassumierung
 der	der
 früheren	früh
-Beschlußfassung.angenommen	Beschlußfassung.angenommen
+Beschlußfassung	Beschlußfassung
+<g/>
+.
+angenommen	annehmen
 <g/>
 .
 Abg	Abg
 <g/>
 .
-Dannebergnimmt	Dannebergnimmt
+Danneberg	Danneberg
+nimmt	nehmen
 den	der
 Vorschlag	Vorschlag
 des	der
 Prof.	Prof.
 Kelsen	Kelsen
-alsAntragauf.gefallen	alsAntragauf.gefallen
+als	als
+Antrag	Antrag
+auf	auf
+<g/>
+.
+gefallen	fallen
 <g/>
 .
 Die	der
@@ -1568,12 +1665,13 @@ beschlossen	beschließen
 Abg	Abg
 .	.
 Austerlitz	Austerlitz
-beantragtzu	beantragtzu
+beantragt	beantragen
+zu	zu
 Artikel	Artikel
 152	152
 statt	statt
 der	der
-Worte	Wort
+Worte	Worte
 <g/>
 "
 bezeichneten	bezeichnet
@@ -1587,7 +1685,10 @@ genannten	genannt
 <g/>
 "
 zu	zu
-ersetzen.angenommen	ersetzen.angenommen
+ersetzen	ersetzen
+<g/>
+.
+angenommen	annehmen
 <g/>
 .
 Artikel	Artikel
@@ -1629,8 +1730,12 @@ dieses	dieser
 Protokolles	Protokoll
 zu	zu
 entnehmen	entnehmen
+sind	sein
 <g/>
-sind.(Blatt
+.
+<g/>
+(
+Blatt	Blatt
 4	4
 wird	werden
 <g/>
@@ -1643,22 +1748,29 @@ nachgebracht	nachbringen
 :)
 </p>
 <p>
+	
 Abg	Abg
-.	.
+.	--
 Dr.	Dr.
-Seipelnimmt	Seipelnimmt
+Seipel	Seipel
+nimmt	nehmen
 diese	dieser
 Vorschläge	Vorschlag
-alsAnträgeauf	alsAnträgeauf
+als	als
+Anträge	Antrag
+auf	auf
 <g/>
 .
 Artikel	Artikel
 158	158
 wird	werden
 mit	mit
-denÄnderungennach	denÄnderungennach
+den	der
+Änderungen	Änderung
+nach	nach
 dem	der
-vorstehendenAntrag	vorstehendenAntrag
+vorstehenden	vorstehend
+Antrag	Antrag
 Dr.	Dr.
 Seipel	Seipel
 beschlossen	beschließen
@@ -1666,13 +1778,16 @@ beschlossen	beschließen
 .
 </p>
 <p>
+	
 Artikel	Artikel
-159wird	159wird
+159	159
+wird	werden
 beschlossen	beschließen
 <g/>
 .
 </p>
 <p>
+	
 Zu	zu
 Artikel	Artikel
 160	160
@@ -1689,11 +1804,15 @@ Datum	Datum
 <g/>
 "
 zu	zu
-setzten.abgelehnt	setzten.abgelehnt
+setzten	setzten
+<g/>
+.
+abgelehnt	ablehnen
 <g/>
 .
 </p>
 <p>
+	
 Artikel	Artikel
 160	160
 u.	u.

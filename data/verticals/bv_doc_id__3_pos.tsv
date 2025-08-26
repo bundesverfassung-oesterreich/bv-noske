@@ -178,7 +178,8 @@ ist	sein
 ,
 ebenso	ebenso
 eine	ein
-Aenderungder	Aenderungder
+Aenderung	Aenderung
+der	der
 Landesgrenze	Landesgrenze
 innerhalb	innerhalb
 des	der
@@ -285,13 +286,28 @@ Staatsgewalt	Staatsgewalt
 in	in
 den	der
 folgenden	folgend
+Angelegenheiten	Angelegenheit
 <g/>
-Angelegenheiten:1)Die
+:
+1	1
+<g/>
+)
+Die	der
 auswärtigen	auswärtig
+Angelegenheiten	Angelegenheit
 <g/>
-Angelegenheiten,2)das
+,
+2	2
 <g/>
-Militärwesen,3)die
+)
+das	der
+Militärwesen	Militärwesen
+<g/>
+,
+3	3
+<g/>
+)
+die	der
 Sicherheitspolizei	Sicherheitspolizei
 in	in
 Gemeinden	Gemeinde
@@ -312,8 +328,13 @@ die	der
 Fremdenpolizei	Fremdenpolizei
 und	und
 das	der
+Passwesen	Passwesen
 <g/>
-Passwesen,4)die
+,
+4	4
+<g/>
+)
+die	der
 Bundesfinanzen	Bundesfinanz
 <g/>
 ,
@@ -323,8 +344,13 @@ und	und
 die	der
 Verwaltung	Verwaltung
 der	der
+Bundesbetriebe	Bundesbetrieb
 <g/>
-Bundesbetriebe,5)das
+,
+5	5
+<g/>
+)
+das	der
 Zollwesen	Zollwesen
 <g/>
 ,
@@ -343,17 +369,39 @@ Industrie	Industrie
 undVerkehr	undVerkehr
 <g/>
 ,
+Bergwesen	Bergwesen
 <g/>
-Bergwesen,6)Mass-
+,
+6	6
+<g/>
+)
+Mass-	Mass
 und	und
 Gewichtswesen	Gewichtswesen
 <g/>
 ,
-Punzierungswesen,7)Zivil-	Punzierungswesen,7)Zivil-
+Punzierungswesen	Punzierungswesen
+<g/>
+,
+7	7
+<g/>
+)
+Zivil-	Zivil
 und	und
-Strafjustiz,8)Kultus	Strafjustiz,8)Kultus
+Strafjustiz	Strafjustiz
+<g/>
+,
+<g/>
+8)
+Kultus	Kultus
 und	und
-Hochschulwesen,9)Volksgesundheit	Hochschulwesen,9)Volksgesundheit
+Hochschulwesen	Hochschulwesen
+<g/>
+,
+9	9
+<g/>
+)
+Volksgesundheit	Volksgesundheit
 und	und
 soziale	sozial
 Fürsorge	Fürsorge
@@ -386,8 +434,13 @@ Gesetzgebung	Gesetzgebung
 des	der
 Bundes	Bund
 ist	sein
+übertragen	übertragen
 <g/>
-übertragen:1)die
+:
+1	1
+<g/>
+)
+die	der
 Aenderung	Aenderung
 der	der
 Bundesverfassung	Bundesverfassung
@@ -402,8 +455,13 @@ der	der
 souveränen	souverän
 Länder	Land
 zum	zu
+Bunde	Bund
 <g/>
-Bunde,2)die
+,
+2	2
+<g/>
+)
+die	der
 Bestimmung	Bestimmung
 der	der
 Art	Art
@@ -419,17 +477,33 @@ Rechtes	Recht
 Abgaben	Abgabe
 abzuschreiben	abschreiben
 und	und
+einzuheben	einheben
 <g/>
-einzuheben,3)die
+,
+3	3
+<g/>
+)
+die	der
 Regelung	Regelung
 des	der
 Staatsbürger-	Staatsbürger
 und	und
-Heimatrechtes,4)die	Heimatrechtes,4)die
+Heimatrechtes	Heimatrecht
+<g/>
+,
+4	4
+<g/>
+)
+die	der
 Regelung	Regelung
 des	der
+Bevölkerungswesens	Bevölkerungswesen
 <g/>
-Bevölkerungswesens,5)die
+,
+5	5
+<g/>
+)
+die	der
 Grundzüge	Grundzug
 der	der
 Verwaltungsorganisation	Verwaltungsorganisation
@@ -448,7 +522,13 @@ der	der
 allgemeinen	allgemein
 Grundsätze	Grundsatz
 des	der
-Verwaltungsstrafrechtes,6)die	Verwaltungsstrafrechtes,6)die
+Verwaltungsstrafrechtes	Verwaltungsstrafrecht
+<g/>
+,
+6	6
+<g/>
+)
+die	der
 Feststellung	Feststellung
 der	der
 Grundsätze	Grundsatz
@@ -794,7 +874,9 @@ stattfindet	stattfinden
 ,
 das	der
 20.	20.
-Lebensjahrüberschrittenhaben	Lebensjahrüberschrittenhaben
+Lebensjahr	Lebensjahr
+überschritten	überschreiten
+haben	haben
 <g/>
 ,
 nach	nach
@@ -1725,8 +1807,10 @@ Bundespräsidenten	Bundespräsident
 einer	ein
 Abstimmung	Abstimmung
 des	der
-gesamtenBundesvolkes	gesamtenBundesvolke
-zuunterziehen	zuunterziehen
+gesamten	gesamt
+Bundesvolkes	Bundesvolke
+zu	zu
+unterziehen	unterziehen
 <g/>
 .
 </p>
@@ -3499,7 +3583,9 @@ verantwortlichen	verantwortlich
 Leiter	Leiter
 zur	zu
 Wahrung	Wahrung
-derEinheit	derEinheit
+der	der
+E	E
+inheit	inheit
 und	und
 Stetigkeit	Stetigkeit
 des	der
@@ -3538,7 +3624,9 @@ Sie	sie
 übt	üben
 die	der
 Befehlsgewalt	Befehlsgewalt
-ausschließlich	ausschließlich
+ausschlie	ausschlie
+ß	ß
+lich	lich
 durch	durch
 die	der
 Befehlshaber	Befehlshaber
@@ -5686,7 +5774,9 @@ Bundesorganen	Bundesorgan
 wahrgenommenen	wahrgenommen
 Angelegenheiten	Angelegenheit
 geht	gehen
-deradministrativeInstanzenzug	deradministrativeInstanzenzug
+der	der
+administrative	administrativ
+Instanzenzug	Instanzenzug
 <g/>
 -
 wenn	wenn
@@ -6393,7 +6483,8 @@ sind	sein
 vom	von
 Präsidenten	Präsident
 des	der
-Bundesrechnungshofesgegenzuzeichnen	Bundesrechnungshofesgegenzuzeichnen
+Bundesrechnungshofes	Bundesrechnungshof
+gegenzuzeichnen	gegenzuzeichnen
 <g/>
 ;
 durch	durch
@@ -7520,7 +7611,9 @@ versammeln	versammeln
 <p>
 Versammlungen	Versammlung
 unter	unter
-freiemHimmel	freiemHimmel
+freie	frei
+m	m
+Himmel	Himmel
 können	können
 durch	durch
 Bundesgesetz	Bundesgesetz
@@ -8201,8 +8294,10 @@ Schulgesetzgebung	Schulgesetzgebung
 geregelt	regeln
 <g/>
 .
-DerReligionsunterricht	DerReligionsunterricht
-wirdin	wirdin
+Der	der
+Religionsunterricht	Religionsunterricht
+wird	werden
+in	in
 Uebereinstimmung	Uebereinstimmung
 mit	mit
 den	der
@@ -8436,7 +8531,8 @@ in	in
 der	der
 Republik	Republik
 Oesterreich	Oesterreich
-istdie	istdie
+ist	sein
+die	der
 deutsche	deutsch
 <g/>
 .
@@ -8600,7 +8696,9 @@ Wo	wo
 eine	ein
 verhältnismäßig	verhältnismäßig
 beträchtliche	beträchtlich
-Anzahlvon	Anzahlvon
+Anzah	Anzah
+l	l
+von	von
 Staatsbürgern	Staatsbürger
 wohnt	wohnen
 <g/>
@@ -9222,7 +9320,10 @@ Länder	Land
 <g/>
 ,
 die	der
-Landesverwaltungsgerichte;b	Landesverwaltungsgerichte;b
+Landesverwaltungsgerichte	Landesverwaltungsgericht
+<g/>
+;
+b	--
 <g/>
 )
 in	in
@@ -9474,6 +9575,7 @@ ausgeschlossen	ausschließen
 :
 </p>
 <p>
+	
 a	a
 <g/>
 )
@@ -9486,8 +9588,10 @@ denordentlichen	denordentlicher
 Gerichten	Gericht
 die	der
 Entscheidung	Entscheidung
+zusteht	zustehen
 <g/>
-zusteht;b
+;
+b	b
 <g/>
 )
 Angelegenheiten	Angelegenheit
@@ -9501,8 +9605,10 @@ zur	zu
 Kompetenz	Kompetenz
 des	der
 Bundesverfassungsgerichtes	Bundesverfassungsgericht
+gehören	gehören
 <g/>
-gehören;c
+;
+c	c
 <g/>
 )
 Angelegenheiten	Angelegenheit
@@ -9518,8 +9624,10 @@ nach	nach
 freiem	frei
 Ermessen	Ermessen
 vorzugehen	vorgehen
+haben	haben
 <g/>
-haben;d
+;
+d	d
 <g/>
 )
 Disziplinarangelegenheiten	Disziplinarangelegenheit
@@ -9641,7 +9749,8 @@ entscheidet	entscheiden
 ferner	ferner
 <g/>
 :
-Kompetenzkonfliktea	Kompetenzkonfliktea
+Kompetenzkonflikte	Kompetenzkonflikt
+a	a
 <g/>
 )
 zwischen	zwischen
@@ -9652,8 +9761,10 @@ des	der
 Bundes	Bund
 oder	oder
 der	der
+Länder	Land
 <g/>
-Länder;b
+;
+b	b
 <g/>
 )
 zwischen	zwischen
@@ -9896,7 +10007,10 @@ des	der
 Bundespräsidenten	Bundespräsident
 und	und
 seiner	sein
-Stellvertreter;b	Stellvertreter;b
+Stellvertreter	Stellvertreter
+<g/>
+;
+b	b
 <g/>
 )
 der	der
@@ -9910,7 +10024,10 @@ hinsichtlich	hinsichtlich
 der	der
 Verantwortlichkeit	Verantwortlichkeit
 gleichgestellten	gleichgestellt
-Organe;c	Organe;c
+Organe	Organ
+<g/>
+;
+c	c
 <g/>
 )
 der	der

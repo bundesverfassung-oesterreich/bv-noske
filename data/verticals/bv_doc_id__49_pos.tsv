@@ -27,11 +27,13 @@ Anwesend	Anwesend
 <g/>
 :
 </p>
+	
 Dr.	Dr.
 Otto	Otto
 Bauer	Bauer
 als	als
-VorsitzenderEinem	VorsitzenderEinem
+Vorsitzender	vorsitzend
+Einem	ein
 Teile	Teil
 der	der
 Sitzung	Sitzung
@@ -43,18 +45,21 @@ bei	bei
 .
 Dr.	Dr.
 Josef	Josef
-AignerHeinrich	AignerHeinrich
-ClessinDr	ClessinDr
-.	.
+Aigner	Aigner
+Heinrich	Heinrich
+Clessin	Clessin
+Dr.	Dr.
 Robert	Robert
-DannebergKarl	DannebergKarl
-LeuthnerDr	LeuthnerDr
-.	.
+Danneberg	Danneberg
+Karl	Karl
+Leuthner	Leuthner
+Dr.	Dr.
 Ignaz	Ignaz
-SeipelDr	SeipelDr
-.	.
+Seipel	Seipel
+Dr.	Dr.
 Richard	Richard
-WeiskirchnerStaatssekretär	WeiskirchnerStaatssekretär
+Weiskirchner	Weiskirchner
+Staatssekretär	Staatssekretär
 Prof.	Prof.
 Dr.	Dr.
 Michael	Michael
@@ -66,19 +71,22 @@ Staatskanzlei	Staatskanzlei
 <g/>
 :
 </p>
+	
 Ministerialrat	Ministerialrat
 Dr.	Dr.
 Geord	Geord
-FroehlichSektionsrat	FroehlichSektionsrat
+Froehlich	Froehlich
+Sektionsrat	Sektionsrat
 Dr.	Dr.
 Egbert	Egbert
-MannlicherMinisterialvizesekretär	MannlicherMinisterialvizesekretär
+Mannlicher	Mannlicher
+Ministerialvizesekretär	Ministerialvizesekretär
 Dr.	Dr.
 Kurt	Kurt
 Frieberger	Frieberger
 als	als
-SchriftführerProf	SchriftführerProf
-.	.
+Schriftführer	Schriftführer
+Prof.	Prof.
 Dr.	Dr.
 Hans	Hans
 Kelsen	Kelsen
