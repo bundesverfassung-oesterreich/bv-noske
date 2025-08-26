@@ -1,208 +1,208 @@
-<doc id="bv_doc_id__87" document_title="Protokoll der 22. Sitzung des Verfassungsausschusses" created_not_before="1920-07-15" created_not_after="1920-07-15" creation_year="1920" state_of_correction="created" document_type="Handschriftlicher Protokolltext" text_type="Sitzungsprotokoll" dataset="Sitzungsprotokolle" attrs="word lemma type">
+<doc id="bv_doc_id__87" document_title="Protokoll der 22. Sitzung des Verfassungsausschusses" created_not_before="1920-07-15" created_not_after="1920-07-15" creation_year="1920" state_of_correction="created" document_type="Handschriftlicher Protokolltext" text_type="Sitzungsprotokoll" dataset="Sitzungsprotokolle" attrs="word lemma">
 <p>
-2292.	2292.													
-KONSTITUIERENDE	KONSTITUIERENDE	Nom				Fem		Sing						
-NATIONALVERSAMMLUNG	NATIONALVERSAMMLUNG	Nom				Fem		Sing						
-DER	DER	Nom				Masc		Sing						
-REPUBLIK	REPUBLIK	Nom				Fem		Sing						
-OSTERREICH	OSTERREICH	Nom				Fem		Sing						
+2292.	2292.
+KONSTITUIERENDE	KONSTITUIERENDE
+NATIONALVERSAMMLUNG	NATIONALVERSAMMLUNG
+DER	DER
+REPUBLIK	REPUBLIK
+OSTERREICH	OSTERREICH
 <g/>
 .
-Verfassungs-Ausschuss	Verfassungs-Ausschuss	Nom				Masc		Sing						
-Protokoll	Protokoll	Nom				Neut		Sing						
-über	über													
-die	der	Acc	Def			Fem		Sing			Art			
-Sitzung	Sitzung	Acc				Fem		Sing						
-am	an	Dat				Masc		Sing						
-15.	15.	Dat		Pos		Masc		Sing						
-Juli	Juli	Dat				Masc		Sing						
-1920	1920													
-Anwesende	Anwesende	Nom						Plur						
+Verfassungs-Ausschuss	Verfassungs-Ausschuss
+Protokoll	Protokoll
+über	über
+die	der
+Sitzung	Sitzung
+am	an
+15.	15.
+Juli	Juli
+1920	1920
+Anwesende	Anwesende
 <g/>
 :
-Seitens	Seitens													
-der	der	Gen	Def			Fem		Sing			Art			
-Regierung	Regierung	Gen				Fem		Sing						
+Seitens	Seitens
+der	der
+Regierung	Regierung
 <g/>
 :
-Hofräte	Hofrat	Nom				Masc		Plur						
-Fröhlich	Fröhlich	Nom				Masc		Sing						
-u.	u.													
-Ruber	Ruber	Nom				Masc		Sing						
-Obmann	Obmann	Nom				Masc		Sing						
+Hofräte	Hofrat
+Fröhlich	Fröhlich
+u.	u.
+Ruber	Ruber
+Obmann	Obmann
 <g/>
 :
-Dr	Dr	Nom				Masc		Sing						
-Seipel	Seipel	Nom				Masc		Sing						
-Obmann	Obmann	Nom				Masc		Sing						
+Dr	Dr
+Seipel	Seipel
+Obmann	Obmann
 <g/>
 =
-Stellvertreter	Stellvertreter	Nom				Masc		Sing						
+Stellvertreter	Stellvertreter
 <g/>
 :
-Schriftführer	Schriftführer	Nom				Masc		Sing						
+Schriftführer	Schriftführer
 <g/>
 :
-Danneberg	Danneberg	Nom				Neut		Sing						
-Mitglieder	Mitglied	Nom				Neut		Plur						
+Danneberg	Danneberg
+Mitglieder	Mitglied
 <g/>
 :
-Berichterst	Berichterst	Nom				Masc		Sing						
+Berichterst	Berichterst
 <g/>
 .
-Dr.	Dr.	Nom				Masc		Sing						
-Adler	Adler	Nom				Masc		Sing						
-beantragt	beantragen						Ind	Sing	3				Pres	Fin
-die	der	Acc	Def			Fem		Sing			Art			
-Reassumierung	Reassumierung	Acc				Fem		Sing						
-des	der	Gen	Def			Masc		Sing			Art			
-§	§	Gen				Masc		Sing						
-4	4													
+Dr.	Dr.
+Adler	Adler
+beantragt	beantragen
+die	der
+Reassumierung	Reassumierung
+des	der
+§	§
+4	4
 <g/>
 (
-923	923													
-d	d													
-Beil	Beil	Nom				Neut		Sing						
+923	923
+d	d
+Beil	Beil
 <g/>
 )
-und	und													
-beantragt	beantragen						Ind	Sing	3				Pres	Fin
-die	der	Acc	Def			Fem		Sing			Art			
-Wiederherstellung	Wiederherstellung	Acc				Fem		Sing						
+und	und
+beantragt	beantragen
+die	der
+Wiederherstellung	Wiederherstellung
 <g/>
 "
-dreiJahre	dreiJahre													
+dreiJahre	dreiJahre
 <g/>
 "
 <g/>
 .
 </p>
 <p>
-Zu	zu													
-Beil	Beil	Dat				Neut		Sing						
-924	924													
+Zu	zu
+Beil	Beil
+924	924
 <g/>
 ,
-Punkt	Punkt	Nom				Masc		Sing						
-25	25													
-beantragt	beantragen						Ind	Sing	3				Pres	Fin
-ernach	Ernach	Nom						Sing						
-Reassumierungbei	Reassumierungbei	Acc				Fem		Sing						
-Untersteier	Untersteier	Dat						Sing						
-statt	statt													
-5	5													
+Punkt	Punkt
+25	25
+beantragt	beantragen
+ernach	Ernach
+Reassumierungbei	Reassumierungbei
+Untersteier	Untersteier
+statt	statt
+5	5
 <g/>
 "
-6	6													
+6	6
 <g/>
 "
-Mandate	Mandat	Acc				Neut		Plur						
-zuu	zuu													
-.	.													
-den	der	Acc	Def			Masc		Sing			Art			
-Absatz	Absatz	Acc				Masc		Sing						
-über	über													
-Obersteier	Obersteier	Acc						Sing						
-zu	zu													
-streichen	streichen													Inf
+Mandate	Mandat
+zuu	zuu
+.	.
+den	der
+Absatz	Absatz
+über	über
+Obersteier	Obersteier
+zu	zu
+streichen	streichen
 <g/>
 .
-Ferner	ferner													
-die	der	Acc	Def			Fem		Sing			Art			
-Bestimmung	Bestimmung	Acc				Fem		Sing						
-gemäß	gemäß													
-Antrag	Antrag	Dat				Masc		Sing						
-Danneberg	Danneberg	Nom				Neut		Sing						
-bezügl	bezügl	Nom				Neut		Sing						
-.	.													
-der	der	Gen	Def			Masc		Plur			Art			
-Wahlkreise	Wahlkreis	Gen				Masc		Plur						
-1	1													
--	-													
-11	11													
-zu	zu													
-streichen	streichen													Inf
+Ferner	ferner
+die	der
+Bestimmung	Bestimmung
+gemäß	gemäß
+Antrag	Antrag
+Danneberg	Danneberg
+bezügl	bezügl
+.	.
+der	der
+Wahlkreise	Wahlkreis
+1	1
+-	-
+11	11
+zu	zu
+streichen	streichen
 <g/>
 .
-Alle	aller	Nom				Masc		Plur			Ind			
-Anträge	Antrag	Nom				Masc		Plur						
-werden	werden						Ind	Plur	3				Pres	Fin
-angenommen	annehmen													Part
+Alle	aller
+Anträge	Antrag
+werden	werden
+angenommen	annehmen
 <g/>
 .
 </p>
 <p>
-Zum	zu	Dat				Masc		Sing						
-Berichterstatter	Berichterstatter	Dat				Masc		Sing						
-fürs	für	Acc				Neut		Sing						
-Haus	Haus	Acc				Neut		Sing						
-wird	werden						Ind	Sing	3				Pres	Fin
-Dr	Dr	Nom				Masc		Sing						
-Adler	Adler	Nom				Masc		Sing						
-bestellt	bestellen													Part
+Zum	zu
+Berichterstatter	Berichterstatter
+fürs	für
+Haus	Haus
+wird	werden
+Dr	Dr
+Adler	Adler
+bestellt	bestellen
 </p>
 <p>
-Seipel	Seipel	Nom				Masc		Sing						
-Vorsitzender	vorsitzend	Nom				Masc		Sing						
-Danneberg	Danneberg	Nom				Masc		Sing						
-SchriftführerPräsenzliste	SchriftführerPräsenzliste	Nom				Fem		Sing						
-des	der	Gen	Def			Masc		Sing			Art			
-Verfassungs-Ausschusses	Verfassungs-Ausschuß	Gen				Masc		Sing						
-vom	von	Dat				Masc		Sing						
-15.	15.	Dat		Pos		Masc		Sing						
-Juli	Juli	Dat				Masc		Sing						
-1920	1920													
+Seipel	Seipel
+Vorsitzender	vorsitzend
+Danneberg	Danneberg
+SchriftführerPräsenzliste	SchriftführerPräsenzliste
+des	der
+Verfassungs-Ausschusses	Verfassungs-Ausschuß
+vom	von
+15.	15.
+Juli	Juli
+1920	1920
 </p>
 <p>
-Seipel	Seipel	Nom						Sing						
-FinkAusterlitzDer	FinkAusterlitzDer	Nom						Sing						
-Verfassungsausschuß	Verfassungsausschuß	Nom				Masc		Sing						
-hält	halten						Ind	Sing	3				Pres	Fin
-morgen	morgen													
+Seipel	Seipel
+FinkAusterlitzDer	FinkAusterlitzDer
+Verfassungsausschuß	Verfassungsausschuß
+hält	halten
+morgen	morgen
 <g/>
 ,
-Donnerstag	Donnerstag	Acc				Masc		Sing						
+Donnerstag	Donnerstag
 <g/>
 ,
-den	der	Acc	Def			Masc		Sing			Art			
-15.	15.	Acc		Pos		Masc		Sing						
-d.	d.	Acc		Pos		Masc		Sing						
-M.	M.	Acc				Masc		Sing						
+den	der
+15.	15.
+d.	d.
+M.	M.
 <g/>
 ,
-nach	nach													
-Schluß	Schluß	Dat				Masc		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-Haussitzung	Haussitzung	Gen				Fem		Sing						
-im	in	Dat				Neut		Sing						
-Lokal	Lokal	Dat				Neut		Sing						
-I	I													
-eine	ein	Acc	Ind			Fem		Sing			Art			
-Sitzung	Sitzung	Acc				Fem		Sing						
-ab	ab													
+nach	nach
+Schluß	Schluß
+der	der
+Haussitzung	Haussitzung
+im	in
+Lokal	Lokal
+I	I
+eine	ein
+Sitzung	Sitzung
+ab	ab
 <g/>
 .
-Tagesordnung	Tagesordnung	Nom				Fem		Sing						
+Tagesordnung	Tagesordnung
 <g/>
 :
-Die	der	Nom	Def			Fem		Sing			Art			
-Wahlordnung	Wahlordnung	Nom				Fem		Sing						
-für	für													
-die	der	Acc	Def			Fem		Sing			Art			
-Nationalversammlung	Nationalversammlung	Acc				Fem		Sing						
+Die	der
+Wahlordnung	Wahlordnung
+für	für
+die	der
+Nationalversammlung	Nationalversammlung
 <g/>
 .
-Wien	Wien	Nom				Neut		Sing						
+Wien	Wien
 <g/>
 ,
-den	der	Acc	Def			Masc		Sing			Art			
-14.	14.	Acc		Pos		Masc		Sing						
-Juli	Juli	Acc				Masc		Sing						
-1920.	1920.													
-Bauer	Bauer	Nom				Masc		Sing						
+den	der
+14.	14.
+Juli	Juli
+1920.	1920.
+Bauer	Bauer
 <g/>
 ,
-Obmann	Obmann	Nom				Masc		Sing						
+Obmann	Obmann
 <g/>
 .
 </p>

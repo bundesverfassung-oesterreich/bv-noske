@@ -159,7 +159,7 @@
                <p type="legal_section">
 <w pos="PROPN" lemma="Wien" ana="Case=Nom|Gender=Neut|Number=Sing">Wien</w><w pos="AUX" lemma="sein" ana="Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin">ist</w><w pos="DET" lemma="der" ana="Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art">die</w><w pos="NOUN" lemma="Hauptstadt" ana="Case=Nom|Gender=Fem|Number=Sing">Hauptstadt</w><w pos="DET" lemma="der" ana="Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art">des</w><w pos="NOUN" lemma="Freistaat" ana="Case=Gen|Gender=Masc|Number=Sing">Freistaates</w><pc pos="PUNCT">,</pc><w pos="DET" lemma="der" ana="Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art">der</w><w pos="NOUN" lemma="Sitz" ana="Case=Nom|Gender=Masc|Number=Sing">Sitz</w><w pos="DET" lemma="der" ana="Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art">der</w><w pos="NOUN" lemma="Staatsgewaltund" ana="Case=Gen|Gender=Fem|Number=Sing">Staatsgewaltund</w><w pos="NOUN" lemma="derRegierungsbehörde" ana="Case=Gen|Gender=Fem|Number=Plur">derRegierungsbehörden</w><pc pos="PUNCT">.</pc></p>
             </div>
-            <div type="section">
+            <div type="section" xml:id="heading_section_18">
                <head>
 <w pos="ADJ" lemma="dritter" ana="Case=Nom|Degree=Pos|Gender=Masc|Number=Sing">Dritter</w><w pos="NOUN" lemma="Titel" ana="Case=Nom|Gender=Masc|Number=Sing">Titel</w></head>
                <head>

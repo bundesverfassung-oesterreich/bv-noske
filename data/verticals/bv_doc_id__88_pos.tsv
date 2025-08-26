@@ -1,382 +1,382 @@
-<doc id="bv_doc_id__88" document_title="Protokoll der 23. Sitzung des Verfassungsausschusses" created_not_before="1920-07-23" created_not_after="1920-07-23" creation_year="1920" state_of_correction="created" document_type="Handschriftlicher Protokolltext" text_type="Sitzungsprotokoll" dataset="Sitzungsprotokolle" attrs="word lemma type">
+<doc id="bv_doc_id__88" document_title="Protokoll der 23. Sitzung des Verfassungsausschusses" created_not_before="1920-07-23" created_not_after="1920-07-23" creation_year="1920" state_of_correction="created" document_type="Handschriftlicher Protokolltext" text_type="Sitzungsprotokoll" dataset="Sitzungsprotokolle" attrs="word lemma">
 <p>
-23.	23.	Acc		Pos		Masc		Sing						
-Sitz	Sitz	Acc				Masc		Sing						
+23.	23.
+Sitz	Sitz
 <g/>
 .
 </p>
 <p>
-23	23													
-Konstituierende	Konstituierende	Nom		Pos		Fem		Sing						
-Nationalversammlung	Nationalversammlung	Nom				Fem		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-Republik	Republik	Gen				Fem		Sing						
-Österreich	Österreich	Nom				Neut		Sing						
+23	23
+Konstituierende	Konstituierende
+Nationalversammlung	Nationalversammlung
+der	der
+Republik	Republik
+Österreich	Österreich
 <g/>
 .
-Verfassungs-Ausschuss	Verfassungs-Ausschuss	Nom				Masc		Sing						
-Protokoll	Protokoll	Nom				Neut		Sing						
-über	über													
-die	der	Acc	Def			Fem		Sing			Art			
-Sitzung	Sitzung	Acc				Fem		Sing						
-am	an	Dat				Masc		Sing						
-23.	23.	Dat		Pos		Masc		Sing						
-Juli	Juli	Dat				Masc		Sing						
-1920	1920													
-Anwesende	Anwesende	Nom						Plur						
+Verfassungs-Ausschuss	Verfassungs-Ausschuss
+Protokoll	Protokoll
+über	über
+die	der
+Sitzung	Sitzung
+am	an
+23.	23.
+Juli	Juli
+1920	1920
+Anwesende	Anwesende
 <g/>
 :
-Seitens	Seitens													
-der	der	Gen	Def			Fem		Sing			Art			
-Regierung	Regierung	Gen				Fem		Sing						
+Seitens	Seitens
+der	der
+Regierung	Regierung
 <g/>
 :
-Obmann	Obmann	Nom				Masc		Sing						
+Obmann	Obmann
 <g/>
 :
-Dr.	Dr.	Nom				Masc		Sing						
-Bauer	Bauer	Nom				Masc		Sing						
-Obmann-Stellvertreter	Obmann-Stellvertreter	Nom				Masc		Sing						
+Dr.	Dr.
+Bauer	Bauer
+Obmann-Stellvertreter	Obmann-Stellvertreter
 <g/>
 :
-Prof.	Prof.	Nom				Masc		Sing						
-Seipel	Seipel	Nom				Masc		Sing						
-Schriftführer	Schriftführer	Nom				Masc		Sing						
+Prof.	Prof.
+Seipel	Seipel
+Schriftführer	Schriftführer
 <g/>
 :
-Hafner	Hafner	Nom						Sing						
-Mitglieder	Mitglied	Nom				Neut		Plur						
+Hafner	Hafner
+Mitglieder	Mitglied
 <g/>
 :
-Prof	Prof	Nom				Masc		Sing						
-Dr	Dr	Nom				Masc		Sing						
-Gürtler	Gürtler	Nom				Masc		Sing						
+Prof	Prof
+Dr	Dr
+Gürtler	Gürtler
 <g/>
 ,
-Wagner	Wagner	Nom				Masc		Sing						
+Wagner	Wagner
 <g/>
 ,
-Clessin	Clessin	Nom						Sing						
+Clessin	Clessin
 <g/>
 ,
-Fink	Fink	Nom						Sing						
+Fink	Fink
 <g/>
 ,
-Ramek	Ramek	Nom				Masc		Sing						
+Ramek	Ramek
 <g/>
 ,
-Ulrich	Ulrich	Nom				Masc		Sing						
+Ulrich	Ulrich
 <g/>
 .
 </p>
 <p>
-Protokoll	Protokoll	Nom				Neut		Sing						
-														
-über	über													
-die	der	Acc	Def			Fem		Sing			Art			
-Sitzung	Sitzung	Acc				Fem		Sing						
-des	der	Gen	Def			Masc		Sing			Art			
-Verfassungs-Ausschusses	Verfassungs-Ausschuß	Gen				Masc		Sing						
-am	an	Dat						Sing						
-23.	23.	Dat				Neut		Sing						
-VII	VII													
-20	20													
+Protokoll	Protokoll
+	
+über	über
+die	der
+Sitzung	Sitzung
+des	der
+Verfassungs-Ausschusses	Verfassungs-Ausschuß
+am	an
+23.	23.
+VII	VII
+20	20
 <g/>
 ½
-10h	10h													
-V	V													
+10h	10h
+V	V
 <g/>
 [
-ormi	ormi	Nom						Sing						
+ormi	ormi
 <g/>
 ]
-tt	tt													
+tt	tt
 <g/>
 [
-ags	ags	Nom						Sing						
+ags	ags
 <g/>
 ]
-														
-Vorsitz	Vorsitz	Nom				Masc		Sing						
+	
+Vorsitz	Vorsitz
 <g/>
 :
-Dr	Dr	Nom				Masc		Sing						
-Bauer	Bauer	Nom				Masc		Sing						
-														
+Dr	Dr
+Bauer	Bauer
+	
 </p>
 <p>
-I	I													
-Der	der	Nom	Def			Masc		Sing			Art			
-Vorsitzende	vorsitzend	Nom				Masc		Sing						
-teilt	teilen						Ind	Sing	3				Pres	Fin
-mit	mit													
-daß	daß													
-die	der	Nom	Def					Plur			Art			
-Abg	Abg	Nom						Plur						
-.	.	Nom				Fem		Sing						
-Eldorrff	Eldorrff	Nom				Masc		Sing						
-u.	u.													
-Dr.	Dr.	Nom				Masc		Sing						
-Eislerihre	Eislerihre	Nom				Masc		Sing						
-Mandate	Mandat	Acc				Neut		Plur						
-im	in	Dat				Masc		Sing						
-Verf	Verf	Dat				Masc		Sing						
-.	.	Dat				Masc		Sing						
-Ausschusse	Ausschuss	Dat				Masc		Sing						
-zurückgelegt	zurücklegen													Part
-haben	haben						Ind	Plur	3				Pres	Fin
+I	I
+Der	der
+Vorsitzende	vorsitzend
+teilt	teilen
+mit	mit
+daß	daß
+die	der
+Abg	Abg
+.	.
+Eldorrff	Eldorrff
+u.	u.
+Dr.	Dr.
+Eislerihre	Eislerihre
+Mandate	Mandat
+im	in
+Verf	Verf
+.	.
+Ausschusse	Ausschuss
+zurückgelegt	zurücklegen
+haben	haben
 <g/>
 .
-														
-An	an													
-ihrer	ihr	Dat				Fem		Sing		Yes	Prs			
-Stelle	Stelle	Dat				Fem		Sing						
-werden	werden						Ind	Plur	3				Pres	Fin
-über	über													
-Antrag	Antrag	Acc				Masc		Sing						
-Hafner	Hafner	Nom						Sing						
-die	der	Nom	Def					Plur			Art			
-Abg	Abg	Nom						Plur						
-.	.	Nom				Fem		Plur						
-Abramu	Abramu	Nom						Sing						
+	
+An	an
+ihrer	ihr
+Stelle	Stelle
+werden	werden
+über	über
+Antrag	Antrag
+Hafner	Hafner
+die	der
+Abg	Abg
+.	.
+Abramu	Abramu
 <g/>
 .
-Leuttner	Leuttner	Nom						Sing						
-gewählt	wählen													Part
+Leuttner	Leuttner
+gewählt	wählen
 <g/>
 .
-														
+	
 </p>
 <p>
-II.	II.													
-Zuweisungen	Zuweisung	Nom				Fem		Plur						
+II.	II.
+Zuweisungen	Zuweisung
 <g/>
 :
-Auslieferungsbegehren	Auslieferungsbegehren	Nom				Neut		Sing						
-gegen	gegen													
-den	der	Acc	Def			Masc		Sing			Art			
-Abg	Abg	Acc				Masc		Sing						
+Auslieferungsbegehren	Auslieferungsbegehren
+gegen	gegen
+den	der
+Abg	Abg
 <g/>
 .
-Witternitz	Witternitz	Nom						Sing						
+Witternitz	Witternitz
 <g/>
 (
-zugewiesen	zugewiesen													Part
-Abg	Abg	Nom				Masc		Sing						
-.	.	Nom				Masc		Sing						
-Ulrich	Ulrich	Nom				Masc		Sing						
+zugewiesen	zugewiesen
+Abg	Abg
+.	.
+Ulrich	Ulrich
 <g/>
 )
 </p>
 <p>
-Petitionen	Petition	Nom				Fem		Plur						
-wegen	wegen													
-Ansschluß	Ansschluß	Dat				Masc		Sing						
-an	an													
-Deutschland	Deutschland	Acc				Neut		Sing						
-														
+Petitionen	Petition
+wegen	wegen
+Ansschluß	Ansschluß
+an	an
+Deutschland	Deutschland
+	
 </p>
 <p>
 <g/>
 "
-zur	zu	Dat				Fem		Sing						
-Verfassungsfrage	Verfassungsfrage	Dat				Fem		Sing						
+zur	zu
+Verfassungsfrage	Verfassungsfrage
 <g/>
 .
 </p>
 <p>
-III.	III.	Nom		Pos		Neut		Sing						
-Gesetz	Gesetz	Nom				Neut		Sing						
-über	über													
-das	der	Acc	Def			Neut		Sing			Art			
-Burgenland	Burgenland	Acc				Neut		Sing						
-ferner	ferner													
-ein	ein	Nom	Ind			Masc		Sing			Art			
-diesbezüglicher	diesbezüglich	Nom		Pos		Masc		Sing						
-Antrag	Antrag	Nom				Masc		Sing						
-des	der	Gen	Def			Masc		Sing			Art			
-Abg	Abg	Gen				Masc		Sing						
+III.	III.
+Gesetz	Gesetz
+über	über
+das	der
+Burgenland	Burgenland
+ferner	ferner
+ein	ein
+diesbezüglicher	diesbezüglich
+Antrag	Antrag
+des	der
+Abg	Abg
 <g/>
 .
-Müller-Huttenbrunn	Müller-Huttenbrunn	Nom				Neut		Sing						
+Müller-Huttenbrunn	Müller-Huttenbrunn
 <g/>
 .
-														
-Bestellung	Bestellung	Nom				Fem		Sing						
-eines	ein	Gen	Ind			Masc		Sing			Art			
-Referenten	Referent	Gen				Masc		Sing						
-über	über													
-das	der	Acc	Def			Neut		Sing			Art			
-Gesetz	Gesetz	Acc				Neut		Sing						
+	
+Bestellung	Bestellung
+eines	ein
+Referenten	Referent
+über	über
+das	der
+Gesetz	Gesetz
 <g/>
 :
-Clessin	Clessin	Nom						Sing						
-														
-Prof.	Prof.	Nom				Masc		Sing						
-Seipel	Seipel	Nom				Masc		Sing						
-ist	sein						Ind	Sing	3				Pres	Fin
-mit	mit													
-den	der	Dat	Def			Masc		Plur			Art			
-Vorschlägen	Vorschlag	Dat				Masc		Plur						
-des	der	Gen	Def			Masc		Sing			Art			
-Vorsitzenden	vorsitzend	Gen				Masc		Sing						
-betr.	betr.	Gen				Masc		Sing						
-die	der	Acc	Def			Fem		Sing			Art			
-Behandlung	Behandlung	Acc				Fem		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-Regierungsvorlage	Regierungsvorlage	Gen				Fem		Sing						
-einverstanden	einverstanden			Pos										
+Clessin	Clessin
+	
+Prof.	Prof.
+Seipel	Seipel
+ist	sein
+mit	mit
+den	der
+Vorschlägen	Vorschlag
+des	der
+Vorsitzenden	vorsitzend
+betr.	betr.
+die	der
+Behandlung	Behandlung
+der	der
+Regierungsvorlage	Regierungsvorlage
+einverstanden	einverstanden
 <g/>
 .
-														
+	
 </p>
 <p>
-IV.	IV.	Nom		Pos		Masc		Sing						
-Antrag	Antrag	Nom				Masc		Sing						
-Dinghofer	Dinghofer	Nom						Sing						
-betr.	betr.	Nom				Fem		Sing						
-Plebiszit	Plebiszit	Nom				Neut		Sing						
-wegen	wegen													
-des	der	Gen	Def			Masc		Sing			Art			
-Anschlusses	Anschluss	Gen				Masc		Sing						
-an	an													
-Deutschland	Deutschland	Acc				Neut		Sing						
+IV.	IV.
+Antrag	Antrag
+Dinghofer	Dinghofer
+betr.	betr.
+Plebiszit	Plebiszit
+wegen	wegen
+des	der
+Anschlusses	Anschluss
+an	an
+Deutschland	Deutschland
 <g/>
 .
-														
-Bestellung	Bestellung	Nom				Fem		Sing						
-eines	ein	Gen	Ind			Masc		Sing			Art			
-Referenten	Referent	Gen				Masc		Sing						
+	
+Bestellung	Bestellung
+eines	ein
+Referenten	Referent
 <g/>
 :
-Dr.	Dr.	Nom				Masc		Sing						
-Schönbauer	Schönbauer	Nom				Masc		Sing						
-														
+Dr.	Dr.
+Schönbauer	Schönbauer
+	
 </p>
 <p>
-ad	ad	Nom				Fem		Sing						
-II.	II.													
-beantragt	beantragen						Ind	Sing	3				Pres	Fin
-Abg	Abg	Acc				Masc		Sing						
+ad	ad
+II.	II.
+beantragt	beantragen
+Abg	Abg
 <g/>
 .
-Ulrich	Ulrich	Acc				Masc		Sing						
-auf	auf													
-die	der	Acc	Def			Fem		Sing			Art			
-Auslieferung	Auslieferung	Acc				Fem		Sing						
-nicht	nicht													
-einzugehen	eingehen													Inf
+Ulrich	Ulrich
+auf	auf
+die	der
+Auslieferung	Auslieferung
+nicht	nicht
+einzugehen	eingehen
 <g/>
 –
-angenommen	annehmen													Part
+angenommen	annehmen
 <g/>
 .
-														
-Dr	Dr	Nom				Masc		Sing						
-Bauer	Bauer	Nom				Masc		Sing						
-teilt	teilen						Ind	Sing	3				Pres	Fin
-mit	mit													
+	
+Dr	Dr
+Bauer	Bauer
+teilt	teilen
+mit	mit
 <g/>
 ,
-daß	daß													
-der	der	Nom	Def			Masc		Sing			Art			
-Unter-Ausschuß	Unter-Ausschuß	Nom				Masc		Sing						
-seine	sein	Acc				Fem		Sing		Yes	Prs			
-Tätigkeit	Tätigkeit	Acc				Fem		Sing						
-am	an	Dat				Neut		Sing						
-17.	17.	Dat		Pos		Neut		Sing						
-VIII	VIII													
-wieder	wieder													
-aufnehmen	aufnehmen													Inf
-wird	werden						Ind	Sing	3				Pres	Fin
+daß	daß
+der	der
+Unter-Ausschuß	Unter-Ausschuß
+seine	sein
+Tätigkeit	Tätigkeit
+am	an
+17.	17.
+VIII	VIII
+wieder	wieder
+aufnehmen	aufnehmen
+wird	werden
 <g/>
 .
-														
+	
 </p>
 <p>
-Schriftführer	Schriftführer	Nom				Masc		Sing						
-Hafner	Hafner	Nom				Masc		Sing						
-d.	d.	Nom		Pos		Masc		Sing						
-Obmann	Obmann	Nom				Masc		Sing						
-BauerPräsenzliste	BauerPräsenzliste	Nom				Fem		Sing						
-des	der	Gen	Def			Masc		Sing			Art			
-Verfassungs-Ausschusses	Verfassungs-Ausschuß	Gen				Masc		Sing						
-vom	von	Dat				Masc		Sing						
-23.	23.	Dat		Pos		Masc		Sing						
-Juli	Juli	Dat				Masc		Sing						
-1920	1920													
-														
+Schriftführer	Schriftführer
+Hafner	Hafner
+d.	d.
+Obmann	Obmann
+BauerPräsenzliste	BauerPräsenzliste
+des	der
+Verfassungs-Ausschusses	Verfassungs-Ausschuß
+vom	von
+23.	23.
+Juli	Juli
+1920	1920
+	
 </p>
 <p>
-Bauer	Bauer	Nom						Sing						
-														
-Seipel	Seipel	Nom						Sing						
-														
-FinkClessin	FinkClessin	Nom						Sing						
-														
-Wagner	Wagner	Nom				Fem		Sing						
-														
-HafnerMin	HafnerMin	Nom						Sing						
-.	.													
-Rat	Rat	Nom				Masc		Sing						
-Dr.	Dr.	Nom				Masc		Sing						
-Froehlich	Froehlich	Nom				Masc		Sing						
-														
-StaatskanzleiDer	StaatskanzleiDer	Nom				Fem		Sing						
-Verfassungsausschuß	Verfassungsausschuß	Nom				Masc		Sing						
-hält	halten						Ind	Sing	3				Pres	Fin
-morgen	morgen													
+Bauer	Bauer
+	
+Seipel	Seipel
+	
+FinkClessin	FinkClessin
+	
+Wagner	Wagner
+	
+HafnerMin	HafnerMin
+.	.
+Rat	Rat
+Dr.	Dr.
+Froehlich	Froehlich
+	
+StaatskanzleiDer	StaatskanzleiDer
+Verfassungsausschuß	Verfassungsausschuß
+hält	halten
+morgen	morgen
 <g/>
 ,
-Freitag	Freitag	Acc				Masc		Sing						
+Freitag	Freitag
 <g/>
 ,
-den	der	Acc	Def			Masc		Sing			Art			
-23.	23.	Acc		Pos		Masc		Sing						
-d.	d.	Acc		Pos		Masc		Sing						
-M.	M.	Acc				Masc		Sing						
+den	der
+23.	23.
+d.	d.
+M.	M.
 <g/>
 ,
-um	um													
+um	um
 <g/>
 ½
-10	10													
-Uhr	Uhr	Acc				Fem		Sing						
-vormittags	vormittags													
-im	in	Dat				Neut		Sing						
-Lokale	Lokal	Dat				Neut		Sing						
-I	I													
-eine	ein	Acc	Ind			Fem		Sing			Art			
-Sitzung	Sitzung	Acc				Fem		Sing						
+10	10
+Uhr	Uhr
+vormittags	vormittags
+im	in
+Lokale	Lokal
+I	I
+eine	ein
+Sitzung	Sitzung
 <g/>
 .
-Tagesordnung	Tagesordnung	Nom				Fem		Sing						
+Tagesordnung	Tagesordnung
 <g/>
 :
-1.	1.													
-														
-Zuweisungen	Zuweisung	Nom				Fem		Plur						
+1.	1.
+	
+Zuweisungen	Zuweisung
 <g/>
 .
-2.	2.													
-														
-Nachwahl	Nachwahl	Nom				Fem		Sing						
-in	in													
-den	der	Acc	Def			Masc		Sing			Art			
-Unterausschuß	Unterausschuß	Acc				Masc		Sing						
+2.	2.
+	
+Nachwahl	Nachwahl
+in	in
+den	der
+Unterausschuß	Unterausschuß
 <g/>
 .
-Wien	Wien	Nom				Neut		Sing						
+Wien	Wien
 <g/>
 ,
-am	an	Dat				Masc		Sing						
-22.	22.	Dat		Pos		Masc		Sing						
-Juli	Juli	Dat				Masc		Sing						
-1920.	1920.													
-Bauer	Bauer	Nom				Masc		Sing						
+am	an
+22.	22.
+Juli	Juli
+1920.	1920.
+Bauer	Bauer
 <g/>
 ,
-Obmann	Obmann	Nom				Masc		Sing						
+Obmann	Obmann
 <g/>
 .
 </p>

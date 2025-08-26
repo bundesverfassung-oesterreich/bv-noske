@@ -1,202 +1,202 @@
-<doc id="bv_doc_id__14" document_title="Christlichsozialer Entwurf II 1920" created_not_before="1920-06-25" created_not_after="1929-06-25" creation_year="1920" state_of_correction="text_correct" document_type="Druck" text_type="Verfassungsentwurf" dataset="Gesetzestexte & Entwürfe" attrs="word lemma type">
+<doc id="bv_doc_id__14" document_title="Christlichsozialer Entwurf II 1920" created_not_before="1920-06-25" created_not_after="1929-06-25" creation_year="1920" state_of_correction="text_correct" document_type="Druck" text_type="Verfassungsentwurf" dataset="Gesetzestexte & Entwürfe" attrs="word lemma">
 <head>
-Antrag	Antrag	Nom				Masc		Sing						
-der	der	Gen	Def					Plur			Art			
-Abgeordneten	abgeordneter	Gen						Plur						
-Dr.	Dr.	Nom				Masc		Sing						
-Michael	Michael	Nom				Masc		Sing						
-Mayr	Mayr	Nom				Masc		Sing						
-und	und													
-Genossen	Genosse	Nom				Masc		Plur						
+Antrag	Antrag
+der	der
+Abgeordneten	abgeordneter
+Dr.	Dr.
+Michael	Michael
+Mayr	Mayr
+und	und
+Genossen	Genosse
 <g/>
 ,
-betreffend	betreffend													
-die	der	Acc	Def			Fem		Sing			Art			
-Schaffung	Schaffung	Acc				Fem		Sing						
-einer	ein	Gen	Ind			Fem		Sing			Art			
-Bundesverfassung	Bundesverfassung	Gen				Fem		Sing						
-für	für													
-die	der	Acc	Def			Fem		Sing			Art			
-Republik	Republik	Acc				Fem		Sing						
-Österreich	Österreich	Nom				Neut		Sing						
+betreffend	betreffend
+die	der
+Schaffung	Schaffung
+einer	ein
+Bundesverfassung	Bundesverfassung
+für	für
+die	der
+Republik	Republik
+Österreich	Österreich
 <g/>
 .
 </head>
 <p>
-Die	der	Nom	Def					Plur			Art			
-Gefertigten	Gefertigten	Nom						Plur						
-stellen	stellen						Ind	Plur	3				Pres	Fin
-den	der	Acc	Def			Masc		Sing			Art			
-Antrag	Antrag	Acc				Masc		Sing						
+Die	der
+Gefertigten	Gefertigten
+stellen	stellen
+den	der
+Antrag	Antrag
 <g/>
 :
 <g/>
 „
-Das	der	Nom	Def			Neut		Sing			Art			
-Haus	Haus	Nom				Neut		Sing						
-wolle	wollen						Sub	Sing	3				Pres	Fin
-den	der	Acc	Def			Masc		Sing			Art			
-beigeschlossenen	beigeschlossen	Acc		Pos		Masc		Sing						
-Gesetzentwurf	Gesetzentwurf	Acc				Masc		Sing						
-zum	zu	Dat				Masc		Sing						
-Beschlusse	Beschluss	Dat				Masc		Sing						
-erheben	erheben													Inf
+Das	der
+Haus	Haus
+wolle	wollen
+den	der
+beigeschlossenen	beigeschlossen
+Gesetzentwurf	Gesetzentwurf
+zum	zu
+Beschlusse	Beschluss
+erheben	erheben
 <g/>
 .
 <g/>
 "
-In	in													
-formaler	formal	Dat		Pos		Fem		Sing						
-Beziehung	Beziehung	Dat				Fem		Sing						
-wolle	wollen						Sub	Sing	3				Pres	Fin
-dieser	dieser	Nom				Masc		Sing			Dem			
-Antrag	Antrag	Nom				Masc		Sing						
-dem	der	Dat	Def			Masc		Sing			Art			
-Verfassungsausschusse	Verfassungsausschuss	Dat				Masc		Sing						
-zugewiesen	zugewiesen													Part
-werden	werden													Inf
+In	in
+formaler	formal
+Beziehung	Beziehung
+wolle	wollen
+dieser	dieser
+Antrag	Antrag
+dem	der
+Verfassungsausschusse	Verfassungsausschuss
+zugewiesen	zugewiesen
+werden	werden
 <g/>
 .
 </p>
 <p>
-Wien	Wien	Nom				Neut		Sing						
+Wien	Wien
 <g/>
 ,
-25.	25.	Acc		Pos		Masc		Sing						
-Juni	Juni	Acc				Masc		Sing						
-1920.	1920.													
+25.	25.
+Juni	Juni
+1920.	1920.
 </p>
 <p>
-Dr.	Dr.	Nom				Masc		Sing						
-Mayr	Mayr	Nom				Masc		Sing						
-.	.													
-L.	L.	Nom				Masc		Sing						
-Kunschak	Kunschak	Nom				Masc		Sing						
+Dr.	Dr.
+Mayr	Mayr
+.	.
+L.	L.
+Kunschak	Kunschak
 <g/>
 .
-Schönsteiner	Schönsteiner	Nom						Sing						
+Schönsteiner	Schönsteiner
 <g/>
 .
-Buchinger	Buchinger	Nom						Sing						
+Buchinger	Buchinger
 <g/>
 .
-Schoepfer	Schoepfer	Nom						Sing						
+Schoepfer	Schoepfer
 <g/>
 .
-Hosch	Hosch	Nom						Sing						
-.	.													
-Fr.	Fr.	Nom						Sing						
-Kocher	Kocher	Nom						Sing						
+Hosch	Hosch
+.	.
+Fr.	Fr.
+Kocher	Kocher
 <g/>
 .
-Miklas	Miklas	Nom						Sing						
-.	.	Nom				Masc		Sing						
-Dr.	Dr.	Nom				Masc		Sing						
-Wagner	Wagner	Nom				Masc		Sing						
+Miklas	Miklas
+.	.
+Dr.	Dr.
+Wagner	Wagner
 <g/>
 .
-Födermayr	Födermayr	Nom				Masc		Sing						
-.	.													
-S.	S.	Nom				Masc		Sing						
-Geisler	Geisler	Nom						Sing						
+Födermayr	Födermayr
+.	.
+S.	S.
+Geisler	Geisler
 <g/>
 .
-Dr.	Dr.	Nom				Masc		Sing						
-Buresch	Buresch	Nom				Masc		Sing						
-.	--													
-Partik	Partik	Nom						Sing						
+Dr.	Dr.
+Buresch	Buresch
+.	--
+Partik	Partik
 <g/>
 .
-Jutz	Jutz	Nom						Sing						
+Jutz	Jutz
 <g/>
 .
-Parrer	Parrer	Nom						Sing						
-.	--													
-Hollersbacher	Hollersbacher	Nom						Sing						
+Parrer	Parrer
+.	--
+Hollersbacher	Hollersbacher
 <g/>
 .
-Lieschnegg	Lieschnegg	Nom						Sing						
+Lieschnegg	Lieschnegg
 <g/>
 .
-Dr.	Dr.	Nom				Masc		Sing						
-Gürtler	Gürtler	Nom				Masc		Sing						
+Dr.	Dr.
+Gürtler	Gürtler
 <g/>
 .
-Hans	Hans	Nom				Masc		Sing						
-Steinegger	Steinegger	Nom				Masc		Sing						
+Hans	Hans
+Steinegger	Steinegger
 <g/>
 .
-Dr.	Dr.	Nom				Masc		Sing						
-Anton	Anton	Nom				Masc		Sing						
-Maier	Maier	Nom				Masc		Sing						
-.	.													
-Dr.	Dr.	Nom				Masc		Sing						
-Gimpl	Gimpl	Nom				Masc		Sing						
-.	.	Nom				Masc		Sing						
-Niedrist	Niedrist	Nom				Neut		Sing						
-.	.	Nom				Masc		Sing						
-Dr.	Dr.	Nom				Masc		Sing						
-Seipel	Seipel	Nom				Masc		Sing						
+Dr.	Dr.
+Anton	Anton
+Maier	Maier
+.	.
+Dr.	Dr.
+Gimpl	Gimpl
+.	.
+Niedrist	Niedrist
+.	.
+Dr.	Dr.
+Seipel	Seipel
 <g/>
 .
-Dr.	Dr.	Nom				Masc		Sing						
-Waiß	Waiß	Nom				Masc		Sing						
-.	.	Nom				Masc		Sing						
-R.	R.	Nom				Masc		Sing						
-Weigl	Weigl	Nom				Masc		Sing						
+Dr.	Dr.
+Waiß	Waiß
+.	.
+R.	R.
+Weigl	Weigl
 <g/>
 .
 </p>
 <head>
-Gesetz	Gesetz	Dat				Neut		Sing						
-vom	von	Dat				Masc		Sing						
+Gesetz	Gesetz
+vom	von
 <g/>
 ...
-betreffend	betreffend													
-die	der	Acc	Def			Fem		Sing			Art			
-Bundesverfassung	Bundesverfassung	Acc				Fem		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-Republik	Republik	Gen				Fem		Sing						
-Österreich	Österreich	Nom				Neut		Sing						
+betreffend	betreffend
+die	der
+Bundesverfassung	Bundesverfassung
+der	der
+Republik	Republik
+Österreich	Österreich
 <g/>
 .
 </head>
 <head>
-I.	I.	Acc		Pos		Masc		Sing						
-Abschnitt	Abschnitt	Nom				Masc		Sing						
+I.	I.
+Abschnitt	Abschnitt
 <g/>
 .
 </head>
 <head>
-Der	der	Nom	Def			Masc		Sing			Art			
-Bund	Bund	Nom				Masc		Sing						
+Der	der
+Bund	Bund
 <g/>
 ,
-die	der	Nom	Def			Neut		Plur			Art			
-Bundesländer	Bundesland	Nom				Neut		Plur						
+die	der
+Bundesländer	Bundesland
 <g/>
 ,
-das	der	Nom	Def			Neut		Sing			Art			
-Bundesgebiet	Bundesgebiet	Nom				Neut		Sing						
-und	und													
-das	der	Nom	Def			Neut		Sing			Art			
-Bundesvolk	Bundesvolk	Nom				Neut		Sing						
+das	der
+Bundesgebiet	Bundesgebiet
+und	und
+das	der
+Bundesvolk	Bundesvolk
 <g/>
 .
 </head>
 <head>
-Artikel	Artikel	Nom				Masc		Sing						
-1.	1.													
+Artikel	Artikel
+1.	1.
 </head>
 <p>
 <g/>
 (
 <g/>
 1)Österreich
-ist	sein						Ind	Sing	3				Pres	Fin
-eine	ein	Nom	Ind			Fem		Sing			Art			
-demokratische	demokratisch	Nom		Pos		Fem		Sing						
-Republik	Republik	Nom				Fem		Sing						
+ist	sein
+eine	ein
+demokratische	demokratisch
+Republik	Republik
 <g/>
 .
 </p>
@@ -205,35 +205,35 @@ Republik	Republik	Nom				Fem		Sing
 (
 <g/>
 2)Alle
-öffentlichen	öffentlich	Nom		Pos		Fem		Plur						
-Gewalten	Gewalt	Nom				Fem		Plur						
-werden	werden						Ind	Plur	3				Pres	Fin
-vom	von	Dat				Neut		Sing						
-Volk	Volk	Dat				Neut		Sing						
-eingesetzt	einsetzen													Part
-und	und													
-in	in													
-seinem	sein	Dat				Masc		Sing		Yes	Prs			
-Namen	Name	Dat				Masc		Sing						
-ausgeübt	ausüben													Part
+öffentlichen	öffentlich
+Gewalten	Gewalt
+werden	werden
+vom	von
+Volk	Volk
+eingesetzt	einsetzen
+und	und
+in	in
+seinem	sein
+Namen	Name
+ausgeübt	ausüben
 <g/>
 .
 </p>
 <head>
-Artikel	Artikel	Nom				Masc		Sing						
-2.	2.													
+Artikel	Artikel
+2.	2.
 </head>
 <p>
 <g/>
 (
 <g/>
 1)Die
-Republik	Republik	Nom				Fem		Sing						
-Österreich	Österreich	Nom				Neut		Sing						
-ist	sein						Ind	Sing	3				Pres	Fin
-ein	ein	Nom	Ind			Masc		Sing			Art			
-freier	frei	Nom		Pos		Masc		Sing						
-Bundesstaat	Bundesstaat	Nom				Masc		Sing						
+Republik	Republik
+Österreich	Österreich
+ist	sein
+ein	ein
+freier	frei
+Bundesstaat	Bundesstaat
 <g/>
 .
 </p>
@@ -242,91 +242,91 @@ Bundesstaat	Bundesstaat	Nom				Masc		Sing
 (
 <g/>
 2)Der
-Bund	Bund	Nom				Masc		Sing						
-wird	werden						Ind	Sing	3				Pres	Fin
-gebildet	bilden													Part
-durch	durch													
-die	der	Acc	Def			Neut		Plur			Art			
-selbständigen	selbständig	Acc		Pos		Neut		Plur						
-Länder	Land	Acc				Neut		Plur						
+Bund	Bund
+wird	werden
+gebildet	bilden
+durch	durch
+die	der
+selbständigen	selbständig
+Länder	Land
 <g/>
 :
-Burgenland	Burgenland	Acc				Neut		Sing						
+Burgenland	Burgenland
 <g/>
 ,
-Kärnten	Kärnten	Acc				Neut		Sing						
+Kärnten	Kärnten
 <g/>
 ,
-Niederösterreich	Niederösterreich	Acc				Neut		Sing						
+Niederösterreich	Niederösterreich
 <g/>
 ,
-Oberösterreich	Oberösterreich	Acc				Neut		Sing						
+Oberösterreich	Oberösterreich
 <g/>
 ,
-Salzburg	Salzburg	Acc				Neut		Sing						
+Salzburg	Salzburg
 <g/>
 ,
-Steiermark	Steiermark	Acc				Fem		Sing						
+Steiermark	Steiermark
 <g/>
 ,
-Tirol	Tirol	Acc				Neut		Sing						
+Tirol	Tirol
 <g/>
 ,
-Vorarlberg	Vorarlberg	Acc				Neut		Sing						
-und	und													
-Wien	Wien	Acc				Neut		Sing						
+Vorarlberg	Vorarlberg
+und	und
+Wien	Wien
 <g/>
 .
 </p>
 <p>
 <g/>
 (
-3)Bundeshauptstadt	3)Bundeshauptstadt	Nom				Fem		Sing						
-und	und													
-Sitz	Sitz	Nom				Masc		Sing						
-der	der	Gen	Def			Neut		Plur			Art			
-obersten	oberer	Gen		Sup		Neut		Plur						
-Organe	Organ	Gen				Neut		Plur						
-des	der	Gen	Def			Masc		Sing			Art			
-Bundes	Bund	Gen				Masc		Sing						
-ist	sein						Ind	Sing	3				Pres	Fin
-Wien	Wien	Nom				Neut		Sing						
+3)Bundeshauptstadt	3)Bundeshauptstadt
+und	und
+Sitz	Sitz
+der	der
+obersten	oberer
+Organe	Organ
+des	der
+Bundes	Bund
+ist	sein
+Wien	Wien
 <g/>
 .
 </p>
 <head>
-Artikel	Artikel	Nom				Masc		Sing						
-3.	3.													
+Artikel	Artikel
+3.	3.
 </head>
 <p>
-Das	der	Nom	Def			Neut		Sing			Art			
-Bundesgebiet	Bundesgebiet	Nom				Neut		Sing						
-bildet	bilden						Ind	Sing	3				Pres	Fin
-ein	ein	Acc	Ind			Neut		Sing			Art			
-einheitliches	einheitlich	Acc		Pos		Neut		Sing						
-Währungs-	Währung													
+Das	der
+Bundesgebiet	Bundesgebiet
+bildet	bilden
+ein	ein
+einheitliches	einheitlich
+Währungs-	Währung
 <g/>
 ,
-Wirtschafts-	Wirtschaft													
-und	und													
-Zollgebiet	Zollgebiet	Acc				Neut		Sing						
+Wirtschafts-	Wirtschaft
+und	und
+Zollgebiet	Zollgebiet
 <g/>
 .
 </p>
 <head>
-Artikel	Artikel	Nom				Masc		Sing						
-4.	4.													
+Artikel	Artikel
+4.	4.
 </head>
 <p>
 <g/>
 (
 <g/>
 1)Jeder
-Landesbürger	Landesbürger	Nom				Masc		Sing						
-ist	sein						Ind	Sing	3				Pres	Fin
-Angehöriger	Angehöriger	Nom				Masc		Sing						
-des	der	Gen	Def			Masc		Sing			Art			
-Bundes	Bund	Gen				Masc		Sing						
+Landesbürger	Landesbürger
+ist	sein
+Angehöriger	Angehöriger
+des	der
+Bundes	Bund
 <g/>
 .
 </p>
@@ -335,78 +335,78 @@ Bundes	Bund	Gen				Masc		Sing
 (
 <g/>
 2)Die
-Landesbürgerschaft	Landesbürgerschaft	Nom				Fem		Sing						
-ist	sein						Ind	Sing	3				Pres	Fin
-an	an													
-die	der	Acc	Def			Fem		Sing			Art			
-Heimatsberechtigung	Heimatsberechtigung	Acc				Fem		Sing						
-in	in													
-der	der	Dat	Def			Fem		Sing			Art			
-Gemeinde	Gemeinde	Dat				Fem		Sing						
-eines	ein	Gen	Ind			Neut		Sing			Art			
-Landes	Land	Gen				Neut		Sing						
-gebunden	binden													Part
+Landesbürgerschaft	Landesbürgerschaft
+ist	sein
+an	an
+die	der
+Heimatsberechtigung	Heimatsberechtigung
+in	in
+der	der
+Gemeinde	Gemeinde
+eines	ein
+Landes	Land
+gebunden	binden
 <g/>
 .
 </p>
 <head>
-Artikel	Artikel	Nom				Masc		Sing						
-5.	5.													
+Artikel	Artikel
+5.	5.
 </head>
 <p>
-Jeder	jeder	Nom				Masc		Sing			Ind			
-Bundesangehörige	Bundesangehörige	Nom				Masc		Sing						
-hat	haben						Ind	Sing	3				Pres	Fin
-in	in													
-jedem	jeder	Dat				Neut		Sing			Ind			
-Lande	Land	Dat				Neut		Sing						
-des	der	Gen	Def			Masc		Sing			Art			
-Bundes	Bund	Gen				Masc		Sing						
-die	der	Acc	Def					Plur			Art			
-gleichen	gleich	Acc		Pos				Plur						
-Rechte	Recht	Acc				Neut		Plur						
-und	und													
-Pflichten	Pflicht	Acc				Fem		Plur						
-wie	wie													
-die	der	Nom	Def			Masc		Plur			Art			
-Bürger	Bürger	Nom				Masc		Plur						
-des	der	Gen	Def			Neut		Sing			Art			
-Landes	Land	Gen				Neut		Sing						
-selbst	selbst													
+Jeder	jeder
+Bundesangehörige	Bundesangehörige
+hat	haben
+in	in
+jedem	jeder
+Lande	Land
+des	der
+Bundes	Bund
+die	der
+gleichen	gleich
+Rechte	Recht
+und	und
+Pflichten	Pflicht
+wie	wie
+die	der
+Bürger	Bürger
+des	der
+Landes	Land
+selbst	selbst
 <g/>
 .
 </p>
 <head>
-Artikel	Artikel	Nom				Masc		Sing						
-6.	6.													
+Artikel	Artikel
+6.	6.
 </head>
 <p>
 <g/>
 (
 <g/>
 1)Alle
-Bundesangehörigen	Bundesangehöriger	Nom						Plur						
-sind	sein						Ind	Plur	3				Pres	Fin
-vor	vor													
-dem	der	Dat	Def			Neut		Sing			Art			
-Gesetze	Gesetz	Dat				Neut		Sing						
-gleich	gleich													
+Bundesangehörigen	Bundesangehöriger
+sind	sein
+vor	vor
+dem	der
+Gesetze	Gesetz
+gleich	gleich
 <g/>
 .
-Vorrechte	Vorrecht	Nom				Neut		Plur						
-der	der	Gen	Def			Fem		Sing			Art			
-Geburt	Geburt	Gen				Fem		Sing						
+Vorrechte	Vorrecht
+der	der
+Geburt	Geburt
 <g/>
 ,
-des	der	Gen	Def			Masc		Sing			Art			
-Standes	Stand	Gen				Masc		Sing						
-und	und													
-des	der	Gen	Def			Neut		Sing			Art			
-Bekenntnisses	Bekenntnis	Gen				Neut		Sing						
-sind	sein						Ind	Plur	3				Pres	Fin
-für	für													
-immer	immer													
-ausgeschlossen	ausschließen													Part
+des	der
+Standes	Stand
+und	und
+des	der
+Bekenntnisses	Bekenntnis
+sind	sein
+für	für
+immer	immer
+ausgeschlossen	ausschließen
 <g/>
 .
 </p>
@@ -415,82 +415,82 @@ ausgeschlossen	ausschließen													Part
 (
 <g/>
 2)Die
-politischen	politisch	Nom		Pos				Plur						
-Rechte	Recht	Nom				Neut		Plur						
-und	und													
-Freiheiten	Freiheit	Nom				Fem		Plur						
-des	der	Gen	Def			Neut		Sing			Art			
-Volkes	Volk	Gen				Neut		Sing						
-werden	werden						Ind	Plur	3				Pres	Fin
-durch	durch													
-die	der	Acc	Def			Fem		Sing			Art			
-Bundesverfassung	Bundesverfassung	Acc				Fem		Sing						
-gewährleistet	gewährleisten													Part
+politischen	politisch
+Rechte	Recht
+und	und
+Freiheiten	Freiheit
+des	der
+Volkes	Volk
+werden	werden
+durch	durch
+die	der
+Bundesverfassung	Bundesverfassung
+gewährleistet	gewährleisten
 <g/>
 .
 </p>
 <head>
-Artikel	Artikel	Nom				Masc		Sing						
-7.	7.													
+Artikel	Artikel
+7.	7.
 </head>
 <p>
-Die	der	Nom	Def			Fem		Sing			Art			
-deutsche	deutsch	Nom		Pos		Fem		Sing						
-Sprache	Sprache	Nom				Fem		Sing						
-ist	sein						Ind	Sing	3				Pres	Fin
+Die	der
+deutsche	deutsch
+Sprache	Sprache
+ist	sein
 <g/>
 ,
-unbeschadet	unbeschadet			Pos										
-der	der	Gen	Def			Neut		Plur			Art			
-den	der	Dat	Def			Fem		Plur			Art			
-sprachlichen	sprachlich	Dat		Pos		Fem		Plur						
-Minderheiten	Minderheit	Dat				Fem		Plur						
-gesetzlich	gesetzlich			Pos										
-eingeräumten	eingeräumt	Gen		Pos		Neut		Plur						
-Rechte	Recht	Gen				Neut		Plur						
+unbeschadet	unbeschadet
+der	der
+den	der
+sprachlichen	sprachlich
+Minderheiten	Minderheit
+gesetzlich	gesetzlich
+eingeräumten	eingeräumt
+Rechte	Recht
 <g/>
 ,
-die	der	Nom	Def			Fem		Sing			Art			
-Staatssprache	Staatssprache	Nom				Fem		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-Republik	Republik	Gen				Fem		Sing						
+die	der
+Staatssprache	Staatssprache
+der	der
+Republik	Republik
 <g/>
 .
 </p>
 <head>
-II.	II.	Nom		Pos		Masc		Sing						
-Abschnitt	Abschnitt	Nom				Masc		Sing						
+II.	II.
+Abschnitt	Abschnitt
 <g/>
 .
 </head>
 <head>
-Die	der	Nom	Def			Fem		Sing			Art			
-öffentliche	öffentlich	Nom		Pos		Fem		Sing						
-Gewalt	Gewalt	Nom				Fem		Sing						
-im	in	Dat				Masc		Sing						
-Bunde	Bund	Dat				Masc		Sing						
+Die	der
+öffentliche	öffentlich
+Gewalt	Gewalt
+im	in
+Bunde	Bund
 <g/>
 .
 </head>
 <head>
-Artikel	Artikel	Nom				Masc		Sing						
-8.	8.													
+Artikel	Artikel
+8.	8.
 </head>
 <p>
 <g/>
 (
 <g/>
 1)Der
-oberste	oberer	Nom		Sup		Masc		Sing						
-Träger	Träger	Nom				Masc		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-öffentlichen	öffentlich	Gen		Pos		Fem		Sing						
-Gewalt	Gewalt	Gen				Fem		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-Republik	Republik	Gen				Fem		Sing						
-ist	sein						Ind	Sing	3				Pres	Fin
-die	der	Nom	Def			Fem		Sing			Art			
-Bundesversammlung	Bundesversammlung	Nom				Fem		Sing						
+oberste	oberer
+Träger	Träger
+der	der
+öffentlichen	öffentlich
+Gewalt	Gewalt
+der	der
+Republik	Republik
+ist	sein
+die	der
+Bundesversammlung	Bundesversammlung
 <g/>
 .
 </p>
@@ -499,62 +499,62 @@ Bundesversammlung	Bundesversammlung	Nom				Fem		Sing
 (
 <g/>
 2)Die
-Bundesversammlung	Bundesversammlung	Nom				Fem		Sing						
-besteht	bestehen						Ind	Sing	3				Pres	Fin
-aus	aus													
-einem	ein	Dat	Ind			Neut		Sing			Art			
-Volkshaus	Volkshaus	Dat				Neut		Sing						
+Bundesversammlung	Bundesversammlung
+besteht	bestehen
+aus	aus
+einem	ein
+Volkshaus	Volkshaus
 <g/>
 ,
-dem	der	Dat	Def			Masc		Sing			Art			
-Bundestag	Bundestag	Dat				Masc		Sing						
-und	und													
-aus	aus													
-einem	ein	Dat	Ind			Neut		Sing			Art			
-Länderhaus	Länderhaus	Dat				Neut		Sing						
+dem	der
+Bundestag	Bundestag
+und	und
+aus	aus
+einem	ein
+Länderhaus	Länderhaus
 <g/>
 ,
-dem	der	Dat	Def			Masc		Sing			Art			
-Bundesrat	Bundesrat	Dat				Masc		Sing						
+dem	der
+Bundesrat	Bundesrat
 <g/>
 .
 </p>
 <head>
-Artikel	Artikel	Nom				Masc		Sing						
-9.	9.													
+Artikel	Artikel
+9.	9.
 </head>
 <p>
 <g/>
 (
 <g/>
 1)Der
-Bundestag	Bundestag	Nom				Masc		Sing						
-wird	werden						Ind	Sing	3				Pres	Fin
-auf	auf													
-Grund	Grund	Dat				Masc		Sing						
-des	der	Gen	Def			Neut		Sing			Art			
-gleichen	gleich	Gen		Pos		Neut		Sing						
-direkten	direkt	Gen		Pos		Neut		Sing						
+Bundestag	Bundestag
+wird	werden
+auf	auf
+Grund	Grund
+des	der
+gleichen	gleich
+direkten	direkt
 <g/>
 ,
-geheimen	geheim	Gen		Pos		Neut		Sing						
-und	und													
-persönlichen	persönlich	Gen		Pos		Neut		Sing						
-Wahlrechtes	Wahlrecht	Gen				Neut		Sing						
-aller	aller	Gen						Plur			Ind			
-erwachsenen	erwachsen	Gen		Pos				Plur						
-Männer	Mann	Gen				Masc		Plur						
-und	und													
-Frauen	Frau	Gen				Fem		Plur						
-nach	nach													
-den	der	Dat	Def			Masc		Plur			Art			
-Grundsätzen	Grundsatz	Dat				Masc		Plur						
-der	der	Gen	Def			Fem		Sing			Art			
-Verhältniswahl	Verhältniswahl	Gen				Fem		Sing						
-vom	von	Dat				Neut		Sing						
-ganzen	ganz	Dat		Pos		Neut		Sing						
-Bundesvolk	Bundesvolk	Dat				Neut		Sing						
-gewählt	wählen													Part
+geheimen	geheim
+und	und
+persönlichen	persönlich
+Wahlrechtes	Wahlrecht
+aller	aller
+erwachsenen	erwachsen
+Männer	Mann
+und	und
+Frauen	Frau
+nach	nach
+den	der
+Grundsätzen	Grundsatz
+der	der
+Verhältniswahl	Verhältniswahl
+vom	von
+ganzen	ganz
+Bundesvolk	Bundesvolk
+gewählt	wählen
 <g/>
 .
 </p>
@@ -563,89 +563,89 @@ gewählt	wählen													Part
 (
 <g/>
 2)Seine
-Wahlperiode	Wahlperiode	Nom				Fem		Sing						
-beträgt	betragen						Ind	Sing	3				Pres	Fin
-fünf	fünf													
-Jahre	Jahr	Acc				Neut		Plur						
+Wahlperiode	Wahlperiode
+beträgt	betragen
+fünf	fünf
+Jahre	Jahr
 <g/>
 .
 </p>
 <head>
-Artikel	Artikel	Nom				Masc		Sing						
-10.	10.													
+Artikel	Artikel
+10.	10.
 </head>
 <p>
 <g/>
 (
 <g/>
 1)Der
-Bundesrat	Bundesrat	Nom				Masc		Sing						
-wird	werden						Ind	Sing	3				Pres	Fin
-aus	aus													
-Vertretern	Vertreter	Dat				Masc		Plur						
-der	der	Gen	Def			Neut		Plur			Art			
-Bundesländer	Bundesland	Gen				Neut		Plur						
-gebildet	bilden													Part
+Bundesrat	Bundesrat
+wird	werden
+aus	aus
+Vertretern	Vertreter
+der	der
+Bundesländer	Bundesland
+gebildet	bilden
 <g/>
 ,
-die	der	Nom				Masc		Plur			Rel			
-von	von													
-den	der	Dat	Def			Masc		Plur			Art			
-Landtagen	Landtag	Dat				Masc		Plur						
-aus	aus													
-ihrer	ihr	Dat				Fem		Sing		Yes	Prs			
-Mitte	Mitte	Dat				Fem		Sing						
-durch	durch													
-Verhältniswahl	Verhältniswahl	Acc				Fem		Sing						
-entsendet	entsenden													Part
-werden	werden						Ind	Plur	3				Pres	Fin
+die	der
+von	von
+den	der
+Landtagen	Landtag
+aus	aus
+ihrer	ihr
+Mitte	Mitte
+durch	durch
+Verhältniswahl	Verhältniswahl
+entsendet	entsenden
+werden	werden
 <g/>
 ;
-jedes	jeder	Nom				Neut		Sing			Ind			
-Bundesland	Bundesland	Nom				Neut		Sing						
-wird	werden						Ind	Sing	3				Pres	Fin
-grundsätzlich	grundsätzlich			Pos										
-durch	durch													
-drei	drei													
-Mitglieder	Mitglied	Acc				Neut		Plur						
-vertreten	vertreten													Part
+jedes	jeder
+Bundesland	Bundesland
+wird	werden
+grundsätzlich	grundsätzlich
+durch	durch
+drei	drei
+Mitglieder	Mitglied
+vertreten	vertreten
 <g/>
 ,
-die	der	Nom	Def			Neut		Plur			Art			
-Bundesländer	Bundesland	Nom				Neut		Plur						
-mit	mit													
-mindestens	mindestens													
-800.000	800.000													
-Einwohnern	Einwohner	Dat				Masc		Plur						
-entsenden	entsenden						Ind	Plur	3				Pres	Fin
-vier	vier													
-Mitglieder	Mitglied	Acc				Neut		Plur						
-und	und													
-für	für													
-je	je													
-weitere	weit	Acc		Cmp		Masc		Plur						
-400.000	400.000													
-Einwohner	Einwohner	Acc				Masc		Plur						
-noch	noch													
-ein	ein	Acc	Ind			Neut		Sing			Art			
-weiteres	weit	Acc		Cmp		Neut		Sing						
-Mitglied	Mitglied	Acc				Neut		Sing						
+die	der
+Bundesländer	Bundesland
+mit	mit
+mindestens	mindestens
+800.000	800.000
+Einwohnern	Einwohner
+entsenden	entsenden
+vier	vier
+Mitglieder	Mitglied
+und	und
+für	für
+je	je
+weitere	weit
+400.000	400.000
+Einwohner	Einwohner
+noch	noch
+ein	ein
+weiteres	weit
+Mitglied	Mitglied
 <g/>
 ,
-doch	doch													
-darf	dürfen						Ind	Sing	3				Pres	Fin
-auf	auf													
-kein	kein	Acc				Neut		Sing			Ind			
-Land	Land	Acc				Neut		Sing						
-mehr	mehr										Ind			
-als	als													
-ein	ein	Acc	Ind			Neut		Sing			Art			
-Fünftel	Fünftel	Acc				Neut		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-Gesamtzahl	Gesamtzahl	Gen				Fem		Sing						
-der	der	Gen	Def			Neut		Plur			Art			
-Mitglieder	Mitglied	Gen				Neut		Plur						
-entfallen	entfallen													Inf
+doch	doch
+darf	dürfen
+auf	auf
+kein	kein
+Land	Land
+mehr	mehr
+als	als
+ein	ein
+Fünftel	Fünftel
+der	der
+Gesamtzahl	Gesamtzahl
+der	der
+Mitglieder	Mitglied
+entfallen	entfallen
 <g/>
 .
 </p>
@@ -654,48 +654,48 @@ entfallen	entfallen													Inf
 (
 <g/>
 2)Die
-Landtage	Landtag	Nom				Masc		Plur						
-selbst	selbst													
-werden	werden						Ind	Plur	3				Pres	Fin
-nach	nach													
-denselben	derselbe	Dat				Masc		Plur			Dem			
-Grundsätzen	Grundsatz	Dat				Masc		Plur						
-wie	wie													
-der	der	Nom	Def			Masc		Sing			Art			
-Bundestag	Bundestag	Nom				Masc		Sing						
-von	von													
-den	der	Dat	Def					Plur			Art			
-im	in	Dat				Neut		Sing						
-Lande	Land	Dat				Neut		Sing						
-wohnhaften	wohnhaft	Dat		Pos				Plur						
-Bundesangehörigen	Bundesangehöriger	Dat						Plur						
-gewählt	wählen													Part
+Landtage	Landtag
+selbst	selbst
+werden	werden
+nach	nach
+denselben	derselbe
+Grundsätzen	Grundsatz
+wie	wie
+der	der
+Bundestag	Bundestag
+von	von
+den	der
+im	in
+Lande	Land
+wohnhaften	wohnhaft
+Bundesangehörigen	Bundesangehöriger
+gewählt	wählen
 <g/>
 .
 </p>
 <head>
-Artikel	Artikel	Nom				Masc		Sing						
-11.	11.													
+Artikel	Artikel
+11.	11.
 </head>
 <p>
 <g/>
 (
 <g/>
 1)Die
-Bundesversammlung	Bundesversammlung	Nom				Fem		Sing						
-entscheidet	entscheiden						Ind	Sing	3				Pres	Fin
-über	über													
-Krieg	Krieg	Acc				Masc		Sing						
-und	und													
-Frieden	Frieden	Acc				Masc		Sing						
-und	und													
-verfügt	verfügen						Ind	Sing	3				Pres	Fin
-über	über													
-die	der	Acc	Def			Fem		Sing			Art			
-bewaffnete	bewaffnet	Acc		Pos		Fem		Sing						
-Macht	Macht	Acc				Fem		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-Republik	Republik	Gen				Fem		Sing						
+Bundesversammlung	Bundesversammlung
+entscheidet	entscheiden
+über	über
+Krieg	Krieg
+und	und
+Frieden	Frieden
+und	und
+verfügt	verfügen
+über	über
+die	der
+bewaffnete	bewaffnet
+Macht	Macht
+der	der
+Republik	Republik
 <g/>
 .
 </p>
@@ -704,41 +704,41 @@ Republik	Republik	Gen				Fem		Sing
 (
 <g/>
 2)Ihr
-obliegt	obliegen						Ind	Sing	3				Pres	Fin
-auch	auch													
-die	der	Nom	Def			Fem		Sing			Art			
-Wahl	Wahl	Nom				Fem		Sing						
-der	der	Gen	Def			Masc		Plur			Art			
-obersten	oberer	Gen		Sup		Masc		Plur						
-Funktionäre	Funktionär	Gen				Masc		Plur						
-des	der	Gen	Def			Masc		Sing			Art			
-Bundes	Bund	Gen				Masc		Sing						
+obliegt	obliegen
+auch	auch
+die	der
+Wahl	Wahl
+der	der
+obersten	oberer
+Funktionäre	Funktionär
+des	der
+Bundes	Bund
 <g/>
 .
 </p>
 <head>
-Artikel	Artikel	Nom				Masc		Sing						
-12.	12.													
+Artikel	Artikel
+12.	12.
 </head>
 <p>
 <g/>
 (
 <g/>
 1)Die
-gesetzgebende	gesetzgebend	Nom		Pos		Fem		Sing						
-Gewalt	Gewalt	Nom				Fem		Sing						
-ist	sein						Ind	Sing	3				Pres	Fin
-zum	zu	Dat				Masc		Sing						
-Teile	Teil	Dat				Masc		Sing						
-dem	der	Dat	Def			Masc		Sing			Art			
-Bunde	Bund	Dat				Masc		Sing						
+gesetzgebende	gesetzgebend
+Gewalt	Gewalt
+ist	sein
+zum	zu
+Teile	Teil
+dem	der
+Bunde	Bund
 <g/>
 ,
-zum	zu	Dat				Masc		Sing						
-Teile	Teil	Dat				Masc		Sing						
-den	der	Dat	Def			Neut		Plur			Art			
-Bundesländern	Bundesland	Dat				Neut		Plur						
-übertragen	übertragen													Part
+zum	zu
+Teile	Teil
+den	der
+Bundesländern	Bundesland
+übertragen	übertragen
 <g/>
 .
 </p>
@@ -747,18 +747,18 @@ Bundesländern	Bundesland	Dat				Neut		Plur
 (
 <g/>
 2)Das
-gesetzgebende	gesetzgebend	Nom		Pos		Neut		Sing						
-Organ	Organ	Nom				Neut		Sing						
-des	der	Gen	Def			Masc		Sing			Art			
-Bundes	Bund	Gen				Masc		Sing						
-ist	sein						Ind	Sing	3				Pres	Fin
-der	der	Nom	Def			Masc		Sing			Art			
-Bundestag	Bundestag	Nom				Masc		Sing						
-in	in													
-Gemeinschaft	Gemeinschaft	Dat				Fem		Sing						
-mit	mit													
-dem	der	Dat	Def			Masc		Sing			Art			
-Bundesrat	Bundesrat	Dat				Masc		Sing						
+gesetzgebende	gesetzgebend
+Organ	Organ
+des	der
+Bundes	Bund
+ist	sein
+der	der
+Bundestag	Bundestag
+in	in
+Gemeinschaft	Gemeinschaft
+mit	mit
+dem	der
+Bundesrat	Bundesrat
 <g/>
 .
 </p>
@@ -767,213 +767,213 @@ Bundesrat	Bundesrat	Dat				Masc		Sing
 (
 <g/>
 3)Die
-gesetzgebenden	gesetzgebend	Nom		Pos		Neut		Plur						
-Organe	Organ	Nom				Neut		Plur						
-der	der	Gen	Def			Neut		Plur			Art			
-Bundesländer	Bundesland	Gen				Neut		Plur						
-sind	sein						Ind	Plur	3				Pres	Fin
-die	der	Nom	Def			Masc		Plur			Art			
-Landtage	Landtag	Nom				Masc		Plur						
+gesetzgebenden	gesetzgebend
+Organe	Organ
+der	der
+Bundesländer	Bundesland
+sind	sein
+die	der
+Landtage	Landtag
 <g/>
 .
 </p>
 <head>
-Artikel	Artikel	Nom				Masc		Sing						
-13.	13.													
+Artikel	Artikel
+13.	13.
 </head>
 <p>
 <g/>
 (
 <g/>
 1)Vorschläge
-für	für													
-Bundesgesetze	Bundesgesetz	Acc				Neut		Plur						
-werden	werden						Ind	Plur	3				Pres	Fin
-im	in	Dat				Masc		Sing						
-Bundestag	Bundestag	Dat				Masc		Sing						
-eingebracht	einbringen													Part
+für	für
+Bundesgesetze	Bundesgesetz
+werden	werden
+im	in
+Bundestag	Bundestag
+eingebracht	einbringen
 <g/>
 .
 </p>
 <p>
 <g/>
 (
-2)Auch	2)Auch													
-aus	aus													
-der	der	Dat	Def			Fem		Sing			Art			
-Mitte	Mitte	Dat				Fem		Sing						
-des	der	Gen	Def			Neut		Sing			Art			
-Bundesvolkes	Bundesvolke	Gen				Neut		Sing						
-kann	können						Ind	Sing	3				Pres	Fin
-von	von													
-300.000	300.000													
-Wahlberechtigten	Wahlberechtigten	Dat						Plur						
-oder	oder													
-von	von													
-der	der	Dat	Def			Fem		Sing			Art			
-Hälfte	Hälfte	Dat				Fem		Sing						
-der	der	Gen	Def					Plur			Art			
-Wahlberechtigten	wahlberechtigte	Gen						Plur						
-dreier	drei	Gen		Pos		Neut		Plur						
-Bundesländer	Bundesland	Gen				Neut		Plur						
-das	der	Nom	Def			Neut		Sing			Art			
-Verlangen	verlangen	Nom				Neut		Sing						
-nach	nach													
-Einbringung	Einbringung	Dat				Fem		Sing						
-eines	ein	Gen	Ind			Masc		Sing			Art			
-Gesetzesvorschlages	Gesetzesvorschlag	Gen				Masc		Sing						
-gestellt	stellen													Part
-werden	werden													Inf
+2)Auch	2)Auch
+aus	aus
+der	der
+Mitte	Mitte
+des	der
+Bundesvolkes	Bundesvolke
+kann	können
+von	von
+300.000	300.000
+Wahlberechtigten	Wahlberechtigten
+oder	oder
+von	von
+der	der
+Hälfte	Hälfte
+der	der
+Wahlberechtigten	wahlberechtigte
+dreier	drei
+Bundesländer	Bundesland
+das	der
+Verlangen	verlangen
+nach	nach
+Einbringung	Einbringung
+eines	ein
+Gesetzesvorschlages	Gesetzesvorschlag
+gestellt	stellen
+werden	werden
 <g/>
 .
 </p>
 <head>
-Artikel	Artikel	Nom				Masc		Sing						
-14.	14.													
+Artikel	Artikel
+14.	14.
 </head>
 <p>
 <g/>
 (
 <g/>
 1)Jeder
-Gesetzesbeschluß	Gesetzesbeschluß	Nom				Masc		Sing						
-des	der	Gen	Def			Masc		Sing			Art			
-Bundestages	Bundestag	Gen				Masc		Sing						
-bedarf	bedürfen						Ind	Sing	3				Pres	Fin
-grundsätzlich	grundsätzlich			Pos										
-der	der	Gen	Def			Fem		Sing			Art			
-Zustimmung	Zustimmung	Gen				Fem		Sing						
-des	der	Gen	Def			Masc		Sing			Art			
-Bundesrates	Bundesrat	Gen				Masc		Sing						
+Gesetzesbeschluß	Gesetzesbeschluß
+des	der
+Bundestages	Bundestag
+bedarf	bedürfen
+grundsätzlich	grundsätzlich
+der	der
+Zustimmung	Zustimmung
+des	der
+Bundesrates	Bundesrat
 <g/>
 .
 </p>
 <p>
 <g/>
 (
-2)Versagt	2)Versagt						Ind	Sing	3				Pres	Fin
-der	der	Nom	Def			Masc		Sing			Art			
-Bundesrat	Bundesrat	Nom				Masc		Sing						
-die	der	Acc	Def			Fem		Sing			Art			
-Zustimmung	Zustimmung	Acc				Fem		Sing						
+2)Versagt	2)Versagt
+der	der
+Bundesrat	Bundesrat
+die	der
+Zustimmung	Zustimmung
 <g/>
 ,
-so	so													
-gelangt	gelangen						Ind	Sing	3				Pres	Fin
-der	der	Nom	Def			Masc		Sing			Art			
-Gesetzesbeschluß	Gesetzesbeschluß	Nom				Masc		Sing						
-neuerlich	neuerlich			Pos										
-vor	vor													
-den	der	Acc	Def			Masc		Sing			Art			
-Bundestag	Bundestag	Acc				Masc		Sing						
+so	so
+gelangt	gelangen
+der	der
+Gesetzesbeschluß	Gesetzesbeschluß
+neuerlich	neuerlich
+vor	vor
+den	der
+Bundestag	Bundestag
 <g/>
 ;
-wird	werden						Ind	Sing	3				Pres	Fin
-der	der	Nom	Def			Masc		Sing			Art			
-erste	erster	Nom		Pos		Masc		Sing						
-Beschluß	Beschluß	Nom				Masc		Sing						
-vom	von	Dat				Masc		Sing						
-Bundestag	Bundestag	Dat				Masc		Sing						
-bei	bei													
-Anwesenheit	Anwesenheit	Dat				Fem		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-Hälfte	Hälfte	Gen				Fem		Sing						
-der	der	Gen	Def			Neut		Plur			Art			
-Mitglieder	Mitglied	Gen				Neut		Plur						
-mit	mit													
-Zweidrittelmehrheit	Zweidrittelmehrheit	Dat				Fem		Sing						
-wiederholt	wiederholen													Part
+wird	werden
+der	der
+erste	erster
+Beschluß	Beschluß
+vom	von
+Bundestag	Bundestag
+bei	bei
+Anwesenheit	Anwesenheit
+der	der
+Hälfte	Hälfte
+der	der
+Mitglieder	Mitglied
+mit	mit
+Zweidrittelmehrheit	Zweidrittelmehrheit
+wiederholt	wiederholen
 <g/>
 ,
-so	so													
-ist	sein						Ind	Sing	3				Pres	Fin
-er	er	Nom				Masc		Sing	3		Prs			
-ohne	ohne													
-weiteres	weit	Acc		Cmp		Neut		Sing						
-Verfahren	Verfahren	Acc				Neut		Sing						
-als	als													
-Gesetz	Gesetz	Acc				Neut		Sing						
-kundzumachen	kundmachen													Inf
+so	so
+ist	sein
+er	er
+ohne	ohne
+weiteres	weit
+Verfahren	Verfahren
+als	als
+Gesetz	Gesetz
+kundzumachen	kundmachen
 <g/>
 .
 </p>
 <p>
 <g/>
 (
-3)Verfassungsänderungen	3)Verfassungsänderung	Nom				Fem		Plur						
+3)Verfassungsänderungen	3)Verfassungsänderung
 <g/>
 ,
-Änderungen	Änderung	Nom				Fem		Plur						
-des	der	Gen	Def			Neut		Sing			Art			
-Wehrgesetzes	Wehrgesetz	Gen				Neut		Sing						
-und	und													
-Staatsverträge	Staatsvertrag	Nom				Masc		Plur						
-können	können						Ind	Plur	3				Pres	Fin
-jedoch	jedoch													
-auf	auf													
-Grund	Grund	Dat				Masc		Sing						
-der	der	Gen	Def			Masc		Plur			Art			
-Beschlüsse	Beschluß	Gen				Masc		Plur						
-des	der	Gen	Def			Masc		Sing			Art			
-Bundestages	Bundestag	Gen				Masc		Sing						
-allein	allein													
-ohne	ohne													
-Zustimmung	Zustimmung	Acc				Fem		Sing						
-des	der	Gen	Def			Masc		Sing			Art			
-Bundesrates	Bundesrat	Gen				Masc		Sing						
-niemals	niemals													
-Gesetz	Gesetz	Nom				Neut		Sing						
-werden	werden													Inf
+Änderungen	Änderung
+des	der
+Wehrgesetzes	Wehrgesetz
+und	und
+Staatsverträge	Staatsvertrag
+können	können
+jedoch	jedoch
+auf	auf
+Grund	Grund
+der	der
+Beschlüsse	Beschluß
+des	der
+Bundestages	Bundestag
+allein	allein
+ohne	ohne
+Zustimmung	Zustimmung
+des	der
+Bundesrates	Bundesrat
+niemals	niemals
+Gesetz	Gesetz
+werden	werden
 <g/>
 .
-Versagt	Versagt						Ind	Sing	3				Pres	Fin
-der	der	Nom	Def			Masc		Sing			Art			
-Bundesrat	Bundesrat	Nom				Masc		Sing						
-auch	auch													
-dann	dann													
-seine	sein	Acc				Fem		Sing		Yes	Prs			
-Zustimmung	Zustimmung	Acc				Fem		Sing						
-nachdem	nachdem													
-der	der	Nom	Def			Masc		Sing			Art			
-Bundestag	Bundestag	Nom				Masc		Sing						
-zum	zu	Dat				Neut		Sing						
-zweitenmale	zweitenmal	Dat				Neut		Sing						
-über	über													
-den	der	Acc	Def			Masc		Sing			Art			
-Gegenstand	Gegenstand	Acc				Masc		Sing						
-Beschluß	Beschluß	Nom				Masc		Sing						
-gefaßt	fassen													Part
-hat	haben						Ind	Sing	3				Pres	Fin
+Versagt	Versagt
+der	der
+Bundesrat	Bundesrat
+auch	auch
+dann	dann
+seine	sein
+Zustimmung	Zustimmung
+nachdem	nachdem
+der	der
+Bundestag	Bundestag
+zum	zu
+zweitenmale	zweitenmal
+über	über
+den	der
+Gegenstand	Gegenstand
+Beschluß	Beschluß
+gefaßt	fassen
+hat	haben
 <g/>
 ,
-so	so													
-kann	können						Ind	Sing	3				Pres	Fin
-bei	bei													
-Verfassungsänderungen	Verfassungsänderung	Dat				Fem		Plur						
-und	und													
-Änderungen	Änderung	Dat				Fem		Plur						
-des	der	Gen	Def			Neut		Sing			Art			
-Wehrgesetzes	Wehrgesetz	Gen				Neut		Sing						
-eine	ein	Nom	Ind			Fem		Sing			Art			
-endgültige	endgültig	Nom		Pos		Fem		Sing						
-Entscheidung	Entscheidung	Nom				Fem		Sing						
-durch	durch													
-Volksabstimmung	Volksabstimmung	Acc				Fem		Sing						
-herbeigeführt	herbeiführen													Part
-werden	werden													Inf
+so	so
+kann	können
+bei	bei
+Verfassungsänderungen	Verfassungsänderung
+und	und
+Änderungen	Änderung
+des	der
+Wehrgesetzes	Wehrgesetz
+eine	ein
+endgültige	endgültig
+Entscheidung	Entscheidung
+durch	durch
+Volksabstimmung	Volksabstimmung
+herbeigeführt	herbeiführen
+werden	werden
 <g/>
 ,
-wenn	wenn													
-diese	dieser	Nom				Fem		Sing			Dem			
-vom	von	Dat				Masc		Sing						
-Bundestag	Bundestag	Dat				Masc		Sing						
-oder	oder													
-vom	von	Dat				Masc		Sing						
-Bundesrat	Bundesrat	Dat				Masc		Sing						
-mit	mit													
-Mehrheit	Mehrheit	Dat				Fem		Sing						
-verlangt	verlangen													Part
-wird	werden						Ind	Sing	3				Pres	Fin
+wenn	wenn
+diese	dieser
+vom	von
+Bundestag	Bundestag
+oder	oder
+vom	von
+Bundesrat	Bundesrat
+mit	mit
+Mehrheit	Mehrheit
+verlangt	verlangen
+wird	werden
 <g/>
 .
 </p>
@@ -982,22 +982,22 @@ wird	werden						Ind	Sing	3				Pres	Fin
 (
 <g/>
 4)Eine
-Gesamtänderung	Gesamtänderung	Nom				Fem		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-Verfassung	Verfassung	Gen				Fem		Sing						
-muß	müssen						Ind	Sing	3				Pres	Fin
-auch	auch													
-im	in	Dat				Masc		Sing						
-Falle	Fall	Dat				Masc		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-Zustimmung	Zustimmung	Gen				Fem		Sing						
-des	der	Gen	Def			Masc		Sing			Art			
-Bundesrates	Bundesrat	Gen				Masc		Sing						
-noch	noch													
-einer	ein	Dat	Ind			Fem		Sing			Art			
-Volksabstimmung	Volksabstimmung	Dat				Fem		Sing						
-unterzogen	unterziehen													Part
-werden	werden													Inf
+Gesamtänderung	Gesamtänderung
+der	der
+Verfassung	Verfassung
+muß	müssen
+auch	auch
+im	in
+Falle	Fall
+der	der
+Zustimmung	Zustimmung
+des	der
+Bundesrates	Bundesrat
+noch	noch
+einer	ein
+Volksabstimmung	Volksabstimmung
+unterzogen	unterziehen
+werden	werden
 <g/>
 .
 </p>
@@ -1006,59 +1006,59 @@ werden	werden													Inf
 (
 <g/>
 5)Die
-jährliche	jährlich	Nom		Pos		Fem		Sing						
-Bewilligung	Bewilligung	Nom				Fem		Sing						
-des	der	Gen	Def			Neut		Sing			Art			
-Bundesbudgets	Bundesbudget	Gen				Neut		Sing						
-und	und													
-die	der	Nom	Def			Fem		Sing			Art			
-jährliche	jährlich	Nom		Pos		Fem		Sing						
-Genehmigung	Genehmigung	Nom				Fem		Sing						
-derRechnungsabschlüsse	derRechnungsabschluß	Gen				Masc		Plur						
+jährliche	jährlich
+Bewilligung	Bewilligung
+des	der
+Bundesbudgets	Bundesbudget
+und	und
+die	der
+jährliche	jährlich
+Genehmigung	Genehmigung
+derRechnungsabschlüsse	derRechnungsabschluß
 <g/>
 ,
-die	der	Nom	Def			Fem		Sing			Art			
-Aufnahme	Aufnahme	Nom				Fem		Sing						
-und	und													
-Konvertierung	Konvertierung	Nom				Fem		Sing						
-von	von													
-Bundesanleihen	Bundesanleihe	Dat				Fem		Plur						
-und	und													
-die	der	Nom	Def			Fem		Sing			Art			
-Verfügung	Verfügung	Nom				Fem		Sing						
-über	über													
-das	der	Acc	Def			Neut		Sing			Art			
-Bundesvermögen	Bundesvermögen	Acc				Neut		Sing						
-sind	sein						Ind	Plur	3				Pres	Fin
-ausschließlich	ausschließlich													
-Sache	Sache	Nom				Fem		Sing						
-des	der	Gen	Def			Masc		Sing			Art			
-Bundestages	Bundestag	Gen				Masc		Sing						
+die	der
+Aufnahme	Aufnahme
+und	und
+Konvertierung	Konvertierung
+von	von
+Bundesanleihen	Bundesanleihe
+und	und
+die	der
+Verfügung	Verfügung
+über	über
+das	der
+Bundesvermögen	Bundesvermögen
+sind	sein
+ausschließlich	ausschließlich
+Sache	Sache
+des	der
+Bundestages	Bundestag
 <g/>
 .
 </p>
 <head>
-Artikel	Artikel	Nom				Masc		Sing						
-15.	15.													
+Artikel	Artikel
+15.	15.
 </head>
 <p>
 <g/>
 (
 <g/>
 1)Die
-vollziehende	vollziehend	Nom		Pos		Fem		Sing						
-Gewalt	Gewalt	Nom				Fem		Sing						
-wird	werden						Ind	Sing	3				Pres	Fin
-teils	teils													
-vom	von	Dat				Masc		Sing						
-Bunde	Bund	Dat				Masc		Sing						
+vollziehende	vollziehend
+Gewalt	Gewalt
+wird	werden
+teils	teils
+vom	von
+Bunde	Bund
 <g/>
 ,
-teils	teils													
-von	von													
-den	der	Dat	Def			Neut		Plur			Art			
-Bundesländern	Bundesland	Dat				Neut		Plur						
-ausgeübt	ausüben													Part
+teils	teils
+von	von
+den	der
+Bundesländern	Bundesland
+ausgeübt	ausüben
 <g/>
 .
 </p>
@@ -1067,31 +1067,31 @@ ausgeübt	ausüben													Part
 (
 <g/>
 2)Mit
-der	der	Dat	Def			Fem		Sing			Art			
-Ausübung	Ausübung	Dat				Fem		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-vollziehenden	vollziehend	Gen		Pos		Fem		Sing						
-Gewalt	Gewalt	Gen				Fem		Sing						
-sind	sein						Ind	Plur	3				Pres	Fin
-Volksbeauftragte	Volksbeauftragter	Nom						Plur						
-betraut	betrauen													Part
+der	der
+Ausübung	Ausübung
+der	der
+vollziehenden	vollziehend
+Gewalt	Gewalt
+sind	sein
+Volksbeauftragte	Volksbeauftragter
+betraut	betrauen
 <g/>
 ,
-die	der	Nom						Plur			Rel			
-auf	auf													
-jederzeitigen	jederzeitig	Acc		Pos		Masc		Sing						
-Widerruf	Widerruf	Acc				Masc		Sing						
-von	von													
-den	der	Dat	Def			Fem		Plur			Art			
-Vertretungen	Vertretung	Dat				Fem		Plur						
-des	der	Gen	Def			Neut		Sing			Art			
-Volkes	Volk	Gen				Neut		Sing						
-bestellt	bestellen													Part
-werden	werden						Ind	Plur	3				Pres	Fin
-und	und													
-diesen	dieser	Acc				Masc		Sing			Dem			
-verantwortlich	verantwortlich			Pos										
-sind	sein						Ind	Plur	3				Pres	Fin
+die	der
+auf	auf
+jederzeitigen	jederzeitig
+Widerruf	Widerruf
+von	von
+den	der
+Vertretungen	Vertretung
+des	der
+Volkes	Volk
+bestellt	bestellen
+werden	werden
+und	und
+diesen	dieser
+verantwortlich	verantwortlich
+sind	sein
 <g/>
 .
 </p>
@@ -1100,60 +1100,60 @@ sind	sein						Ind	Plur	3				Pres	Fin
 (
 <g/>
 3)Unter
-Leitung	Leitung	Dat				Fem		Sing						
-der	der	Gen	Def					Plur			Art			
-Volksbeauftragten	Volksbeauftragter	Gen						Plur						
-und	und													
-nach	nach													
-ihren	ihr	Dat				Fem		Plur		Yes	Prs			
-Weisungen	Weisung	Dat				Fem		Plur						
-obliegt	obliegen						Ind	Sing	3				Pres	Fin
-die	der	Nom	Def			Fem		Sing			Art			
-Durchführung	Durchführung	Nom				Fem		Sing						
-der	der	Gen	Def					Plur			Art			
-Gesetze	Gesetz	Gen				Neut		Plur						
-und	und													
-Verordnungen	Verordnung	Gen				Fem		Plur						
-berufsmäßig	berufsmäßig			Pos										
-angestellten	angestellt	Dat		Pos		Neut		Plur						
-Organen	Organ	Dat				Neut		Plur						
+Leitung	Leitung
+der	der
+Volksbeauftragten	Volksbeauftragter
+und	und
+nach	nach
+ihren	ihr
+Weisungen	Weisung
+obliegt	obliegen
+die	der
+Durchführung	Durchführung
+der	der
+Gesetze	Gesetz
+und	und
+Verordnungen	Verordnung
+berufsmäßig	berufsmäßig
+angestellten	angestellt
+Organen	Organ
 <g/>
 ,
-die	der	Nom				Neut		Plur			Rel			
-für	für													
-ihre	ihr	Acc				Fem		Sing		Yes	Prs			
-Tätigkeit	Tätigkeit	Acc				Fem		Sing						
-den	der	Dat	Def					Plur			Art			
-Volksbeauftragten	Volksbeauftragter	Dat						Plur						
-verantwortlich	verantwortlich			Pos										
-sind	sein						Ind	Plur	3				Pres	Fin
+die	der
+für	für
+ihre	ihr
+Tätigkeit	Tätigkeit
+den	der
+Volksbeauftragten	Volksbeauftragter
+verantwortlich	verantwortlich
+sind	sein
 <g/>
 .
 </p>
 <head>
-Artikel	Artikel	Nom				Masc		Sing						
-16.	16.													
+Artikel	Artikel
+16.	16.
 </head>
 <p>
 <g/>
 (
 <g/>
 1)Die
-vollziehenden	vollziehend	Nom		Pos		Neut		Plur						
-Organe	Organ	Nom				Neut		Plur						
-des	der	Gen	Def			Masc		Sing			Art			
-Bundes	Bund	Gen				Masc		Sing						
-sind	sein						Ind	Plur	3				Pres	Fin
-der	der	Nom	Def			Masc		Sing			Art			
-Bundespräsident	Bundespräsident	Nom				Masc		Sing						
-und	und													
-die	der	Nom	Def			Fem		Sing			Art			
-Bundesregierung	Bundesregierung	Nom				Fem		Sing						
-samt	samt													
-den	der	Dat	Def			Neut		Plur			Art			
-ihr	ihr	Dat				Fem		Sing	3		Prs			
-unterstehenden	unterstehend	Dat		Pos		Neut		Plur						
-Ämtern	Amt	Dat				Neut		Plur						
+vollziehenden	vollziehend
+Organe	Organ
+des	der
+Bundes	Bund
+sind	sein
+der	der
+Bundespräsident	Bundespräsident
+und	und
+die	der
+Bundesregierung	Bundesregierung
+samt	samt
+den	der
+ihr	ihr
+unterstehenden	unterstehend
+Ämtern	Amt
 <g/>
 .
 </p>
@@ -1162,122 +1162,122 @@ unterstehenden	unterstehend	Dat		Pos		Neut		Plur
 (
 <g/>
 2)Bundespräsident
-und	und													
-Bundesregierung	Bundesregierung	Nom				Fem		Sing						
-werden	werden						Ind	Plur	3				Pres	Fin
-von	von													
-der	der	Dat	Def			Fem		Sing			Art			
-Bundesversammlung	Bundesversammlung	Dat				Fem		Sing						
-gewählt	wählen													Part
+und	und
+Bundesregierung	Bundesregierung
+werden	werden
+von	von
+der	der
+Bundesversammlung	Bundesversammlung
+gewählt	wählen
 <g/>
 ;
-zum	zu	Dat				Masc		Sing						
-Bundespräsidenten	Bundespräsident	Dat				Masc		Sing						
-kann	können						Ind	Sing	3				Pres	Fin
-nur	nur													
-ein	ein	Nom	Ind			Masc		Sing			Art			
-Bundesangehöriger	Bundesangehöriger	Nom				Masc		Sing						
-gewählt	wählen													Part
-werden	werden													Inf
+zum	zu
+Bundespräsidenten	Bundespräsident
+kann	können
+nur	nur
+ein	ein
+Bundesangehöriger	Bundesangehöriger
+gewählt	wählen
+werden	werden
 <g/>
 ,
-der	der	Nom				Masc		Sing			Rel			
-das	der	Acc	Def			Neut		Sing			Art			
-aktive	aktiv	Acc		Pos		Neut		Sing						
-Wahlrecht	Wahlrecht	Acc				Neut		Sing						
-zum	zu	Dat				Masc		Sing						
-Bundestage	Bundestag	Dat				Masc		Sing						
-hat	haben						Ind	Sing	3				Pres	Fin
-und	und													
-am	an	Dat				Masc		Sing						
-1.	1.	Dat		Pos		Masc		Sing						
-Jänner	Jänner	Dat				Masc		Sing						
-des	der	Gen	Def			Neut		Sing			Art			
-Jahres	Jahr	Gen				Neut		Sing						
+der	der
+das	der
+aktive	aktiv
+Wahlrecht	Wahlrecht
+zum	zu
+Bundestage	Bundestag
+hat	haben
+und	und
+am	an
+1.	1.
+Jänner	Jänner
+des	der
+Jahres	Jahr
 <g/>
 ,
-in	in													
-welchem	welcher	Dat				Neut		Sing			Rel			
-die	der	Nom	Def			Fem		Sing			Art			
-Wahl	Wahl	Nom				Fem		Sing						
-stattfindet	stattfinden						Ind	Sing	3				Pres	Fin
-das	der	Acc	Def			Neut		Sing			Art			
-35.	35.	Acc		Pos		Neut		Sing						
-Lebensjahr	Lebensjahr	Acc				Neut		Sing						
-vollendet	vollendeen													Part
-hat	haben						Ind	Sing	3				Pres	Fin
+in	in
+welchem	welcher
+die	der
+Wahl	Wahl
+stattfindet	stattfinden
+das	der
+35.	35.
+Lebensjahr	Lebensjahr
+vollendet	vollendeen
+hat	haben
 <g/>
 ;
-der	der	Nom	Def			Masc		Sing			Art			
-Bundespräsident	Bundespräsident	Nom				Masc		Sing						
-darf	dürfen						Ind	Sing	3				Pres	Fin
-während	während													
-seiner	sein	Gen				Fem		Sing		Yes	Prs			
-Amtstätigkeit	Amtstätigkeit	Gen				Fem		Sing						
-keiner	kein	Dat				Fem		Sing			Ind			
-politischen	politisch	Dat		Pos		Fem		Sing						
-Körperschaft	Körperschaft	Dat				Fem		Sing						
-angehören	angehören													Inf
-und	und													
-keinen	kein	Acc				Masc		Sing			Ind			
-anderen	anderer	Acc		Pos		Masc		Sing						
-Beruf	Beruf	Acc				Masc		Sing						
-ausüben	ausüben													Inf
+der	der
+Bundespräsident	Bundespräsident
+darf	dürfen
+während	während
+seiner	sein
+Amtstätigkeit	Amtstätigkeit
+keiner	kein
+politischen	politisch
+Körperschaft	Körperschaft
+angehören	angehören
+und	und
+keinen	kein
+anderen	anderer
+Beruf	Beruf
+ausüben	ausüben
 <g/>
 ;
-die	der	Nom	Def			Fem		Sing			Art			
-Bundesregierung	Bundesregierung	Nom				Fem		Sing						
-besteht	bestehen						Ind	Sing	3				Pres	Fin
-aus	aus													
-dem	der	Dat	Def			Masc		Sing			Art			
-Bundeskanzler	Bundeskanzler	Dat				Masc		Sing						
+die	der
+Bundesregierung	Bundesregierung
+besteht	bestehen
+aus	aus
+dem	der
+Bundeskanzler	Bundeskanzler
 <g/>
 ,
-seinem	sein	Dat				Masc		Sing		Yes	Prs			
-Stellvertreter	Stellvertreter	Dat				Masc		Sing						
+seinem	sein
+Stellvertreter	Stellvertreter
 <g/>
 (
-Vizekanzler	Vizekanzler	Nom				Masc		Sing						
+Vizekanzler	Vizekanzler
 <g/>
 )
-und	und													
-den	der	Dat	Def			Masc		Plur			Art			
-Bundesministern	Bundesminister	Dat				Masc		Plur						
+und	und
+den	der
+Bundesministern	Bundesminister
 <g/>
 .
 </p>
 <p>
 <g/>
 (
-3)DieBundesämter	3)DieBundesämter	Nom				Neut		Plur						
-werden	werden						Ind	Plur	3				Pres	Fin
-durch	durch													
-Bundesgesetz	Bundesgesetz	Acc				Neut		Sing						
-eingerichtet	einrichten													Part
+3)DieBundesämter	3)DieBundesämter
+werden	werden
+durch	durch
+Bundesgesetz	Bundesgesetz
+eingerichtet	einrichten
 <g/>
 .
 </p>
 <head>
-Artikel	Artikel	Nom				Masc		Sing						
-17.	17.													
+Artikel	Artikel
+17.	17.
 </head>
 <p>
 <g/>
 (
 <g/>
 1)Die
-vollziehenden	vollziehend	Nom		Pos		Neut		Plur						
-Organe	Organ	Nom				Neut		Plur						
-der	der	Gen	Def			Neut		Plur			Art			
-Länder	Land	Gen				Neut		Plur						
-sind	sein						Ind	Plur	3				Pres	Fin
-die	der	Nom	Def			Fem		Plur			Art			
-Landesregierungen	Landesregierung	Nom				Fem		Plur						
-samt	samt													
-den	der	Dat	Def			Neut		Plur			Art			
-ihnen	ihnen	Dat				Masc		Plur	3		Prs			
-unterstehenden	unterstehend	Dat		Pos		Neut		Plur						
-Ämtern	Amt	Dat				Neut		Plur						
+vollziehenden	vollziehend
+Organe	Organ
+der	der
+Länder	Land
+sind	sein
+die	der
+Landesregierungen	Landesregierung
+samt	samt
+den	der
+ihnen	ihnen
+unterstehenden	unterstehend
+Ämtern	Amt
 <g/>
 .
 </p>
@@ -1286,30 +1286,30 @@ unterstehenden	unterstehend	Dat		Pos		Neut		Plur
 (
 <g/>
 2)Die
-Landesregierungen	Landesregierung	Nom				Fem		Plur						
-werden	werden						Ind	Plur	3				Pres	Fin
-von	von													
-den	der	Dat	Def			Masc		Plur			Art			
-Landtagen	Landtag	Dat				Masc		Plur						
-gewählt	wählen													Part
+Landesregierungen	Landesregierung
+werden	werden
+von	von
+den	der
+Landtagen	Landtag
+gewählt	wählen
 <g/>
 ;
-sie	sie	Nom						Plur	3		Prs			
-bestehen	bestehen						Ind	Plur	3				Pres	Fin
-aus	aus													
-dem	der	Dat	Def			Masc		Sing			Art			
-Landeshauptmann	Landeshauptmann	Dat				Masc		Sing						
+sie	sie
+bestehen	bestehen
+aus	aus
+dem	der
+Landeshauptmann	Landeshauptmann
 <g/>
 ,
-seinem	sein	Dat				Masc		Sing		Yes	Prs			
-Stellvertreter	Stellvertreter	Dat				Masc		Sing						
-und	und													
-einer	ein	Dat	Ind			Fem		Sing			Art			
-angemessenen	angemessen	Dat		Pos		Fem		Sing						
-Zahl	Zahl	Dat				Fem		Sing						
-von	von													
-weiteren	weit	Dat		Cmp		Neut		Plur						
-Mitgliedern	Mitglied	Dat				Neut		Plur						
+seinem	sein
+Stellvertreter	Stellvertreter
+und	und
+einer	ein
+angemessenen	angemessen
+Zahl	Zahl
+von	von
+weiteren	weit
+Mitgliedern	Mitglied
 <g/>
 .
 </p>
@@ -1318,1339 +1318,1339 @@ Mitgliedern	Mitglied	Dat				Neut		Plur
 (
 <g/>
 3)Die
-Landesämter	Landesamt	Nom				Neut		Plur						
-werden	werden						Ind	Plur	3				Pres	Fin
-im	in	Dat				Masc		Sing						
-Rahmen	Rahmen	Dat				Masc		Sing						
-der	der	Gen	Def			Fem		Plur			Art			
-durch	durch													
-Bundesgesetz	Bundesgesetz	Acc				Neut		Sing						
-erlassenen	erlassen	Gen		Pos		Fem		Plur						
-grundsätzlichen	grundsätzlich	Gen		Pos		Fem		Plur						
-Bestimmungen	Bestimmung	Gen				Fem		Plur						
-durch	durch													
-Landesgesetze	Landesgesetz	Acc				Neut		Plur						
-eingerichtet	einrichten													Part
+Landesämter	Landesamt
+werden	werden
+im	in
+Rahmen	Rahmen
+der	der
+durch	durch
+Bundesgesetz	Bundesgesetz
+erlassenen	erlassen
+grundsätzlichen	grundsätzlich
+Bestimmungen	Bestimmung
+durch	durch
+Landesgesetze	Landesgesetz
+eingerichtet	einrichten
 <g/>
 .
 </p>
 <head>
-Artikel	Artikel	Nom				Masc		Sing						
-18.	18.													
+Artikel	Artikel
+18.	18.
 </head>
 <p>
 <g/>
 (
 <g/>
 1)Gemeinden
-und	und													
-Gemeindeverbände	Gemeindeverband	Nom				Masc		Plur						
-haben	haben						Ind	Plur	3				Pres	Fin
-das	der	Acc	Def			Neut		Sing			Art			
-Recht	Recht	Acc				Neut		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-Selbstverwaltung	Selbstverwaltung	Gen				Fem		Sing						
-innerhalb	innerhalb													
-der	der	Gen	Def			Fem		Plur			Art			
-Schranken	Schranke	Gen				Fem		Plur						
-der	der	Gen	Def			Neut		Plur			Art			
-Gesetze	Gesetz	Gen				Neut		Plur						
+und	und
+Gemeindeverbände	Gemeindeverband
+haben	haben
+das	der
+Recht	Recht
+der	der
+Selbstverwaltung	Selbstverwaltung
+innerhalb	innerhalb
+der	der
+Schranken	Schranke
+der	der
+Gesetze	Gesetz
 <g/>
 .
 </p>
 <p>
 <g/>
 (
-2)Auch	2)Auch													
-ihre	ihr	Nom				Fem		Plur		Yes	Prs			
-Vertretungen	Vertretung	Nom				Fem		Plur						
-müssen	müssen						Ind	Plur	3				Pres	Fin
-auf	auf													
-Grund	Grund	Dat				Masc		Sing						
-des	der	Gen	Def			Neut		Sing			Art			
-gleichen	gleich	Gen		Pos		Neut		Sing						
+2)Auch	2)Auch
+ihre	ihr
+Vertretungen	Vertretung
+müssen	müssen
+auf	auf
+Grund	Grund
+des	der
+gleichen	gleich
 <g/>
 ,
-direkten	direkt	Gen		Pos		Neut		Sing						
+direkten	direkt
 <g/>
 ,
-geheimen	geheim	Gen		Pos		Neut		Sing						
-und	und													
-persönlichen	persönlich	Gen		Pos		Neut		Sing						
-Wahlrechtes	Wahlrecht	Gen				Neut		Sing						
-der	der	Gen	Def					Plur			Art			
-in	in													
-ihrem	ihr	Dat				Masc		Sing		Yes	Prs			
-Bereiche	Bereich	Dat				Masc		Sing						
-wohnhaften	wohnhaft	Gen		Pos				Plur						
-männlichen	männlich	Gen		Pos				Plur						
-und	und													
-weiblichen	weiblich	Gen		Pos				Plur						
-Bundesangehörigen	Bundesangehöriger	Gen						Plur						
-gewählt	wählen													Part
-werden	werden													Inf
+geheimen	geheim
+und	und
+persönlichen	persönlich
+Wahlrechtes	Wahlrecht
+der	der
+in	in
+ihrem	ihr
+Bereiche	Bereich
+wohnhaften	wohnhaft
+männlichen	männlich
+und	und
+weiblichen	weiblich
+Bundesangehörigen	Bundesangehöriger
+gewählt	wählen
+werden	werden
 <g/>
 .
 </p>
 <head>
-Artikel	Artikel	Nom				Masc		Sing						
-19.	19.													
+Artikel	Artikel
+19.	19.
 </head>
 <p>
-Die	der	Nom	Def			Fem		Sing			Art			
-Gerichtsbarkeit	Gerichtsbarkeit	Nom				Fem		Sing						
-ist	sein						Ind	Sing	3				Pres	Fin
-von	von													
-der	der	Dat	Def			Fem		Sing			Art			
-vollziehenden	vollziehend	Dat		Pos		Fem		Sing						
-Gewalt	Gewalt	Dat				Fem		Sing						
-getrennt	trennen													Part
-und	und													
-wird	werden						Ind	Sing	3				Pres	Fin
-durch	durch													
-unabhängige	unabhängig	Acc		Pos		Neut		Plur						
-Gerichte	Gericht	Acc				Neut		Plur						
-ausgeübt	ausüben													Part
+Die	der
+Gerichtsbarkeit	Gerichtsbarkeit
+ist	sein
+von	von
+der	der
+vollziehenden	vollziehend
+Gewalt	Gewalt
+getrennt	trennen
+und	und
+wird	werden
+durch	durch
+unabhängige	unabhängig
+Gerichte	Gericht
+ausgeübt	ausüben
 <g/>
 .
 </p>
 <head>
-Artikel	Artikel	Nom				Masc		Sing						
-20.	20.													
+Artikel	Artikel
+20.	20.
 </head>
 <p>
-Alle	aller	Nom				Fem		Plur			Ind			
-mit	mit													
-der	der	Dat	Def			Fem		Sing			Art			
-Ausübung	Ausübung	Dat				Fem		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-vollziehenden	vollziehend	Gen		Pos		Fem		Sing						
-Gewalt	Gewalt	Gen				Fem		Sing						
-oder	oder													
-der	der	Gen	Def			Fem		Sing			Art			
-Gerichtsbarkeit	Gerichtsbarkeit	Gen				Fem		Sing						
-betrauten	betraut	Nom		Pos		Fem		Plur						
-Personen	Person	Nom				Fem		Plur						
-sind	sein						Ind	Plur	3				Pres	Fin
-für	für													
-jeden	jeder	Acc				Masc		Sing			Ind			
-bei	bei													
-Ausübung	Ausübung	Dat				Fem		Sing						
-ihrer	ihr	Gen				Fem		Sing		Yes	Prs			
-Tätigkeit	Tätigkeit	Gen				Fem		Sing						
-durch	durch													
-vorsätzliche	vorsätzlich	Acc		Pos		Fem		Sing						
-oder	oder													
-grobfahrlässige	grobfahrlässig	Acc		Pos		Fem		Sing						
-Rechtsverletzung	Rechtsverletzung	Acc				Fem		Sing						
-wem	wer	Dat				Masc		Sing			Int			
-immer	immer													
-zugefügten	zugefügt	Acc		Pos		Masc		Sing						
-Schaden	Schaden	Acc				Masc		Sing						
-nach	nach													
-den	der	Dat	Def			Fem		Plur			Art			
-näheren	näh	Dat		Cmp		Fem		Plur						
-Bestimmungen	Bestimmung	Dat				Fem		Plur						
-eines	ein	Gen	Ind			Neut		Sing			Art			
-besonderen	besonderer	Gen		Pos		Neut		Sing						
-Bundesgesetzes	Bundesgesetz	Gen				Neut		Sing						
-haftbar	haftbar			Pos										
+Alle	aller
+mit	mit
+der	der
+Ausübung	Ausübung
+der	der
+vollziehenden	vollziehend
+Gewalt	Gewalt
+oder	oder
+der	der
+Gerichtsbarkeit	Gerichtsbarkeit
+betrauten	betraut
+Personen	Person
+sind	sein
+für	für
+jeden	jeder
+bei	bei
+Ausübung	Ausübung
+ihrer	ihr
+Tätigkeit	Tätigkeit
+durch	durch
+vorsätzliche	vorsätzlich
+oder	oder
+grobfahrlässige	grobfahrlässig
+Rechtsverletzung	Rechtsverletzung
+wem	wer
+immer	immer
+zugefügten	zugefügt
+Schaden	Schaden
+nach	nach
+den	der
+näheren	näh
+Bestimmungen	Bestimmung
+eines	ein
+besonderen	besonderer
+Bundesgesetzes	Bundesgesetz
+haftbar	haftbar
 <g/>
 .
 </p>
 <head>
-III.	III.	Nom		Pos		Masc		Sing						
-Abschnitt	Abschnitt	Nom				Masc		Sing						
+III.	III.
+Abschnitt	Abschnitt
 <g/>
 .
 </head>
 <head>
-Die	der	Nom	Def			Fem		Sing			Art			
-Verteilung	Verteilung	Nom				Fem		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-öffentlichen	öffentlich	Gen		Pos		Fem		Sing						
-Gewalt	Gewalt	Gen				Fem		Sing						
-zwischen	zwischen													
-dem	der	Dat	Def			Masc		Sing			Art			
-Bund	Bund	Dat				Masc		Sing						
-und	und													
-den	der	Dat	Def			Neut		Plur			Art			
-Bundesländern	Bundesland	Dat				Neut		Plur						
+Die	der
+Verteilung	Verteilung
+der	der
+öffentlichen	öffentlich
+Gewalt	Gewalt
+zwischen	zwischen
+dem	der
+Bund	Bund
+und	und
+den	der
+Bundesländern	Bundesland
 <g/>
 .
 </head>
 <head>
-Artikel	Artikel	Nom				Masc		Sing						
-21.	21.													
+Artikel	Artikel
+21.	21.
 </head>
 <p>
-Bundessache	Bundessache	Nom				Fem		Sing						
-sind	sein						Ind	Plur	3				Pres	Fin
-hinsichtlich	hinsichtlich													
-Gesetzgebung	Gesetzgebung	Gen				Fem		Sing						
-und	und													
-Vollziehung:1.Die	Vollziehung:1.Die													
-Bundesverfassung	Bundesverfassung	Nom				Fem		Sing						
-und	und													
-die	der	Nom	Def			Fem		Sing			Art			
-Verfassungsgerichtsbarkeit	Verfassungsgerichtsbarkeit	Nom				Fem		Sing						
+Bundessache	Bundessache
+sind	sein
+hinsichtlich	hinsichtlich
+Gesetzgebung	Gesetzgebung
+und	und
+Vollziehung:1.Die	Vollziehung:1.Die
+Bundesverfassung	Bundesverfassung
+und	und
+die	der
+Verfassungsgerichtsbarkeit	Verfassungsgerichtsbarkeit
 <g/>
 ;
-die	der	Nom	Def			Fem		Sing			Art			
-Organisation	Organisation	Nom				Fem		Sing						
-der	der	Gen	Def			Fem		Plur			Art			
-Bundesbehörden	Bundesbehörde	Gen				Fem		Plur						
-und	und													
-das	der	Nom	Def			Neut		Sing			Art			
-Dienstrecht	Dienstrecht	Nom				Neut		Sing						
-der	der	Gen	Def					Plur			Art			
-Bundesangestellten	Bundesangestellter	Gen						Plur						
-einschließlich	einschließlich													
-der	der	Gen	Def			Fem		Sing			Art			
-Regelung	Regelung	Gen				Fem		Sing						
-des	der	Gen	Def			Masc		Sing			Art			
-im	in	Dat				Neut		Sing						
-Einvernehmen	Einvernehmen	Dat				Neut		Sing						
-mit	mit													
-dem	der	Dat	Def			Neut		Sing			Art			
-in	in													
-Betracht	Betracht	Dat				Masc		Sing						
-kommenden	kommend	Dat		Pos		Neut		Sing						
-Land	Land	Dat				Neut		Sing						
-zu	zu													
-vollziehenden	vollziehend	Gen		Pos		Masc		Sing						
-Wechsels	Wechsel	Gen				Masc		Sing						
-zwischen	zwischen													
-Bundes-	Bunde													
-und	und													
-Landesdienst	Landesdienst	Dat				Masc		Sing						
+die	der
+Organisation	Organisation
+der	der
+Bundesbehörden	Bundesbehörde
+und	und
+das	der
+Dienstrecht	Dienstrecht
+der	der
+Bundesangestellten	Bundesangestellter
+einschließlich	einschließlich
+der	der
+Regelung	Regelung
+des	der
+im	in
+Einvernehmen	Einvernehmen
+mit	mit
+dem	der
+in	in
+Betracht	Betracht
+kommenden	kommend
+Land	Land
+zu	zu
+vollziehenden	vollziehend
+Wechsels	Wechsel
+zwischen	zwischen
+Bundes-	Bunde
+und	und
+Landesdienst	Landesdienst
 <g/>
 ;
-das	der	Nom	Def			Neut		Sing			Art			
-Volkszählungswesen	Volkszählungswesen	Nom				Neut		Sing						
-sowie	sowie													
-die	der	Nom	Def			Fem		Sing			Art			
-sonstige	sonstig	Nom		Pos		Fem		Sing						
-Statistik	Statistik	Nom				Fem		Sing						
+das	der
+Volkszählungswesen	Volkszählungswesen
+sowie	sowie
+die	der
+sonstige	sonstig
+Statistik	Statistik
 <g/>
 ,
-soweit	soweit													
-sie	sie	Nom				Fem		Sing	3		Prs			
-nicht	nicht													
-nur	nur													
-den	der	Dat	Def			Neut		Plur			Art			
-Interessen	Interesse	Dat				Neut		Plur						
-eines	ein	Gen	Ind			Neut		Sing			Art			
-einzelnen	einzeln	Gen		Pos		Neut		Sing						
-Landes	Land	Gen				Neut		Sing						
-dient	dienen						Ind	Sing	3				Pres	Fin
+soweit	soweit
+sie	sie
+nicht	nicht
+nur	nur
+den	der
+Interessen	Interesse
+eines	ein
+einzelnen	einzeln
+Landes	Land
+dient	dienen
 <g/>
 ;
-die	der	Nom	Def			Fem		Sing			Art			
-Regelung	Regelung	Nom				Fem		Sing						
-des	der	Gen	Def			Masc		Sing			Art			
-wissenschaftlichen	wissenschaftlich	Gen		Pos		Masc		Sing						
-und	und													
-sachtechnischen	sachtechnisch	Gen		Pos		Masc		Sing						
-Archiv-	Archiv													
-und	und													
-Bibliotheksdienstes;2.die	Bibliotheksdienstes;2.die	Gen				Masc		Sing						
-auswärtigen	auswärtig	Acc		Pos		Fem		Plur						
-Angelegenheiten	Angelegenheit	Acc				Fem		Plur						
-mit	mit													
-Einschluß	Einschluß	Dat				Masc		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-politischen	politisch	Gen		Pos		Fem		Sing						
-und	und													
-wirtschaftlichen	wirtschaftlich	Gen		Pos		Fem		Sing						
-Vertretung	Vertretung	Gen				Fem		Sing						
-gegenüber	gegenüber													
-dem	der	Dat	Def			Neut		Sing			Art			
-Auslande	Ausland	Dat				Neut		Sing						
+die	der
+Regelung	Regelung
+des	der
+wissenschaftlichen	wissenschaftlich
+und	und
+sachtechnischen	sachtechnisch
+Archiv-	Archiv
+und	und
+Bibliotheksdienstes;2.die	Bibliotheksdienstes;2.die
+auswärtigen	auswärtig
+Angelegenheiten	Angelegenheit
+mit	mit
+Einschluß	Einschluß
+der	der
+politischen	politisch
+und	und
+wirtschaftlichen	wirtschaftlich
+Vertretung	Vertretung
+gegenüber	gegenüber
+dem	der
+Auslande	Ausland
 <g/>
 ,
-insbesondere	insbesondere													
-der	der	Nom	Def			Masc		Sing			Art			
-Abschluß	Abschluß	Nom				Masc		Sing						
-aller	aller	Gen				Masc		Plur			Ind			
-Staatsverträge	Staatsvertrag	Gen				Masc		Plur						
+insbesondere	insbesondere
+der	der
+Abschluß	Abschluß
+aller	aller
+Staatsverträge	Staatsvertrag
 <g/>
 ;
-die	der	Acc	Def			Fem		Sing			Art			
-Grenzvermarkung	Grenzvermarkung	Nom				Fem		Sing						
+die	der
+Grenzvermarkung	Grenzvermarkung
 <g/>
 ;
-die	der	Acc	Def			Fem		Sing			Art			
-Regelung	Regelung	Acc				Fem		Sing						
-des	der	Gen	Def			Masc		Sing			Art			
-Waren-	Ware													
-und	und													
-Viehverkehres	Viehverkehr	Gen				Masc		Sing						
-mit	mit													
-dem	der	Dat	Def			Neut		Sing			Art			
-Auslande	Ausland	Dat				Neut		Sing						
+die	der
+Regelung	Regelung
+des	der
+Waren-	Ware
+und	und
+Viehverkehres	Viehverkehr
+mit	mit
+dem	der
+Auslande	Ausland
 <g/>
 ;
-das	der	Nom	Def			Neut		Sing			Art			
-Zollwesen;3.die	Zollwesen;3.die													
-militärischen	militärisch	Acc		Pos		Fem		Plur						
-Angelegenheiten	Angelegenheit	Acc				Fem		Plur						
-mit	mit													
-Einschluß	Einschluß	Dat				Masc		Sing						
-der	der	Gen	Def			Fem		Plur			Art			
-Kriegsschadenangelegenheiten;4.Die	Kriegsschadenangelegenheiten;4.Die	Gen				Fem		Plur						
-Bundesfinanzen	Bundesfinanz	Nom				Fem		Plur						
+das	der
+Zollwesen;3.die	Zollwesen;3.die
+militärischen	militärisch
+Angelegenheiten	Angelegenheit
+mit	mit
+Einschluß	Einschluß
+der	der
+Kriegsschadenangelegenheiten;4.Die	Kriegsschadenangelegenheiten;4.Die
+Bundesfinanzen	Bundesfinanz
 <g/>
 ,
-insbesondere	insbesondere													
-die	der	Nom	Def			Fem		Plur			Art			
-öffentlichen	öffentlich	Nom		Pos		Fem		Plur						
-Abgaben	Abgabe	Nom				Fem		Plur						
+insbesondere	insbesondere
+die	der
+öffentlichen	öffentlich
+Abgaben	Abgabe
 <g/>
 ,
-die	der	Nom				Fem		Plur			Rel			
-ausschließlich	ausschließlich													
-oder	oder													
-teilweise	teilweise													
-für	für													
-den	der	Acc	Def			Masc		Sing			Art			
-Bund	Bund	Acc				Masc		Sing						
-einzuheben	einheben													Inf
-sind	sein						Ind	Plur	3				Pres	Fin
+die	der
+ausschließlich	ausschließlich
+oder	oder
+teilweise	teilweise
+für	für
+den	der
+Bund	Bund
+einzuheben	einheben
+sind	sein
 <g/>
 ;
-das	der	Acc	Def			Neut		Sing			Art			
-Monopolwesen	Monopolwesen	Acc				Neut		Sing						
+das	der
+Monopolwesen	Monopolwesen
 <g/>
 .
-Die	der	Nom	Def			Fem		Sing			Art			
-Regelung	Regelung	Nom				Fem		Sing						
+Die	der
+Regelung	Regelung
 <g/>
 ,
-welche	welcher	Nom				Fem		Plur			Int			
-Abgaben	Abgabe	Nom				Fem		Plur						
-dem	der	Dat	Def			Masc		Sing			Art			
-Bunde	Bund	Dat				Masc		Sing						
-und	und													
-den	der	Dat	Def			Neut		Plur			Art			
-Ländern	Land	Dat				Neut		Plur						
-zustehen	zustehen						Ind	Plur	3				Pres	Fin
+welche	welcher
+Abgaben	Abgabe
+dem	der
+Bunde	Bund
+und	und
+den	der
+Ländern	Land
+zustehen	zustehen
 <g/>
 ;
-die	der	Nom	Def			Fem		Sing			Art			
-Regelung	Regelung	Nom				Fem		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-Anteilnahmeder	Anteilnahmeder	Gen				Fem		Sing						
-Länder	Land	Gen				Neut		Plur						
-an	an													
-den	der	Dat	Def			Fem		Plur			Art			
-Einnahmen	Einnahme	Dat				Fem		Plur						
-des	der	Gen	Def			Masc		Sing			Art			
-Bundes	Bund	Gen				Masc		Sing						
-und	und													
-die	der	Nom	Def			Fem		Sing			Art			
-Regelung	Regelung	Nom				Fem		Sing						
-der	der	Gen	Def			Masc		Plur			Art			
-Beiträge	Beitrag	Gen				Masc		Plur						
-und	und													
-Zuschüsse	Zuschuß	Gen				Masc		Plur						
-aus	aus													
-Bundesmitteln	Bundesmittel	Dat				Neut		Plur						
-zu	zu													
-den	der	Dat	Def			Fem		Plur			Art			
-Ausgaben	Ausgabe	Dat				Fem		Plur						
-der	der	Gen	Def			Neut		Plur			Art			
-Länder	Land	Gen				Neut		Plur						
-erfolgt	erfolgen						Ind	Sing	3				Pres	Fin
-durch	durch													
-Bundesgesetz.5.Die	Bundesgesetz.5.Die	Acc				Neut		Sing						
-innere	innerer	Nom		Pos		Fem		Sing						
-Einrichtung	Einrichtung	Nom				Fem		Sing						
+die	der
+Regelung	Regelung
+der	der
+Anteilnahmeder	Anteilnahmeder
+Länder	Land
+an	an
+den	der
+Einnahmen	Einnahme
+des	der
+Bundes	Bund
+und	und
+die	der
+Regelung	Regelung
+der	der
+Beiträge	Beitrag
+und	und
+Zuschüsse	Zuschuß
+aus	aus
+Bundesmitteln	Bundesmittel
+zu	zu
+den	der
+Ausgaben	Ausgabe
+der	der
+Länder	Land
+erfolgt	erfolgen
+durch	durch
+Bundesgesetz.5.Die	Bundesgesetz.5.Die
+innere	innerer
+Einrichtung	Einrichtung
 <g/>
 ,
-Ausrüstung	Ausrüstung	Nom				Fem		Sing						
-und	und													
-Ausbildung	Ausbildung	Nom				Fem		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-Gendarmerie	Gendarmerie	Gen				Fem		Sing						
+Ausrüstung	Ausrüstung
+und	und
+Ausbildung	Ausbildung
+der	der
+Gendarmerie	Gendarmerie
 <g/>
 ,
-einschließlich	einschließlich													
-der	der	Gen	Def			Fem		Plur			Art			
-Dienstvorschriften	Dienstvorschrift	Gen				Fem		Plur						
+einschließlich	einschließlich
+der	der
+Dienstvorschriften	Dienstvorschrift
 <g/>
 ,
-das	der	Nom	Def			Neut		Sing			Art			
-Verfügungsrecht	Verfügungsrecht	Nom				Neut		Sing						
-über	über													
-die	der	Acc	Def			Fem		Sing			Art			
-Gendarmerie	Gendarmerie	Acc				Fem		Sing						
+das	der
+Verfügungsrecht	Verfügungsrecht
+über	über
+die	der
+Gendarmerie	Gendarmerie
 <g/>
 ,
-jedoch	jedoch													
-nur	nur													
-insoweit	insoweit													
+jedoch	jedoch
+nur	nur
+insoweit	insoweit
 <g/>
 ,
-als	als													
-es	es	Nom				Neut		Sing	3		Prs			
-sich	sich	Acc						Sing	3		Prs	Yes		
-bei	bei													
-Notstand	Notstand	Dat				Masc		Sing						
-und	und													
-Unruhen	Unruhe	Dat				Fem		Plur						
-um	um													
-die	der	Acc	Def			Fem		Sing			Art			
-zeitweilige	zeitweilig	Acc		Pos		Fem		Sing						
-Verwendung	Verwendung	Acc				Fem		Sing						
-von	von													
-Teilen	Teil	Dat				Masc		Plur						
-der	der	Gen	Def			Fem		Sing			Art			
-Gendarmerie	Gendarmerie	Gen				Fem		Sing						
-außerhalb	außerhalb													
-des	der	Gen	Def			Masc		Sing			Art			
-Landesbereiches	Landesbereich	Gen				Masc		Sing						
-handelt	handeln						Ind	Sing	3				Pres	Fin
+als	als
+es	es
+sich	sich
+bei	bei
+Notstand	Notstand
+und	und
+Unruhen	Unruhe
+um	um
+die	der
+zeitweilige	zeitweilig
+Verwendung	Verwendung
+von	von
+Teilen	Teil
+der	der
+Gendarmerie	Gendarmerie
+außerhalb	außerhalb
+des	der
+Landesbereiches	Landesbereich
+handelt	handeln
 <g/>
 ;
-die	der	Acc	Def			Fem		Sing			Art			
-Sicherheitspolizei	Sicherheitspolizei	Acc				Fem		Sing						
-in	in													
-der	der	Dat	Def			Fem		Sing			Art			
-Bundeshauptstadt	Bundeshauptstadt	Dat				Fem		Sing						
-Wien	Wien	Nom				Neut		Sing						
-und	und													
-in	in													
-den	der	Dat	Def			Fem		Plur			Art			
-Landeshauptstädten	Landeshauptstadt	Dat				Fem		Plur						
+die	der
+Sicherheitspolizei	Sicherheitspolizei
+in	in
+der	der
+Bundeshauptstadt	Bundeshauptstadt
+Wien	Wien
+und	und
+in	in
+den	der
+Landeshauptstädten	Landeshauptstadt
 <g/>
 ;
-die	der	Acc	Def			Fem		Sing			Art			
-Regelung	Regelung	Acc				Fem		Sing						
-und	und													
-Überwachung	Überwachung	Acc				Fem		Sing						
-des	der	Gen	Def			Masc		Sing			Art			
-Eintrittes	Eintritt	Gen				Masc		Sing						
-in	in													
-das	der	Acc	Def			Neut		Sing			Art			
-Bundesgebiet	Bundesgebiet	Acc				Neut		Sing						
-und	und													
-des	der	Gen	Def			Masc		Sing			Art			
-Austrittes	Austritt	Gen				Masc		Sing						
-aus	aus													
-diesem	dieser	Dat				Masc		Sing			Dem			
+die	der
+Regelung	Regelung
+und	und
+Überwachung	Überwachung
+des	der
+Eintrittes	Eintritt
+in	in
+das	der
+Bundesgebiet	Bundesgebiet
+und	und
+des	der
+Austrittes	Austritt
+aus	aus
+diesem	dieser
 <g/>
 ;
-das	der	Acc	Def			Neut		Sing			Art			
-Ein-	Ein													
-und	und													
-Auswanderungswesen	Auswanderungswesen	Acc				Neut		Sing						
+das	der
+Ein-	Ein
+und	und
+Auswanderungswesen	Auswanderungswesen
 <g/>
 ,
-die	der	Acc	Def			Fem		Sing			Art			
-Abschiebung	Abschiebung	Acc				Fem		Sing						
+die	der
+Abschiebung	Abschiebung
 <g/>
 ,
-Abschaffung	Abschaffung	Acc				Fem		Sing						
+Abschaffung	Abschaffung
 <g/>
 ,
-Ausweisung	Ausweisung	Acc				Fem		Sing						
-und	und													
-Auslieferung	Auslieferung	Acc				Fem		Sing						
-aus	aus													
-dem	der	Dat	Def			Neut		Sing			Art			
-Bundesgebiet	Bundesgebiet	Dat				Neut		Sing						
+Ausweisung	Ausweisung
+und	und
+Auslieferung	Auslieferung
+aus	aus
+dem	der
+Bundesgebiet	Bundesgebiet
 <g/>
 ,
-sowie	sowie													
-die	der	Nom	Def			Fem		Sing			Art			
-Durchlieferung	Durchlieferung	Nom				Fem		Sing						
+sowie	sowie
+die	der
+Durchlieferung	Durchlieferung
 <g/>
 ;
-das	der	Acc	Def			Neut		Sing			Art			
-Stiftungs-	Stiftung													
-und	und													
-Fondswesen	Fondswesen	Acc				Neut		Sing						
+das	der
+Stiftungs-	Stiftung
+und	und
+Fondswesen	Fondswesen
 <g/>
 ,
-soweit	soweit													
-es	es	Nom				Neut		Sing	3		Prs			
-sich	sich	Acc						Sing	3		Prs	Yes		
-um	um													
-Stiftungen	Stiftung	Acc				Fem		Plur						
-und	und													
-Fonds	Fonds	Acc				Masc		Plur						
-handelt	handeln						Ind	Sing	3				Pres	Fin
+soweit	soweit
+es	es
+sich	sich
+um	um
+Stiftungen	Stiftung
+und	und
+Fonds	Fonds
+handelt	handeln
 <g/>
 ,
-die	der	Nom						Plur			Rel			
-nach	nach													
-ihren	ihr	Dat				Masc		Plur		Yes	Prs			
-Zwecken	Zweck	Dat				Masc		Plur						
-über	über													
-den	der	Acc	Def			Masc		Sing			Art			
-Interessenbereich	Interessenbereich	Acc				Masc		Sing						
-eines	ein	Gen	Ind			Neut		Sing			Art			
-Landes	Land	Gen				Neut		Sing						
-hinausgehen	hinausgehen						Ind	Plur	3				Pres	Fin
-und	und													
-nicht	nicht													
-schon	schon													
-bisher	bisher													
-von	von													
-den	der	Dat	Def			Neut		Plur			Art			
-Ländern	Land	Dat				Neut		Plur						
-autonom	autonom			Pos										
-verwaltet	verwalten													Part
-wurden;6.das	wurden;6.das													
-Zivil-	Zivil													
-und	und													
-Strafrechtswesen	Strafrechtswesen	Acc				Neut		Sing						
-einschließlich	einschließlich													
-des	der	Gen	Def			Neut		Sing			Art			
-Verwaltungsstrafrechtes	Verwaltungsstrafrecht	Gen				Neut		Sing						
-in	in													
-Angelegenheiten	Angelegenheit	Dat				Fem		Plur						
+die	der
+nach	nach
+ihren	ihr
+Zwecken	Zweck
+über	über
+den	der
+Interessenbereich	Interessenbereich
+eines	ein
+Landes	Land
+hinausgehen	hinausgehen
+und	und
+nicht	nicht
+schon	schon
+bisher	bisher
+von	von
+den	der
+Ländern	Land
+autonom	autonom
+verwaltet	verwalten
+wurden;6.das	wurden;6.das
+Zivil-	Zivil
+und	und
+Strafrechtswesen	Strafrechtswesen
+einschließlich	einschließlich
+des	der
+Verwaltungsstrafrechtes	Verwaltungsstrafrecht
+in	in
+Angelegenheiten	Angelegenheit
 <g/>
 ,
-deren	der	Gen				Fem		Plur			Rel			
-Vollziehung	Vollziehung	Nom				Fem		Sing						
-dem	der	Dat	Def			Masc		Sing			Art			
-Bunde	Bund	Dat				Masc		Sing						
-zusteht	zustehen						Ind	Sing	3				Pres	Fin
+deren	der
+Vollziehung	Vollziehung
+dem	der
+Bunde	Bund
+zusteht	zustehen
 <g/>
 ;
-die	der	Acc	Def			Fem		Sing			Art			
-Verwaltungsgerichtsbarkeit	Verwaltungsgerichtsbarkeit	Acc				Fem		Sing						
+die	der
+Verwaltungsgerichtsbarkeit	Verwaltungsgerichtsbarkeit
 <g/>
 ;
-die	der	Acc	Def			Fem		Sing			Art			
-Enteignung	Enteignung	Acc				Fem		Sing						
+die	der
+Enteignung	Enteignung
 <g/>
 ,
-soweit	soweit													
-sie	sie	Nom				Fem		Sing	3		Prs			
-nicht	nicht													
-Angelegenheiten	Angelegenheit	Acc				Fem		Plur						
-betrifft	betreffen						Ind	Sing	3				Pres	Fin
+soweit	soweit
+sie	sie
+nicht	nicht
+Angelegenheiten	Angelegenheit
+betrifft	betreffen
 <g/>
 ,
-die	der	Nom				Fem		Plur			Rel			
-in	in													
-den	der	Acc	Def			Masc		Sing			Art			
-Wirkungskreis	Wirkungskreis	Acc				Masc		Sing						
-der	der	Gen	Def			Neut		Plur			Art			
-Länder	Land	Gen				Neut		Plur						
-fallen	fallen						Ind	Plur	3				Pres	Fin
+die	der
+in	in
+den	der
+Wirkungskreis	Wirkungskreis
+der	der
+Länder	Land
+fallen	fallen
 <g/>
 ;
-die	der	Acc	Def			Fem		Plur			Art			
-Angelegenheiten	Angelegenheit	Acc				Fem		Plur						
-der	der	Gen	Def			Masc		Plur			Art			
-Notare	Notar	Gen				Masc		Plur						
+die	der
+Angelegenheiten	Angelegenheit
+der	der
+Notare	Notar
 <g/>
 ,
-der	der	Gen	Def			Masc		Plur			Art			
-Rechtsanwälte	Rechtsanwalt	Gen				Masc		Plur						
-und	und													
-verwandter	verwandt	Gen		Pos		Masc		Plur						
-Berufe;7.das	Berufe;7.das													
-Hochschulwesen	Hochschulwesen	Acc				Neut		Sing						
+der	der
+Rechtsanwälte	Rechtsanwalt
+und	und
+verwandter	verwandt
+Berufe;7.das	Berufe;7.das
+Hochschulwesen	Hochschulwesen
 <g/>
 ;
-die	der	Acc	Def			Fem		Plur			Art			
-fachlichen	fachlich	Acc		Pos		Fem		Plur						
-Zentrallehranstalten	Zentrallehranstalt	Acc				Fem		Plur						
+die	der
+fachlichen	fachlich
+Zentrallehranstalten	Zentrallehranstalt
 <g/>
 ;
-die	der	Acc	Def			Fem		Plur			Art			
-Angelegenheiten	Angelegenheit	Acc				Fem		Plur						
-der	der	Gen	Def			Fem		Plur			Art			
-künstlerischen	künstlerisch	Gen		Pos		Fem		Plur						
-und	und													
-wissenschaftlichen	wissenschaftlich	Gen		Pos		Fem		Plur						
-Sammlungen	Sammlung	Gen				Fem		Plur						
-und	und													
-Einrichtungen	Einrichtung	Gen				Fem		Plur						
+die	der
+Angelegenheiten	Angelegenheit
+der	der
+künstlerischen	künstlerisch
+und	und
+wissenschaftlichen	wissenschaftlich
+Sammlungen	Sammlung
+und	und
+Einrichtungen	Einrichtung
 <g/>
 ;
-den	der	Acc	Def			Masc		Sing			Art			
-Denkmalschutz	Denkmalschutz	Acc				Masc		Sing						
+den	der
+Denkmalschutz	Denkmalschutz
 <g/>
 ;
-die	der	Acc	Def			Fem		Plur			Art			
-Angelegenheiten	Angelegenheit	Acc				Fem		Plur						
-des	der	Gen	Def			Neut		Sing			Art			
-Kultus;8.das	Kultus;8.das													
-Bergwesen	Bergwesen	Acc				Neut		Sing						
+die	der
+Angelegenheiten	Angelegenheit
+des	der
+Kultus;8.das	Kultus;8.das
+Bergwesen	Bergwesen
 <g/>
 ;
-die	der	Acc	Def			Fem		Sing			Art			
-Ausführung	Ausführung	Acc				Fem		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-Regulierung	Regulierung	Gen				Fem		Sing						
-und	und													
-die	der	Acc	Def			Fem		Sing			Art			
-Instandhaltung	Instandhaltung	Acc				Fem		Sing						
-der	der	Gen	Def			Neut		Plur			Art			
-schiffbaren	schiffbar	Gen		Pos		Neut		Plur						
-und	und													
-flößbaren	flößbar	Gen		Pos		Neut		Plur						
-Gewässer	Gewässer	Gen				Neut		Plur						
+die	der
+Ausführung	Ausführung
+der	der
+Regulierung	Regulierung
+und	und
+die	der
+Instandhaltung	Instandhaltung
+der	der
+schiffbaren	schiffbar
+und	und
+flößbaren	flößbar
+Gewässer	Gewässer
 <g/>
 ,
-dann	dann													
-solcher	solcher	Gen				Neut		Plur			Ind			
-Gewässer	Gewässer	Gen				Neut		Plur						
+dann	dann
+solcher	solcher
+Gewässer	Gewässer
 <g/>
 ,
-welche	welcher	Nom				Neut		Plur			Rel			
-die	der	Acc	Def			Fem		Sing			Art			
-Grenze	Grenze	Acc				Fem		Sing						
-gegen	gegen													
-das	der	Acc	Def			Neut		Sing			Art			
-Ausland	Ausland	Acc				Neut		Sing						
-oder	oder													
-zwischen	zwischen													
-Ländern	Land	Dat				Neut		Plur						
-bilden	bilden						Ind	Plur	3				Pres	Fin
-oder	oder													
-die	der	Nom				Neut		Plur			Rel			
-zwei	zwei													
-oder	oder													
-mehrere	mehrere	Acc				Neut		Plur			Ind			
-Länder	Land	Acc				Neut		Plur						
-durchfließen	durchfließen						Ind	Plur	3				Pres	Fin
+welche	welcher
+die	der
+Grenze	Grenze
+gegen	gegen
+das	der
+Ausland	Ausland
+oder	oder
+zwischen	zwischen
+Ländern	Land
+bilden	bilden
+oder	oder
+die	der
+zwei	zwei
+oder	oder
+mehrere	mehrere
+Länder	Land
+durchfließen	durchfließen
 <g/>
 ,
-den	der	Acc	Def			Masc		Sing			Art			
-Bau	Bau	Acc				Masc		Sing						
-derjenigen	derjenigen	Gen				Fem		Plur			Dem			
-Wasserstraßen	Wasserstraße	Gen				Fem		Plur						
+den	der
+Bau	Bau
+derjenigen	derjenigen
+Wasserstraßen	Wasserstraße
 <g/>
 ,
-die	der	Nom				Fem		Plur			Rel			
-das	der	Acc	Def			Neut		Sing			Art			
-Inland	Inland	Acc				Neut		Sing						
-mit	mit													
-dem	der	Dat	Def			Neut		Sing			Art			
-Ausland	Ausland	Dat				Neut		Sing						
-oder	oder													
-die	der	Acc	Def			Neut		Plur			Art			
-mehrere	mehrere	Acc				Neut		Plur			Ind			
-Länder	Land	Acc				Neut		Plur						
-verbinden	verbinden						Ind	Plur	3				Pres	Fin
+die	der
+das	der
+Inland	Inland
+mit	mit
+dem	der
+Ausland	Ausland
+oder	oder
+die	der
+mehrere	mehrere
+Länder	Land
+verbinden	verbinden
 <g/>
 ;
-die	der	Acc	Def			Fem		Sing			Art			
-Bekämpfung	Bekämpfung	Acc				Fem		Sing						
-übertragbarer	übertragbar	Gen		Pos		Fem		Plur						
-Krankheiten	Krankheit	Gen				Fem		Plur						
-von	von													
-Tieren;9.das	Tieren;9.das													
-Gewerbewesen	Gewerbewesen	Acc				Neut		Sing						
+die	der
+Bekämpfung	Bekämpfung
+übertragbarer	übertragbar
+Krankheiten	Krankheit
+von	von
+Tieren;9.das	Tieren;9.das
+Gewerbewesen	Gewerbewesen
 <g/>
 ,
-die	der	Acc	Def			Fem		Plur			Art			
-öffentlichen	öffentlich	Acc		Pos		Fem		Plur						
-Agentien	Agentie	Acc				Fem		Plur						
-und	und													
-die	der	Acc	Def			Fem		Sing			Art			
-Privatgeschäftsvermittlung	Privatgeschäftsvermittlung	Acc				Fem		Sing						
+die	der
+öffentlichen	öffentlich
+Agentien	Agentie
+und	und
+die	der
+Privatgeschäftsvermittlung	Privatgeschäftsvermittlung
 <g/>
 ;
-das	der	Acc	Def			Neut		Sing			Art			
-Dampfkessel-	Dampfkessel													
-und	und													
-Kraftmaschinenwesen	Kraftmaschinenwesen	Acc				Neut		Sing						
+das	der
+Dampfkessel-	Dampfkessel
+und	und
+Kraftmaschinenwesen	Kraftmaschinenwesen
 <g/>
 ;
-das	der	Acc	Def			Neut		Sing			Art			
-Vermessungswesen	Vermessungswesen	Nom				Neut		Sing						
+das	der
+Vermessungswesen	Vermessungswesen
 <g/>
 ;
-das	der	Acc	Def			Neut		Sing			Art			
-Ingenieur-	Ingenieur													
-und	und													
-Ziviltechnikerwesen	Ziviltechnikerwesen	Acc				Neut		Sing						
+das	der
+Ingenieur-	Ingenieur
+und	und
+Ziviltechnikerwesen	Ziviltechnikerwesen
 <g/>
 ;
-dass	dass													
-Maß-	Maß													
+dass	dass
+Maß-	Maß
 <g/>
 ,
-Gewichts-	Gewicht													
+Gewichts-	Gewicht
 <g/>
 ,
-Normen-	Norme													
-und	und													
-Punzierungswesen	Punzierungswesen	Nom				Neut		Sing						
+Normen-	Norme
+und	und
+Punzierungswesen	Punzierungswesen
 <g/>
 ;
-das	der	Nom	Def			Neut		Sing			Art			
-Urheberrecht	Urheberrecht	Nom				Neut		Sing						
+das	der
+Urheberrecht	Urheberrecht
 <g/>
 ;
-die	der	Acc	Def			Fem		Sing			Art			
-Bekämpfung	Bekämpfung	Acc				Fem		Sing						
-des	der	Gen	Def			Masc		Sing			Art			
-unlauteren	unlauter	Gen		Pos		Masc		Sing						
-Wettbewerbes	Wettbewerb	Gen				Masc		Sing						
+die	der
+Bekämpfung	Bekämpfung
+des	der
+unlauteren	unlauter
+Wettbewerbes	Wettbewerb
 <g/>
 ;
-das	der	Acc	Def			Neut		Sing			Art			
-Patentwesen	Patentwesen	Acc				Neut		Sing						
+das	der
+Patentwesen	Patentwesen
 <g/>
 ,
-sowie	sowie													
-den	der	Acc	Def			Masc		Sing			Art			
-Marken-	Marke													
-und	und													
-Musterschutz	Musterschutz	Acc				Masc		Sing						
+sowie	sowie
+den	der
+Marken-	Marke
+und	und
+Musterschutz	Musterschutz
 <g/>
 ;
-das	der	Acc	Def			Neut		Sing			Art			
-wirtschaftliche	wirtschaftlich	Acc		Pos		Neut		Sing						
-Assoziationwesen	Assoziationwesen	Nom				Neut		Sing						
+das	der
+wirtschaftliche	wirtschaftlich
+Assoziationwesen	Assoziationwesen
 <g/>
 ;
-die	der	Nom	Def			Fem		Plur			Art			
-Handels-	Handel													
-und	und													
-Gewerbekammern	Gewerbekammer	Nom				Fem		Plur						
+die	der
+Handels-	Handel
+und	und
+Gewerbekammern	Gewerbekammer
 <g/>
 ;
-das	der	Acc	Def			Neut		Sing			Art			
-Vertragsversicherungswesen	Vertragsversicherungswesen	Nom				Neut		Sing						
+das	der
+Vertragsversicherungswesen	Vertragsversicherungswesen
 <g/>
 ;
-das	der	Acc	Def			Neut		Sing			Art			
-Geld-	Geld													
+das	der
+Geld-	Geld
 <g/>
 ,
-Kredit-	Kredit													
+Kredit-	Kredit
 <g/>
 ,
-Börse	Börse	Acc				Fem		Sing						
-und	und													
-Bankwesen;10.das	Bankwesen;10.das													
-Verkehrswesen	Verkehrswesen	Acc				Neut		Sing						
-bezüglich	bezüglich													
-der	der	Gen	Def			Fem		Plur			Art			
-Eisenbahnen	Eisenbahn	Gen				Fem		Plur						
+Börse	Börse
+und	und
+Bankwesen;10.das	Bankwesen;10.das
+Verkehrswesen	Verkehrswesen
+bezüglich	bezüglich
+der	der
+Eisenbahnen	Eisenbahn
 <g/>
 ,
-der	der	Gen	Def			Fem		Sing			Art			
-Schiffahrt	Schiffahrt	Gen				Fem		Sing						
-und	und													
-der	der	Gen	Def			Fem		Sing			Art			
-Luftschiffahrt	Luftschiffahrt	Gen				Fem		Sing						
+der	der
+Schiffahrt	Schiffahrt
+und	und
+der	der
+Luftschiffahrt	Luftschiffahrt
 <g/>
 ;
-dieAngelegenheiten	dieAngelegenheit	Acc				Fem		Plur						
-der	der	Gen	Def			Masc		Plur			Art			
-wegen	wegen													
-ihrer	ihr					Fem		Sing		Yes	Prs			
-Bedeutung	Bedeutung					Fem		Sing						
-für	für													
-den	der	Acc	Def			Masc		Sing			Art			
-Durchzugsverkehr	Durchzugsverkehr	Acc				Masc		Sing						
-durch	durch													
-Bundesgesetz	Bundesgesetz	Acc				Neut		Sing						
-als	als													
-Bundesstraßen	Bundesstraße	Acc				Fem		Plur						
-erklärten	erklärt	Gen		Pos		Masc		Plur						
-Straßenzüge	Straßenzug	Gen				Masc		Plur						
+dieAngelegenheiten	dieAngelegenheit
+der	der
+wegen	wegen
+ihrer	ihr
+Bedeutung	Bedeutung
+für	für
+den	der
+Durchzugsverkehr	Durchzugsverkehr
+durch	durch
+Bundesgesetz	Bundesgesetz
+als	als
+Bundesstraßen	Bundesstraße
+erklärten	erklärt
+Straßenzüge	Straßenzug
 <g/>
 ;
-die	der	Acc	Def			Fem		Sing			Art			
-Strom-	Strom													
-und	und													
-Schiffahrtspolizei	Schiffahrtspolizei	Acc				Fem		Sing						
+die	der
+Strom-	Strom
+und	und
+Schiffahrtspolizei	Schiffahrtspolizei
 <g/>
 ;
-das	der	Acc	Def			Neut		Sing			Art			
-Post-	Post													
+das	der
+Post-	Post
 <g/>
 ,
-Telegraphen-	Telegraphen													
-und	und													
-Fernsprechwesen;11.die	Fernsprechwesen;11.die	Acc				Neut		Sing						
-Bekämpfung	Bekämpfung	Acc				Fem		Sing						
-übertragbarer	übertragbar	Gen		Pos		Fem		Plur						
-Krankheiten	Krankheit	Gen				Fem		Plur						
-von	von													
-Menschen;12.das	Menschen;12.das													
-gesamte	gesamt	Acc		Pos		Neut		Sing						
-Arbeiterrecht	Arbeiterrecht	Acc				Neut		Sing						
-und	und													
-den	der	Acc	Def			Masc		Sing			Art			
-Arbeiter-	Arbeiter													
-und	und													
-Angestelltenschutz	Angestelltenschutz	Acc				Masc		Sing						
-sowie	sowie													
-das	der	Acc	Def			Neut		Sing			Art			
-Sozialversicherungswesen	Sozialversicherungswesen	Acc				Neut		Sing						
+Telegraphen-	Telegraphen
+und	und
+Fernsprechwesen;11.die	Fernsprechwesen;11.die
+Bekämpfung	Bekämpfung
+übertragbarer	übertragbar
+Krankheiten	Krankheit
+von	von
+Menschen;12.das	Menschen;12.das
+gesamte	gesamt
+Arbeiterrecht	Arbeiterrecht
+und	und
+den	der
+Arbeiter-	Arbeiter
+und	und
+Angestelltenschutz	Angestelltenschutz
+sowie	sowie
+das	der
+Sozialversicherungswesen	Sozialversicherungswesen
 <g/>
 ,
-soweit	soweit													
-es	es	Nom				Neut		Sing	3		Prs			
-sich	sich	Acc						Sing	3		Prs	Yes		
-nicht	nicht													
-um	um													
-land-	land													
-und	und													
-forstwirtschaftliche	forstwirtschaftlich	Acc		Pos				Plur						
-Arbeiter	Arbeiter	Acc				Masc		Plur						
-und	und													
-Angestellte	angestellter	Acc						Plur						
-handelt	handeln						Ind	Sing	3				Pres	Fin
+soweit	soweit
+es	es
+sich	sich
+nicht	nicht
+um	um
+land-	land
+und	und
+forstwirtschaftliche	forstwirtschaftlich
+Arbeiter	Arbeiter
+und	und
+Angestellte	angestellter
+handelt	handeln
 <g/>
 ;
-die	der	Acc	Def			Fem		Sing			Art			
-Fürsorge	Fürsorge	Acc				Fem		Sing						
-für	für													
-Kriegsteilnehmer	Kriegsteilnehmer	Acc				Masc		Plur						
-und	und													
-deren	der	Gen				Masc		Plur			Dem			
-Hinterbliebene	Hinterbliebene	Acc				Fem		Sing						
+die	der
+Fürsorge	Fürsorge
+für	für
+Kriegsteilnehmer	Kriegsteilnehmer
+und	und
+deren	der
+Hinterbliebene	Hinterbliebene
 <g/>
 ;
-das	der	Acc	Def			Neut		Sing			Art			
-Kriegsgräberwesen	Kriegsgräberwesen	Acc				Neut		Sing						
+das	der
+Kriegsgräberwesen	Kriegsgräberwesen
 <g/>
 ;
-die	der	Nom	Def			Fem		Plur			Art			
-aus	aus													
-Anlaß	Anlaß	Dat				Masc		Sing						
-eines	ein	Gen	Ind			Masc		Sing			Art			
-Krieges	Krieg	Gen				Masc		Sing						
-oder	oder													
-im	in	Dat				Neut		Sing						
-Gefolge	Gefolge	Dat				Neut		Sing						
-eines	ein	Gen	Ind			Neut		Sing			Art			
-solchen	solcher	Gen				Fem		Plur			Ind			
-zur	zu	Dat				Fem		Sing						
-Sicherung	Sicherung	Dat				Fem		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-einheitlichen	einheitlich	Gen		Pos		Fem		Sing						
-Führung	Führung	Gen				Fem		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-Wirtschaft	Wirtschaft	Gen				Fem		Sing						
-notwendig	notwendig			Pos										
-erscheinenden	erscheinend	Dat		Pos		Fem		Plur						
-Maßnahmen	Maßnahme	Gen				Fem		Plur						
+die	der
+aus	aus
+Anlaß	Anlaß
+eines	ein
+Krieges	Krieg
+oder	oder
+im	in
+Gefolge	Gefolge
+eines	ein
+solchen	solcher
+zur	zu
+Sicherung	Sicherung
+der	der
+einheitlichen	einheitlich
+Führung	Führung
+der	der
+Wirtschaft	Wirtschaft
+notwendig	notwendig
+erscheinenden	erscheinend
+Maßnahmen	Maßnahme
 <g/>
 .
 </p>
 <head>
-Artikel	Artikel	Nom				Masc		Sing						
-22.	22.													
+Artikel	Artikel
+22.	22.
 </head>
 <p>
-Bundessache	Bundessache	Nom				Fem		Sing						
-sind	sein						Ind	Plur	3				Pres	Fin
-hinsichtlich	hinsichtlich													
-Gesetzgebung	Gesetzgebung	Dat				Fem		Sing						
+Bundessache	Bundessache
+sind	sein
+hinsichtlich	hinsichtlich
+Gesetzgebung	Gesetzgebung
 <g/>
 ,
-Landessache	Landessache	Nom				Fem		Sing						
-hinsichtlich	hinsichtlich													
-Vollziehung:1.hinsichtlich	Vollziehung:1.hinsichtlich													
-der	der	Gen	Def			Fem		Plur			Art			
-öffentlichen	öffentlich	Gen		Pos		Fem		Plur						
-Abgaben	Abgabe	Gen				Fem		Plur						
+Landessache	Landessache
+hinsichtlich	hinsichtlich
+Vollziehung:1.hinsichtlich	Vollziehung:1.hinsichtlich
+der	der
+öffentlichen	öffentlich
+Abgaben	Abgabe
 <g/>
 ,
-die	der	Nom				Fem		Plur			Rel			
-nicht	nicht													
-ausschließlich	ausschließlich													
-oder	oder													
-teilweise	teilweise													
-für	für													
-den	der	Acc	Def			Masc		Sing			Art			
-Bund	Bund	Acc				Masc		Sing						
-eingehoben	eingehoben													Part
-werden	werden						Ind	Plur	3				Pres	Fin
+die	der
+nicht	nicht
+ausschließlich	ausschließlich
+oder	oder
+teilweise	teilweise
+für	für
+den	der
+Bund	Bund
+eingehoben	eingehoben
+werden	werden
 <g/>
 :
-die	der	Nom	Def			Fem		Plur			Art			
-Anordnungen	Anordnung	Nom				Fem		Plur						
-zur	zu	Dat				Fem		Sing						
-Verhinderung	Verhinderung	Dat				Fem		Sing						
-von	von													
-Doppelbesteuerungen	Doppelbesteuerung	Dat				Fem		Plur						
-oder	oder													
-sonstigen	sonstig	Dat		Pos		Fem		Plur						
-übermäßigen	übermäßig	Dat		Pos		Fem		Plur						
-Belastungen	Belastung	Dat				Fem		Plur						
+die	der
+Anordnungen	Anordnung
+zur	zu
+Verhinderung	Verhinderung
+von	von
+Doppelbesteuerungen	Doppelbesteuerung
+oder	oder
+sonstigen	sonstig
+übermäßigen	übermäßig
+Belastungen	Belastung
 <g/>
 ,
-zur	zu	Dat				Fem		Sing						
-Verhinderung	Verhinderung	Dat				Fem		Sing						
-von	von													
-Erschwerungen	Erschwerung	Dat				Fem		Plur						
-des	der	Gen	Def			Masc		Sing			Art			
-Verkehres	Verkehr	Gen				Masc		Sing						
-oder	oder													
-der	der	Gen	Def			Fem		Plur			Art			
-wirtschaftlichen	wirtschaftlich	Gen		Pos		Fem		Plur						
-Beziehungen	Beziehung	Gen				Fem		Plur						
-im	in	Dat				Neut		Sing						
-Verhältnis	Verhältnis	Dat				Neut		Sing						
-zum	zu	Dat				Neut		Sing						
-Ausland	Ausland	Dat				Neut		Sing						
-oder	oder													
-zwischen	zwischen													
-den	der	Dat	Def			Neut		Plur			Art			
-Ländern	Land	Dat				Neut		Plur						
-und	und													
-Landesteilen	Landesteil	Dat				Masc		Plur						
+zur	zu
+Verhinderung	Verhinderung
+von	von
+Erschwerungen	Erschwerung
+des	der
+Verkehres	Verkehr
+oder	oder
+der	der
+wirtschaftlichen	wirtschaftlich
+Beziehungen	Beziehung
+im	in
+Verhältnis	Verhältnis
+zum	zu
+Ausland	Ausland
+oder	oder
+zwischen	zwischen
+den	der
+Ländern	Land
+und	und
+Landesteilen	Landesteil
 <g/>
 ,
-zur	zu	Dat				Fem		Sing						
-Verhinderung	Verhinderung	Dat				Fem		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-übermäßigen	übermäßig	Gen		Pos		Fem		Sing						
-oder	oder													
-verkehrserschwerenden	verkehrserschwerend	Gen		Pos		Fem		Sing						
-Belastung	Belastung	Gen				Fem		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-Benutzung	Benutzung	Gen				Fem		Sing						
-öffentlicher	öffentlich	Gen		Pos		Masc		Plur						
-Verkehrswege	Verkehrsweg	Gen				Masc		Plur						
-und	und													
-Einrichtungen	Einrichtung	Gen				Fem		Plur						
-mit	mit													
-Gebühren	Gebühr	Dat				Fem		Plur						
-und	und													
-zur	zu	Dat				Fem		Sing						
-Verhinderung	Verhinderung	Dat				Fem		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-Schädigung	Schädigung	Gen				Fem		Sing						
-der	der	Gen	Def			Fem		Plur			Art			
-Bundesfinanzen;2.die	Bundesfinanzen;2.die													
-Staatsbürgerschaft	Staatsbürgerschaft	Nom				Fem		Sing						
-und	und													
-das	der	Nom	Def			Neut		Sing			Art			
-Heimatrecht	Heimatrecht	Nom				Neut		Sing						
+zur	zu
+Verhinderung	Verhinderung
+der	der
+übermäßigen	übermäßig
+oder	oder
+verkehrserschwerenden	verkehrserschwerend
+Belastung	Belastung
+der	der
+Benutzung	Benutzung
+öffentlicher	öffentlich
+Verkehrswege	Verkehrsweg
+und	und
+Einrichtungen	Einrichtung
+mit	mit
+Gebühren	Gebühr
+und	und
+zur	zu
+Verhinderung	Verhinderung
+der	der
+Schädigung	Schädigung
+der	der
+Bundesfinanzen;2.die	Bundesfinanzen;2.die
+Staatsbürgerschaft	Staatsbürgerschaft
+und	und
+das	der
+Heimatrecht	Heimatrecht
 <g/>
 :
-das	der	Nom	Def			Neut		Sing			Art			
-Vereins-	Verein													
-und	und													
-Versammlungsrecht	Versammlungsrecht	Nom				Neut		Sing						
+das	der
+Vereins-	Verein
+und	und
+Versammlungsrecht	Versammlungsrecht
 <g/>
 ;
-die	der	Acc	Def			Fem		Plur			Art			
-Angelegenheiten	Angelegenheit	Nom				Fem		Plur						
-der	der	Gen	Def			Fem		Sing			Art			
-Presse	Presse	Gen				Fem		Sing						
+die	der
+Angelegenheiten	Angelegenheit
+der	der
+Presse	Presse
 <g/>
 ;
-die	der	Nom	Def			Fem		Plur			Art			
-Personenstandsangelegenheiten	Personenstandsangelegenheit	Acc				Fem		Plur						
-einschließlich	einschließlich													
-des	der	Gen	Def			Neut		Sing			Art			
-Matrikenwesens	Matrikenwesen	Gen				Neut		Sing						
-und	und													
-der	der	Gen	Def			Fem		Sing			Art			
-Namensänderung	Namensänderung	Gen				Fem		Sing						
+die	der
+Personenstandsangelegenheiten	Personenstandsangelegenheit
+einschließlich	einschließlich
+des	der
+Matrikenwesens	Matrikenwesen
+und	und
+der	der
+Namensänderung	Namensänderung
 <g/>
 ;
-das	der	Nom	Def			Neut		Sing			Art			
-Paßwesen	Paßwesen	Nom				Neut		Sing						
-und	und													
-die	der	Nom	Def			Fem		Sing			Art			
-Fremdenpolizei;3.das	Fremdenpolizei;3.das													
-Verwaltungs-	Verwaltung													
-und	und													
-Verwaltungsstrafverfahren	Verwaltungsstrafverfahren	Acc				Neut		Sing						
-einschließlich	einschließlich													
-der	der	Gen	Def			Fem		Sing			Art			
-Zwangsvollstreckung	Zwangsvollstreckung	Gen				Fem		Sing						
-sowie	sowie													
-die	der	Acc	Def			Fem		Plur			Art			
-allgemeinen	allgemein	Acc		Pos		Fem		Plur						
-Bestimmungen	Bestimmung	Acc				Fem		Plur						
-des	der	Gen	Def			Neut		Sing			Art			
-Verwaltungsstrafrechtes	Verwaltungsstrafrecht	Gen				Neut		Sing						
-in	in													
-Angelegenheiten	Angelegenheit	Dat				Fem		Plur						
+das	der
+Paßwesen	Paßwesen
+und	und
+die	der
+Fremdenpolizei;3.das	Fremdenpolizei;3.das
+Verwaltungs-	Verwaltung
+und	und
+Verwaltungsstrafverfahren	Verwaltungsstrafverfahren
+einschließlich	einschließlich
+der	der
+Zwangsvollstreckung	Zwangsvollstreckung
+sowie	sowie
+die	der
+allgemeinen	allgemein
+Bestimmungen	Bestimmung
+des	der
+Verwaltungsstrafrechtes	Verwaltungsstrafrecht
+in	in
+Angelegenheiten	Angelegenheit
 <g/>
 ,
-deren	der	Gen				Fem		Plur			Rel			
-Vollziehung	Vollziehung	Nom				Fem		Sing						
-den	der	Dat	Def			Neut		Plur			Art			
-Ländern	Land	Dat				Neut		Plur						
-zusteht;4.die	zusteht;4.die													
-Festsetzung	Festsetzung	Acc				Fem		Sing						
-des	der	Gen	Def			Neut		Sing			Art			
-Lehrzieles	Lehrziel	Gen				Neut		Sing						
-bei	bei													
-den	der	Dat	Def			Fem		Plur			Art			
-mittleren	mittlerer	Dat		Pos		Fem		Plur						
-und	und													
-niederen	nieder	Dat		Pos		Fem		Plur						
-Schulen;5.das	Schulen;5.das													
-Veterinärwesen;6.das	Veterinärwesen;6.das	Acc				Neut		Sing						
-Munitions-	Munition													
+deren	der
+Vollziehung	Vollziehung
+den	der
+Ländern	Land
+zusteht;4.die	zusteht;4.die
+Festsetzung	Festsetzung
+des	der
+Lehrzieles	Lehrziel
+bei	bei
+den	der
+mittleren	mittlerer
+und	und
+niederen	nieder
+Schulen;5.das	Schulen;5.das
+Veterinärwesen;6.das	Veterinärwesen;6.das
+Munitions-	Munition
 <g/>
 ,
-Schieß-	Schieß													
-und	und													
-Sprengmittelwesen	Sprengmittelwesen	Acc				Neut		Sing						
+Schieß-	Schieß
+und	und
+Sprengmittelwesen	Sprengmittelwesen
 <g/>
 ,
-soweit	soweit													
-es	es	Nom				Neut		Sing	3		Prs			
-nicht	nicht													
-dem	der	Dat	Def			Neut		Sing			Art			
-Monopol	Monopol	Dat				Neut		Sing						
-unterliegt	unterliegen						Ind	Sing	3				Pres	Fin
+soweit	soweit
+es	es
+nicht	nicht
+dem	der
+Monopol	Monopol
+unterliegt	unterliegen
 <g/>
 ,
-sowie	sowie													
-das	der	Acc	Def			Neut		Sing			Art			
-Waffenwesen:7.die	Waffenwesen:7.die													
-betriebstechnischen	betriebstechnisch	Acc		Pos		Fem		Plur						
-Vorschriften	Vorschrift	Acc				Fem		Plur						
-bezüglich	bezüglich													
-des	der	Gen	Def			Neut		Sing			Art			
-Kraftfahrwesens;8.die	Kraftfahrwesens;8.die	Gen				Neut		Sing						
-Ausbildung	Ausbildung	Acc				Fem		Sing						
+sowie	sowie
+das	der
+Waffenwesen:7.die	Waffenwesen:7.die
+betriebstechnischen	betriebstechnisch
+Vorschriften	Vorschrift
+bezüglich	bezüglich
+des	der
+Kraftfahrwesens;8.die	Kraftfahrwesens;8.die
+Ausbildung	Ausbildung
 <g/>
 ,
-Fortbildung	Fortbildung	Acc				Fem		Sing						
-und	und													
-Berufsausübung	Berufsausübung	Acc				Fem		Sing						
-von	von													
-Heilpersonen	Heilperson	Dat				Fem		Plur						
+Fortbildung	Fortbildung
+und	und
+Berufsausübung	Berufsausübung
+von	von
+Heilpersonen	Heilperson
 <g/>
 ;
-das	der	Acc	Def			Neut		Sing			Art			
-Heilmittelwesen;das	Heilmittelwesen;das	Acc				Neut		Sing						
-Gesundheitswesen	Gesundheitswesen	Acc				Neut		Sing						
-mit	mit													
-Ausnahme	Ausnahme	Dat				Fem		Sing						
-der	der	Gen	Def			Fem		Plur			Art			
-Heil-	Heil													
-und	und													
-Pflegeanstalten	Pflegeanstalt	Gen				Fem		Plur						
-und	und													
-Ambularien	Ambularie	Gen				Fem		Plur						
+das	der
+Heilmittelwesen;das	Heilmittelwesen;das
+Gesundheitswesen	Gesundheitswesen
+mit	mit
+Ausnahme	Ausnahme
+der	der
+Heil-	Heil
+und	und
+Pflegeanstalten	Pflegeanstalt
+und	und
+Ambularien	Ambularie
 <g/>
 ,
-des	der	Gen	Def			Neut		Sing			Art			
-Kurorte-	Kurorte													
+des	der
+Kurorte-	Kurorte
 <g/>
 ,
-Leichen-	Leichen													
-und	und													
-Begräbniswesens	Begräbniswesen	Gen				Neut		Sing						
-sowie	sowie													
-des	der	Gen	Def			Neut		Sing			Art			
-Gemeindesanitätsdienstes	Gemeindesanitätsdienst	Gen				Masc		Sing						
-und	und													
-Rettungswesens;9.das	Rettungswesens;9.das	Gen				Neut		Sing						
-Volkswohnungs-	Volkswohnung													
-und	und													
-Volkspflegestättenwesen;10.die	Volkspflegestättenwesen;10.die	Acc				Neut		Sing						
-beruflichen	beruflich	Acc		Pos		Fem		Plur						
-Vertretungen	Vertretung	Acc				Fem		Plur						
-mit	mit													
-Ausnahme	Ausnahme	Dat				Fem		Sing						
-jener	jener	Gen						Plur			Dem			
-auf	auf													
-land-	land													
-und	und													
-forstwirtschaftlichem	forstwirtschaftlich	Dat		Pos		Neut		Sing						
-Gebiete	Gebiet	Dat				Neut		Sing						
+Leichen-	Leichen
+und	und
+Begräbniswesens	Begräbniswesen
+sowie	sowie
+des	der
+Gemeindesanitätsdienstes	Gemeindesanitätsdienst
+und	und
+Rettungswesens;9.das	Rettungswesens;9.das
+Volkswohnungs-	Volkswohnung
+und	und
+Volkspflegestättenwesen;10.die	Volkspflegestättenwesen;10.die
+beruflichen	beruflich
+Vertretungen	Vertretung
+mit	mit
+Ausnahme	Ausnahme
+jener	jener
+auf	auf
+land-	land
+und	und
+forstwirtschaftlichem	forstwirtschaftlich
+Gebiete	Gebiet
 <g/>
 .
 </p>
 <head>
-Artikel	Artikel	Nom				Masc		Sing						
-23.	23.													
+Artikel	Artikel
+23.	23.
 </head>
 <p>
-Bundessache	Bundessache	Nom				Fem		Sing						
-sind	sein						Ind	Plur	3				Pres	Fin
-hinsichtlich	hinsichtlich													
-der	der	Gen	Def			Fem		Sing			Art			
-grundsätzlichen	grundsätzlich	Gen		Pos		Fem		Sing						
-Gesetzgebung	Gesetzgebung	Gen				Fem		Sing						
+Bundessache	Bundessache
+sind	sein
+hinsichtlich	hinsichtlich
+der	der
+grundsätzlichen	grundsätzlich
+Gesetzgebung	Gesetzgebung
 <g/>
 ,
-Landessache	Landessache	Nom				Fem		Sing						
-hinsichtlich	hinsichtlich													
-der	der	Gen	Def			Fem		Sing			Art			
-Durchführungsgesetzgebung	Durchführungsgesetzgebung	Gen				Fem		Sing						
-und	und													
-der	der	Gen	Def			Fem		Sing			Art			
-Vollziehung:1.Die	Vollziehung:1.Die													
-Organisation	Organisation	Nom				Fem		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-Verwaltung	Verwaltung	Gen				Fem		Sing						
-in	in													
-den	der	Dat	Def			Neut		Plur			Art			
-Ländern	Land	Dat				Neut		Plur						
+Landessache	Landessache
+hinsichtlich	hinsichtlich
+der	der
+Durchführungsgesetzgebung	Durchführungsgesetzgebung
+und	und
+der	der
+Vollziehung:1.Die	Vollziehung:1.Die
+Organisation	Organisation
+der	der
+Verwaltung	Verwaltung
+in	in
+den	der
+Ländern	Land
 <g/>
 ;
-das	der	Nom	Def			Neut		Sing			Art			
-Dienstrecht	Dienstrecht	Nom				Neut		Sing						
-der	der	Gen	Def			Fem		Plur			Art			
-Lehrpersonen	Lehrperson	Gen				Fem		Plur						
-an	an													
-mittleren	mittlerer	Dat		Pos		Fem		Plur						
-Unterrichtsanstalten	Unterrichtsanstalt	Dat				Fem		Plur						
-und	und													
-jener	jener	Gen						Plur			Dem			
-Angestellten	angestellter	Gen						Plur						
-des	der	Gen	Def			Neut		Sing			Art			
-Landes	Land	Gen				Neut		Sing						
+das	der
+Dienstrecht	Dienstrecht
+der	der
+Lehrpersonen	Lehrperson
+an	an
+mittleren	mittlerer
+Unterrichtsanstalten	Unterrichtsanstalt
+und	und
+jener	jener
+Angestellten	angestellter
+des	der
+Landes	Land
 <g/>
 ,
-die	der	Nom						Plur			Rel			
-behördliche	behördlich	Acc		Pos		Fem		Plur						
-Aufgaben	Aufgabe	Acc				Fem		Plur						
-zu	zu													
-besorgen	besorgen													Inf
-haben	haben						Ind	Plur	3				Pres	Fin
+die	der
+behördliche	behördlich
+Aufgaben	Aufgabe
+zu	zu
+besorgen	besorgen
+haben	haben
 <g/>
 ,
-einschließlich	einschließlich													
-der	der	Gen	Def			Fem		Sing			Art			
-Regelung	Regelung	Gen				Fem		Sing						
-des	der	Gen	Def			Masc		Sing			Art			
-im	in	Dat				Neut		Sing						
-Einvernehmen	Einvernehmen	Dat				Neut		Sing						
-der	der	Gen	Def			Neut		Plur			Art			
-in	in													
-Betracht	Betracht	Dat				Masc		Sing						
-kommenden	kommend	Gen		Pos		Neut		Plur						
-Länder	Land	Gen				Neut		Plur						
-zu	zu													
-vollziehenden	vollziehend	Gen		Pos		Masc		Sing						
-Dienstwechsels	Dienstwechsel	Gen				Masc		Sing						
-von	von													
-Land	Land	Dat				Neut		Sing						
-zu	zu													
-Land;2.die	Land;2.die													
-Einrichtungen	Einrichtung	Acc				Fem		Plur						
-zum	zu	Dat				Masc		Sing						
-Schutze	Schutz	Dat				Masc		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-Gesellschaft	Gesellschaft	Gen				Fem		Sing						
-gegen	gegen													
-verbrecherische	verbrecherisch	Acc		Pos		Fem		Plur						
+einschließlich	einschließlich
+der	der
+Regelung	Regelung
+des	der
+im	in
+Einvernehmen	Einvernehmen
+der	der
+in	in
+Betracht	Betracht
+kommenden	kommend
+Länder	Land
+zu	zu
+vollziehenden	vollziehend
+Dienstwechsels	Dienstwechsel
+von	von
+Land	Land
+zu	zu
+Land;2.die	Land;2.die
+Einrichtungen	Einrichtung
+zum	zu
+Schutze	Schutz
+der	der
+Gesellschaft	Gesellschaft
+gegen	gegen
+verbrecherische	verbrecherisch
 <g/>
 ,
-verwahrloste	verwahrlost	Acc		Pos		Fem		Plur						
-oder	oder													
-sonst	sonst													
-gefährliche	gefährlich	Acc		Pos		Fem		Plur						
-Personen	Person	Acc				Fem		Plur						
+verwahrloste	verwahrlost
+oder	oder
+sonst	sonst
+gefährliche	gefährlich
+Personen	Person
 <g/>
 ,
-wie	wie													
-Zwangsarbeits-	Zwangsarbeit													
-und	und													
-ähnliche	ähnlich	Acc		Pos		Fem		Plur						
-Anstalten	Anstalt	Acc				Fem		Plur						
+wie	wie
+Zwangsarbeits-	Zwangsarbeit
+und	und
+ähnliche	ähnlich
+Anstalten	Anstalt
 <g/>
 ;
-die	der	Acc	Def			Fem		Sing			Art			
-Abschiebung	Abschiebung	Acc				Fem		Sing						
-und	und													
-Abschaffung	Abschaffung	Acc				Fem		Sing						
-aus	aus													
-einem	einer	Dat				Neut		Sing			Ind			
-in	in													
-ein	ein	Acc	Ind			Neut		Sing			Art			
-anderes	anderer	Acc		Pos		Neut		Sing						
-Land;3.das	Land;3.das													
-Wasserrecht	Wasserrecht	Nom				Neut		Sing						
-und	und													
-das	der	Acc	Def			Neut		Sing			Art			
-Elektrizitätswesen	Elektrizitätswesen	Acc				Neut		Sing						
+die	der
+Abschiebung	Abschiebung
+und	und
+Abschaffung	Abschaffung
+aus	aus
+einem	einer
+in	in
+ein	ein
+anderes	anderer
+Land;3.das	Land;3.das
+Wasserrecht	Wasserrecht
+und	und
+das	der
+Elektrizitätswesen	Elektrizitätswesen
 <g/>
 ;
-die	der	Acc	Def			Fem		Sing			Art			
-Bodenreform	Bodenreform	Nom				Fem		Sing						
+die	der
+Bodenreform	Bodenreform
 <g/>
 (
-agrarische	agrarisch	Nom		Pos		Fem		Plur						
-Operationen	Operation	Nom				Fem		Plur						
+agrarische	agrarisch
+Operationen	Operation
 <g/>
 ,
-Wiederbesiedelung	Wiederbesiedelung	Nom				Fem		Sing						
-usw.	usw.													
+Wiederbesiedelung	Wiederbesiedelung
+usw.	usw.
 <g/>
 )
 <g/>
 ;
-und	und													
-die	der	Nom	Def			Fem		Sing			Art			
-Bodenentschuldung	Bodenentschuldung	Nom				Fem		Sing						
+und	und
+die	der
+Bodenentschuldung	Bodenentschuldung
 <g/>
 ;
-das	der	Acc	Def			Neut		Sing			Art			
-Forstwesen	Forstwesen	Acc				Neut		Sing						
+das	der
+Forstwesen	Forstwesen
 <g/>
 ,
-einschließlich	einschließlich													
-des	der	Gen	Def			Neut		Sing			Art			
-Triftwesens	Triftwesen	Gen				Neut		Sing						
+einschließlich	einschließlich
+des	der
+Triftwesens	Triftwesen
 <g/>
 ,
-jedoch	jedoch													
-mit	mit													
-Ausnahme	Ausnahme	Dat				Fem		Sing						
-der	der	Gen	Def			Fem		Plur			Art			
-Forst-	Forst													
-und	und													
-Weideservituten	Weideservitute	Gen				Fem		Plur						
+jedoch	jedoch
+mit	mit
+Ausnahme	Ausnahme
+der	der
+Forst-	Forst
+und	und
+Weideservituten	Weideservitute
 <g/>
 :
-den	der	Acc	Def			Masc		Sing			Art			
-Schutz	Schutz	Acc				Masc		Sing						
-der	der	Gen	Def			Fem		Plur			Art			
-Pflanzen	Pflanze	Gen				Fem		Plur						
-gegen	gegen													
-Krankheiten	Krankheit	Acc				Fem		Plur						
-und	und													
-Schädlinge;4.das	Schädlinge;4.das	Acc				Masc		Plur						
-Heil-	Heil													
-und	und													
-Pflegeanstaltenwesen	Pflegeanstaltenwesen	Acc				Neut		Sing						
-einschließlich	einschließlich													
-der	der	Gen	Def			Fem		Plur			Art			
-Ambularien	Ambularium	Gen				Fem		Plur						
+den	der
+Schutz	Schutz
+der	der
+Pflanzen	Pflanze
+gegen	gegen
+Krankheiten	Krankheit
+und	und
+Schädlinge;4.das	Schädlinge;4.das
+Heil-	Heil
+und	und
+Pflegeanstaltenwesen	Pflegeanstaltenwesen
+einschließlich	einschließlich
+der	der
+Ambularien	Ambularium
 <g/>
 ;
-die	der	Acc	Def			Fem		Sing			Art			
-Ausgrabung	Ausgrabung	Acc				Fem		Sing						
-und	und													
-Überführung	Überführung	Acc				Fem		Sing						
-von	von													
-Leichen;5.das	Leichen;5.das													
-Arbeiterrecht	Arbeiterrecht	Acc				Neut		Sing						
-und	und													
-den	der	Acc	Def			Masc		Sing			Art			
-Arbeiter-	Arbeiter													
-und	und													
-Angestelltenschutz	Angestelltenschutz	Acc				Masc		Sing						
-sowie	sowie													
-das	der	Acc	Def			Neut		Sing			Art			
-Sozialversicherungswesen	Sozialversicherungswesen	Acc				Neut		Sing						
+die	der
+Ausgrabung	Ausgrabung
+und	und
+Überführung	Überführung
+von	von
+Leichen;5.das	Leichen;5.das
+Arbeiterrecht	Arbeiterrecht
+und	und
+den	der
+Arbeiter-	Arbeiter
+und	und
+Angestelltenschutz	Angestelltenschutz
+sowie	sowie
+das	der
+Sozialversicherungswesen	Sozialversicherungswesen
 <g/>
 ,
-soweit	soweit													
-es	es	Nom				Neut		Sing	3		Prs			
-sich	sich	Acc						Sing	3		Prs	Yes		
-um	um													
-land-	land													
-und	und													
-forstwirtschaftliche	forstwirtschaftlich	Acc		Pos		Masc		Plur						
-Arbeiter	Arbeiter	Acc				Masc		Plur						
-und	und													
-Angestellte	angestellter	Acc						Plur						
-handelt	handeln						Ind	Sing	3				Pres	Fin
+soweit	soweit
+es	es
+sich	sich
+um	um
+land-	land
+und	und
+forstwirtschaftliche	forstwirtschaftlich
+Arbeiter	Arbeiter
+und	und
+Angestellte	angestellter
+handelt	handeln
 <g/>
 ;
-das	der	Acc	Def			Neut		Sing			Art			
-Armenwesen	Armenwesen	Acc				Neut		Sing						
+das	der
+Armenwesen	Armenwesen
 <g/>
 ;
-die	der	Acc	Def			Fem		Sing			Art			
-Bevölkerungspolitik	Bevölkerungspolitik	Acc				Fem		Sing						
+die	der
+Bevölkerungspolitik	Bevölkerungspolitik
 <g/>
 ;
-die	der	Acc	Def			Fem		Sing			Art			
-Mutterschafts-	Mutterschaft													
+die	der
+Mutterschafts-	Mutterschaft
 <g/>
 ,
-Säuglings-	Säugling													
-und	und													
-Jugendfürsorge	Jugendfürsorge	Acc				Fem		Sing						
+Säuglings-	Säugling
+und	und
+Jugendfürsorge	Jugendfürsorge
 <g/>
 ;
-die	der	Acc	Def			Fem		Plur			Art			
-öffentlichen	öffentlich	Acc		Pos		Fem		Plur						
-Einrichtungen	Einrichtung	Acc				Fem		Plur						
-zur	zu	Dat				Fem		Sing						
-außergerichtlichen	außergerichtlich	Dat		Pos		Fem		Sing						
-Vermittlung	Vermittlung	Dat				Fem		Sing						
-von	von													
-Streitigkeiten;6.die	Streitigkeiten;6.die													
-beruflichen	beruflich	Acc		Pos		Fem		Plur						
-Vertretungen	Vertretung	Acc				Fem		Plur						
-aus	aus													
-land-	land													
-und	und													
-forstwirtschaftlichem	forstwirtschaftlich	Dat		Pos		Neut		Sing						
-Gebiete	Gebiet	Dat				Neut		Sing						
+die	der
+öffentlichen	öffentlich
+Einrichtungen	Einrichtung
+zur	zu
+außergerichtlichen	außergerichtlich
+Vermittlung	Vermittlung
+von	von
+Streitigkeiten;6.die	Streitigkeiten;6.die
+beruflichen	beruflich
+Vertretungen	Vertretung
+aus	aus
+land-	land
+und	und
+forstwirtschaftlichem	forstwirtschaftlich
+Gebiete	Gebiet
 <g/>
 .
 </p>
 <head>
-Artikel	Artikel	Nom				Masc		Sing						
-24.	24.													
+Artikel	Artikel
+24.	24.
 </head>
 <p>
 <g/>
 (
-1)Wenn	1)Wenn													
-eine	ein	Nom	Ind			Fem		Sing			Art			
-Angelegenheit	Angelegenheit	Nom				Fem		Sing						
-nicht	nicht													
-ausdrücklich	ausdrücklich			Pos										
-durch	durch													
-die	der	Acc	Def			Fem		Sing			Art			
-Bundesverfassung	Bundesverfassung	Acc				Fem		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-Gesetzgebung	Gesetzgebung	Gen				Fem		Sing						
-oder	oder													
-auch	auch													
-der	der	Gen	Def			Fem		Sing			Art			
-Vollziehung	Vollziehung	Gen				Fem		Sing						
-des	der	Gen	Def			Masc		Sing			Art			
-Bundes	Bund	Gen				Masc		Sing						
-übertragen	übertragen													Part
-ist	sein						Ind	Sing	3				Pres	Fin
+1)Wenn	1)Wenn
+eine	ein
+Angelegenheit	Angelegenheit
+nicht	nicht
+ausdrücklich	ausdrücklich
+durch	durch
+die	der
+Bundesverfassung	Bundesverfassung
+der	der
+Gesetzgebung	Gesetzgebung
+oder	oder
+auch	auch
+der	der
+Vollziehung	Vollziehung
+des	der
+Bundes	Bund
+übertragen	übertragen
+ist	sein
 <g/>
 ,
-verbleibt	verbleiben						Ind	Sing	3				Pres	Fin
-sie	sie	Nom				Fem		Sing	3		Prs			
-im	in	Dat				Masc		Sing						
-Wirkungsbereiche	Wirkungsbereich	Dat				Masc		Sing						
-der	der	Gen	Def			Neut		Plur			Art			
-Länder	Land	Gen				Neut		Plur						
+verbleibt	verbleiben
+sie	sie
+im	in
+Wirkungsbereiche	Wirkungsbereich
+der	der
+Länder	Land
 <g/>
 .
-Insoweit	Insoweit													
-der	der	Dat	Def			Fem		Sing			Art			
-Bundesgesetzgebung	Bundesgesetzgebung	Dat				Fem		Sing						
-bloß	bloß													
-die	der	Nom	Def			Fem		Sing			Art			
-Regelungder	Regelungder	Gen		Pos		Masc		Plur						
-Grundzüge	Grundzug	Gen				Masc		Plur						
-vorbehalten	vorbehalten													Part
-ist	sein						Ind	Sing	3				Pres	Fin
+Insoweit	Insoweit
+der	der
+Bundesgesetzgebung	Bundesgesetzgebung
+bloß	bloß
+die	der
+Regelungder	Regelungder
+Grundzüge	Grundzug
+vorbehalten	vorbehalten
+ist	sein
 <g/>
 ,
-obliegt	obliegen						Ind	Sing	3				Pres	Fin
-die	der	Nom	Def			Fem		Sing			Art			
-nähere	näh	Nom		Cmp		Fem		Sing						
-Durchführung	Durchführung	Nom				Fem		Sing						
-der	der	Dat	Def			Fem		Sing			Art			
-Landesgesetzgebung	Landesgesetzgebung	Dat				Fem		Sing						
-innerhalb	innerhalb													
-des	der	Gen	Def			Masc		Sing			Art			
-bundesgesetzlich	bundesgesetzlich			Pos										
-festgelegten	festgelegt	Gen		Pos		Masc		Sing						
-Rahmens	Rahmen	Gen				Masc		Sing						
+obliegt	obliegen
+die	der
+nähere	näh
+Durchführung	Durchführung
+der	der
+Landesgesetzgebung	Landesgesetzgebung
+innerhalb	innerhalb
+des	der
+bundesgesetzlich	bundesgesetzlich
+festgelegten	festgelegt
+Rahmens	Rahmen
 <g/>
 .
 </p>
@@ -2659,48 +2659,48 @@ Rahmens	Rahmen	Gen				Masc		Sing
 (
 <g/>
 2)Sofern
-in	in													
-Angelegenheiten	Angelegenheit	Dat				Fem		Plur						
-der	der	Gen	Def			Masc		Plur			Art			
-Artikel	Artikel	Gen				Masc		Plur						
-22	22													
-und	und													
-23	23													
-ein	ein	Nom	Ind			Masc		Sing			Art			
-Akt	Akt	Nom				Masc		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-vollziehenden	vollziehend	Gen		Pos		Fem		Sing						
-Gewalt	Gewalt	Gen				Fem		Sing						
-für	für													
-mehrere	mehrere	Acc				Neut		Plur			Ind			
-Länder	Land	Acc				Neut		Plur						
-Rechtswirksamkeit	Rechtswirksamkeit	Acc				Fem		Sing						
-äußern	äußern													Inf
-soll	sollen						Ind	Sing	3				Pres	Fin
+in	in
+Angelegenheiten	Angelegenheit
+der	der
+Artikel	Artikel
+22	22
+und	und
+23	23
+ein	ein
+Akt	Akt
+der	der
+vollziehenden	vollziehend
+Gewalt	Gewalt
+für	für
+mehrere	mehrere
+Länder	Land
+Rechtswirksamkeit	Rechtswirksamkeit
+äußern	äußern
+soll	sollen
 <g/>
 ,
-geht	gehen						Ind	Sing	3				Pres	Fin
-die	der	Nom	Def			Fem		Sing			Art			
-Zuständigkeit	Zuständigkeit	Nom				Fem		Sing						
-für	für													
-diesen	dieser	Acc				Masc		Sing			Dem			
-Vollzugsakt	Vollzugsakt	Acc				Masc		Sing						
+geht	gehen
+die	der
+Zuständigkeit	Zuständigkeit
+für	für
+diesen	dieser
+Vollzugsakt	Vollzugsakt
 <g/>
 ,
-wenn	wenn													
-die	der	Nom	Def			Neut		Plur			Art			
-beteiligten	beteiligt	Nom		Pos		Neut		Plur						
-Länder	Land	Nom				Neut		Plur						
-sich	sich	Acc						Plur	3		Prs	Yes		
-nicht	nicht													
-selbst	selbst													
-einigen	einigen						Ind	Plur	3				Pres	Fin
+wenn	wenn
+die	der
+beteiligten	beteiligt
+Länder	Land
+sich	sich
+nicht	nicht
+selbst	selbst
+einigen	einigen
 <g/>
 ,
-auf	auf													
-den	der	Acc	Def			Masc		Sing			Art			
-Bund	Bund	Acc				Masc		Sing						
-über	über													
+auf	auf
+den	der
+Bund	Bund
+über	über
 <g/>
 .
 </p>
@@ -2709,63 +2709,63 @@ Bund	Bund	Acc				Masc		Sing
 (
 <g/>
 3)Die
-auf	auf													
-Grund	Grund	Dat				Masc		Sing						
-der	der	Gen	Def			Masc		Plur			Art			
-Artikel	Artikel	Gen				Masc		Plur						
-22	22													
-und	und													
-23	23													
-zu	zu													
-erlassenden	erlassend	Nom		Pos		Neut		Plur						
-Bundesgesetze	Bundesgesetz	Nom				Neut		Plur						
-haben	haben						Ind	Plur	3				Pres	Fin
-vorzusehen	vorsehen													Inf
+auf	auf
+Grund	Grund
+der	der
+Artikel	Artikel
+22	22
+und	und
+23	23
+zu	zu
+erlassenden	erlassend
+Bundesgesetze	Bundesgesetz
+haben	haben
+vorzusehen	vorsehen
 <g/>
 ,
-ob	ob													
-und	und													
-inwiefern	inwiefern										Int			
-über	über													
-Antrag	Antrag	Acc				Masc		Sing						
-einer	ein	Gen	Ind			Fem		Sing			Art			
-beteiligten	beteiligt	Gen		Pos		Fem		Sing						
-Landesregierung	Landesregierung	Gen				Fem		Sing						
-der	der	Nom	Def			Masc		Sing			Art			
-Vollzug	Vollzug	Nom				Masc		Sing						
-auf	auf													
-den	der	Acc	Def			Masc		Sing			Art			
-Bund	Bund	Acc				Masc		Sing						
-übergeht	übergehen						Ind	Sing	3				Pres	Fin
+ob	ob
+und	und
+inwiefern	inwiefern
+über	über
+Antrag	Antrag
+einer	ein
+beteiligten	beteiligt
+Landesregierung	Landesregierung
+der	der
+Vollzug	Vollzug
+auf	auf
+den	der
+Bund	Bund
+übergeht	übergehen
 <g/>
 ,
-wenn	wenn													
-ein	ein	Nom	Ind			Masc		Sing			Art			
-Akt	Akt	Nom				Masc		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-vollziehenden	vollziehend	Gen		Pos		Fem		Sing						
-Gewalt	Gewalt	Gen				Fem		Sing						
-eines	ein	Gen	Ind			Neut		Sing			Art			
-Landes	Land	Gen				Neut		Sing						
-Rückwirkungen	Rückwirkung	Acc				Fem		Plur						
-auf	auf													
-ein	ein	Acc	Ind			Neut		Sing			Art			
-anderes	anderer	Acc		Pos		Neut		Sing						
-Land	Land	Acc				Neut		Sing						
-zu	zu													
-äußern	äußern													Inf
-geeignet	eignen													Part
-ist	sein						Ind	Sing	3				Pres	Fin
+wenn	wenn
+ein	ein
+Akt	Akt
+der	der
+vollziehenden	vollziehend
+Gewalt	Gewalt
+eines	ein
+Landes	Land
+Rückwirkungen	Rückwirkung
+auf	auf
+ein	ein
+anderes	anderer
+Land	Land
+zu	zu
+äußern	äußern
+geeignet	eignen
+ist	sein
 <g/>
 ,
-sofern	sofern													
-sich	sich	Acc						Plur	3		Prs	Yes		
-die	der	Nom	Def			Neut		Plur			Art			
-beteiligten	beteiligt	Nom		Pos		Neut		Plur						
-Länder	Land	Nom				Neut		Plur						
-nicht	nicht													
-einigen	einigen													Inf
-können	können						Ind	Plur	3				Pres	Fin
+sofern	sofern
+sich	sich
+die	der
+beteiligten	beteiligt
+Länder	Land
+nicht	nicht
+einigen	einigen
+können	können
 <g/>
 .
 </p>
@@ -2774,46 +2774,46 @@ können	können						Ind	Plur	3				Pres	Fin
 (
 <g/>
 4)In
-jenen	jener	Dat				Fem		Plur			Dem			
-Angelegenheiten	Angelegenheit	Dat				Fem		Plur						
+jenen	jener
+Angelegenheiten	Angelegenheit
 <g/>
 ,
-die	der	Nom				Fem		Plur			Rel			
-nach	nach													
-Artikel	Artikel	Dat				Masc		Sing						
-22	22													
-und	und													
-23	23													
-zur	zu	Dat				Fem		Sing						
-Gänze	Gänze	Dat				Fem		Sing						
-oder	oder													
-der	der	Dat	Def			Fem		Sing			Art			
-Regelung	Regelung	Dat				Fem		Sing						
-der	der	Gen	Def			Masc		Plur			Art			
-Grundsätze	Grundsatz	Gen				Masc		Plur						
-nach	nach													
-der	der	Dat	Def			Fem		Sing			Art			
-Bundesgesetzgebung	Bundesgesetzgebung	Dat				Fem		Sing						
-vorbehalten	vorbehalten													Part
-sind	sein						Ind	Plur	3				Pres	Fin
+die	der
+nach	nach
+Artikel	Artikel
+22	22
+und	und
+23	23
+zur	zu
+Gänze	Gänze
+oder	oder
+der	der
+Regelung	Regelung
+der	der
+Grundsätze	Grundsatz
+nach	nach
+der	der
+Bundesgesetzgebung	Bundesgesetzgebung
+vorbehalten	vorbehalten
+sind	sein
 <g/>
 ,
-steht	stehen						Ind	Sing	3				Pres	Fin
-dem	der	Dat	Def			Masc		Sing			Art			
-Bunde	Bund	Dat				Masc		Sing						
-das	der	Nom	Def			Neut		Sing			Art			
-Recht	Recht	Nom				Neut		Sing						
-zu	zu													
+steht	stehen
+dem	der
+Bunde	Bund
+das	der
+Recht	Recht
+zu	zu
 <g/>
 ,
-die	der	Acc	Def			Fem		Sing			Art			
-Einhaltung	Einhaltung	Acc				Fem		Sing						
-der	der	Gen	Def			Fem		Plur			Art			
-von	von													
-ihm	ihm	Dat				Masc		Sing	3		Prs			
-erlassenen	erlassen	Gen		Pos		Fem		Plur						
-Vorschriften	Vorschrift	Gen				Fem		Plur						
-wahrzunehmen	wahrnehmen													Inf
+die	der
+Einhaltung	Einhaltung
+der	der
+von	von
+ihm	ihm
+erlassenen	erlassen
+Vorschriften	Vorschrift
+wahrzunehmen	wahrnehmen
 <g/>
 .
 </p>
@@ -2822,119 +2822,119 @@ wahrzunehmen	wahrnehmen													Inf
 (
 <g/>
 5)Die
-Länder	Land	Nom				Neut		Plur						
-sind	sein						Ind	Plur	3				Pres	Fin
-im	in	Dat				Masc		Sing						
-Bereiche	Bereich	Dat				Masc		Sing						
-ihres	ihr	Gen				Neut		Sing		Yes	Prs			
-Gesetzgebungsrechtes	Gesetzgebungsrecht	Gen				Neut		Sing						
-befugt	befugen													Part
+Länder	Land
+sind	sein
+im	in
+Bereiche	Bereich
+ihres	ihr
+Gesetzgebungsrechtes	Gesetzgebungsrecht
+befugt	befugen
 <g/>
 ,
-die	der	Acc	Def			Fem		Plur			Art			
-zur	zu	Dat				Fem		Sing						
-Regelung	Regelung	Dat				Fem		Sing						
-des	der	Gen	Def			Masc		Sing			Art			
-Gegenstandes	Gegenstand	Gen				Masc		Sing						
-erforderlichen	erforderlich	Acc		Pos		Fem		Plur						
-Bestimmungen	Bestimmung	Acc				Fem		Plur						
-auch	auch													
-auf	auf													
-dem	der	Dat	Def			Neut		Sing			Art			
-Gebiete	Gebiet	Dat				Neut		Sing						
-des	der	Gen	Def			Neut		Sing			Art			
-Straf	Straf	Gen				Neut		Sing						
-und	und													
-Zivilrechtes	Zivilrecht	Gen				Neut		Sing						
-zu	zu													
-treffen	treffen													Inf
+die	der
+zur	zu
+Regelung	Regelung
+des	der
+Gegenstandes	Gegenstand
+erforderlichen	erforderlich
+Bestimmungen	Bestimmung
+auch	auch
+auf	auf
+dem	der
+Gebiete	Gebiet
+des	der
+Straf	Straf
+und	und
+Zivilrechtes	Zivilrecht
+zu	zu
+treffen	treffen
 <g/>
 .
-Insbesondere	insbesondere													
-gilt	gelten						Ind	Sing	3				Pres	Fin
-dies	dieser	Nom				Neut		Sing			Dem			
-auch	auch													
-für	für													
-die	der	Acc	Def			Fem		Plur			Art			
-Angelegenheiten	Angelegenheit	Acc				Fem		Plur						
-der	der	Gen	Def			Fem		Sing			Art			
-Landeskultur	Landeskultur	Gen				Fem		Sing						
+Insbesondere	insbesondere
+gilt	gelten
+dies	dieser
+auch	auch
+für	für
+die	der
+Angelegenheiten	Angelegenheit
+der	der
+Landeskultur	Landeskultur
 <g/>
 ,
-wie	wie													
-Höferecht	Höferecht	Acc				Neut		Sing						
+wie	wie
+Höferecht	Höferecht
 <g/>
 ,
-Anerbenrecht	Anerbenrecht	Acc				Neut		Sing						
+Anerbenrecht	Anerbenrecht
 <g/>
 ,
-Jagd	Jagd	Acc				Fem		Sing						
+Jagd	Jagd
 <g/>
 ,
-Fischerei	Fischerei	Acc				Fem		Sing						
+Fischerei	Fischerei
 <g/>
 ,
-landwirtschaftliche	landwirtschaftlich	Acc		Pos		Masc		Plur						
-Dienstverträge	Dienstvertrag	Acc				Masc		Plur						
-und	und													
-Zusammenlegung	Zusammenlegung	Acc				Fem		Sing						
-von	von													
-Grundstücken	Grundstück	Dat				Neut		Plur						
-und	und													
-Neuordnung	Neuordnung	Acc				Fem		Sing						
-der	der	Gen	Def			Fem		Plur			Art			
-Agrargemeinschaften	Agrargemeinschaft	Gen				Fem		Plur						
+landwirtschaftliche	landwirtschaftlich
+Dienstverträge	Dienstvertrag
+und	und
+Zusammenlegung	Zusammenlegung
+von	von
+Grundstücken	Grundstück
+und	und
+Neuordnung	Neuordnung
+der	der
+Agrargemeinschaften	Agrargemeinschaft
 <g/>
 .
 </p>
 <head>
-Artikel	Artikel	Nom				Masc		Sing						
-25.	25.													
+Artikel	Artikel
+25.	25.
 </head>
 <p>
 <g/>
 (
 <g/>
 1)Durch
-die	der	Acc	Def			Fem		Plur			Art			
-Bestimmungen	Bestimmung	Acc				Fem		Plur						
-der	der	Gen	Def			Masc		Plur			Art			
-Artikel	Artikel	Gen				Masc		Plur						
-21	21													
-bis	bis													
-24	24													
-über	über													
-die	der	Acc	Def			Fem		Sing			Art			
-Zuständigkeit	Zuständigkeit	Acc				Fem		Sing						
-in	in													
-Gesetzgebung	Gesetzgebung	Dat				Fem		Sing						
-und	und													
-Vollziehung	Vollziehung	Dat				Fem		Sing						
-wird	werden						Ind	Sing	3				Pres	Fin
-die	der	Nom	Def			Fem		Sing			Art			
-Stellung	Stellung	Nom				Fem		Sing						
-des	der	Gen	Def			Masc		Sing			Art			
-Bundes	Bund	Gen				Masc		Sing						
-als	als													
-Träger	Träger	Nom				Masc		Plur						
-von	von													
-Privatrechten	Privatrecht	Dat				Neut		Plur						
+die	der
+Bestimmungen	Bestimmung
+der	der
+Artikel	Artikel
+21	21
+bis	bis
+24	24
+über	über
+die	der
+Zuständigkeit	Zuständigkeit
+in	in
+Gesetzgebung	Gesetzgebung
+und	und
+Vollziehung	Vollziehung
+wird	werden
+die	der
+Stellung	Stellung
+des	der
+Bundes	Bund
+als	als
+Träger	Träger
+von	von
+Privatrechten	Privatrecht
 <g/>
 (
-Eigentümer	Eigentümer	Nom				Masc		Sing						
+Eigentümer	Eigentümer
 <g/>
 ,
-Unternehmer	Unternehmer	Nom				Masc		Plur						
+Unternehmer	Unternehmer
 <g/>
 ,
-Pächter	Pächter	Nom				Masc		Plur						
-usw.	usw.													
+Pächter	Pächter
+usw.	usw.
 <g/>
 )
-in	in													
-keiner	kein	Dat				Fem		Sing			Ind			
-Weise	Weise	Dat				Fem		Sing						
-berührt	berühren													Part
+in	in
+keiner	kein
+Weise	Weise
+berührt	berühren
 <g/>
 .
 </p>
@@ -2943,208 +2943,208 @@ berührt	berühren													Part
 (
 <g/>
 2)Der
-Bund	Bund	Nom				Masc		Sing						
-kann	können						Ind	Sing	3				Pres	Fin
-in	in													
-allen	aller	Dat				Fem		Plur			Ind			
-diesen	dieser	Dat				Fem		Plur			Dem			
-Rechtsbeziehungen	Rechtsbeziehung	Dat				Fem		Plur						
-durch	durch													
-die	der	Acc	Def			Fem		Sing			Art			
-Landesgesetzgebung	Landesgesetzgebung	Acc				Fem		Sing						
-niemals	niemals													
-ungünstiger	ungünstig			Cmp										
-gestellt	stellen													Part
-werden	werden													Inf
-als	als													
-das	der	Nom	Def			Neut		Sing			Art			
-betreffende	betreffend	Nom		Pos		Neut		Sing						
-Land	Land	Nom				Neut		Sing						
-selbst	selbst													
+Bund	Bund
+kann	können
+in	in
+allen	aller
+diesen	dieser
+Rechtsbeziehungen	Rechtsbeziehung
+durch	durch
+die	der
+Landesgesetzgebung	Landesgesetzgebung
+niemals	niemals
+ungünstiger	ungünstig
+gestellt	stellen
+werden	werden
+als	als
+das	der
+betreffende	betreffend
+Land	Land
+selbst	selbst
 <g/>
 .
 </p>
 <head>
-Artikel	Artikel	Nom				Masc		Sing						
-26.	26.													
+Artikel	Artikel
+26.	26.
 </head>
 <p>
 <g/>
 (
 <g/>
 1)Im
-Bereiche	Bereich	Dat				Masc		Sing						
-der	der	Gen	Def			Neut		Plur			Art			
-Bundesländer	Bundesland	Gen				Neut		Plur						
-wird	werden						Ind	Sing	3				Pres	Fin
-die	der	Nom	Def			Fem		Sing			Art			
-vollziehende	vollziehend	Nom		Pos		Fem		Sing						
-Gewalt	Gewalt	Nom				Fem		Sing						
-des	der	Gen	Def			Masc		Sing			Art			
-Bundes	Bund	Gen				Masc		Sing						
-entweder	entweder													
-durch	durch													
-eigene	eigen	Acc		Pos		Fem		Plur						
-Bundesbehörden	Bundesbehörde	Acc				Fem		Plur						
+Bereiche	Bereich
+der	der
+Bundesländer	Bundesland
+wird	werden
+die	der
+vollziehende	vollziehend
+Gewalt	Gewalt
+des	der
+Bundes	Bund
+entweder	entweder
+durch	durch
+eigene	eigen
+Bundesbehörden	Bundesbehörde
 <g/>
 (
-unmittelbare	unmittelbar	Acc		Pos		Fem		Sing						
-Bundesverwaltung	Bundesverwaltung	Acc				Fem		Sing						
+unmittelbare	unmittelbar
+Bundesverwaltung	Bundesverwaltung
 <g/>
 )
-oder	oder													
-durch	durch													
-die	der	Acc	Def			Fem		Plur			Art			
-Landesregierungen	Landesregierung	Acc				Fem		Plur						
-und	und													
-die	der	Acc	Def			Fem		Plur			Art			
-ihnen	ihnen	Dat				Masc		Plur	3		Prs			
-unterstellten	unterstellt	Acc		Pos		Fem		Plur						
-Landesbehörden	Landesbehörde	Acc				Fem		Plur						
-im	in	Dat				Masc		Sing						
-Bundesauftrag	Bundesauftrag	Dat				Masc		Sing						
+oder	oder
+durch	durch
+die	der
+Landesregierungen	Landesregierung
+und	und
+die	der
+ihnen	ihnen
+unterstellten	unterstellt
+Landesbehörden	Landesbehörde
+im	in
+Bundesauftrag	Bundesauftrag
 <g/>
 (
-mittelbare	mittelbar	Nom		Pos		Fem		Sing						
-Bundesverwaltung	Bundesverwaltung	Nom				Fem		Sing						
+mittelbare	mittelbar
+Bundesverwaltung	Bundesverwaltung
 <g/>
 )
-ausgeübt	ausüben													Part
+ausgeübt	ausüben
 <g/>
 .
 </p>
 <p>
 <g/>
 (
-2)Eigene	2)Eigene	Nom		Pos		Fem		Plur						
-Bundesbehörden	Bundesbehörde	Nom				Fem		Plur						
-können	können						Ind	Plur	3				Pres	Fin
-für	für													
-folgende	folgend	Acc		Pos		Fem		Plur						
-Angelegenheiten	Angelegenheit	Acc				Fem		Plur						
-errichtet	errichten													Part
-werden	werden													Inf
+2)Eigene	2)Eigene
+Bundesbehörden	Bundesbehörde
+können	können
+für	für
+folgende	folgend
+Angelegenheiten	Angelegenheit
+errichtet	errichten
+werden	werden
 <g/>
 :
-Regelung	Regelung	Nom				Fem		Sing						
-des	der	Gen	Def			Masc		Sing			Art			
-Waren-	Ware													
-und	und													
-Viehverkehres	Viehverkehr	Gen				Masc		Sing						
-mit	mit													
-dem	der	Dat	Def			Neut		Sing			Art			
-Ausland	Ausland	Dat				Neut		Sing						
+Regelung	Regelung
+des	der
+Waren-	Ware
+und	und
+Viehverkehres	Viehverkehr
+mit	mit
+dem	der
+Ausland	Ausland
 <g/>
 ,
-Zollwesen	Zollwesen	Dat				Neut		Sing						
+Zollwesen	Zollwesen
 <g/>
 ,
-Bundesfinanzen	Bundesfinanz	Dat				Fem		Plur						
-und	und													
-Regelung	Regelung	Acc				Fem		Sing						
-der	der	Gen	Def			Fem		Plur			Art			
-Finanzangelegenheiten	Finanzangelegenheit	Gen				Fem		Plur						
-zwischen	zwischen													
-Bund	Bund	Dat				Masc		Sing						
-und	und													
-Bundesländern	Bundesland	Dat				Neut		Plur						
+Bundesfinanzen	Bundesfinanz
+und	und
+Regelung	Regelung
+der	der
+Finanzangelegenheiten	Finanzangelegenheit
+zwischen	zwischen
+Bund	Bund
+und	und
+Bundesländern	Bundesland
 <g/>
 ,
-Monopolwesen	Monopolwesen	Dat				Neut		Sing						
+Monopolwesen	Monopolwesen
 <g/>
 ,
-Maß-	Maß													
+Maß-	Maß
 <g/>
 ,
-Gewichts-	Gewicht													
+Gewichts-	Gewicht
 <g/>
 ,
-Normen-	Norme													
-und	und													
-Punzierungswesen	Punzierungswesen	Dat				Neut		Sing						
+Normen-	Norme
+und	und
+Punzierungswesen	Punzierungswesen
 <g/>
 ,
-Justizpflege	Justizpflege	Dat				Fem		Sing						
+Justizpflege	Justizpflege
 <g/>
 ,
-Verkehrswesen	Verkehrswesen	Dat				Neut		Sing						
-bezüglich	bezüglich													
-der	der	Gen	Def			Fem		Plur			Art			
-Eisenbahnen	Eisenbahn	Gen				Fem		Plur						
+Verkehrswesen	Verkehrswesen
+bezüglich	bezüglich
+der	der
+Eisenbahnen	Eisenbahn
 <g/>
 ,
-der	der	Gen	Def			Fem		Sing			Art			
-Schiffahrt	Schiffahrt	Gen				Fem		Sing						
-und	und													
-der	der	Gen	Def			Fem		Sing			Art			
-Luftschiffahrt	Luftschiffahrt	Gen				Fem		Sing						
+der	der
+Schiffahrt	Schiffahrt
+und	und
+der	der
+Luftschiffahrt	Luftschiffahrt
 <g/>
 ,
-Strom-	Strom													
-und	und													
-Schiffahrtspolizei	Schiffahrtspolizei	Nom				Fem		Sing						
+Strom-	Strom
+und	und
+Schiffahrtspolizei	Schiffahrtspolizei
 <g/>
 ,
-Post-	Post													
+Post-	Post
 <g/>
 ,
-Telegraphen-	Telegraphen													
-und	und													
-Fernsprechwesen	Fernsprechwesen	Nom				Neut		Sing						
+Telegraphen-	Telegraphen
+und	und
+Fernsprechwesen	Fernsprechwesen
 <g/>
 ,
-Bergwesen	Bergwesen	Nom				Neut		Sing						
+Bergwesen	Bergwesen
 <g/>
 ,
-militärische	militärisch	Acc		Pos		Fem		Plur						
-Angelegenheiten	Angelegenheit	Acc				Fem		Plur						
+militärische	militärisch
+Angelegenheiten	Angelegenheit
 <g/>
 ,
-innere	innerer	Nom		Pos		Fem		Sing						
-Einrichtung	Einrichtung	Nom				Fem		Sing						
+innere	innerer
+Einrichtung	Einrichtung
 <g/>
 ,
-Ausrüstung	Ausrüstung	Nom				Fem		Sing						
-und	und													
-Ausbildung	Ausbildung	Nom				Fem		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-Gendarmerie	Gendarmerie	Gen				Fem		Sing						
+Ausrüstung	Ausrüstung
+und	und
+Ausbildung	Ausbildung
+der	der
+Gendarmerie	Gendarmerie
 <g/>
 ,
-Sicherheitspolizei	Sicherheitspolizei	Nom				Fem		Sing						
-in	in													
-der	der	Dat	Def			Fem		Sing			Art			
-Bundeshauptstadt	Bundeshauptstadt	Dat				Fem		Sing						
-Wien	Wien	Nom				Neut		Sing						
-und	und													
-in	in													
-den	der	Dat	Def			Fem		Plur			Art			
-Landeshauptstädten	Landeshauptstadt	Dat				Fem		Plur						
+Sicherheitspolizei	Sicherheitspolizei
+in	in
+der	der
+Bundeshauptstadt	Bundeshauptstadt
+Wien	Wien
+und	und
+in	in
+den	der
+Landeshauptstädten	Landeshauptstadt
 <g/>
 .
-Dem	der	Dat	Def			Masc		Sing			Art			
-Bunde	Bund	Dat				Masc		Sing						
-bleibt	bleiben						Ind	Sing	3				Pres	Fin
-es	es	Nom				Neut		Sing	3		Prs			
-vorbehalten	vorbehalten													Part
+Dem	der
+Bunde	Bund
+bleibt	bleiben
+es	es
+vorbehalten	vorbehalten
 <g/>
 ,
-auch	auch													
-in	in													
-diesen	dieser	Dat				Fem		Plur			Dem			
-Angelegenheiten	Angelegenheit	Dat				Fem		Plur						
-die	der	Acc	Def			Fem		Plur			Art			
-Landesregierungen	Landesregierung	Acc				Fem		Plur						
-mit	mit													
-der	der	Dat	Def			Fem		Sing			Art			
-Ausübung	Ausübung	Dat				Fem		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-vollziehenden	vollziehend	Gen		Pos		Fem		Sing						
-Gewalt	Gewalt	Gen				Fem		Sing						
-des	der	Gen	Def			Masc		Sing			Art			
-Bundes	Bund	Gen				Masc		Sing						
-zu	zu													
-beauftragen	beauftragen													Inf
+auch	auch
+in	in
+diesen	dieser
+Angelegenheiten	Angelegenheit
+die	der
+Landesregierungen	Landesregierung
+mit	mit
+der	der
+Ausübung	Ausübung
+der	der
+vollziehenden	vollziehend
+Gewalt	Gewalt
+des	der
+Bundes	Bund
+zu	zu
+beauftragen	beauftragen
 <g/>
 .
 </p>
@@ -3153,66 +3153,66 @@ beauftragen	beauftragen													Inf
 (
 <g/>
 3)Soweit
-die	der	Nom	Def			Fem		Plur			Art			
-Landesregierungen	Landesregierung	Nom				Fem		Plur						
-Bundesangelegenheiten	Bundesangelegenheit	Acc				Fem		Plur						
-durchzuführen	durchführen													Inf
-haben	haben						Ind	Plur	3				Pres	Fin
+die	der
+Landesregierungen	Landesregierung
+Bundesangelegenheiten	Bundesangelegenheit
+durchzuführen	durchführen
+haben	haben
 <g/>
 ,
-sind	sein						Ind	Plur	3				Pres	Fin
-sie	sie	Nom				Fem		Plur	3		Prs			
-an	an													
-die	der	Acc	Def			Fem		Plur			Art			
-Weisungen	Weisung	Acc				Fem		Plur						
-der	der	Gen	Def			Fem		Sing			Art			
-Bundesregierung	Bundesregierung	Gen				Fem		Sing						
-sowie	sowie													
-der	der	Gen	Def			Neut		Plur			Art			
-einzelnen	einzeln	Gen		Pos		Neut		Plur						
-Bundesämter	Bundesamt	Gen				Neut		Plur						
-gebunden	binden													Part
-und	und													
-ist	sein						Ind	Sing	3				Pres	Fin
-für	für													
-die	der	Acc	Def			Fem		Sing			Art			
-Durchführung	Durchführung	Acc				Fem		Sing						
-der	der	Nom	Def			Masc		Sing			Art			
-Landeshauptmann	Landeshauptmann	Nom				Masc		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-Bundesregierung	Bundesregierung	Gen				Fem		Sing						
-verantwortlich	verantwortlich			Pos										
+sind	sein
+sie	sie
+an	an
+die	der
+Weisungen	Weisung
+der	der
+Bundesregierung	Bundesregierung
+sowie	sowie
+der	der
+einzelnen	einzeln
+Bundesämter	Bundesamt
+gebunden	binden
+und	und
+ist	sein
+für	für
+die	der
+Durchführung	Durchführung
+der	der
+Landeshauptmann	Landeshauptmann
+der	der
+Bundesregierung	Bundesregierung
+verantwortlich	verantwortlich
 <g/>
 .
 </p>
 <head>
-Artikel	Artikel	Nom				Masc		Sing						
-27.	27.													
+Artikel	Artikel
+27.	27.
 </head>
 <p>
 <g/>
 (
 <g/>
 1)Alle
-Gesetzesbeschlüsse	Gesetzesbeschluß	Nom				Masc		Plur						
-der	der	Gen	Def			Masc		Plur			Art			
-Landtage	Landtag	Gen				Masc		Plur						
-sind	sein						Ind	Plur	3				Pres	Fin
-unmittelbar	unmittelbar			Pos										
-nach	nach													
-erfolgter	erfolgt	Dat		Pos		Fem		Sing						
-Beschlußfassung	Beschlußfassung	Dat				Fem		Sing						
-des	der	Gen	Def			Masc		Sing			Art			
-Landtages	Landtag	Gen				Masc		Sing						
-und	und													
-vor	vor													
-ihrer	ihr	Dat				Fem		Sing		Yes	Prs			
-Kundmachung	Kundmachung	Dat				Fem		Sing						
-vom	von	Dat				Masc		Sing						
-Landeshauptmann	Landeshauptmann	Dat				Masc		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-Bundesregierung	Bundesregierung	Gen				Fem		Sing						
-bekanntzugeben	bekanntgeben													Inf
+Gesetzesbeschlüsse	Gesetzesbeschluß
+der	der
+Landtage	Landtag
+sind	sein
+unmittelbar	unmittelbar
+nach	nach
+erfolgter	erfolgt
+Beschlußfassung	Beschlußfassung
+des	der
+Landtages	Landtag
+und	und
+vor	vor
+ihrer	ihr
+Kundmachung	Kundmachung
+vom	von
+Landeshauptmann	Landeshauptmann
+der	der
+Bundesregierung	Bundesregierung
+bekanntzugeben	bekanntgeben
 <g/>
 .
 </p>
@@ -3221,60 +3221,60 @@ bekanntzugeben	bekanntgeben													Inf
 (
 <g/>
 2)Wegen
-Gefährdung	Gefährdung					Fem		Sing						
-von	von													
-Bundesinteressen	Bundesinteresse	Dat				Neut		Plur						
-kann	können						Ind	Sing	3				Pres	Fin
-die	der	Nom	Def			Fem		Sing			Art			
-Bundesregierung	Bundesregierung	Nom				Fem		Sing						
-unter	unter													
-gleichzeitiger	gleichzeitig	Dat		Pos		Fem		Sing						
-Mitteilung	Mitteilung	Dat				Fem		Sing						
-an	an													
-den	der	Acc	Def			Masc		Sing			Art			
-Bundesrat	Bundesrat	Acc				Masc		Sing						
-binnen	binnen													
-vier	vier													
-Wochen	Woche	Dat				Fem		Plur						
-vom	von	Dat				Masc		Sing						
-Tage	Tag	Dat				Masc		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-eingelangten	eingelangt	Gen		Pos		Fem		Sing						
-Bekanntmachung	Bekanntmachung	Gen				Fem		Sing						
-an	an													
-gegen	gegen													
-den	der	Acc	Def			Masc		Sing			Art			
-Gesetzesbeschluß	Gesetzesbeschluß	Acc				Masc		Sing						
-des	der	Gen	Def			Masc		Sing			Art			
-Landtages	Landtag	Gen				Masc		Sing						
-Einspruch	Einspruch	Acc				Masc		Sing						
-erheben	erheben													Inf
+Gefährdung	Gefährdung
+von	von
+Bundesinteressen	Bundesinteresse
+kann	können
+die	der
+Bundesregierung	Bundesregierung
+unter	unter
+gleichzeitiger	gleichzeitig
+Mitteilung	Mitteilung
+an	an
+den	der
+Bundesrat	Bundesrat
+binnen	binnen
+vier	vier
+Wochen	Woche
+vom	von
+Tage	Tag
+der	der
+eingelangten	eingelangt
+Bekanntmachung	Bekanntmachung
+an	an
+gegen	gegen
+den	der
+Gesetzesbeschluß	Gesetzesbeschluß
+des	der
+Landtages	Landtag
+Einspruch	Einspruch
+erheben	erheben
 <g/>
 .
-In	in													
-diesem	dieser	Dat				Masc		Sing			Dem			
-Falle	Fall	Dat				Masc		Sing						
-sind	sein						Ind	Plur	3				Pres	Fin
-der	der	Nom	Def			Masc		Sing			Art			
-Beschluß	Beschluß	Nom				Masc		Sing						
-samt	samt													
-dem	der	Dat	Def			Masc		Sing			Art			
-Einspruch	Einspruch	Dat				Masc		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-Bundesregierung	Bundesregierung	Gen				Fem		Sing						
-und	und													
-der	der	Dat	Def			Fem		Sing			Art			
-etwaigen	etwaig	Dat		Pos		Fem		Sing						
-Äußerung	Äußerung	Dat				Fem		Sing						
-des	der	Gen	Def			Masc		Sing			Art			
-Bundesrates	Bundesrat	Gen				Masc		Sing						
-im	in	Dat				Masc		Sing						
-Landtage	Landtag	Dat				Masc		Sing						
-neuerlich	neuerlich			Pos										
-zur	zu	Dat				Fem		Sing						
-Verhandlung	Verhandlung	Dat				Fem		Sing						
-zu	zu													
-stellen	stellen													Inf
+In	in
+diesem	dieser
+Falle	Fall
+sind	sein
+der	der
+Beschluß	Beschluß
+samt	samt
+dem	der
+Einspruch	Einspruch
+der	der
+Bundesregierung	Bundesregierung
+und	und
+der	der
+etwaigen	etwaig
+Äußerung	Äußerung
+des	der
+Bundesrates	Bundesrat
+im	in
+Landtage	Landtag
+neuerlich	neuerlich
+zur	zu
+Verhandlung	Verhandlung
+zu	zu
+stellen	stellen
 <g/>
 .
 </p>
@@ -3283,149 +3283,149 @@ stellen	stellen													Inf
 (
 <g/>
 3)Wiederholt
-der	der	Nom	Def			Masc		Sing			Art			
-Landtag	Landtag	Nom				Masc		Sing						
-seinen	sein	Acc				Masc		Sing		Yes	Prs			
-Gesetzesbeschluß	Gesetzesbeschluß	Acc				Masc		Sing						
+der	der
+Landtag	Landtag
+seinen	sein
+Gesetzesbeschluß	Gesetzesbeschluß
 <g/>
 ,
-so	so													
-ist	sein						Ind	Sing	3				Pres	Fin
-dieser	dieser	Nom				Masc		Sing			Dem			
-kundzumachen	kundmachen													Inf
+so	so
+ist	sein
+dieser	dieser
+kundzumachen	kundmachen
 <g/>
 .
-Hat	haben						Ind	Sing	3				Pres	Fin
-jedoch	jedoch													
-der	der	Nom	Def			Masc		Sing			Art			
-Einspruch	Einspruch	Nom				Masc		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-Bundesregierung	Bundesregierung	Gen				Fem		Sing						
-die	der	Acc	Def			Fem		Sing			Art			
-Zustimmung	Zustimmung	Acc				Fem		Sing						
-des	der	Gen	Def			Masc		Sing			Art			
-Bundesrates	Bundesrat	Gen				Masc		Sing						
-erhalten	erhalten													Part
+Hat	haben
+jedoch	jedoch
+der	der
+Einspruch	Einspruch
+der	der
+Bundesregierung	Bundesregierung
+die	der
+Zustimmung	Zustimmung
+des	der
+Bundesrates	Bundesrat
+erhalten	erhalten
 <g/>
 ,
-so	so													
-kann	können						Ind	Sing	3				Pres	Fin
-ein	ein	Nom	Ind			Masc		Sing			Art			
-solcher	solcher	Nom				Masc		Sing			Ind			
-Gesetzesbeschluß	Gesetzesbeschluß	Nom				Masc		Sing						
-nur	nur													
-kundgemacht	kundmachen													Part
-werden	werden													Inf
+so	so
+kann	können
+ein	ein
+solcher	solcher
+Gesetzesbeschluß	Gesetzesbeschluß
+nur	nur
+kundgemacht	kundmachen
+werden	werden
 <g/>
 ,
-wenn	wenn													
-er	er	Nom				Masc		Sing	3		Prs			
-bei	bei													
-Anwesenheit	Anwesenheit	Dat				Fem		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-Hälfte	Hälfte	Gen				Fem		Sing						
-aller	aller	Gen				Neut		Plur			Ind			
-Mitglieder	Mitglied	Gen				Neut		Plur						
-des	der	Gen	Def			Masc		Sing			Art			
-Landtages	Landtag	Gen				Masc		Sing						
-mit	mit													
-einer	ein	Dat	Ind			Fem		Sing			Art			
-Mehrheit	Mehrheit	Dat				Fem		Sing						
-von	von													
-zwei	zwei													
-Dritteln	Drittel	Dat				Neut		Plur						
-aller	aller	Gen				Fem		Plur			Ind			
-abgegebenen	abgegeben	Gen		Pos		Fem		Plur						
-Stimmen	Stimme	Gen				Fem		Plur						
-wiederholt	wiederholen													Part
-wird	werden						Ind	Sing	3				Pres	Fin
+wenn	wenn
+er	er
+bei	bei
+Anwesenheit	Anwesenheit
+der	der
+Hälfte	Hälfte
+aller	aller
+Mitglieder	Mitglied
+des	der
+Landtages	Landtag
+mit	mit
+einer	ein
+Mehrheit	Mehrheit
+von	von
+zwei	zwei
+Dritteln	Drittel
+aller	aller
+abgegebenen	abgegeben
+Stimmen	Stimme
+wiederholt	wiederholen
+wird	werden
 <g/>
 .
 </p>
 <head>
-IV.	IV.	Nom		Pos		Masc		Sing						
-Abschnitt	Abschnitt	Nom				Masc		Sing						
+IV.	IV.
+Abschnitt	Abschnitt
 <g/>
 .
 </head>
 <head>
-Die	der	Nom						Plur			Dem			
-dem	der	Dat	Def			Masc		Sing			Art			
-Bunde	Bund	Dat				Masc		Sing						
-und	und													
-den	der	Dat	Def			Neut		Plur			Art			
-Bundesländern	Bundesland	Dat				Neut		Plur						
-gemein	gemein			Pos										
-samen	samen						Sub	Plur	3				Past	Fin
-Einrichtungen	Einrichtung	Acc				Fem		Plur						
+Die	der
+dem	der
+Bunde	Bund
+und	und
+den	der
+Bundesländern	Bundesland
+gemein	gemein
+samen	samen
+Einrichtungen	Einrichtung
 <g/>
 .
 </head>
 <head>
-Artikel	Artikel	Nom				Masc		Sing						
-28.	28.													
+Artikel	Artikel
+28.	28.
 </head>
 <p>
 <g/>
 (
 <g/>
 1)Zur
-Überprüfung	Überprüfung	Dat				Fem		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-Gebarung	Gebarung	Gen				Fem		Sing						
-in	in													
-der	der	Dat	Def			Fem		Sing			Art			
-gesamten	gesamt	Dat		Pos		Fem		Sing						
-Staatswirtschaft	Staatswirtschaft	Dat				Fem		Sing						
-des	der	Gen	Def			Neut		Sing			Art			
-Bundes	Bund	Gen				Masc		Sing						
-und	und													
-der	der	Gen	Def			Neut		Plur			Art			
-Länder	Land	Gen				Neut		Plur						
+Überprüfung	Überprüfung
+der	der
+Gebarung	Gebarung
+in	in
+der	der
+gesamten	gesamt
+Staatswirtschaft	Staatswirtschaft
+des	der
+Bundes	Bund
+und	und
+der	der
+Länder	Land
 <g/>
 ,
-ferner	ferner													
-die	der	Nom	Def			Fem		Sing			Art			
-Gebarung	Gebarung	Acc				Fem		Sing						
-der	der	Gen	Def			Fem		Plur			Art			
-von	von													
-Organen	Organ	Dat				Neut		Plur						
-des	der	Gen	Def			Masc		Sing			Art			
-Bundes	Bund	Gen				Masc		Sing						
-oder	oder													
-der	der	Gen	Def			Neut		Plur			Art			
-Länder	Land	Gen				Neut		Plur						
-verwalteten	verwaltet	Gen		Pos		Fem		Plur						
-Stiftungen	Stiftung	Gen				Fem		Plur						
+ferner	ferner
+die	der
+Gebarung	Gebarung
+der	der
+von	von
+Organen	Organ
+des	der
+Bundes	Bund
+oder	oder
+der	der
+Länder	Land
+verwalteten	verwaltet
+Stiftungen	Stiftung
 <g/>
 ,
-Fonds	Fonds	Gen				Masc		Plur						
-und	und													
-Anstalten	Anstalt	Gen				Fem		Plur						
-ist	sein						Ind	Sing	3				Pres	Fin
-der	der	Nom	Def			Masc		Sing			Art			
-Rechnungshof	Rechnungshof	Nom				Masc		Sing						
-berufen	berufen													Part
+Fonds	Fonds
+und	und
+Anstalten	Anstalt
+ist	sein
+der	der
+Rechnungshof	Rechnungshof
+berufen	berufen
 <g/>
 .
-Er	er	Nom				Masc		Sing	3		Prs			
-kann	können						Ind	Sing	3				Pres	Fin
-auch	auch													
-die	der	Acc	Def			Fem		Sing			Art			
-Gebarung	Gebarung	Acc				Fem		Sing						
-von	von													
-Unternehmungen	Unternehmung	Dat				Fem		Plur						
-überprüfen	überprüfen													Inf
+Er	er
+kann	können
+auch	auch
+die	der
+Gebarung	Gebarung
+von	von
+Unternehmungen	Unternehmung
+überprüfen	überprüfen
 <g/>
 ,
-an	an													
-denen	der	Dat				Fem		Plur			Rel			
-der	der	Nom	Def			Masc		Sing			Art			
-Bund	Bund	Nom				Masc		Sing						
-finanziell	finanziell			Pos										
-be	be			Pos										
-teiligt	teiligen													Part
-ist	sein						Ind	Sing	3				Pres	Fin
+an	an
+denen	der
+der	der
+Bund	Bund
+finanziell	finanziell
+be	be
+teiligt	teiligen
+ist	sein
 <g/>
 .
 </p>
@@ -3434,11 +3434,11 @@ ist	sein						Ind	Sing	3				Pres	Fin
 (
 <g/>
 2)Der
-Rechnungshof	Rechnungshof	Nom				Masc		Sing						
-untersteht	unterstehen						Ind	Sing	3				Pres	Fin
-unmittelbar	unmittelbar			Pos										
-der	der	Dat	Def			Fem		Sing			Art			
-Bundesversammlung	Bundesversammlung	Dat				Fem		Sing						
+Rechnungshof	Rechnungshof
+untersteht	unterstehen
+unmittelbar	unmittelbar
+der	der
+Bundesversammlung	Bundesversammlung
 <g/>
 .
 </p>
@@ -3447,111 +3447,111 @@ Bundesversammlung	Bundesversammlung	Dat				Fem		Sing
 (
 <g/>
 3)Der
-Präsident	Präsident	Nom				Masc		Sing						
-des	der	Gen	Def			Masc		Sing			Art			
-Rechnungshofes	Rechnungshof	Gen				Masc		Sing						
-wird	werden						Ind	Sing	3				Pres	Fin
-von	von													
-der	der	Dat	Def			Fem		Sing			Art			
-Bundesversammlung	Bundesversammlung	Dat				Fem		Sing						
-gewählt	wählen													Part
-und	und													
-ist	sein						Ind	Sing	3				Pres	Fin
-in	in													
-bezug	Bezug	Dat				Masc		Sing						
-auf	auf													
-Verantwortlichkeit	Verantwortlichkeit	Acc				Fem		Sing						
-den	der	Dat	Def			Neut		Plur			Art			
-Mitgliedern	Mitglied	Dat				Neut		Plur						
-der	der	Gen	Def			Fem		Sing			Art			
-Bundesregierung	Bundesregierung	Gen				Fem		Sing						
-gleichgestellt	gleichstellen													Part
+Präsident	Präsident
+des	der
+Rechnungshofes	Rechnungshof
+wird	werden
+von	von
+der	der
+Bundesversammlung	Bundesversammlung
+gewählt	wählen
+und	und
+ist	sein
+in	in
+bezug	Bezug
+auf	auf
+Verantwortlichkeit	Verantwortlichkeit
+den	der
+Mitgliedern	Mitglied
+der	der
+Bundesregierung	Bundesregierung
+gleichgestellt	gleichstellen
 <g/>
 .
 </p>
 <head>
-Artikel	Artikel	Nom				Masc		Sing						
-29.	29.													
+Artikel	Artikel
+29.	29.
 </head>
 <p>
-Alle	aller	Nom				Fem		Plur			Ind			
-Urkunden	Urkund	Nom				Fem		Plur						
-über	über													
-Staatsschulden	Staatsschuld	Acc				Fem		Plur						
+Alle	aller
+Urkunden	Urkund
+über	über
+Staatsschulden	Staatsschuld
 <g/>
 (
-Finanz-	Finanz													
-und	und													
-Verwaltungsschulden	Verwaltungsschuld	Acc				Fem		Plur						
+Finanz-	Finanz
+und	und
+Verwaltungsschulden	Verwaltungsschuld
 <g/>
 )
 <g/>
 ,
-insoweit	insoweit													
-sie	sie	Nom				Fem		Plur	3		Prs			
-eine	ein	Acc	Ind			Fem		Sing			Art			
-Verpflichtung	Verpflichtung	Acc				Fem		Sing						
-des	der	Gen	Def			Masc		Sing			Art			
-Bundes	Bund	Gen				Masc		Sing						
-beinhalten	beinhalten						Ind	Plur	3				Pres	Fin
+insoweit	insoweit
+sie	sie
+eine	ein
+Verpflichtung	Verpflichtung
+des	der
+Bundes	Bund
+beinhalten	beinhalten
 <g/>
 ,
-sind	sein						Ind	Plur	3				Pres	Fin
-vom	von	Dat				Masc		Sing						
-Präsidenten	Präsident	Dat				Masc		Sing						
-des	der	Gen	Def			Masc		Sing			Art			
-Rechnungshofes	Rechnungshof	Gen				Masc		Sing						
-gegenzuzeichnen	gegenzuzeichnen													Inf
+sind	sein
+vom	von
+Präsidenten	Präsident
+des	der
+Rechnungshofes	Rechnungshof
+gegenzuzeichnen	gegenzuzeichnen
 <g/>
 ;
-durch	durch													
-diese	dieser	Acc				Fem		Sing			Dem			
-Gegenzeichnung	Gegenzeichnung	Acc				Fem		Sing						
-wird	werden						Ind	Sing	3				Pres	Fin
-lediglich	lediglich													
-die	der	Nom	Def			Fem		Sing			Art			
-Gesetzmäßigkeit	Gesetzmäßigkeit	Nom				Fem		Sing						
-und	und													
-rechnungsmäßige	rechnungsmäßig	Nom		Pos		Fem		Sing						
-Richtigkeit	Richtigkeit	Nom				Fem		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-Gebarung	Gebarung	Gen				Fem		Sing						
-bekräftigt	bekräftigen													Part
+durch	durch
+diese	dieser
+Gegenzeichnung	Gegenzeichnung
+wird	werden
+lediglich	lediglich
+die	der
+Gesetzmäßigkeit	Gesetzmäßigkeit
+und	und
+rechnungsmäßige	rechnungsmäßig
+Richtigkeit	Richtigkeit
+der	der
+Gebarung	Gebarung
+bekräftigt	bekräftigen
 <g/>
 .
 </p>
 <head>
-Artikel	Artikel	Nom				Masc		Sing						
-30.	30.													
+Artikel	Artikel
+30.	30.
 </head>
 <p>
 <g/>
 (
 <g/>
 1)Wegen
-Rechtsverletzung	Rechtsverletzung					Fem		Sing						
-durch	durch													
-die	der	Acc	Def			Fem		Sing			Art			
-Entscheidung	Entscheidung	Acc				Fem		Sing						
-oder	oder													
-Verfügung	Verfügung	Acc				Fem		Sing						
-einer	ein	Gen	Ind			Fem		Sing			Art			
-Verwaltungsbehörde	Verwaltungsbehörde	Gen				Fem		Sing						
-des	der	Gen	Def			Masc		Sing			Art			
-Bundes	Bund	Gen				Masc		Sing						
-oder	oder													
-eines	ein	Gen	Ind			Neut		Sing			Art			
-Bundeslandes	Bundesland	Gen				Neut		Sing						
-entscheidet	entscheiden						Ind	Sing	3				Pres	Fin
-nach	nach													
-Erschöpfung	Erschöpfung	Dat				Fem		Sing						
-des	der	Gen	Def			Neut		Sing			Art			
-administrativen	administrativ	Gen		Pos		Neut		Sing						
-Instanzenzuges	Instanzenzug	Gen				Neut		Sing						
-der	der	Nom	Def			Masc		Sing			Art			
-Verwaltungsgerichtshof	Verwaltungsgerichtshof	Nom				Masc		Sing						
-in	in													
-Wien	Wien	Dat				Neut		Sing						
+Rechtsverletzung	Rechtsverletzung
+durch	durch
+die	der
+Entscheidung	Entscheidung
+oder	oder
+Verfügung	Verfügung
+einer	ein
+Verwaltungsbehörde	Verwaltungsbehörde
+des	der
+Bundes	Bund
+oder	oder
+eines	ein
+Bundeslandes	Bundesland
+entscheidet	entscheiden
+nach	nach
+Erschöpfung	Erschöpfung
+des	der
+administrativen	administrativ
+Instanzenzuges	Instanzenzug
+der	der
+Verwaltungsgerichtshof	Verwaltungsgerichtshof
+in	in
+Wien	Wien
 <g/>
 .
 </p>
@@ -3560,81 +3560,81 @@ Wien	Wien	Dat				Neut		Sing
 (
 <g/>
 2)Der
-Präsident	Präsident	Nom				Masc		Sing						
-und	und													
-die	der	Nom	Def			Fem		Sing			Art			
-eine	ein	Nom	Ind			Fem		Sing			Art			
-Hälfte	Hälfte	Nom				Fem		Sing						
-der	der	Gen	Def			Neut		Plur			Art			
-Mitglieder	Mitglied	Gen				Neut		Plur						
-werden	werden						Ind	Plur	3				Pres	Fin
-auf	auf													
-Vorschlag	Vorschlag	Acc				Masc		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-Bundesregierung	Bundesregierung	Gen				Fem		Sing						
+Präsident	Präsident
+und	und
+die	der
+eine	ein
+Hälfte	Hälfte
+der	der
+Mitglieder	Mitglied
+werden	werden
+auf	auf
+Vorschlag	Vorschlag
+der	der
+Bundesregierung	Bundesregierung
 <g/>
 ,
-der	der	Nom	Def			Masc		Sing			Art			
-Vizepräsident	Vizepräsident	Nom				Masc		Sing						
-und	und													
-die	der	Nom	Def			Fem		Sing			Art			
-andere	anderer	Nom		Pos		Fem		Sing						
-Hälfte	Hälfte	Nom				Fem		Sing						
-der	der	Gen	Def			Neut		Plur			Art			
-Mitglieder	Mitglied	Gen				Neut		Plur						
-auf	auf													
-Vorschlag	Vorschlag	Acc				Masc		Sing						
-des	der	Gen	Def			Masc		Sing			Art			
-Bundesrates	Bundesrat	Gen				Masc		Sing						
-vom	von	Dat				Masc		Sing						
-Bundespräsidenten	Bundespräsident	Dat				Masc		Sing						
-ernannt	ernennen													Part
+der	der
+Vizepräsident	Vizepräsident
+und	und
+die	der
+andere	anderer
+Hälfte	Hälfte
+der	der
+Mitglieder	Mitglied
+auf	auf
+Vorschlag	Vorschlag
+des	der
+Bundesrates	Bundesrat
+vom	von
+Bundespräsidenten	Bundespräsident
+ernannt	ernennen
 <g/>
 .
 </p>
 <p>
 <g/>
 (
-3)Wenigstens	3)Wenigstens													
-die	der	Nom	Def			Fem		Sing			Art			
-Hälfte	Hälfte	Nom				Fem		Sing						
-der	der	Gen	Def			Neut		Plur			Art			
-Mitglieder	Mitglied	Gen				Neut		Plur						
-muß	müssen						Ind	Sing	3				Pres	Fin
-die	der	Acc	Def			Fem		Sing			Art			
-Eignung	Eignung	Acc				Fem		Sing						
-zum	zu	Dat				Masc		Sing						
-Richteramte	Richteramt	Dat				Masc		Sing						
-haben	haben													Inf
+3)Wenigstens	3)Wenigstens
+die	der
+Hälfte	Hälfte
+der	der
+Mitglieder	Mitglied
+muß	müssen
+die	der
+Eignung	Eignung
+zum	zu
+Richteramte	Richteramt
+haben	haben
 <g/>
 .
 </p>
 <head>
-Artikel	Artikel	Nom				Masc		Sing						
-31.	31.													
+Artikel	Artikel
+31.	31.
 </head>
 <p>
 <g/>
 (
 <g/>
 1)Als
-oberster	oberster	Nom		Sup		Masc		Sing						
-Hüter	Hüter	Nom				Masc		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-Verfassung	Verfassung	Gen				Fem		Sing						
-und	und													
-Schiedsrichter	Schiedsrichter	Nom				Masc		Sing						
-zwischen	zwischen													
-dem	der	Dat	Def			Masc		Sing			Art			
-Bunde	Bund	Dat				Masc		Sing						
-und	und													
-den	der	Dat	Def			Neut		Plur			Art			
-Bundesländern	Bundesland	Dat				Neut		Plur						
-fungiert	fungieren						Ind	Sing	3				Pres	Fin
-der	der	Nom	Def			Masc		Sing			Art			
-Verfassungsgerichtshof	Verfassungsgerichtshof	Nom				Masc		Sing						
-in	in													
-Wien	Wien	Dat				Neut		Sing						
+oberster	oberster
+Hüter	Hüter
+der	der
+Verfassung	Verfassung
+und	und
+Schiedsrichter	Schiedsrichter
+zwischen	zwischen
+dem	der
+Bunde	Bund
+und	und
+den	der
+Bundesländern	Bundesland
+fungiert	fungieren
+der	der
+Verfassungsgerichtshof	Verfassungsgerichtshof
+in	in
+Wien	Wien
 <g/>
 .
 </p>
@@ -3643,105 +3643,105 @@ Wien	Wien	Dat				Neut		Sing
 (
 <g/>
 2)Dem
-Verfassungsgerichtshof	Verfassungsgerichtshof	Dat				Masc		Sing						
-obliegt	obliegen						Ind	Sing	3				Pres	Fin
-die	der	Nom	Def			Fem		Sing			Art			
-Entscheidung	Entscheidung	Nom				Fem		Sing						
-übera	übera													
+Verfassungsgerichtshof	Verfassungsgerichtshof
+obliegt	obliegen
+die	der
+Entscheidung	Entscheidung
+übera	übera
 <g/>
 )
-Verfassungswidrigkeit	Verfassungswidrigkeit	Acc				Fem		Sing						
-von	von													
+Verfassungswidrigkeit	Verfassungswidrigkeit
+von	von
 <g/>
 Gesetzen;b
 <g/>
 )
-Gesetzwidrigkeit	Gesetzwidrigkeit	Nom				Fem		Sing						
-von	von													
-Verordnungen;c	Verordnungen;c	Dat				Fem		Plur						
+Gesetzwidrigkeit	Gesetzwidrigkeit
+von	von
+Verordnungen;c	Verordnungen;c
 <g/>
 )
-Rechtsstreitigkeiten	Rechtsstreitigkeit	Nom				Fem		Plur						
-zwischen	zwischen													
-dem	der	Dat	Def			Masc		Sing			Art			
-Bunde	Bund	Dat				Masc		Sing						
-und	und													
-den	der	Dat	Def			Neut		Plur			Art			
-Bundesländern	Bundesland	Dat				Neut		Plur						
-oder	oder													
-zwischen	zwischen													
-diesen	dieser	Dat						Plur			Dem			
-untereinander;d	untereinander;d													
+Rechtsstreitigkeiten	Rechtsstreitigkeit
+zwischen	zwischen
+dem	der
+Bunde	Bund
+und	und
+den	der
+Bundesländern	Bundesland
+oder	oder
+zwischen	zwischen
+diesen	dieser
+untereinander;d	untereinander;d
 <g/>
 )
-Kompetenzkonflikte	Kompetenzkonflikt	Nom				Masc		Plur						
-zwischen	zwischen													
-den	der	Dat	Def			Neut		Plur			Art			
-ordentlichen	ordentlich	Dat		Pos		Neut		Plur						
-Gerichten	Gericht	Dat				Neut		Plur						
-und	und													
-den	der	Dat	Def			Fem		Plur			Art			
-Verwaltungsbehörden	Verwaltungsbehörde	Dat				Fem		Plur						
-oder	oder													
-dem	der	Dat	Def			Masc		Sing			Art			
-Verwaltungsgerichtshofe	Verwaltungsgerichtshof	Dat				Masc		Sing						
+Kompetenzkonflikte	Kompetenzkonflikt
+zwischen	zwischen
+den	der
+ordentlichen	ordentlich
+Gerichten	Gericht
+und	und
+den	der
+Verwaltungsbehörden	Verwaltungsbehörde
+oder	oder
+dem	der
+Verwaltungsgerichtshofe	Verwaltungsgerichtshof
 <g/>
 ,
-ferner	ferner													
-zwischen	zwischen													
-der	der	Dat	Def			Fem		Sing			Art			
-Bundesregierung	Bundesregierung	Dat				Fem		Sing						
-und	und													
-den	der	Dat	Def			Fem		Plur			Art			
-Landesregierungen	Landesregierung	Dat				Fem		Plur						
-oder	oder													
-zwischen	zwischen													
-diesen	dieser	Dat						Plur			Dem			
-untereinander;e	untereinander;e													
+ferner	ferner
+zwischen	zwischen
+der	der
+Bundesregierung	Bundesregierung
+und	und
+den	der
+Landesregierungen	Landesregierung
+oder	oder
+zwischen	zwischen
+diesen	dieser
+untereinander;e	untereinander;e
 <g/>
 )
-Gesetzwidrigkeit	Gesetzwidrigkeit	Nom				Fem		Sing						
-von	von													
-Wahlen	Wahl	Dat				Fem		Plur						
-zu	zu													
-den	der	Dat	Def			Masc		Plur			Art			
-allgemeinen	allgemein	Dat		Pos		Masc		Plur						
-Vertretungskörpern;f	Vertretungskörpern;f	Dat				Masc		Plur						
+Gesetzwidrigkeit	Gesetzwidrigkeit
+von	von
+Wahlen	Wahl
+zu	zu
+den	der
+allgemeinen	allgemein
+Vertretungskörpern;f	Vertretungskörpern;f
 <g/>
 )
-Verantwortlichkeit	Verantwortlichkeit	Nom				Fem		Sing						
-des	der	Gen	Def			Masc		Sing			Art			
-Bundespräsidenten	Bundespräsident	Gen				Masc		Sing						
+Verantwortlichkeit	Verantwortlichkeit
+des	der
+Bundespräsidenten	Bundespräsident
 <g/>
 ,
-der	der	Gen	Def			Neut		Plur			Art			
-Mitglieder	Mitglied	Gen				Neut		Plur						
-der	der	Gen	Def			Fem		Sing			Art			
-Bundesregierung	Bundesregierung	Gen				Fem		Sing						
+der	der
+Mitglieder	Mitglied
+der	der
+Bundesregierung	Bundesregierung
 <g/>
 ,
-des	der	Gen	Def			Masc		Sing			Art			
-Präsidenten	Präsident	Gen				Masc		Sing						
-des	der	Gen	Def			Masc		Sing			Art			
-Rechnungshofes	Rechnungshof	Gen				Masc		Sing						
-und	und													
-der	der	Gen	Def			Neut		Plur			Art			
-Mitglieder	Mitglied	Gen				Neut		Plur						
-der	der	Gen	Def			Fem		Plur			Art			
-Landesregierungen	Landesregierung	Gen				Fem		Plur						
+des	der
+Präsidenten	Präsident
+des	der
+Rechnungshofes	Rechnungshof
+und	und
+der	der
+Mitglieder	Mitglied
+der	der
+Landesregierungen	Landesregierung
 <g/>
 ,
-insbesondere	insbesondere													
-auch	auch													
-der	der	Gen	Def			Masc		Plur			Art			
-Landeshauptmänner;g	Landeshauptmänner;g	Gen				Masc		Plur						
+insbesondere	insbesondere
+auch	auch
+der	der
+Landeshauptmänner;g	Landeshauptmänner;g
 <g/>
 )
-Verletzung	Verletzung	Nom				Fem		Sing						
-der	der	Gen	Def			Neut		Plur			Art			
-verfassungsmäßig	verfassungsmäßig			Pos										
-gewährleisteten	gewährleistet	Gen		Pos		Neut		Plur						
-Rechte	Recht	Gen				Neut		Plur						
+Verletzung	Verletzung
+der	der
+verfassungsmäßig	verfassungsmäßig
+gewährleisteten	gewährleistet
+Rechte	Recht
 <g/>
 .
 </p>
@@ -3750,72 +3750,72 @@ Rechte	Recht	Gen				Neut		Plur
 (
 <g/>
 3)Der
-Präsident	Präsident	Nom				Masc		Sing						
-und	und													
-der	der	Nom	Def			Masc		Sing			Art			
-Vizepräsident	Vizepräsident	Nom				Masc		Sing						
-des	der	Gen	Def			Masc		Sing			Art			
-Verfassungsgerichtshofes	Verfassungsgerichtshof	Gen				Masc		Sing						
-werden	werden						Ind	Plur	3				Pres	Fin
-von	von													
-der	der	Dat	Def			Fem		Sing			Art			
-Bundesversammlung	Bundesversammlung	Dat				Fem		Sing						
+Präsident	Präsident
+und	und
+der	der
+Vizepräsident	Vizepräsident
+des	der
+Verfassungsgerichtshofes	Verfassungsgerichtshof
+werden	werden
+von	von
+der	der
+Bundesversammlung	Bundesversammlung
 <g/>
 ,
-je	je													
-die	der	Nom	Def			Fem		Sing			Art			
-Hälfte	Hälfte	Nom				Fem		Sing						
-der	der	Gen	Def			Neut		Plur			Art			
-Mitglieder	Mitglied	Gen				Neut		Plur						
-vom	von	Dat				Masc		Sing						
-Bundestag	Bundestag	Dat				Masc		Sing						
-und	und													
-vom	von	Dat				Masc		Sing						
-Bundesrat	Bundesrat	Dat				Masc		Sing						
-gewählt	wählen													Part
+je	je
+die	der
+Hälfte	Hälfte
+der	der
+Mitglieder	Mitglied
+vom	von
+Bundestag	Bundestag
+und	und
+vom	von
+Bundesrat	Bundesrat
+gewählt	wählen
 <g/>
 .
 </p>
 <head>
-V.	V.	Nom		Pos		Masc		Sing						
-Abschnitt	Abschnitt	Nom				Masc		Sing						
+V.	V.
+Abschnitt	Abschnitt
 <g/>
 .
 </head>
 <head>
-Schlußbestimmungen	Schlußbestimmung	Nom				Fem		Plur						
-für	für													
-die	der	Acc	Def			Fem		Sing			Art			
-endgültige	endgültig	Acc		Pos		Fem		Sing						
-Regelung	Regelung	Acc				Fem		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-Verfassung	Verfassung	Gen				Fem		Sing						
+Schlußbestimmungen	Schlußbestimmung
+für	für
+die	der
+endgültige	endgültig
+Regelung	Regelung
+der	der
+Verfassung	Verfassung
 <g/>
 .
 </head>
 <head>
-Artikel	Artikel	Nom				Masc		Sing						
-32.	32.													
+Artikel	Artikel
+32.	32.
 </head>
 <p>
 <g/>
 (
 <g/>
 1)Die
-Bestimmungen	Bestimmung	Nom				Fem		Plur						
-dieses	dieser	Gen				Neut		Sing			Dem			
-Gesetzes	Gesetz	Gen				Neut		Sing						
-sind	sein						Ind	Plur	3				Pres	Fin
-für	für													
-die	der	Acc	Def			Fem		Sing			Art			
-von	von													
-der	der	Dat	Def			Fem		Sing			Art			
-neuen	neu	Dat		Pos		Fem		Sing						
-Nationalversammlung	Nationalversammlung	Dat				Fem		Sing						
-zu	zu													
-beschließende	beschließend	Acc		Pos		Fem		Sing						
-Bundesverfassung	Bundesverfassung	Acc				Fem		Sing						
-grundlegend	grundlegend			Pos										
+Bestimmungen	Bestimmung
+dieses	dieser
+Gesetzes	Gesetz
+sind	sein
+für	für
+die	der
+von	von
+der	der
+neuen	neu
+Nationalversammlung	Nationalversammlung
+zu	zu
+beschließende	beschließend
+Bundesverfassung	Bundesverfassung
+grundlegend	grundlegend
 <g/>
 .
 </p>
@@ -3824,32 +3824,32 @@ grundlegend	grundlegend			Pos
 (
 <g/>
 2)Eine
-Änderung	Änderung	Nom				Fem		Sing						
-dieser	dieser	Gen				Fem		Plur			Dem			
-Bestimmungen	Bestimmung	Gen				Fem		Plur						
-ist	sein						Ind	Sing	3				Pres	Fin
-insoferne	insoferner													
-zulässig	zulässig			Pos										
+Änderung	Änderung
+dieser	dieser
+Bestimmungen	Bestimmung
+ist	sein
+insoferne	insoferner
+zulässig	zulässig
 <g/>
 ,
-als	als													
-sie	sie	Nom				Fem		Sing	3		Prs			
-von	von													
-der	der	Dat	Def			Fem		Sing			Art			
-neuen	neu	Dat		Pos		Fem		Sing						
-Nationalversammlung	Nationalversammlung	Dat				Fem		Sing						
-mit	mit													
-Zweidrittelmehrheit	Zweidrittelmehrheit	Dat				Fem		Sing						
-bei	bei													
-Anwesenheit	Anwesenheit	Dat				Fem		Sing						
-von	von													
-mindestens	mindestens													
-zwei	zwei													
-Dritteln	Drittel	Dat				Neut		Plur						
-aller	aller	Gen				Neut		Plur			Ind			
-Mitglieder	Mitglied	Gen				Neut		Plur						
-beschlossen	beschließen													Part
-wird	werden						Ind	Sing	3				Pres	Fin
+als	als
+sie	sie
+von	von
+der	der
+neuen	neu
+Nationalversammlung	Nationalversammlung
+mit	mit
+Zweidrittelmehrheit	Zweidrittelmehrheit
+bei	bei
+Anwesenheit	Anwesenheit
+von	von
+mindestens	mindestens
+zwei	zwei
+Dritteln	Drittel
+aller	aller
+Mitglieder	Mitglied
+beschlossen	beschließen
+wird	werden
 <g/>
 .
 </p>
@@ -3858,39 +3858,39 @@ wird	werden						Ind	Sing	3				Pres	Fin
 (
 <g/>
 3)Zu
-einer	ein	Dat	Ind			Fem		Sing			Art			
-Änderung	Änderung	Dat				Fem		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-Bestimmung	Bestimmung	Gen				Fem		Sing						
-des	der	Gen	Def			Masc		Sing			Art			
-Artikels	Artikel	Gen				Masc		Sing						
-10	10													
+einer	ein
+Änderung	Änderung
+der	der
+Bestimmung	Bestimmung
+des	der
+Artikels	Artikel
+10	10
 <g/>
 ,
-Absatz	Absatz	Nom				Masc		Sing						
-1	1													
+Absatz	Absatz
+1	1
 <g/>
 ,
-ist	sein						Ind	Sing	3				Pres	Fin
-überdies	überdies													
-auch	auch													
-notwendig	notwendig			Pos										
+ist	sein
+überdies	überdies
+auch	auch
+notwendig	notwendig
 <g/>
 ,
-daß	daß													
-von	von													
-den	der	Dat	Def					Plur			Art			
-Abgeordneten	abgeordneter	Dat						Plur						
-jedes	jeder	Gen				Neut		Sing			Ind			
-einzelnen	einzeln	Gen		Pos		Neut		Sing						
-Bundeslandes	Bundesland	Gen				Neut		Sing						
-die	der	Nom	Def			Fem		Sing			Art			
-Mehrheit	Mehrheit	Nom				Fem		Sing						
-für	für													
-die	der	Acc	Def			Fem		Sing			Art			
-Abänderung	Abänderung	Acc				Fem		Sing						
-gestimmt	stimmen													Part
-hat	haben						Ind	Sing	3				Pres	Fin
+daß	daß
+von	von
+den	der
+Abgeordneten	abgeordneter
+jedes	jeder
+einzelnen	einzeln
+Bundeslandes	Bundesland
+die	der
+Mehrheit	Mehrheit
+für	für
+die	der
+Abänderung	Abänderung
+gestimmt	stimmen
+hat	haben
 <g/>
 .
 </p>
@@ -3899,21 +3899,21 @@ hat	haben						Ind	Sing	3				Pres	Fin
 (
 <g/>
 4)Im
-Rahmen	Rahmen	Dat				Masc		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-künftigen	künftig	Gen		Pos		Fem		Sing						
-Bundesverfassung	Bundesverfassung	Gen				Fem		Sing						
-wird	werden						Ind	Sing	3				Pres	Fin
-sich	sich	Dat						Sing	3		Prs	Yes		
-jedes	jeder	Nom				Neut		Sing			Ind			
-Bundesland	Bundesland	Nom				Neut		Sing						
-selbst	selbst													
-seine	sein	Acc				Fem		Sing		Yes	Prs			
-eigene	eigen	Acc		Pos		Fem		Sing						
-Verfassung	Verfassung	Acc				Fem		Sing						
-zu	zu													
-geben	geben													Inf
-haben	haben													Inf
+Rahmen	Rahmen
+der	der
+künftigen	künftig
+Bundesverfassung	Bundesverfassung
+wird	werden
+sich	sich
+jedes	jeder
+Bundesland	Bundesland
+selbst	selbst
+seine	sein
+eigene	eigen
+Verfassung	Verfassung
+zu	zu
+geben	geben
+haben	haben
 <g/>
 .
 </p>

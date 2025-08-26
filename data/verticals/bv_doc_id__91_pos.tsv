@@ -1,832 +1,832 @@
-<doc id="bv_doc_id__91" document_title="Protokoll der 26. Sitzung des Verfassungsausschusses" created_not_before="1920-09-27" created_not_after="1920-09-27" creation_year="1920" state_of_correction="created" document_type="Handschriftlicher Protokolltext" text_type="Sitzungsprotokoll" dataset="Sitzungsprotokolle" attrs="word lemma type">
+<doc id="bv_doc_id__91" document_title="Protokoll der 26. Sitzung des Verfassungsausschusses" created_not_before="1920-09-27" created_not_after="1920-09-27" creation_year="1920" state_of_correction="created" document_type="Handschriftlicher Protokolltext" text_type="Sitzungsprotokoll" dataset="Sitzungsprotokolle" attrs="word lemma">
 <p>
-26.	26.	Acc		Pos		Masc		Sing						
-Sitz	Sitz	Acc				Masc		Sing						
+26.	26.
+Sitz	Sitz
 <g/>
 .
-Konstituierende	Konstituierende	Nom		Pos		Fem		Sing						
-Nationalversammlung	Nationalversammlung	Nom				Fem		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-Republik	Republik	Gen				Fem		Sing						
-Österreich	Österreich	Nom				Neut		Sing						
+Konstituierende	Konstituierende
+Nationalversammlung	Nationalversammlung
+der	der
+Republik	Republik
+Österreich	Österreich
 <g/>
 .
-Verfasungs-Ausschuss	Verfasungs-Ausschuss	Nom				Masc		Sing						
-Protokoll	Protokoll	Nom				Neut		Sing						
-über	über													
-die	der	Acc	Def			Fem		Sing			Art			
-Sitzung	Sitzung	Acc				Fem		Sing						
-am	an	Dat				Masc		Sing						
-27.	27.	Dat		Pos		Masc		Sing						
-September	September	Dat				Masc		Sing						
-1920	1920													
+Verfasungs-Ausschuss	Verfasungs-Ausschuss
+Protokoll	Protokoll
+über	über
+die	der
+Sitzung	Sitzung
+am	an
+27.	27.
+September	September
+1920	1920
 </p>
 <p>
-Anwesende	Anwesende	Nom						Plur						
+Anwesende	Anwesende
 <g/>
 :
-Seitens	Seitens													
-der	der	Gen	Def			Fem		Sing			Art			
-Regierung	Regierung	Gen				Fem		Sing						
+Seitens	Seitens
+der	der
+Regierung	Regierung
 <g/>
 :
-Staatsamt	Staatsamt	Nom				Neut		Sing						
-für	für													
-Finanzen	Finanz	Acc				Fem		Plur						
+Staatsamt	Staatsamt
+für	für
+Finanzen	Finanz
 <g/>
 :
-Oberfinanzrat	Oberfinanzrat	Nom				Masc		Sing						
-Dr.	Dr.	Nom				Masc		Sing						
+Oberfinanzrat	Oberfinanzrat
+Dr.	Dr.
 <g/>
 ,
-Staatsamt	Staatsamt	Nom				Neut		Sing						
-für	für													
-Inneres	Inneres	Acc				Neut		Sing						
-u.	u.													
-Unterricht	Unterricht	Nom				Masc		Sing						
+Staatsamt	Staatsamt
+für	für
+Inneres	Inneres
+u.	u.
+Unterricht	Unterricht
 <g/>
 :
-Ministerialratrat	Ministerialratrat	Nom				Masc		Sing						
+Ministerialratrat	Ministerialratrat
 <g/>
 ,
-Staatsamt	Staatsamt	Nom				Neut		Sing						
-für	für													
-Handel	Handel	Acc				Masc		Sing						
-etc.	etc.													
+Staatsamt	Staatsamt
+für	für
+Handel	Handel
+etc.	etc.
 <g/>
 :
-Ministerialrat	Ministerialrat	Nom				Masc		Sing						
-Dr.	Dr.	Nom				Masc		Sing						
+Ministerialrat	Ministerialrat
+Dr.	Dr.
 <g/>
 ,
-Sektionsrat	Sektionsrat	Nom				Masc		Sing						
-Dr.	Dr.	Nom				Masc		Sing						
-Friedrich	Friedrich	Nom				Masc		Sing						
-.	--	Nom				Masc		Sing						
-Staatskanzlei	Staatskanzlei	Nom				Fem		Sing						
+Sektionsrat	Sektionsrat
+Dr.	Dr.
+Friedrich	Friedrich
+.	--
+Staatskanzlei	Staatskanzlei
 <g/>
 :
-Ministerialrat	Ministerialrat	Nom				Masc		Sing						
-Dr.	Dr.	Nom				Masc		Sing						
-Fröhlich	Fröhlich	Nom				Masc		Sing						
+Ministerialrat	Ministerialrat
+Dr.	Dr.
+Fröhlich	Fröhlich
 <g/>
 ,
-Sektionsrat	Sektionsrat	Nom				Masc		Sing						
-Dr.	Dr.	Nom				Masc		Sing						
-Mannlicher	Mannlicher	Nom				Masc		Sing						
+Sektionsrat	Sektionsrat
+Dr.	Dr.
+Mannlicher	Mannlicher
 <g/>
 ,
-Experte	Experte	Nom				Masc		Sing						
+Experte	Experte
 <g/>
 :
-Professor	Professor	Nom				Masc		Sing						
-Dr.	Dr.	Nom				Masc		Sing						
-Kelsen	Kelsen	Nom				Masc		Sing						
+Professor	Professor
+Dr.	Dr.
+Kelsen	Kelsen
 </p>
 <p>
-Obmann	Obmann	Nom				Masc		Sing						
+Obmann	Obmann
 <g/>
 :
-Dr.	Dr.	Nom				Masc		Sing						
-Otto	Otto	Nom				Masc		Sing						
-Bauer	Bauer	Nom				Masc		Sing						
-Obmann-Stellvertreter	Obmann-Stellvertreter	Nom				Masc		Sing						
+Dr.	Dr.
+Otto	Otto
+Bauer	Bauer
+Obmann-Stellvertreter	Obmann-Stellvertreter
 <g/>
 :
-Prof.	Prof.	Nom				Masc		Sing						
-Seipel	Seipel	Nom				Masc		Sing						
-Schriftführer	Schriftführer	Nom				Masc		Sing						
+Prof.	Prof.
+Seipel	Seipel
+Schriftführer	Schriftführer
 <g/>
 :
-Mitglieder	Mitglied	Nom				Neut		Plur						
+Mitglieder	Mitglied
 <g/>
 :
-Eldersch	Eldersch	Nom						Sing						
+Eldersch	Eldersch
 <g/>
 ,
-Gürtler	Gürtler	Nom						Sing						
+Gürtler	Gürtler
 <g/>
 ,
-Seipel	Seipel	Nom						Sing						
-<g/>
-,
-<g/>
-,
-Danneberg	Danneberg	Nom				Neut		Sing						
-<g/>
-,
-Fink	Fink	Nom						Sing						
+Seipel	Seipel
 <g/>
 ,
 <g/>
 ,
-Leutner	Leutner	Nom						Sing						
+Danneberg	Danneberg
+<g/>
+,
+Fink	Fink
 <g/>
 ,
 <g/>
 ,
-Schiegel	Schiegel	Nom						Sing						
+Leutner	Leutner
 <g/>
 ,
-Weiskirchner	Weiskirchner	Nom						Sing						
 <g/>
 ,
-Dr.	Dr.	Nom				Masc		Sing						
-Weber	Weber	Nom				Masc		Sing						
+Schiegel	Schiegel
 <g/>
 ,
-Kunschak	Kunschak	Nom				Masc		Sing						
+Weiskirchner	Weiskirchner
+<g/>
+,
+Dr.	Dr.
+Weber	Weber
+<g/>
+,
+Kunschak	Kunschak
 <g/>
 .
-Staatsamt	Staatsamt	Nom				Neut		Sing						
-für	für													
-Finanzen	Finanz	Acc				Fem		Plur						
+Staatsamt	Staatsamt
+für	für
+Finanzen	Finanz
 <g/>
 :
 </p>
 <p>
-Oberfinanzrat	Oberfinanzrat	Nom				Masc		Sing						
-D.	D.	Nom				Masc		Sing						
-Pfaundler	Pfaundler	Nom				Masc		Sing						
+Oberfinanzrat	Oberfinanzrat
+D.	D.
+Pfaundler	Pfaundler
 </p>
 <p>
-Staatsamt	Staatsamt	Nom				Neut		Sing						
-für	für													
-Innres	Innres	Acc				Neut		Sing						
-u.	u.													
-Unterricht	Unterricht	Nom				Masc		Sing						
+Staatsamt	Staatsamt
+für	für
+Innres	Innres
+u.	u.
+Unterricht	Unterricht
 <g/>
 :
 </p>
 <p>
-Ministerialrat	Ministerialrat	Nom				Masc		Sing						
-D.	D.	Nom				Masc		Sing						
-Trüger	Trüger	Nom				Masc		Sing						
+Ministerialrat	Ministerialrat
+D.	D.
+Trüger	Trüger
 </p>
 <p>
-Staatsamt	Staatsamt	Nom				Neut		Sing						
-für	für													
-Handel	Handel	Acc				Masc		Sing						
-etc.	etc.													
+Staatsamt	Staatsamt
+für	für
+Handel	Handel
+etc.	etc.
 <g/>
 :
 </p>
 <p>
-Ministerialrat	Ministerialrat	Nom				Masc		Sing						
-D	D													
-Pokorny	Pokorny	Nom				Masc		Sing						
+Ministerialrat	Ministerialrat
+D	D
+Pokorny	Pokorny
 </p>
 <p>
-Sektionsrat	Sektionsrat	Nom				Masc		Sing						
-D	D													
-Friedrich	Friedrich	Nom				Masc		Sing						
+Sektionsrat	Sektionsrat
+D	D
+Friedrich	Friedrich
 </p>
 <p>
-Staatskanzlei	Staatskanzlei	Nom				Fem		Sing						
+Staatskanzlei	Staatskanzlei
 <g/>
 :
 </p>
 <p>
-Ministerialrat	Ministerialrat	Nom				Masc		Sing						
-D	D													
-Froehlich	Froehlich	Nom				Masc		Sing						
+Ministerialrat	Ministerialrat
+D	D
+Froehlich	Froehlich
 </p>
 <p>
-Sektionsrat	Sektionsrat	Nom				Masc		Sing						
-D	D													
-Mannlicher	Mannlicher	Nom				Masc		Sing						
+Sektionsrat	Sektionsrat
+D	D
+Mannlicher	Mannlicher
 </p>
 <p>
-Experte	Experte	Nom				Masc		Sing						
+Experte	Experte
 <g/>
 :
 </p>
 <p>
-Professor	Professor	Nom				Masc		Sing						
-D	D	Nom				Masc		Sing						
-Kelsen	Kelsen	Nom				Masc		Sing						
+Professor	Professor
+D	D
+Kelsen	Kelsen
 <g/>
 .
-Protokoll	Protokoll	Nom				Neut		Sing						
-vom	von	Dat				Masc		Sing						
-27	27													
+Protokoll	Protokoll
+vom	von
+27	27
 <g/>
 /
-9	9													
-1920	1920													
+9	9
+1920	1920
 </p>
 <p>
-Beginn	Beginn	Nom				Masc		Sing						
-11	11													
+Beginn	Beginn
+11	11
 <g/>
 ¼
-Vormittag	Vormittag													
+Vormittag	Vormittag
 </p>
 <p>
-Vertreter	Vertreter	Nom				Masc		Plur						
-der	der	Gen	Def			Fem		Sing			Art			
-Staatskanzlei	Staatskanzlei	Gen				Fem		Sing						
-Hofrat	Hofrat	Nom				Masc		Sing						
-Fröhlich	Fröhlich	Nom				Masc		Sing						
-regt	regen						Ind	Sing	3				Pres	Fin
-an	an													
-einen	ein	Acc	Ind			Masc		Sing			Art			
-Beschluß	Beschluß	Acc				Masc		Sing						
-der	der	Gen	Def			Fem		Sing			Art			
-vorigen	vorig	Gen		Pos		Fem		Sing						
-Sitzung	Sitzung	Gen				Fem		Sing						
-über	über													
-die	der	Acc	Def			Fem		Sing			Art			
-Zusammentretung	Zusammentretung	Acc				Fem		Sing						
-der	der	Gen	Def			Fem		Plur			Art			
-Kurien	Kurie	Gen				Fem		Plur						
-aufzuheben	aufheben													Inf
+Vertreter	Vertreter
+der	der
+Staatskanzlei	Staatskanzlei
+Hofrat	Hofrat
+Fröhlich	Fröhlich
+regt	regen
+an	an
+einen	ein
+Beschluß	Beschluß
+der	der
+vorigen	vorig
+Sitzung	Sitzung
+über	über
+die	der
+Zusammentretung	Zusammentretung
+der	der
+Kurien	Kurie
+aufzuheben	aufheben
 <g/>
 .
-Beschlossen	Beschlossen													Part
+Beschlossen	Beschlossen
 </p>
 <p>
-Zweck	Zweck	Nom				Masc		Sing						
-Listung	Listung	Nom				Fem		Sing						
-des	der	Gen	Def			Neut		Sing			Art			
-Übergangsgesetzes	Übergangsgesetz	Gen				Neut		Sing						
+Zweck	Zweck
+Listung	Listung
+des	der
+Übergangsgesetzes	Übergangsgesetz
 </p>
 <p>
-Artikel	Artikel	Nom				Masc		Sing						
-3	3													
-Abs.	Abs.	Nom				Masc		Sing						
-II	II													
-regt	regen						Ind	Sing	3				Pres	Fin
-Staatsrat	Staatsrat	Acc				Masc		Sing						
-Fröhlich	Fröhlich	Acc						Sing						
-an	an													
-anstatt	anstatt													
-des	der	Gen	Def			Masc		Sing			Art			
-festen	fest	Gen		Pos		Masc		Sing						
-Turnus	Turnus	Gen				Masc		Sing						
-von	von													
-3	3													
-Jahren	Jahr	Dat				Neut		Plur						
-zu	zu													
-sagen	sagen													Inf
+Artikel	Artikel
+3	3
+Abs.	Abs.
+II	II
+regt	regen
+Staatsrat	Staatsrat
+Fröhlich	Fröhlich
+an	an
+anstatt	anstatt
+des	der
+festen	fest
+Turnus	Turnus
+von	von
+3	3
+Jahren	Jahr
+zu	zu
+sagen	sagen
 <g/>
 :
 <g/>
 „
-Von	von													
-dem	der	Dat	Def			Masc		Sing			Art			
-Zeitpunkt	Zeitpunkt	Dat				Masc		Sing						
-an	an													
+Von	von
+dem	der
+Zeitpunkt	Zeitpunkt
+an	an
 <g/>
 …
 <g/>
 “
-Beschlossen	Beschlossen													Part
+Beschlossen	Beschlossen
 </p>
 <p>
-Professor	Professor	Nom				Masc		Sing						
-Kelsen	Kelsen	Nom				Masc		Sing						
-schlägt	schlagen						Ind	Sing	3				Pres	Fin
-vor	vor													
-anstatt	anstatt													
+Professor	Professor
+Kelsen	Kelsen
+schlägt	schlagen
+vor	vor
+anstatt	anstatt
 <g/>
 „
-welche	welcher	Acc				Fem		Sing			Int			
+welche	welcher
 <g/>
 “
 <g/>
 „
-die	der	Nom						Plur			Dem			
+die	der
 <g/>
 “
-zu	zu													
-sagen	sagen													Inf
+zu	zu
+sagen	sagen
 </p>
 <p>
-Beschlossen	Beschlossen													Part
-nach	nach													
-Aufnahme	Aufnahme	Dat				Fem		Sing						
-durch	durch													
-die	der	Acc	Def			Masc		Plur			Art			
-Berichterstatter	Berichterstatter	Acc				Masc		Plur						
+Beschlossen	Beschlossen
+nach	nach
+Aufnahme	Aufnahme
+durch	durch
+die	der
+Berichterstatter	Berichterstatter
 </p>
 <p>
-Abs.	Abs.	Nom				Masc		Sing						
-5	5													
-Abg	Abg	Nom				Masc		Sing						
+Abs.	Abs.
+5	5
+Abg	Abg
 <g/>
 .
-Fink	Fink	Nom						Sing						
-wünscht	wünschen						Ind	Sing	3				Pres	Fin
-aufmerksam	aufmerksam			Pos										
-gemacht	machen													Part
-zu	zu													
-werden	werden													Inf
+Fink	Fink
+wünscht	wünschen
+aufmerksam	aufmerksam
+gemacht	machen
+zu	zu
+werden	werden
 <g/>
 ,
-wenn	wenn													
-bei	bei													
-einem	ein	Dat	Ind			Masc		Sing			Art			
-Artikel	Artikel	Dat				Masc		Sing						
-Aenderungen	Aenderung	Nom				Fem		Plur						
-gegen	gegen													
-den	der	Acc	Def			Masc		Sing			Art			
-letztensind	letztensind	Acc				Masc		Sing						
+wenn	wenn
+bei	bei
+einem	ein
+Artikel	Artikel
+Aenderungen	Aenderung
+gegen	gegen
+den	der
+letztensind	letztensind
 <g/>
 .
-Der	der	Nom	Def			Masc		Sing			Art			
-Obmann	Obmann	Nom				Masc		Sing						
-beantwortet	beantworten						Ind	Sing	3				Pres	Fin
-dass	dass													
-die	der	Nom	Def			Fem		Plur			Art			
-Aenderungen	Aenderung	Nom				Fem		Plur						
-bei	bei													
-Artikel	Artikel	Dat				Masc		Sing						
-4	4													
-schon	schon													
-in	in													
-letzter	letzter	Dat		Pos		Fem		Sing						
-Sitzung	Sitzung	Dat				Fem		Sing						
-beschlossen	beschließen													Part
-wurden	werden						Ind	Plur	3				Past	Fin
+Der	der
+Obmann	Obmann
+beantwortet	beantworten
+dass	dass
+die	der
+Aenderungen	Aenderung
+bei	bei
+Artikel	Artikel
+4	4
+schon	schon
+in	in
+letzter	letzter
+Sitzung	Sitzung
+beschlossen	beschließen
+wurden	werden
 <g/>
 .
-Hofrat	Hofrat	Nom				Masc		Sing						
-Fröhlich	Fröhlich	Nom				Masc		Sing						
-wird	werden						Ind	Sing	3				Pres	Fin
-gebeten	bitten													Part
+Hofrat	Hofrat
+Fröhlich	Fröhlich
+wird	werden
+gebeten	bitten
 <g/>
 ,
-im	in	Dat				Masc		Sing						
-Sinne	Sinn	Dat				Masc		Sing						
-Fink	Fink	Gen						Sing						
-zu	zu													
-handeln	handeln													Inf
+im	in
+Sinne	Sinn
+Fink	Fink
+zu	zu
+handeln	handeln
 <g/>
 .
 </p>
 <p>
-Artikel	Artikel	Nom				Masc		Sing						
-6	6													
-stilistische	stilistisch	Acc		Pos		Fem		Plur						
-Aenderungen	Aenderung	Acc				Fem		Plur						
+Artikel	Artikel
+6	6
+stilistische	stilistisch
+Aenderungen	Aenderung
 <g/>
 .
 </p>
 <p>
-Artikel	Artikel	Nom				Masc		Sing						
-7	7													
-Aenderung	Aenderung	Nom				Fem		Sing						
-nach	nach													
-den	der	Dat	Def			Neut		Plur			Art			
-Worten	Wort	Dat				Neut		Plur						
+Artikel	Artikel
+7	7
+Aenderung	Aenderung
+nach	nach
+den	der
+Worten	Wort
 <g/>
 :
 <g/>
 „
-der	der	Nom	Def			Masc		Sing			Art			
-Präsident	Präsident	Nom				Masc		Sing						
+der	der
+Präsident	Präsident
 <g/>
 “
 </p>
 <p>
-Artikel	Artikel	Nom				Masc		Sing						
-8	8													
-und	und													
-9	9													
+Artikel	Artikel
+8	8
+und	und
+9	9
 <g/>
 :
-neue	neu	Nom		Pos		Fem		Sing						
-Fassung	Fassung	Nom				Fem		Sing						
+neue	neu
+Fassung	Fassung
 <g/>
 .
-Ebenso	ebenso													
-Artikel	Artikel	Nom				Masc		Sing						
-10	10													
+Ebenso	ebenso
+Artikel	Artikel
+10	10
 </p>
 <p>
-Artikel	Artikel	Nom				Masc		Sing						
-11.	11.													
-Staatskanzlei	Staatskanzlei	Nom				Fem		Sing						
-schlägt	schlagen						Ind	Sing	3				Pres	Fin
-gemeinsam	gemeinsam			Pos										
-mit	mit													
-Unterrichtsamt	Unterrichtsamt	Dat				Neut		Sing						
-neue	neu	Acc		Pos		Fem		Sing						
-Fassung	Fassung	Acc				Fem		Sing						
-vor	vor													
-<g/>
-.
-</p>
-<p>
-Artikel	Artikel	Nom				Masc		Sing						
-13	13													
-Aenderung	Aenderung	Nom				Fem		Sing						
-des	der	Gen	Def			Masc		Sing			Art			
-II.	II.	Gen		Pos		Masc		Sing						
-Satzes	Satz	Gen				Masc		Sing						
+Artikel	Artikel
+11.	11.
+Staatskanzlei	Staatskanzlei
+schlägt	schlagen
+gemeinsam	gemeinsam
+mit	mit
+Unterrichtsamt	Unterrichtsamt
+neue	neu
+Fassung	Fassung
+vor	vor
 <g/>
 .
 </p>
 <p>
-Artikel	Artikel	Dat				Masc		Sing						
-16	16													
-														
-Herren	Herr	Nom				Masc		Plur						
-vom	von	Dat				Neut		Sing						
-Staatsamt	Staatsamt	Dat				Neut		Sing						
-														
-für	für													
-Handel	Handel	Acc				Masc		Sing						
-etc.	etc.													
-geladen	laden													Part
+Artikel	Artikel
+13	13
+Aenderung	Aenderung
+des	der
+II.	II.
+Satzes	Satz
+<g/>
+.
+</p>
+<p>
+Artikel	Artikel
+16	16
+	
+Herren	Herr
+vom	von
+Staatsamt	Staatsamt
+	
+für	für
+Handel	Handel
+etc.	etc.
+geladen	laden
 <g/>
 ,
-ob	ob													
-sie	sie	Nom				Masc		Plur	3		Prs			
-neue	neu	Acc		Pos		Fem		Sing						
-Fassung	Fassung	Acc				Fem		Sing						
-wünschen	wünschen						Ind	Plur	3				Pres	Fin
+ob	ob
+sie	sie
+neue	neu
+Fassung	Fassung
+wünschen	wünschen
 <g/>
 .
-Ist	sein						Ind	Sing	3				Pres	Fin
-nicht	nicht													
-der	der	Nom	Def			Masc		Sing			Art			
-Fall	Fall	Nom				Masc		Sing						
-<g/>
-.
-</p>
-<p>
-Artikel	Artikel	Nom				Masc		Sing						
-20	20													
-Schluß	Schluß	Nom				Masc		Sing						
-des	der	Gen	Def			Masc		Sing			Art			
-II	II													
-Absatzes	Absatz	Gen				Masc		Sing						
-wird	werden						Ind	Sing	3				Pres	Fin
-gestrichen	streichen													Part
-</p>
-<p>
-Artikel	Artikel	Nom				Masc		Sing						
-21	21													
-AntragWeiskirchnerWien	AntragWeiskirchnerWien	Nom				Masc		Sing						
-mit	mit													
-dem	der	Dat	Def			Masc		Sing			Art			
-Vorsitze	Vorsitz	Dat				Masc		Sing						
-zu	zu													
-betrauen	betrauen													Inf
-wird	werden						Ind	Sing	3				Pres	Fin
-angenommen	annehmen													Part
+Ist	sein
+nicht	nicht
+der	der
+Fall	Fall
 <g/>
 .
 </p>
 <p>
-Über	über													
-Vorschlag	Vorschlag	Acc				Masc		Sing						
-Kelsen	Kelsen	Nom						Sing						
-wird	werden						Ind	Sing	3				Pres	Fin
-beschlossen	beschließen													Part
+Artikel	Artikel
+20	20
+Schluß	Schluß
+des	der
+II	II
+Absatzes	Absatz
+wird	werden
+gestrichen	streichen
+</p>
+<p>
+Artikel	Artikel
+21	21
+AntragWeiskirchnerWien	AntragWeiskirchnerWien
+mit	mit
+dem	der
+Vorsitze	Vorsitz
+zu	zu
+betrauen	betrauen
+wird	werden
+angenommen	annehmen
+<g/>
+.
+</p>
+<p>
+Über	über
+Vorschlag	Vorschlag
+Kelsen	Kelsen
+wird	werden
+beschlossen	beschließen
 <g/>
 ,
-statt	statt													
+statt	statt
 <g/>
 „
-Zusammentritt	Zusammentritt	Dat				Masc		Sing						
+Zusammentritt	Zusammentritt
 <g/>
 “
-zusagen	zusagen													Inf
+zusagen	zusagen
 <g/>
 :
-Bundesrat	Bundesrat	Nom				Masc		Sing						
-versammelt	versammeln						Ind	Sing	3				Pres	Fin
-sich	sich	Acc						Sing	3		Prs	Yes		
+Bundesrat	Bundesrat
+versammelt	versammeln
+sich	sich
 <g/>
 “
 <g/>
 .
 </p>
 <p>
-22stilistische	22stilistisch	Nom		Pos		Fem		Sing						
-Aenderung	Aenderung	Nom				Fem		Sing						
-und	und													
+22stilistische	22stilistisch
+Aenderung	Aenderung
+und	und
 </p>
 <p>
-23	23													
-stilistisch	stilistisch			Pos										
+23	23
+stilistisch	stilistisch
 </p>
 <p>
-24	24													
-wird	werden						Ind	Sing	3				Pres	Fin
-beschlossen	beschließen													Part
+24	24
+wird	werden
+beschlossen	beschließen
 <g/>
 „
-ist	sein						Ind	Sing	3				Pres	Fin
-um	um													
-28	28													
-Tage	Tag	Acc				Masc		Plur						
-der	der	Gen	Def			Fem		Sing			Art			
-ersten	erster	Gen		Pos		Fem		Sing						
-Sitzung	Sitzung	Gen				Fem		Sing						
+ist	sein
+um	um
+28	28
+Tage	Tag
+der	der
+ersten	erster
+Sitzung	Sitzung
 <g/>
 “
 </p>
 <p>
-26nach	26nach													
-Beschluß	Beschluß	Dat				Masc		Sing						
-des	der	Gen	Def			Masc		Sing			Art			
-Ausschusses	Ausschuß	Gen				Masc		Sing						
+26nach	26nach
+Beschluß	Beschluß
+des	der
+Ausschusses	Ausschuß
 </p>
 <p>
-29.	29.													
-Das	der	Nom	Def			Neut		Sing			Art			
-Wort	Wort	Nom				Neut		Sing						
+29.	29.
+Das	der
+Wort	Wort
 <g/>
 „
-Landtag	Landtag	Nom				Masc		Sing						
+Landtag	Landtag
 <g/>
 “
-wird	werden						Ind	Sing	3				Pres	Fin
-gestrichen	streichen													Part
+wird	werden
+gestrichen	streichen
 </p>
 <p>
-30	30													
-statt	statt													
+30	30
+statt	statt
 <g/>
 „
-welche	welcher	Nom				Masc		Plur			Dem			
+welche	welcher
 <g/>
 “
 <g/>
 „
-die	der	Nom						Plur			Dem			
+die	der
 <g/>
 “
 </p>
 <p>
-31	31													
-im	in	Dat				Masc		Sing						
-Antrag	Antrag	Dat				Masc		Sing						
-Gürtler	Gürtler	Nom						Sing						
-beschlossen	beschließen													Part
+31	31
+im	in
+Antrag	Antrag
+Gürtler	Gürtler
+beschlossen	beschließen
 </p>
 <p>
-32	32													
-im	in	Dat				Masc		Sing						
-Sinne	Sinn	Dat				Masc		Sing						
-des	der	Gen	Def			Masc		Sing			Art			
-Ausschußes	Ausschuß	Gen				Masc		Sing						
-geändert	ändern													Part
+32	32
+im	in
+Sinne	Sinn
+des	der
+Ausschußes	Ausschuß
+geändert	ändern
 <g/>
 .
-Antrag	Antrag	Nom				Masc		Sing						
-Fink	Fink	Nom						Sing						
-zu	zu													
-Bestimmungen	Bestimmung	Dat				Fem		Plur						
-über	über													
-Bezüge	Bezug	Acc				Masc		Plur						
-des	der	Gen	Def			Masc		Sing			Art			
-Volksbeauftragten	Volksbeauftragter	Gen				Masc		Sing						
+Antrag	Antrag
+Fink	Fink
+zu	zu
+Bestimmungen	Bestimmung
+über	über
+Bezüge	Bezug
+des	der
+Volksbeauftragten	Volksbeauftragter
 </p>
 <p>
-33	33													
-wird	werden						Ind	Sing	3				Pres	Fin
-zurückgestellt	zurückstellen													Part
+33	33
+wird	werden
+zurückgestellt	zurückstellen
 </p>
 <p>
-34	34													
-Aenderung	Aenderung	Nom				Fem		Sing						
+34	34
+Aenderung	Aenderung
 <g/>
 :
-In	in													
-Wien	Wien	Dat				Neut		Sing						
-die	der	Nom	Def			Fem		Plur			Art			
-dort	dort													
-bestehenden	bestehend	Nom		Pos				Plur						
-Bezirksvertretungen	Bezirksvertretung	Nom				Fem		Plur						
-oder	oder													
-Ausschüsse	Ausschuß	Nom				Masc		Plur						
+In	in
+Wien	Wien
+die	der
+dort	dort
+bestehenden	bestehend
+Bezirksvertretungen	Bezirksvertretung
+oder	oder
+Ausschüsse	Ausschuß
 <g/>
 .
 </p>
 <p>
-Absatz	Absatz	Nom				Masc		Sing						
-3.	3.													
-Aenderungen	Aenderung	Nom				Fem		Plur						
-nach	nach													
-Auschußbeschluss	Auschußbeschluss	Dat				Masc		Sing						
+Absatz	Absatz
+3.	3.
+Aenderungen	Aenderung
+nach	nach
+Auschußbeschluss	Auschußbeschluss
 </p>
 <p>
-Absatz	Absatz	Nom				Masc		Sing						
-4.	4.													
-Sprengel	Sprengel	Nom				Masc		Sing						
-statt	statt													
-Bereich	Bereich	Dat				Masc		Sing						
+Absatz	Absatz
+4.	4.
+Sprengel	Sprengel
+statt	statt
+Bereich	Bereich
 </p>
 <p>
-Festsetzung	Festsetzung	Nom				Fem		Sing						
-über	über													
-Beginn	Beginn	Acc				Masc		Sing						
-der	der	Gen	Def			Masc		Plur			Art			
-4	4													
-MonateBGzurückgestellt	MonateBGzurückstellen													Part
+Festsetzung	Festsetzung
+über	über
+Beginn	Beginn
+der	der
+4	4
+MonateBGzurückgestellt	MonateBGzurückstellen
 </p>
 <p>
-41	41													
-neu	neu			Pos										
+41	41
+neu	neu
 <g/>
 :
-Sobald	sobald													
-die	der	Nom	Def			Fem		Sing			Art			
-am	an	Dat				Masc		Sing						
-17	17													
-Oktober	Oktober	Dat				Masc		Sing						
-gewählte	gewählt	Nom		Pos		Fem		Sing						
-Nationalver	Nationalver	Nom				Fem		Sing						
-.	.	Nom				Fem		Sing						
-einberufen	einberufen													Part
-ist	sein						Ind	Sing	3				Pres	Fin
+Sobald	sobald
+die	der
+am	an
+17	17
+Oktober	Oktober
+gewählte	gewählt
+Nationalver	Nationalver
+.	.
+einberufen	einberufen
+ist	sein
 </p>
 <p>
-Sitzung	Sitzung	Nom				Fem		Sing						
-wird	werden						Ind	Sing	3				Pres	Fin
-um	um													
-12	12													
+Sitzung	Sitzung
+wird	werden
+um	um
+12	12
 <g/>
 ½
-einberufen	einberufen													Part
-und	und													
-um	um													
-2	2													
-1	1													
+einberufen	einberufen
+und	und
+um	um
+2	2
+1	1
 <g/>
 /
-4	4													
-wird	werden						Ind	Sing	3				Pres	Fin
-aufgenommen	aufnehmen													Part
+4	4
+wird	werden
+aufgenommen	aufnehmen
 <g/>
 .
 </p>
 <p>
-Bindung	Bindung	Nom				Fem		Sing						
-über	über													
-Artikel	Artikel	Acc				Masc		Sing						
-42die	42die													
-Artikel10	Artikel10													
-bis	bis													
-13	13													
-und	und													
-15	15													
-werden	werden						Ind	Plur	3				Pres	Fin
-an	an													
-dem	der	Dat	Def			Masc		Sing			Art			
-Tag	Tag	Dat				Masc		Sing						
-wirksamersten	wirksamersten	Acc		Sup		Masc		Sing						
-Absatz	Absatz	Acc				Masc		Sing						
-Beschlossen	Beschlossen													Part
+Bindung	Bindung
+über	über
+Artikel	Artikel
+42die	42die
+Artikel10	Artikel10
+bis	bis
+13	13
+und	und
+15	15
+werden	werden
+an	an
+dem	der
+Tag	Tag
+wirksamersten	wirksamersten
+Absatz	Absatz
+Beschlossen	Beschlossen
 <g/>
 .
 </p>
 <p>
-Absatz	Absatz	Nom				Masc		Sing						
-3	3													
-einige	einiger	Acc				Neut		Plur			Ind			
-Worte	Wort	Acc				Neut		Plur						
-gestrichen	streichen													Part
+Absatz	Absatz
+3	3
+einige	einiger
+Worte	Wort
+gestrichen	streichen
 <g/>
 [
 <g/>
 ?
 <g/>
 ]
-4	4													
--	-													
-5	5													
-wird	werden						Ind	Sing	3				Pres	Fin
-gestrichen	streichen													Part
+4	4
+-	-
+5	5
+wird	werden
+gestrichen	streichen
 </p>
 <p>
 </p>
 <p>
-Abg	Abg	Nom				Masc		Sing						
+Abg	Abg
 <g/>
 .
-Kunschak	Kunschak	Nom						Sing						
-fragt	fragen						Ind	Sing	3				Pres	Fin
-an	an													
-über	über													
-Wortlaut	Wortlaut	Acc				Masc		Sing						
-Artikel	Artikel	Nom				Masc		Sing						
-9	9													
-x	x													
-betreffend	betreffend													
-Landesregierung	Landesregierung	Acc				Fem		Sing						
-und	und													
-Bürgermeister	Bürgermeister	Acc				Masc		Sing						
+Kunschak	Kunschak
+fragt	fragen
+an	an
+über	über
+Wortlaut	Wortlaut
+Artikel	Artikel
+9	9
+x	x
+betreffend	betreffend
+Landesregierung	Landesregierung
+und	und
+Bürgermeister	Bürgermeister
 <g/>
 .
-Neue	neu	Nom		Pos		Fem		Sing						
-FormulierungWird	FormulierungWird	Nom				Fem		Sing						
-beschlossen	beschließen													Part
-<g/>
-.
-</p>
-<p>
-Artikel	Artikel	Nom				Masc		Sing						
-91	91													
-Abs.	Abs.	Nom				Masc		Sing						
-3	3													
-gilt	gelten						Ind	Sing	3				Pres	Fin
-für	für													
-Wien	Wien	Acc				Neut		Sing						
-nicht	nicht													
-</p>
-<p>
-36	36													
-Abs.	Abs.	Nom				Masc		Sing						
-2	2													
-neue	neu	Nom		Pos		Fem		Sing						
-Fassung	Fassung	Nom				Fem		Sing						
-beschlossen	beschließen													Part
-</p>
-<p>
-Artikel	Artikel	Nom				Masc		Sing						
-38wird	38wird													
-geändert	ändern													Part
+Neue	neu
+FormulierungWird	FormulierungWird
+beschlossen	beschließen
 <g/>
 .
 </p>
 <p>
-Dr	Dr	Nom				Masc		Sing						
-Danneberg	Danneberg	Nom				Masc		Sing						
-regt	regen						Ind	Sing	3				Pres	Fin
-an	an													
-das	der	Acc	Def			Neut		Sing			Art			
-ganze	ganz	Acc		Pos		Neut		Sing						
-Gesetz	Gesetz	Acc				Neut		Sing						
-als	als													
-Verfassungsgesetz	Verfassungsgesetz	Acc				Neut		Sing						
-zu	zu													
-erklären	erklären													Inf
+Artikel	Artikel
+91	91
+Abs.	Abs.
+3	3
+gilt	gelten
+für	für
+Wien	Wien
+nicht	nicht
+</p>
+<p>
+36	36
+Abs.	Abs.
+2	2
+neue	neu
+Fassung	Fassung
+beschlossen	beschließen
+</p>
+<p>
+Artikel	Artikel
+38wird	38wird
+geändert	ändern
+<g/>
+.
+</p>
+<p>
+Dr	Dr
+Danneberg	Danneberg
+regt	regen
+an	an
+das	der
+ganze	ganz
+Gesetz	Gesetz
+als	als
+Verfassungsgesetz	Verfassungsgesetz
+zu	zu
+erklären	erklären
 <g/>
 !
-Wird	werden						Ind	Sing	3				Pres	Fin
-beschlossen	beschließen													Part
+Wird	werden
+beschlossen	beschließen
 </p>
 <p>
-Prof.	Prof.	Nom				Masc		Sing						
-Seipel	Seipel	Nom				Masc		Sing						
-erbittet	erbitten						Ind	Sing	3				Pres	Fin
-Ermächtigung	Ermächtigung	Acc				Fem		Sing						
+Prof.	Prof.
+Seipel	Seipel
+erbittet	erbitten
+Ermächtigung	Ermächtigung
 <g/>
 ,
-dass	dass													
-II	II													
-Absatz	Absatz	Nom				Masc		Sing						
-bei	bei													
-151	151													
-auszufallen	ausfallen													Inf
-hat	haben						Ind	Sing	3				Pres	Fin
+dass	dass
+II	II
+Absatz	Absatz
+bei	bei
+151	151
+auszufallen	ausfallen
+hat	haben
 <g/>
 .
-Beschlossen	Beschlossen													Part
+Beschlossen	Beschlossen
 </p>
 <p>
-Einigung	Einigung	Acc				Fem		Sing						
-beschlossen	beschließen													Part
+Einigung	Einigung
+beschlossen	beschließen
 <g/>
 .
 </p>
 <p>
-Bauer	Bauer	Nom						Sing						
-ObmannSchriftführerinPräsenzliste	ObmannSchriftführerinPräsenzliste	Nom				Fem		Sing						
-des	der	Gen	Def			Masc		Sing			Art			
-Verfassungs[-]Ausschusses	Verfassungs[-]Ausschusses	Gen				Masc		Sing						
-vom	von	Dat				Masc		Sing						
-27.	27.	Dat		Pos		Masc		Sing						
-September	September	Dat				Masc		Sing						
-1920	1920													
+Bauer	Bauer
+ObmannSchriftführerinPräsenzliste	ObmannSchriftführerinPräsenzliste
+des	der
+Verfassungs[-]Ausschusses	Verfassungs[-]Ausschusses
+vom	von
+27.	27.
+September	September
+1920	1920
 </p>
 <p>
-Seipel	Seipel	Nom						Sing						
-</p>
-<p>
-</p>
-<p>
-Rieger	Rieger	Nom				Masc		Sing						
-</p>
-<p>
-Danneberg	Danneberg	Nom				Neut		Sing						
+Seipel	Seipel
 </p>
 <p>
 </p>
 <p>
-Schlrigl	Schlrigl	Nom						Sing						
+Rieger	Rieger
 </p>
 <p>
-Schlesinger	Schlesinger	Nom				Masc		Sing						
+Danneberg	Danneberg
 </p>
 <p>
-Leutner	Leutner	Nom						Sing						
+</p>
+<p>
+Schlrigl	Schlrigl
+</p>
+<p>
+Schlesinger	Schlesinger
+</p>
+<p>
+Leutner	Leutner
 </p>
 <p>
 </p>

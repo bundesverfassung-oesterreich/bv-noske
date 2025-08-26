@@ -92,7 +92,7 @@
 <w pos="NOUN" lemma="Entwurf" ana="Case=Nom|Gender=Masc|Number=Sing">Entwurf</w><w pos="PROPN" lemma="Falser" ana="Case=Nom|Number=Sing">Falser</w></head>
             <head>
 <w pos="DET" lemma="der" ana="Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art">Die</w><w pos="NOUN" lemma="Verfassung" ana="Case=Nom|Gender=Fem|Number=Sing">Verfassung</w><w pos="DET" lemma="der" ana="Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art">des</w><w pos="NOUN" lemma="Bundesstaat" ana="Case=Gen|Gender=Masc|Number=Sing">Bundesstaates</w><w pos="PROPN" lemma="Oesterreich" ana="Case=Nom|Gender=Neut|Number=Sing">Oesterreich</w><pc pos="PUNCT">.</pc></head>
-            <div type="section">
+            <div type="section" xml:id="heading_section_3">
                <head>
 <w pos="NOUN" lemma="Artikel" ana="Case=Nom|Gender=Masc|Number=Sing">Artikel</w><w pos="NUM" lemma="1." ana="">1.</w></head>
                <p type="legal_section">
