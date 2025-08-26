@@ -32,7 +32,7 @@ source_elements_xpath = "|".join(
 def write_new_doc(xml_doc: TeiReader, docpath):
     docname = docpath.split("/")[-1].removesuffix(".xml") + "_pos.xml"
     new_docpath = f"{output_dir}/{docname}"
-    print(f"writing {new_docpath}")
+    # print(f"writing {new_docpath}")
     xml_doc.tree_to_file(
         new_docpath
     )
@@ -97,5 +97,6 @@ def tag_doc(docpath: str, source_elements_xpath: str):
 
 if __name__ == "__main__":
     xml_files = glob.glob(f"{editions_dir}/*.xml")
+    print(f"Tagging {len(xml_files)} files from {editions_dir}")
     for xml_file in tqdm(xml_files, total=len(xml_files)):
         tag_doc(xml_file, source_elements_xpath)

@@ -94,21 +94,32 @@
         <xsl:apply-templates mode="body"/>
     </xsl:template>
     <xsl:template match="tei:choice" mode="body">
+        <xsl:text> </xsl:text>
         <xsl:apply-templates mode="body"/>
+        <xsl:text> </xsl:text>
     </xsl:template>
     <xsl:template match="tei:corr" mode="body">
+        <xsl:text> </xsl:text>
         <xsl:apply-templates mode="body"/>
+        <xsl:text> </xsl:text>
     </xsl:template>
     <xsl:template match="tei:emph" mode="body">
+        <xsl:text> </xsl:text>
         <xsl:apply-templates mode="body"/>
+        <xsl:text> </xsl:text>
     </xsl:template>
     <xsl:template match="tei:add" mode="body">
+        <xsl:text> </xsl:text>
         <xsl:apply-templates mode="body"/>
+        <xsl:text> </xsl:text>
     </xsl:template>
     <xsl:template match="tei:item" mode="body">
+        <xsl:text> </xsl:text>
         <xsl:apply-templates mode="body"/>
+        <xsl:text> </xsl:text>
     </xsl:template>
     <xsl:template match="tei:label" mode="body">
+        <xsl:text> </xsl:text>
         <xsl:apply-templates mode="body"/>
         <xsl:text> </xsl:text>
     </xsl:template>
@@ -122,14 +133,13 @@
     <xsl:template match="tei:funder" mode="header"/>
     <xsl:template match="tei:respStmt" mode="header"/>
     <xsl:template match="tei:note" mode="body"/>
-    
     <!-- head ids handling -->
     <xsl:template name="get_id">
         <xsl:variable name="head_id">
             <xsl:value-of select="./tei:head/@xml:id"/>
         </xsl:variable>
         <xsl:if test="$head_id!=''">
-            <xsl:attribute name="xml:id" select="$head_id"/> 
+            <xsl:attribute name="xml:id" select="$head_id"/>
         </xsl:if>
     </xsl:template>
 </xsl:stylesheet>
